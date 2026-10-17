@@ -83,3 +83,8 @@ A SUPPORT verdict would mean the key's output has Sanskrit-specific phonotactics
 
 ## Stopping and amendments
 Fixed trial counts above; no additional shuffles or chains after seeing results. Any change before results goes in an Amendment section below with a reason. Runtime estimate: minutes, stdlib Python 3.9+.
+
+## Amendment 1 (17 October 2026, before any scoring run)
+**Change:** PC2's homophone target. Round 32's `build()` inflates to a fixed ~400 sign IDs, calibrated for a 919-word cipher. With the held-out half as cipher (1,674 tokens) that gives 366 IDs, i.e. 4.6 tokens per sign, three times sparser than the Indus corpus. PC2 now sets the target so that tokens per sign ID matches the kept Indus corpus (tokens ÷ sign types, computed from the data, expected ≈ 15 → ≈ 110 IDs). The round 32 fixed-400 geometry is still run and reported as **PC2b** but is not verdict-bearing.
+**Reason:** the protocol's stated purpose for PC2 is "Indus density"; the inherited constant did not deliver it. Discovered from the unit check of the builder (`PC2 texts 227 ids 366 tokens 1674`), before any score was computed.
+**Also noted:** collapsing Linear B syllable values to the shared alphabet merges 70 syllabograms into 63 values (a/a2, pu/pu2 …), so the "bijective" PC1 key is very slightly many-to-one. No change.
