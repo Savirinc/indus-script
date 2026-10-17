@@ -1,0 +1,2217 @@
+{
+  "input_hashes": {
+    "raw/inscriptions.csv": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+    "round14/dravlex/cldf/forms.csv": "60e2f6db0c85625b980df75dc25beb7b845f7b661a6a5ac7c22a91dbc1e3a955"
+  },
+  "raw_records": 5679,
+  "eligible_records": 3677,
+  "excluded_records": 2002,
+  "line_occurrences": 3759,
+  "unique_lines": 2276,
+  "unique_lines_no_repeated_sign": 2185,
+  "languages": {
+    "Badga": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2127,
+        "pattern_matches": 1882,
+        "coverage": 0.8268892794376098,
+        "mean_candidates_when_matched": 14.29489904357067,
+        "uniquely_matching_lines": 65,
+        "word_types": 97
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2127,
+        "pattern_matches": 1882,
+        "coverage": 0.8268892794376098,
+        "mean_candidates_when_matched": 14.297555791710947,
+        "uniquely_matching_lines": 64,
+        "word_types": 97
+      }
+    },
+    "Betta_Kurumba": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2151,
+        "pattern_matches": 2066,
+        "coverage": 0.9077328646748682,
+        "mean_candidates_when_matched": 15.080348499515972,
+        "uniquely_matching_lines": 108,
+        "word_types": 117
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2151,
+        "pattern_matches": 2068,
+        "coverage": 0.9086115992970123,
+        "mean_candidates_when_matched": 15.066731141199226,
+        "uniquely_matching_lines": 109,
+        "word_types": 117
+      }
+    },
+    "Brahui": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2269,
+        "pattern_matches": 2189,
+        "coverage": 0.9617750439367311,
+        "mean_candidates_when_matched": 12.473275468250343,
+        "uniquely_matching_lines": 340,
+        "word_types": 99
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2269,
+        "pattern_matches": 2189,
+        "coverage": 0.9617750439367311,
+        "mean_candidates_when_matched": 12.474189127455459,
+        "uniquely_matching_lines": 339,
+        "word_types": 99
+      }
+    },
+    "Gondi": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2020,
+        "pattern_matches": 1965,
+        "coverage": 0.8633567662565905,
+        "mean_candidates_when_matched": 14.340966921119593,
+        "uniquely_matching_lines": 148,
+        "word_types": 106
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2020,
+        "pattern_matches": 1965,
+        "coverage": 0.8633567662565905,
+        "mean_candidates_when_matched": 14.348091603053435,
+        "uniquely_matching_lines": 148,
+        "word_types": 106
+      }
+    },
+    "Kannada": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2219,
+        "pattern_matches": 2143,
+        "coverage": 0.9415641476274165,
+        "mean_candidates_when_matched": 12.343443770415305,
+        "uniquely_matching_lines": 547,
+        "word_types": 108
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2219,
+        "pattern_matches": 2139,
+        "coverage": 0.9398066783831283,
+        "mean_candidates_when_matched": 12.367461430575036,
+        "uniquely_matching_lines": 544,
+        "word_types": 108
+      }
+    },
+    "Kodava": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2127,
+        "pattern_matches": 2020,
+        "coverage": 0.8875219683655536,
+        "mean_candidates_when_matched": 13.078217821782179,
+        "uniquely_matching_lines": 574,
+        "word_types": 95
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2127,
+        "pattern_matches": 2018,
+        "coverage": 0.8866432337434095,
+        "mean_candidates_when_matched": 13.095143706640238,
+        "uniquely_matching_lines": 574,
+        "word_types": 95
+      }
+    },
+    "Kolami": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2131,
+        "pattern_matches": 2024,
+        "coverage": 0.8892794376098418,
+        "mean_candidates_when_matched": 12.421936758893281,
+        "uniquely_matching_lines": 151,
+        "word_types": 93
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2131,
+        "pattern_matches": 2025,
+        "coverage": 0.8897188049209139,
+        "mean_candidates_when_matched": 12.415802469135803,
+        "uniquely_matching_lines": 153,
+        "word_types": 93
+      }
+    },
+    "Kota": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2127,
+        "pattern_matches": 2022,
+        "coverage": 0.8884007029876977,
+        "mean_candidates_when_matched": 12.225024727992087,
+        "uniquely_matching_lines": 376,
+        "word_types": 89
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2127,
+        "pattern_matches": 2024,
+        "coverage": 0.8892794376098418,
+        "mean_candidates_when_matched": 12.214426877470355,
+        "uniquely_matching_lines": 377,
+        "word_types": 89
+      }
+    },
+    "Koya": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2147,
+        "pattern_matches": 2074,
+        "coverage": 0.9112478031634447,
+        "mean_candidates_when_matched": 13.474927675988429,
+        "uniquely_matching_lines": 255,
+        "word_types": 119
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2147,
+        "pattern_matches": 2072,
+        "coverage": 0.9103690685413005,
+        "mean_candidates_when_matched": 13.488899613899614,
+        "uniquely_matching_lines": 252,
+        "word_types": 119
+      }
+    },
+    "Kurukh": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2127,
+        "pattern_matches": 1972,
+        "coverage": 0.8664323374340949,
+        "mean_candidates_when_matched": 13.719066937119676,
+        "uniquely_matching_lines": 5,
+        "word_types": 99
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2127,
+        "pattern_matches": 1974,
+        "coverage": 0.867311072056239,
+        "mean_candidates_when_matched": 13.70516717325228,
+        "uniquely_matching_lines": 9,
+        "word_types": 99
+      }
+    },
+    "Kuwi": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2105,
+        "pattern_matches": 1976,
+        "coverage": 0.8681898066783831,
+        "mean_candidates_when_matched": 7.103744939271255,
+        "uniquely_matching_lines": 15,
+        "word_types": 66
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2105,
+        "pattern_matches": 1966,
+        "coverage": 0.8637961335676626,
+        "mean_candidates_when_matched": 7.135808748728382,
+        "uniquely_matching_lines": 6,
+        "word_types": 66
+      }
+    },
+    "Malayalam": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2199,
+        "pattern_matches": 2142,
+        "coverage": 0.9411247803163445,
+        "mean_candidates_when_matched": 10.930438842203548,
+        "uniquely_matching_lines": 213,
+        "word_types": 109
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2199,
+        "pattern_matches": 2141,
+        "coverage": 0.9406854130052724,
+        "mean_candidates_when_matched": 10.941616067258291,
+        "uniquely_matching_lines": 212,
+        "word_types": 109
+      }
+    },
+    "Malto": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 1784,
+        "pattern_matches": 1707,
+        "coverage": 0.75,
+        "mean_candidates_when_matched": 15.700644405389573,
+        "uniquely_matching_lines": 255,
+        "word_types": 111
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 1784,
+        "pattern_matches": 1699,
+        "coverage": 0.7464850615114236,
+        "mean_candidates_when_matched": 15.765155974102413,
+        "uniquely_matching_lines": 252,
+        "word_types": 111
+      }
+    },
+    "Ollari_Gadba": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 1923,
+        "pattern_matches": 1881,
+        "coverage": 0.8264499121265377,
+        "mean_candidates_when_matched": 8.396065922381712,
+        "uniquely_matching_lines": 66,
+        "word_types": 58
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 1923,
+        "pattern_matches": 1884,
+        "coverage": 0.827768014059754,
+        "mean_candidates_when_matched": 8.384288747346073,
+        "uniquely_matching_lines": 69,
+        "word_types": 58
+      }
+    },
+    "Parji": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2134,
+        "pattern_matches": 1930,
+        "coverage": 0.8479789103690686,
+        "mean_candidates_when_matched": 10.952331606217616,
+        "uniquely_matching_lines": 4,
+        "word_types": 60
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2134,
+        "pattern_matches": 1929,
+        "coverage": 0.8475395430579965,
+        "mean_candidates_when_matched": 10.957490927941938,
+        "uniquely_matching_lines": 3,
+        "word_types": 60
+      }
+    },
+    "Tamil": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2147,
+        "pattern_matches": 2065,
+        "coverage": 0.9072934973637962,
+        "mean_candidates_when_matched": 17.143825665859563,
+        "uniquely_matching_lines": 246,
+        "word_types": 133
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2147,
+        "pattern_matches": 2067,
+        "coverage": 0.9081722319859402,
+        "mean_candidates_when_matched": 17.130624092888244,
+        "uniquely_matching_lines": 247,
+        "word_types": 133
+      }
+    },
+    "Telugu": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2219,
+        "pattern_matches": 2003,
+        "coverage": 0.8800527240773286,
+        "mean_candidates_when_matched": 15.167748377433849,
+        "uniquely_matching_lines": 386,
+        "word_types": 128
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2219,
+        "pattern_matches": 2003,
+        "coverage": 0.8800527240773286,
+        "mean_candidates_when_matched": 15.17573639540689,
+        "uniquely_matching_lines": 386,
+        "word_types": 128
+      }
+    },
+    "Toda": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2147,
+        "pattern_matches": 1967,
+        "coverage": 0.8642355008787346,
+        "mean_candidates_when_matched": 14.533299440772751,
+        "uniquely_matching_lines": 10,
+        "word_types": 98
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2147,
+        "pattern_matches": 1967,
+        "coverage": 0.8642355008787346,
+        "mean_candidates_when_matched": 14.533299440772751,
+        "uniquely_matching_lines": 10,
+        "word_types": 98
+      }
+    },
+    "Tulu": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 1890,
+        "pattern_matches": 1567,
+        "coverage": 0.6884885764499121,
+        "mean_candidates_when_matched": 12.590938098276963,
+        "uniquely_matching_lines": 124,
+        "word_types": 90
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 1890,
+        "pattern_matches": 1566,
+        "coverage": 0.68804920913884,
+        "mean_candidates_when_matched": 12.60344827586207,
+        "uniquely_matching_lines": 121,
+        "word_types": 90
+      }
+    },
+    "Yeruva": {
+      "stored": {
+        "lines": 2276,
+        "length_supported": 2085,
+        "pattern_matches": 1970,
+        "coverage": 0.8655536028119508,
+        "mean_candidates_when_matched": 13.358883248730965,
+        "uniquely_matching_lines": 151,
+        "word_types": 94
+      },
+      "reversed": {
+        "lines": 2276,
+        "length_supported": 2085,
+        "pattern_matches": 1971,
+        "coverage": 0.8659929701230229,
+        "mean_candidates_when_matched": 13.357686453576864,
+        "uniquely_matching_lines": 150,
+        "word_types": 94
+      }
+    }
+  },
+  "tamil_shuffled": [
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.07573564881814,
+      "uniquely_matching_lines": 258,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2080,
+      "coverage": 0.9138840070298769,
+      "mean_candidates_when_matched": 17.021153846153847,
+      "uniquely_matching_lines": 266,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.093191694833415,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.046701974000964,
+      "uniquely_matching_lines": 258,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.09415741187832,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2082,
+      "coverage": 0.9147627416520211,
+      "mean_candidates_when_matched": 17.00864553314121,
+      "uniquely_matching_lines": 262,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.106763285024154,
+      "uniquely_matching_lines": 247,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.06798457087753,
+      "uniquely_matching_lines": 260,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2083,
+      "coverage": 0.9152021089630932,
+      "mean_candidates_when_matched": 17.00096015362458,
+      "uniquely_matching_lines": 263,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2067,
+      "coverage": 0.9081722319859402,
+      "mean_candidates_when_matched": 17.122883405902275,
+      "uniquely_matching_lines": 252,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.077665219488665,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.08007718282682,
+      "uniquely_matching_lines": 251,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.101932367149757,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.083011583011583,
+      "uniquely_matching_lines": 258,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2067,
+      "coverage": 0.9081722319859402,
+      "mean_candidates_when_matched": 17.126269956458636,
+      "uniquely_matching_lines": 245,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.039461020211743,
+      "uniquely_matching_lines": 258,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2068,
+      "coverage": 0.9086115992970123,
+      "mean_candidates_when_matched": 17.12282398452611,
+      "uniquely_matching_lines": 243,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.049109292248435,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08349420849421,
+      "uniquely_matching_lines": 259,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.079112397491556,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.10096618357488,
+      "uniquely_matching_lines": 252,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.098503138580394,
+      "uniquely_matching_lines": 251,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2079,
+      "coverage": 0.913444639718805,
+      "mean_candidates_when_matched": 17.03078403078403,
+      "uniquely_matching_lines": 261,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2080,
+      "coverage": 0.9138840070298769,
+      "mean_candidates_when_matched": 17.02451923076923,
+      "uniquely_matching_lines": 259,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.068466730954675,
+      "uniquely_matching_lines": 258,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.10096618357488,
+      "uniquely_matching_lines": 252,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.052986512524086,
+      "uniquely_matching_lines": 260,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.03657362848893,
+      "uniquely_matching_lines": 265,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.037054860442733,
+      "uniquely_matching_lines": 263,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.07039537126326,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.052986512524086,
+      "uniquely_matching_lines": 261,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.094640270400774,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.047183437650457,
+      "uniquely_matching_lines": 261,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.04525758305248,
+      "uniquely_matching_lines": 263,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.05055368319692,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.09222597778851,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.081041968162083,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2084,
+      "coverage": 0.9156414762741653,
+      "mean_candidates_when_matched": 16.99328214971209,
+      "uniquely_matching_lines": 264,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2082,
+      "coverage": 0.9147627416520211,
+      "mean_candidates_when_matched": 17.01104707012488,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.078147612156297,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2067,
+      "coverage": 0.9081722319859402,
+      "mean_candidates_when_matched": 17.12868892114175,
+      "uniquely_matching_lines": 246,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08542471042471,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.03657362848893,
+      "uniquely_matching_lines": 264,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.05635838150289,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.09705456301304,
+      "uniquely_matching_lines": 248,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.052504816955683,
+      "uniquely_matching_lines": 261,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2081,
+      "coverage": 0.914323374340949,
+      "mean_candidates_when_matched": 17.020663142719847,
+      "uniquely_matching_lines": 256,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08542471042471,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2069,
+      "coverage": 0.9090509666080844,
+      "mean_candidates_when_matched": 17.11164813919768,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.061686746987952,
+      "uniquely_matching_lines": 259,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.087355212355213,
+      "uniquely_matching_lines": 251,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2080,
+      "coverage": 0.9138840070298769,
+      "mean_candidates_when_matched": 17.02355769230769,
+      "uniquely_matching_lines": 265,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.064578313253012,
+      "uniquely_matching_lines": 251,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.092664092664094,
+      "uniquely_matching_lines": 242,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.076700434153402,
+      "uniquely_matching_lines": 259,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.083011583011583,
+      "uniquely_matching_lines": 258,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.103381642512076,
+      "uniquely_matching_lines": 248,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2081,
+      "coverage": 0.914323374340949,
+      "mean_candidates_when_matched": 17.01297453147525,
+      "uniquely_matching_lines": 268,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2066,
+      "coverage": 0.9077328646748682,
+      "mean_candidates_when_matched": 17.13359148112294,
+      "uniquely_matching_lines": 246,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.105797101449276,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.048146364949446,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2066,
+      "coverage": 0.9077328646748682,
+      "mean_candidates_when_matched": 17.13601161665053,
+      "uniquely_matching_lines": 240,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.06265060240964,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.101932367149757,
+      "uniquely_matching_lines": 252,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.050072219547424,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.095123128923227,
+      "uniquely_matching_lines": 252,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.086389961389962,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.077665219488665,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08542471042471,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.069913211186115,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08542471042471,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.096088845968133,
+      "uniquely_matching_lines": 246,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.064096385542168,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.103381642512076,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.04138594802695,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08542471042471,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.105314009661836,
+      "uniquely_matching_lines": 243,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2069,
+      "coverage": 0.9090509666080844,
+      "mean_candidates_when_matched": 17.111164813919768,
+      "uniquely_matching_lines": 245,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.077182826821034,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.096088845968133,
+      "uniquely_matching_lines": 246,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.079594790159188,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.079594790159188,
+      "uniquely_matching_lines": 251,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.106280193236714,
+      "uniquely_matching_lines": 244,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.06265060240964,
+      "uniquely_matching_lines": 256,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.075253256150507,
+      "uniquely_matching_lines": 259,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.06120481927711,
+      "uniquely_matching_lines": 260,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2066,
+      "coverage": 0.9077328646748682,
+      "mean_candidates_when_matched": 17.135043562439495,
+      "uniquely_matching_lines": 243,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.098503138580394,
+      "uniquely_matching_lines": 246,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.048627828598942,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.085907335907336,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.059277108433736,
+      "uniquely_matching_lines": 262,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.03897978825794,
+      "uniquely_matching_lines": 259,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2080,
+      "coverage": 0.9138840070298769,
+      "mean_candidates_when_matched": 17.02355769230769,
+      "uniquely_matching_lines": 263,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.084942084942085,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2084,
+      "coverage": 0.9156414762741653,
+      "mean_candidates_when_matched": 16.989923224568138,
+      "uniquely_matching_lines": 271,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.045739046701975,
+      "uniquely_matching_lines": 261,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.068466730954675,
+      "uniquely_matching_lines": 259,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.087355212355213,
+      "uniquely_matching_lines": 249,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2068,
+      "coverage": 0.9086115992970123,
+      "mean_candidates_when_matched": 17.11411992263056,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.038498556304138,
+      "uniquely_matching_lines": 261,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08976833976834,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.06313253012048,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.096088845968133,
+      "uniquely_matching_lines": 249,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.07280617164899,
+      "uniquely_matching_lines": 251,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.071359691417552,
+      "uniquely_matching_lines": 252,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.09903381642512,
+      "uniquely_matching_lines": 256,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.047664901299953,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.039461020211743,
+      "uniquely_matching_lines": 258,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08349420849421,
+      "uniquely_matching_lines": 259,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.091260260743603,
+      "uniquely_matching_lines": 256,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.092708836310962,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.069913211186115,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2080,
+      "coverage": 0.9138840070298769,
+      "mean_candidates_when_matched": 17.02355769230769,
+      "uniquely_matching_lines": 261,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08542471042471,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2069,
+      "coverage": 0.9090509666080844,
+      "mean_candidates_when_matched": 17.110198163363943,
+      "uniquely_matching_lines": 249,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.051541425818883,
+      "uniquely_matching_lines": 263,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.083976833976834,
+      "uniquely_matching_lines": 256,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2079,
+      "coverage": 0.913444639718805,
+      "mean_candidates_when_matched": 17.02982202982203,
+      "uniquely_matching_lines": 263,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2082,
+      "coverage": 0.9147627416520211,
+      "mean_candidates_when_matched": 17.005283381364073,
+      "uniquely_matching_lines": 269,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.086389961389962,
+      "uniquely_matching_lines": 251,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.065060240963856,
+      "uniquely_matching_lines": 251,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2080,
+      "coverage": 0.9138840070298769,
+      "mean_candidates_when_matched": 17.021153846153847,
+      "uniquely_matching_lines": 266,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.037054860442733,
+      "uniquely_matching_lines": 265,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.101932367149757,
+      "uniquely_matching_lines": 249,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2065,
+      "coverage": 0.9072934973637962,
+      "mean_candidates_when_matched": 17.139467312348668,
+      "uniquely_matching_lines": 249,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.039942252165545,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.041867179980752,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2068,
+      "coverage": 0.9086115992970123,
+      "mean_candidates_when_matched": 17.11798839458414,
+      "uniquely_matching_lines": 248,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.076700434153402,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.048627828598942,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2066,
+      "coverage": 0.9077328646748682,
+      "mean_candidates_when_matched": 17.130687318489837,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08542471042471,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.07232401157184,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2079,
+      "coverage": 0.913444639718805,
+      "mean_candidates_when_matched": 17.033670033670035,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.047664901299953,
+      "uniquely_matching_lines": 256,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.085907335907336,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.054431599229286,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.091743119266056,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.06024096385542,
+      "uniquely_matching_lines": 261,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.066506024096384,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.052504816955683,
+      "uniquely_matching_lines": 262,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.038498556304138,
+      "uniquely_matching_lines": 261,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.06024096385542,
+      "uniquely_matching_lines": 261,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2068,
+      "coverage": 0.9086115992970123,
+      "mean_candidates_when_matched": 17.11653771760155,
+      "uniquely_matching_lines": 249,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.09903381642512,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2066,
+      "coverage": 0.9077328646748682,
+      "mean_candidates_when_matched": 17.130687318489837,
+      "uniquely_matching_lines": 251,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08783783783784,
+      "uniquely_matching_lines": 248,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.083976833976834,
+      "uniquely_matching_lines": 256,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.087355212355213,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.101932367149757,
+      "uniquely_matching_lines": 249,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.06265060240964,
+      "uniquely_matching_lines": 256,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.054431599229286,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2069,
+      "coverage": 0.9090509666080844,
+      "mean_candidates_when_matched": 17.110681488641855,
+      "uniquely_matching_lines": 247,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.06120481927711,
+      "uniquely_matching_lines": 258,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.07232401157184,
+      "uniquely_matching_lines": 252,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.049109292248435,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.05055368319692,
+      "uniquely_matching_lines": 257,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2069,
+      "coverage": 0.9090509666080844,
+      "mean_candidates_when_matched": 17.10971483808603,
+      "uniquely_matching_lines": 249,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.05635838150289,
+      "uniquely_matching_lines": 256,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2068,
+      "coverage": 0.9086115992970123,
+      "mean_candidates_when_matched": 17.11605415860735,
+      "uniquely_matching_lines": 252,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.052023121387283,
+      "uniquely_matching_lines": 263,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2069,
+      "coverage": 0.9090509666080844,
+      "mean_candidates_when_matched": 17.112614789753504,
+      "uniquely_matching_lines": 248,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.08783783783784,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.071359691417552,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.069913211186115,
+      "uniquely_matching_lines": 258,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.052986512524086,
+      "uniquely_matching_lines": 260,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.10289855072464,
+      "uniquely_matching_lines": 248,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2076,
+      "coverage": 0.9121265377855887,
+      "mean_candidates_when_matched": 17.05587668593449,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2080,
+      "coverage": 0.9138840070298769,
+      "mean_candidates_when_matched": 17.022596153846155,
+      "uniquely_matching_lines": 263,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.10144927536232,
+      "uniquely_matching_lines": 252,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.07280617164899,
+      "uniquely_matching_lines": 252,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.078147612156297,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2064,
+      "coverage": 0.9068541300527241,
+      "mean_candidates_when_matched": 17.148255813953487,
+      "uniquely_matching_lines": 246,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.07232401157184,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2070,
+      "coverage": 0.9094903339191565,
+      "mean_candidates_when_matched": 17.105314009661836,
+      "uniquely_matching_lines": 244,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2068,
+      "coverage": 0.9086115992970123,
+      "mean_candidates_when_matched": 17.115570599613154,
+      "uniquely_matching_lines": 251,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2079,
+      "coverage": 0.913444639718805,
+      "mean_candidates_when_matched": 17.02982202982203,
+      "uniquely_matching_lines": 263,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.077182826821034,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.0994688556253,
+      "uniquely_matching_lines": 245,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.074288470815244,
+      "uniquely_matching_lines": 261,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.06120481927711,
+      "uniquely_matching_lines": 259,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2082,
+      "coverage": 0.9147627416520211,
+      "mean_candidates_when_matched": 17.008165225744477,
+      "uniquely_matching_lines": 263,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2066,
+      "coverage": 0.9077328646748682,
+      "mean_candidates_when_matched": 17.130687318489837,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.093674553355868,
+      "uniquely_matching_lines": 251,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2075,
+      "coverage": 0.9116871704745168,
+      "mean_candidates_when_matched": 17.066987951807228,
+      "uniquely_matching_lines": 253,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2066,
+      "coverage": 0.9077328646748682,
+      "mean_candidates_when_matched": 17.13359148112294,
+      "uniquely_matching_lines": 247,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.03897978825794,
+      "uniquely_matching_lines": 259,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2074,
+      "coverage": 0.9112478031634447,
+      "mean_candidates_when_matched": 17.07280617164899,
+      "uniquely_matching_lines": 249,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.04959075589793,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2069,
+      "coverage": 0.9090509666080844,
+      "mean_candidates_when_matched": 17.111164813919768,
+      "uniquely_matching_lines": 245,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2064,
+      "coverage": 0.9068541300527241,
+      "mean_candidates_when_matched": 17.15406976744186,
+      "uniquely_matching_lines": 241,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2067,
+      "coverage": 0.9081722319859402,
+      "mean_candidates_when_matched": 17.121915820029027,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.046701974000964,
+      "uniquely_matching_lines": 258,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2071,
+      "coverage": 0.9099297012302284,
+      "mean_candidates_when_matched": 17.09705456301304,
+      "uniquely_matching_lines": 250,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2077,
+      "coverage": 0.9125659050966608,
+      "mean_candidates_when_matched": 17.048627828598942,
+      "uniquely_matching_lines": 254,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.075253256150507,
+      "uniquely_matching_lines": 260,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2073,
+      "coverage": 0.9108084358523726,
+      "mean_candidates_when_matched": 17.078147612156297,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2081,
+      "coverage": 0.914323374340949,
+      "mean_candidates_when_matched": 17.016338298894762,
+      "uniquely_matching_lines": 264,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2078,
+      "coverage": 0.9130052724077329,
+      "mean_candidates_when_matched": 17.04379210779596,
+      "uniquely_matching_lines": 255,
+      "word_types": 133
+    },
+    {
+      "lines": 2276,
+      "length_supported": 2147,
+      "pattern_matches": 2072,
+      "coverage": 0.9103690685413005,
+      "mean_candidates_when_matched": 17.085907335907336,
+      "uniquely_matching_lines": 252,
+      "word_types": 133
+    }
+  ],
+  "interpretation": "Necessary local pattern compatibility only; no global key or translations inferred. Related languages and shuffled words are not language identification."
+}

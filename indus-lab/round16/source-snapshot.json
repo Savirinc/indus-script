@@ -1,0 +1,24 @@
+{
+  "audit_date": "2026-10-10",
+  "page_url": "https://dbourdeau.github.io/cyphersolver/indus.html",
+  "page_sha256": "246c47acee5e199ebce9f7cfec2ffe509e6dcde4ed6cc2e07fac1fcdac33d75f",
+  "repository": "https://github.com/dbourdeau/cyphersolver",
+  "commit": "843165c369a9c35658b1a7656860e06abd7a5de3",
+  "page_sets": 247,
+  "repository_last_completed_set": 349,
+  "set350": "script and registration present; no saved result inspected",
+  "images_inspected": [
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus_signs.jpg",
+      "kind": "font-rendered sign chart"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus_m414.jpg",
+      "kind": "catalogue artifact image; CISI1 p100 M414a"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus_tablets.jpg",
+      "kind": "font-rendered inscription chart with motif labels"
+    }
+  ]
+}

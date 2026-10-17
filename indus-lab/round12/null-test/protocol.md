@@ -1,0 +1,13 @@
+# Prespecified structural face-repairing null
+
+Written before extraction and fitting this test. Existing corpus and round11 results are already known; this is exploratory, not unseen confirmation.
+
+Include all ID stems whose every supplied face is complete, simple +numeric-hyphen+ text without000/999; require exactly one two-token face containing700 and031–038, at least one other face, internally consistent site/material/type and supplied row count matching reported sides. Exclude multiple target faces rather than selecting one. Preserve all remaining face strings as a sorted multiset, retaining duplicate strings. Match stored strings without inferring reading direction. Require known site/material/type (material normalized case only). No selection for varying contexts.
+
+Statistic: number of unordered pairs within the same site/material/type stratum that share both the entire remaining-face text multiset and the target stroke code. Higher values mean stronger concentration of a stroke code in repeated contexts. Report the denominator of same-context pairs. Repair target-to-other-face assignments by uniformly shuffling observed target codes within strata. Use999 draws, seed12026. Report only a conditional randomization reference; copied manufacture/collection and unverified object identities limit exchangeability and prevent population-level inference.
+
+Sensitivity: collapse to one context/stroke configuration per stratum (also removes identical alias copies). Its null must preserve unique configurations. Independently shuffle labels then accept only assignments with no duplicated context/code cell within any stratum. This is rejection sampling from uniform assignments conditional on observed margins and uniqueness. Request999 accepted draws with a fixed100000-attempt cap; if not achieved, withhold a calibrated sensitivity p-value. A constant statistic yields no discriminating result, not evidence for independence. Do not force inference from a degenerate null.
+
+The sensitivity's same-context/same-code statistic is necessarily zero after collapsing, so its null is degenerate by construction. This deliberate identifiability check shows why a naive copy-collapsed rerun of this particular statistic cannot validate the primary association. Do not replace the statistic after viewing results. If primary association exists but cannot survive this control meaningfully, next work requires independently identified production/alias clusters rather than more p-values.
+
+Quantity and category interpretations make no distinct predictions for this test. Whatever its result, it cannot discriminate their semantics.

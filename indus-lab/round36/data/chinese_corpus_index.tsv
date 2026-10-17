@@ -1,0 +1,1563 @@
+line	text	locator	script	n_chars
+1	shijing	国风/周南/关雎	simplified (as published in chinese-poetry)	80
+2	shijing	国风/周南/葛覃	simplified (as published in chinese-poetry)	72
+3	shijing	国风/周南/卷耳	simplified (as published in chinese-poetry)	70
+4	shijing	国风/周南/樛木	simplified (as published in chinese-poetry)	48
+5	shijing	国风/周南/螽斯	simplified (as published in chinese-poetry)	39
+6	shijing	国风/周南/桃夭	simplified (as published in chinese-poetry)	48
+7	shijing	国风/周南/兔罝	simplified (as published in chinese-poetry)	48
+8	shijing	国风/周南/芣苡	simplified (as published in chinese-poetry)	48
+9	shijing	国风/周南/汉广	simplified (as published in chinese-poetry)	96
+10	shijing	国风/周南/汝坟	simplified (as published in chinese-poetry)	48
+11	shijing	国风/周南/麟之趾	simplified (as published in chinese-poetry)	33
+12	shijing	国风/召南/鹊巢	simplified (as published in chinese-poetry)	48
+13	shijing	国风/召南/采蘩	simplified (as published in chinese-poetry)	48
+14	shijing	国风/召南/草虫	simplified (as published in chinese-poetry)	84
+15	shijing	国风/召南/采蘋	simplified (as published in chinese-poetry)	48
+16	shijing	国风/召南/甘棠	simplified (as published in chinese-poetry)	36
+17	shijing	国风/召南/行露	simplified (as published in chinese-poetry)	68
+18	shijing	国风/召南/羔羊	simplified (as published in chinese-poetry)	48
+19	shijing	国风/召南/殷其雷	simplified (as published in chinese-poetry)	72
+20	shijing	国风/召南/摽有梅	simplified (as published in chinese-poetry)	45
+21	shijing	国风/召南/小星	simplified (as published in chinese-poetry)	40
+22	shijing	国风/召南/江有汜	simplified (as published in chinese-poetry)	48
+23	shijing	国风/召南/野有死麕	simplified (as published in chinese-poetry)	47
+24	shijing	国风/召南/何彼襛矣	simplified (as published in chinese-poetry)	48
+25	shijing	国风/召南/驺虞	simplified (as published in chinese-poetry)	26
+26	shijing	国风/邶风/柏舟	simplified (as published in chinese-poetry)	120
+27	shijing	国风/邶风/绿衣	simplified (as published in chinese-poetry)	64
+28	shijing	国风/邶风/燕燕	simplified (as published in chinese-poetry)	96
+29	shijing	国风/邶风/日月	simplified (as published in chinese-poetry)	99
+30	shijing	国风/邶风/终风	simplified (as published in chinese-poetry)	64
+31	shijing	国风/邶风/击鼓	simplified (as published in chinese-poetry)	80
+32	shijing	国风/邶风/凯风	simplified (as published in chinese-poetry)	64
+33	shijing	国风/邶风/雄雉	simplified (as published in chinese-poetry)	64
+34	shijing	国风/邶风/匏有苦叶	simplified (as published in chinese-poetry)	64
+35	shijing	国风/邶风/谷风	simplified (as published in chinese-poetry)	194
+36	shijing	国风/邶风/式微	simplified (as published in chinese-poetry)	32
+37	shijing	国风/邶风/旄丘	simplified (as published in chinese-poetry)	66
+38	shijing	国风/邶风/简兮	simplified (as published in chinese-poetry)	71
+39	shijing	国风/邶风/泉水	simplified (as published in chinese-poetry)	97
+40	shijing	国风/邶风/北门	simplified (as published in chinese-poetry)	89
+41	shijing	国风/邶风/北风	simplified (as published in chinese-poetry)	72
+42	shijing	国风/邶风/静女	simplified (as published in chinese-poetry)	50
+43	shijing	国风/邶风/新台	simplified (as published in chinese-poetry)	48
+44	shijing	国风/邶风/二子乘舟	simplified (as published in chinese-poetry)	32
+45	shijing	国风/鄘风/柏舟	simplified (as published in chinese-poetry)	58
+46	shijing	国风/鄘风/墙有茨	simplified (as published in chinese-poetry)	69
+47	shijing	国风/鄘风/君子偕老	simplified (as published in chinese-poetry)	101
+48	shijing	国风/鄘风/桑中	simplified (as published in chinese-poetry)	99
+49	shijing	国风/鄘风/鹑之奔奔	simplified (as published in chinese-poetry)	32
+50	shijing	国风/鄘风/定之方中	simplified (as published in chinese-poetry)	84
+51	shijing	国风/鄘风/蝃蝀	simplified (as published in chinese-poetry)	51
+52	shijing	国风/鄘风/相鼠	simplified (as published in chinese-poetry)	48
+53	shijing	国风/鄘风/干旄	simplified (as published in chinese-poetry)	72
+54	shijing	国风/鄘风/载驰	simplified (as published in chinese-poetry)	113
+55	shijing	国风/卫风/淇奥	simplified (as published in chinese-poetry)	110
+56	shijing	国风/卫风/考槃	simplified (as published in chinese-poetry)	48
+57	shijing	国风/卫风/硕人	simplified (as published in chinese-poetry)	112
+58	shijing	国风/卫风/氓	simplified (as published in chinese-poetry)	240
+59	shijing	国风/卫风/竹竿	simplified (as published in chinese-poetry)	65
+60	shijing	国风/卫风/芄兰	simplified (as published in chinese-poetry)	48
+61	shijing	国风/卫风/河广	simplified (as published in chinese-poetry)	32
+62	shijing	国风/卫风/伯兮	simplified (as published in chinese-poetry)	64
+63	shijing	国风/卫风/有狐	simplified (as published in chinese-poetry)	48
+64	shijing	国风/卫风/木瓜	simplified (as published in chinese-poetry)	54
+65	shijing	国风/王风/黍离	simplified (as published in chinese-poetry)	117
+66	shijing	国风/王风/君子于役	simplified (as published in chinese-poetry)	64
+67	shijing	国风/王风/君子阳阳	simplified (as published in chinese-poetry)	32
+68	shijing	国风/王风/扬之水	simplified (as published in chinese-poetry)	78
+69	shijing	国风/王风/中谷有蓷	simplified (as published in chinese-poetry)	76
+70	shijing	国风/王风/兔爰	simplified (as published in chinese-poetry)	81
+71	shijing	国风/王风/葛藟	simplified (as published in chinese-poetry)	72
+72	shijing	国风/王风/采葛	simplified (as published in chinese-poetry)	36
+73	shijing	国风/王风/大车	simplified (as published in chinese-poetry)	48
+74	shijing	国风/王风/丘中有麻	simplified (as published in chinese-poetry)	49
+75	shijing	国风/郑风/缁衣	simplified (as published in chinese-poetry)	69
+76	shijing	国风/郑风/将仲子	simplified (as published in chinese-poetry)	100
+77	shijing	国风/郑风/叔于田	simplified (as published in chinese-poetry)	57
+78	shijing	国风/郑风/大叔于田	simplified (as published in chinese-poetry)	111
+79	shijing	国风/郑风/清人	simplified (as published in chinese-poetry)	50
+80	shijing	国风/郑风/羔裘	simplified (as published in chinese-poetry)	48
+81	shijing	国风/郑风/遵大路	simplified (as published in chinese-poetry)	36
+82	shijing	国风/郑风/女曰鸡鸣	simplified (as published in chinese-poetry)	78
+83	shijing	国风/郑风/有女同车	simplified (as published in chinese-poetry)	48
+84	shijing	国风/郑风/山有扶苏	simplified (as published in chinese-poetry)	32
+85	shijing	国风/郑风/萚兮	simplified (as published in chinese-poetry)	32
+86	shijing	国风/郑风/狡童	simplified (as published in chinese-poetry)	38
+87	shijing	国风/郑风/褰裳	simplified (as published in chinese-poetry)	44
+88	shijing	国风/郑风/丰	simplified (as published in chinese-poetry)	60
+89	shijing	国风/郑风/东门之墠	simplified (as published in chinese-poetry)	32
+90	shijing	国风/郑风/风雨	simplified (as published in chinese-poetry)	48
+91	shijing	国风/郑风/子衿	simplified (as published in chinese-poetry)	49
+92	shijing	国风/郑风/扬之水	simplified (as published in chinese-poetry)	48
+93	shijing	国风/郑风/出其东门	simplified (as published in chinese-poetry)	48
+94	shijing	国风/郑风/野有蔓草	simplified (as published in chinese-poetry)	48
+95	shijing	国风/郑风/溱洧	simplified (as published in chinese-poetry)	92
+96	shijing	国风/齐风/鸡鸣	simplified (as published in chinese-poetry)	51
+97	shijing	国风/齐风/还	simplified (as published in chinese-poetry)	69
+98	shijing	国风/齐风/着	simplified (as published in chinese-poetry)	57
+99	shijing	国风/齐风/东方之日	simplified (as published in chinese-poetry)	42
+100	shijing	国风/齐风/东方未明	simplified (as published in chinese-poetry)	48
+101	shijing	国风/齐风/南山	simplified (as published in chinese-poetry)	100
+102	shijing	国风/齐风/甫田	simplified (as published in chinese-poetry)	48
+103	shijing	国风/齐风/卢令	simplified (as published in chinese-poetry)	24
+104	shijing	国风/齐风/敝笱	simplified (as published in chinese-poetry)	48
+105	shijing	国风/齐风/载驱	simplified (as published in chinese-poetry)	64
+106	shijing	国风/齐风/猗嗟	simplified (as published in chinese-poetry)	72
+107	shijing	国风/魏风/葛屦	simplified (as published in chinese-poetry)	44
+108	shijing	国风/魏风/汾沮洳	simplified (as published in chinese-poetry)	69
+109	shijing	国风/魏风/园有桃	simplified (as published in chinese-poetry)	97
+110	shijing	国风/魏风/陟岵	simplified (as published in chinese-poetry)	81
+111	shijing	国风/魏风/十亩之间	simplified (as published in chinese-poetry)	30
+112	shijing	国风/魏风/伐檀	simplified (as published in chinese-poetry)	144
+113	shijing	国风/魏风/硕鼠	simplified (as published in chinese-poetry)	96
+114	shijing	国风/唐风/蟋蟀	simplified (as published in chinese-poetry)	96
+115	shijing	国风/唐风/山有枢	simplified (as published in chinese-poetry)	91
+116	shijing	国风/唐风/扬之水	simplified (as published in chinese-poetry)	62
+117	shijing	国风/唐风/椒聊	simplified (as published in chinese-poetry)	44
+118	shijing	国风/唐风/绸缪	simplified (as published in chinese-poetry)	75
+119	shijing	国风/唐风/杕杜	simplified (as published in chinese-poetry)	74
+120	shijing	国风/唐风/羔裘	simplified (as published in chinese-poetry)	34
+121	shijing	国风/唐风/鸨羽	simplified (as published in chinese-poetry)	87
+122	shijing	国风/唐风/无衣	simplified (as published in chinese-poetry)	30
+123	shijing	国风/唐风/有杕之杜	simplified (as published in chinese-poetry)	48
+124	shijing	国风/唐风/葛生	simplified (as published in chinese-poetry)	76
+125	shijing	国风/唐风/采苓	simplified (as published in chinese-poetry)	93
+126	shijing	国风/秦风/车邻	simplified (as published in chinese-poetry)	60
+127	shijing	国风/秦风/驷驖	simplified (as published in chinese-poetry)	48
+128	shijing	国风/秦风/小戎	simplified (as published in chinese-poetry)	121
+129	shijing	国风/秦风/蒹葭	simplified (as published in chinese-poetry)	99
+130	shijing	国风/秦风/终南	simplified (as published in chinese-poetry)	48
+131	shijing	国风/秦风/黄鸟	simplified (as published in chinese-poetry)	138
+132	shijing	国风/秦风/晨风	simplified (as published in chinese-poetry)	72
+133	shijing	国风/秦风/无衣	simplified (as published in chinese-poetry)	60
+134	shijing	国风/秦风/渭阳	simplified (as published in chinese-poetry)	32
+135	shijing	国风/秦风/权舆	simplified (as published in chinese-poetry)	40
+136	shijing	国风/陈风/宛丘	simplified (as published in chinese-poetry)	49
+137	shijing	国风/陈风/东门之枌	simplified (as published in chinese-poetry)	48
+138	shijing	国风/陈风/衡门	simplified (as published in chinese-poetry)	48
+139	shijing	国风/陈风/东门之池	simplified (as published in chinese-poetry)	48
+140	shijing	国风/陈风/东门之杨	simplified (as published in chinese-poetry)	32
+141	shijing	国风/陈风/墓门	simplified (as published in chinese-poetry)	48
+142	shijing	国风/陈风/防有鹊巢	simplified (as published in chinese-poetry)	32
+143	shijing	国风/陈风/月出	simplified (as published in chinese-poetry)	48
+144	shijing	国风/陈风/株林	simplified (as published in chinese-poetry)	31
+145	shijing	国风/陈风/泽陂	simplified (as published in chinese-poetry)	72
+146	shijing	国风/桧风/羔裘	simplified (as published in chinese-poetry)	48
+147	shijing	国风/桧风/素冠	simplified (as published in chinese-poetry)	47
+148	shijing	国风/桧风/隰有苌楚	simplified (as published in chinese-poetry)	51
+149	shijing	国风/桧风/匪风	simplified (as published in chinese-poetry)	48
+150	shijing	国风/曹风/蜉蝣	simplified (as published in chinese-poetry)	48
+151	shijing	国风/曹风/候人	simplified (as published in chinese-poetry)	64
+152	shijing	国风/曹风/鳲鸠	simplified (as published in chinese-poetry)	96
+153	shijing	国风/曹风/下泉	simplified (as published in chinese-poetry)	64
+154	shijing	国风/豳风/七月	simplified (as published in chinese-poetry)	383
+155	shijing	国风/豳风/鸱鸮	simplified (as published in chinese-poetry)	87
+156	shijing	国风/豳风/东山	simplified (as published in chinese-poetry)	193
+157	shijing	国风/豳风/破斧	simplified (as published in chinese-poetry)	72
+158	shijing	国风/豳风/伐柯	simplified (as published in chinese-poetry)	32
+159	shijing	国风/豳风/九罭	simplified (as published in chinese-poetry)	56
+160	shijing	国风/豳风/狼跋	simplified (as published in chinese-poetry)	32
+161	shijing	小雅/鹿鸣之什/鹿鸣	simplified (as published in chinese-poetry)	103
+162	shijing	小雅/鹿鸣之什/四牡	simplified (as published in chinese-poetry)	100
+163	shijing	小雅/鹿鸣之什/皇皇者华	simplified (as published in chinese-poetry)	80
+164	shijing	小雅/鹿鸣之什/棠棣	simplified (as published in chinese-poetry)	129
+165	shijing	小雅/鹿鸣之什/伐木	simplified (as published in chinese-poetry)	144
+166	shijing	小雅/鹿鸣之什/天保	simplified (as published in chinese-poetry)	148
+167	shijing	小雅/鹿鸣之什/采薇	simplified (as published in chinese-poetry)	192
+168	shijing	小雅/鹿鸣之什/出车	simplified (as published in chinese-poetry)	192
+169	shijing	小雅/鹿鸣之什/杕杜	simplified (as published in chinese-poetry)	112
+170	shijing	小雅/鹿鸣之什/鱼丽	simplified (as published in chinese-poetry)	63
+171	shijing	小雅/南有嘉鱼之什/南有嘉鱼	simplified (as published in chinese-poetry)	72
+172	shijing	小雅/南有嘉鱼之什/南山有台	simplified (as published in chinese-poetry)	120
+173	shijing	小雅/南有嘉鱼之什/蓼萧	simplified (as published in chinese-poetry)	98
+174	shijing	小雅/南有嘉鱼之什/湛露	simplified (as published in chinese-poetry)	64
+175	shijing	小雅/南有嘉鱼之什/彤弓	simplified (as published in chinese-poetry)	72
+176	shijing	小雅/南有嘉鱼之什/菁菁者莪	simplified (as published in chinese-poetry)	64
+177	shijing	小雅/南有嘉鱼之什/六月	simplified (as published in chinese-poetry)	192
+178	shijing	小雅/南有嘉鱼之什/采芑	simplified (as published in chinese-poetry)	192
+179	shijing	小雅/南有嘉鱼之什/车攻	simplified (as published in chinese-poetry)	128
+180	shijing	小雅/南有嘉鱼之什/吉日	simplified (as published in chinese-poetry)	96
+181	shijing	小雅/鸿雁之什/鸿雁	simplified (as published in chinese-poetry)	72
+182	shijing	小雅/鸿雁之什/庭燎	simplified (as published in chinese-poetry)	57
+183	shijing	小雅/鸿雁之什/沔水	simplified (as published in chinese-poetry)	88
+184	shijing	小雅/鸿雁之什/鹤鸣	simplified (as published in chinese-poetry)	74
+185	shijing	小雅/鸿雁之什/祈父	simplified (as published in chinese-poetry)	47
+186	shijing	小雅/鸿雁之什/白驹	simplified (as published in chinese-poetry)	97
+187	shijing	小雅/鸿雁之什/黄鸟	simplified (as published in chinese-poetry)	84
+188	shijing	小雅/鸿雁之什/我行其野	simplified (as published in chinese-poetry)	72
+189	shijing	小雅/鸿雁之什/斯干	simplified (as published in chinese-poetry)	214
+190	shijing	小雅/鸿雁之什/无羊	simplified (as published in chinese-poetry)	130
+191	shijing	小雅/节南山之什/节南山	simplified (as published in chinese-poetry)	258
+192	shijing	小雅/节南山之什/正月	simplified (as published in chinese-poetry)	382
+193	shijing	小雅/节南山之什/十月之交	simplified (as published in chinese-poetry)	263
+194	shijing	小雅/节南山之什/雨无正	simplified (as published in chinese-poetry)	224
+195	shijing	小雅/节南山之什/小旻	simplified (as published in chinese-poetry)	194
+196	shijing	小雅/节南山之什/小宛	simplified (as published in chinese-poetry)	145
+197	shijing	小雅/节南山之什/小弁	simplified (as published in chinese-poetry)	258
+198	shijing	小雅/节南山之什/巧言	simplified (as published in chinese-poetry)	193
+199	shijing	小雅/节南山之什/何人斯	simplified (as published in chinese-poetry)	193
+200	shijing	小雅/节南山之什/巷伯	simplified (as published in chinese-poetry)	140
+201	shijing	小雅/谷风之什/谷风	simplified (as published in chinese-poetry)	72
+202	shijing	小雅/谷风之什/蓼莪	simplified (as published in chinese-poetry)	130
+203	shijing	小雅/谷风之什/大东	simplified (as published in chinese-poetry)	227
+204	shijing	小雅/谷风之什/四月	simplified (as published in chinese-poetry)	128
+205	shijing	小雅/谷风之什/北山	simplified (as published in chinese-poetry)	133
+206	shijing	小雅/谷风之什/无将大车	simplified (as published in chinese-poetry)	48
+207	shijing	小雅/谷风之什/小明	simplified (as published in chinese-poetry)	192
+208	shijing	小雅/谷风之什/鼓钟	simplified (as published in chinese-poetry)	80
+209	shijing	小雅/谷风之什/楚茨	simplified (as published in chinese-poetry)	288
+210	shijing	小雅/谷风之什/信南山	simplified (as published in chinese-poetry)	145
+211	shijing	小雅/甫田之什/甫田	simplified (as published in chinese-poetry)	164
+212	shijing	小雅/甫田之什/大田	simplified (as published in chinese-poetry)	140
+213	shijing	小雅/甫田之什/瞻彼洛矣	simplified (as published in chinese-poetry)	72
+214	shijing	小雅/甫田之什/裳裳者华	simplified (as published in chinese-poetry)	101
+215	shijing	小雅/甫田之什/桑扈	simplified (as published in chinese-poetry)	64
+216	shijing	小雅/甫田之什/鸳鸯	simplified (as published in chinese-poetry)	64
+217	shijing	小雅/甫田之什/頍弁	simplified (as published in chinese-poetry)	144
+218	shijing	小雅/甫田之什/车舝	simplified (as published in chinese-poetry)	125
+219	shijing	小雅/甫田之什/青蝇	simplified (as published in chinese-poetry)	45
+220	shijing	小雅/甫田之什/宾之初筵	simplified (as published in chinese-poetry)	280
+221	shijing	小雅/鱼藻之什/鱼藻	simplified (as published in chinese-poetry)	48
+222	shijing	小雅/鱼藻之什/采菽	simplified (as published in chinese-poetry)	161
+223	shijing	小雅/鱼藻之什/角弓	simplified (as published in chinese-poetry)	132
+224	shijing	小雅/鱼藻之什/菀柳	simplified (as published in chinese-poetry)	72
+225	shijing	小雅/鱼藻之什/都人士	simplified (as published in chinese-poetry)	120
+226	shijing	小雅/鱼藻之什/采绿	simplified (as published in chinese-poetry)	64
+227	shijing	小雅/鱼藻之什/黍苗	simplified (as published in chinese-poetry)	80
+228	shijing	小雅/鱼藻之什/隰桑	simplified (as published in chinese-poetry)	64
+229	shijing	小雅/鱼藻之什/白华	simplified (as published in chinese-poetry)	128
+230	shijing	小雅/鱼藻之什/绵蛮	simplified (as published in chinese-poetry)	96
+231	shijing	小雅/鱼藻之什/瓠叶	simplified (as published in chinese-poetry)	64
+232	shijing	小雅/鱼藻之什/渐渐之石	simplified (as published in chinese-poetry)	72
+233	shijing	小雅/鱼藻之什/苕之华	simplified (as published in chinese-poetry)	46
+234	shijing	小雅/鱼藻之什/何草不黄	simplified (as published in chinese-poetry)	64
+235	shijing	大雅/文王之什/文王	simplified (as published in chinese-poetry)	228
+236	shijing	大雅/文王之什/大明	simplified (as published in chinese-poetry)	225
+237	shijing	大雅/文王之什/绵	simplified (as published in chinese-poetry)	224
+238	shijing	大雅/文王之什/棫朴	simplified (as published in chinese-poetry)	80
+239	shijing	大雅/文王之什/旱麓	simplified (as published in chinese-poetry)	96
+240	shijing	大雅/文王之什/思齐	simplified (as published in chinese-poetry)	101
+241	shijing	大雅/文王之什/皇矣	simplified (as published in chinese-poetry)	393
+242	shijing	大雅/文王之什/灵台	simplified (as published in chinese-poetry)	80
+243	shijing	大雅/文王之什/下武	simplified (as published in chinese-poetry)	96
+244	shijing	大雅/文王之什/文王有声	simplified (as published in chinese-poetry)	161
+245	shijing	大雅/生民之什/生民	simplified (as published in chinese-poetry)	296
+246	shijing	大雅/生民之什/行苇	simplified (as published in chinese-poetry)	131
+247	shijing	大雅/生民之什/既醉	simplified (as published in chinese-poetry)	129
+248	shijing	大雅/生民之什/凫鹥	simplified (as published in chinese-poetry)	130
+249	shijing	大雅/生民之什/假乐	simplified (as published in chinese-poetry)	96
+250	shijing	大雅/生民之什/公刘	simplified (as published in chinese-poetry)	234
+251	shijing	大雅/生民之什/泂酌	simplified (as published in chinese-poetry)	63
+252	shijing	大雅/生民之什/卷阿	simplified (as published in chinese-poetry)	232
+253	shijing	大雅/生民之什/民劳	simplified (as published in chinese-poetry)	200
+254	shijing	大雅/生民之什/板	simplified (as published in chinese-poetry)	259
+255	shijing	大雅/荡之什/荡	simplified (as published in chinese-poetry)	269
+256	shijing	大雅/荡之什/抑	simplified (as published in chinese-poetry)	469
+257	shijing	大雅/荡之什/桑柔	simplified (as published in chinese-poetry)	450
+258	shijing	大雅/荡之什/云汉	simplified (as published in chinese-poetry)	324
+259	shijing	大雅/荡之什/崧高	simplified (as published in chinese-poetry)	259
+260	shijing	大雅/荡之什/烝民	simplified (as published in chinese-poetry)	269
+261	shijing	大雅/荡之什/韩奕	simplified (as published in chinese-poetry)	290
+262	shijing	大雅/荡之什/江汉	simplified (as published in chinese-poetry)	193
+263	shijing	大雅/荡之什/常武	simplified (as published in chinese-poetry)	193
+264	shijing	大雅/荡之什/瞻卬	simplified (as published in chinese-poetry)	249
+265	shijing	大雅/荡之什/召旻	simplified (as published in chinese-poetry)	170
+266	shijing	周颂/清庙之什/清庙	simplified (as published in chinese-poetry)	34
+267	shijing	周颂/清庙之什/维天之命	simplified (as published in chinese-poetry)	35
+268	shijing	周颂/清庙之什/维清	simplified (as published in chinese-poetry)	18
+269	shijing	周颂/清庙之什/烈文	simplified (as published in chinese-poetry)	60
+270	shijing	周颂/清庙之什/天作	simplified (as published in chinese-poetry)	27
+271	shijing	周颂/清庙之什/昊天有成命	simplified (as published in chinese-poetry)	30
+272	shijing	周颂/清庙之什/我将	simplified (as published in chinese-poetry)	44
+273	shijing	周颂/清庙之什/时迈	simplified (as published in chinese-poetry)	62
+274	shijing	周颂/清庙之什/执竞	simplified (as published in chinese-poetry)	56
+275	shijing	周颂/清庙之什/思文	simplified (as published in chinese-poetry)	34
+276	shijing	周颂/臣工之什/臣工	simplified (as published in chinese-poetry)	60
+277	shijing	周颂/臣工之什/噫嘻	simplified (as published in chinese-poetry)	32
+278	shijing	周颂/臣工之什/振鹭	simplified (as published in chinese-poetry)	32
+279	shijing	周颂/臣工之什/丰年	simplified (as published in chinese-poetry)	30
+280	shijing	周颂/臣工之什/有瞽	simplified (as published in chinese-poetry)	52
+281	shijing	周颂/臣工之什/潜	simplified (as published in chinese-poetry)	24
+282	shijing	周颂/臣工之什/雝	simplified (as published in chinese-poetry)	64
+283	shijing	周颂/臣工之什/载见	simplified (as published in chinese-poetry)	58
+284	shijing	周颂/臣工之什/有客	simplified (as published in chinese-poetry)	48
+285	shijing	周颂/臣工之什/武	simplified (as published in chinese-poetry)	28
+286	shijing	周颂/闵予小子之什/闵予小子	simplified (as published in chinese-poetry)	45
+287	shijing	周颂/闵予小子之什/访落	simplified (as published in chinese-poetry)	50
+288	shijing	周颂/闵予小子之什/敬之	simplified (as published in chinese-poetry)	54
+289	shijing	周颂/闵予小子之什/小毖	simplified (as published in chinese-poetry)	34
+290	shijing	周颂/闵予小子之什/载芟	simplified (as published in chinese-poetry)	124
+291	shijing	周颂/闵予小子之什/良耜	simplified (as published in chinese-poetry)	92
+292	shijing	周颂/闵予小子之什/丝衣	simplified (as published in chinese-poetry)	36
+293	shijing	周颂/闵予小子之什/酌	simplified (as published in chinese-poetry)	35
+294	shijing	周颂/闵予小子之什/桓	simplified (as published in chinese-poetry)	34
+295	shijing	周颂/闵予小子之什/赉	simplified (as published in chinese-poetry)	25
+296	shijing	周颂/闵予小子之什/般	simplified (as published in chinese-poetry)	28
+297	shijing	鲁颂/駉之什/駉	simplified (as published in chinese-poetry)	124
+298	shijing	鲁颂/駉之什/有駜	simplified (as published in chinese-poetry)	98
+299	shijing	鲁颂/駉之什/泮水	simplified (as published in chinese-poetry)	257
+300	shijing	鲁颂/駉之什/閟宫	simplified (as published in chinese-poetry)	492
+301	shijing	商颂/那之什/那	simplified (as published in chinese-poetry)	88
+302	shijing	商颂/那之什/烈祖	simplified (as published in chinese-poetry)	89
+303	shijing	商颂/那之什/玄鸟	simplified (as published in chinese-poetry)	95
+304	shijing	商颂/那之什/长发	simplified (as published in chinese-poetry)	217
+305	shijing	商颂/那之什/殷武	simplified (as published in chinese-poetry)	153
+306	lunyu	学而篇#1	simplified (as published in chinese-poetry)	32
+307	lunyu	学而篇#2	simplified (as published in chinese-poetry)	48
+308	lunyu	学而篇#3	simplified (as published in chinese-poetry)	9
+309	lunyu	学而篇#4	simplified (as published in chinese-poetry)	28
+310	lunyu	学而篇#5	simplified (as published in chinese-poetry)	20
+311	lunyu	学而篇#6	simplified (as published in chinese-poetry)	27
+312	lunyu	学而篇#7	simplified (as published in chinese-poetry)	38
+313	lunyu	学而篇#8	simplified (as published in chinese-poetry)	27
+314	lunyu	学而篇#9	simplified (as published in chinese-poetry)	12
+315	lunyu	学而篇#10	simplified (as published in chinese-poetry)	53
+316	lunyu	学而篇#11	simplified (as published in chinese-poetry)	24
+317	lunyu	学而篇#12	simplified (as published in chinese-poetry)	38
+318	lunyu	学而篇#13	simplified (as published in chinese-poetry)	28
+319	lunyu	学而篇#14	simplified (as published in chinese-poetry)	31
+320	lunyu	学而篇#15	simplified (as published in chinese-poetry)	64
+321	lunyu	学而篇#16	simplified (as published in chinese-poetry)	14
+322	lunyu	为政篇#1	simplified (as published in chinese-poetry)	18
+323	lunyu	为政篇#2	simplified (as published in chinese-poetry)	14
+324	lunyu	为政篇#3	simplified (as published in chinese-poetry)	27
+325	lunyu	为政篇#4	simplified (as published in chinese-poetry)	40
+326	lunyu	为政篇#5	simplified (as published in chinese-poetry)	49
+327	lunyu	为政篇#6	simplified (as published in chinese-poetry)	14
+328	lunyu	为政篇#7	simplified (as published in chinese-poetry)	28
+329	lunyu	为政篇#8	simplified (as published in chinese-poetry)	27
+330	lunyu	为政篇#9	simplified (as published in chinese-poetry)	25
+331	lunyu	为政篇#10	simplified (as published in chinese-poetry)	22
+332	lunyu	为政篇#11	simplified (as published in chinese-poetry)	12
+333	lunyu	为政篇#12	simplified (as published in chinese-poetry)	6
+334	lunyu	为政篇#13	simplified (as published in chinese-poetry)	15
+335	lunyu	为政篇#14	simplified (as published in chinese-poetry)	14
+336	lunyu	为政篇#15	simplified (as published in chinese-poetry)	14
+337	lunyu	为政篇#16	simplified (as published in chinese-poetry)	10
+338	lunyu	为政篇#17	simplified (as published in chinese-poetry)	21
+339	lunyu	为政篇#18	simplified (as published in chinese-poetry)	40
+340	lunyu	为政篇#19	simplified (as published in chinese-poetry)	30
+341	lunyu	为政篇#20	simplified (as published in chinese-poetry)	33
+342	lunyu	为政篇#21	simplified (as published in chinese-poetry)	35
+343	lunyu	为政篇#22	simplified (as published in chinese-poetry)	25
+344	lunyu	为政篇#23	simplified (as published in chinese-poetry)	43
+345	lunyu	为政篇#24	simplified (as published in chinese-poetry)	17
+346	lunyu	八佾篇#1	simplified (as published in chinese-poetry)	19
+347	lunyu	八佾篇#2	simplified (as published in chinese-poetry)	23
+348	lunyu	八佾篇#3	simplified (as published in chinese-poetry)	16
+349	lunyu	八佾篇#4	simplified (as published in chinese-poetry)	25
+350	lunyu	八佾篇#5	simplified (as published in chinese-poetry)	14
+351	lunyu	八佾篇#6	simplified (as published in chinese-poetry)	33
+352	lunyu	八佾篇#7	simplified (as published in chinese-poetry)	23
+353	lunyu	八佾篇#8	simplified (as published in chinese-poetry)	44
+354	lunyu	八佾篇#9	simplified (as published in chinese-poetry)	37
+355	lunyu	八佾篇#10	simplified (as published in chinese-poetry)	15
+356	lunyu	八佾篇#11	simplified (as published in chinese-poetry)	28
+357	lunyu	八佾篇#12	simplified (as published in chinese-poetry)	17
+358	lunyu	八佾篇#13	simplified (as published in chinese-poetry)	29
+359	lunyu	八佾篇#14	simplified (as published in chinese-poetry)	15
+360	lunyu	八佾篇#15	simplified (as published in chinese-poetry)	31
+361	lunyu	八佾篇#16	simplified (as published in chinese-poetry)	15
+362	lunyu	八佾篇#17	simplified (as published in chinese-poetry)	21
+363	lunyu	八佾篇#18	simplified (as published in chinese-poetry)	11
+364	lunyu	八佾篇#19	simplified (as published in chinese-poetry)	26
+365	lunyu	八佾篇#20	simplified (as published in chinese-poetry)	12
+366	lunyu	八佾篇#21	simplified (as published in chinese-poetry)	45
+367	lunyu	八佾篇#22	simplified (as published in chinese-poetry)	71
+368	lunyu	八佾篇#23	simplified (as published in chinese-poetry)	30
+369	lunyu	八佾篇#24	simplified (as published in chinese-poetry)	50
+370	lunyu	八佾篇#25	simplified (as published in chinese-poetry)	19
+371	lunyu	八佾篇#26	simplified (as published in chinese-poetry)	20
+372	lunyu	里仁篇#1	simplified (as published in chinese-poetry)	13
+373	lunyu	里仁篇#2	simplified (as published in chinese-poetry)	25
+374	lunyu	里仁篇#3	simplified (as published in chinese-poetry)	11
+375	lunyu	里仁篇#4	simplified (as published in chinese-poetry)	10
+376	lunyu	里仁篇#5	simplified (as published in chinese-poetry)	65
+377	lunyu	里仁篇#6	simplified (as published in chinese-poetry)	62
+378	lunyu	里仁篇#7	simplified (as published in chinese-poetry)	16
+379	lunyu	里仁篇#8	simplified (as published in chinese-poetry)	9
+380	lunyu	里仁篇#9	simplified (as published in chinese-poetry)	18
+381	lunyu	里仁篇#10	simplified (as published in chinese-poetry)	19
+382	lunyu	里仁篇#11	simplified (as published in chinese-poetry)	18
+383	lunyu	里仁篇#12	simplified (as published in chinese-poetry)	9
+384	lunyu	里仁篇#13	simplified (as published in chinese-poetry)	21
+385	lunyu	里仁篇#14	simplified (as published in chinese-poetry)	20
+386	lunyu	里仁篇#15	simplified (as published in chinese-poetry)	35
+387	lunyu	里仁篇#16	simplified (as published in chinese-poetry)	12
+388	lunyu	里仁篇#17	simplified (as published in chinese-poetry)	15
+389	lunyu	里仁篇#18	simplified (as published in chinese-poetry)	19
+390	lunyu	里仁篇#19	simplified (as published in chinese-poetry)	12
+391	lunyu	里仁篇#20	simplified (as published in chinese-poetry)	14
+392	lunyu	里仁篇#21	simplified (as published in chinese-poetry)	19
+393	lunyu	里仁篇#22	simplified (as published in chinese-poetry)	14
+394	lunyu	里仁篇#23	simplified (as published in chinese-poetry)	9
+395	lunyu	里仁篇#24	simplified (as published in chinese-poetry)	12
+396	lunyu	里仁篇#25	simplified (as published in chinese-poetry)	8
+397	lunyu	里仁篇#26	simplified (as published in chinese-poetry)	15
+398	lunyu	公冶长篇#1	simplified (as published in chinese-poetry)	23
+399	lunyu	公冶长篇#2	simplified (as published in chinese-poetry)	23
+400	lunyu	公冶长篇#3	simplified (as published in chinese-poetry)	18
+401	lunyu	公冶长篇#4	simplified (as published in chinese-poetry)	21
+402	lunyu	公冶长篇#5	simplified (as published in chinese-poetry)	29
+403	lunyu	公冶长篇#6	simplified (as published in chinese-poetry)	16
+404	lunyu	公冶长篇#7	simplified (as published in chinese-poetry)	33
+405	lunyu	公冶长篇#8	simplified (as published in chinese-poetry)	86
+406	lunyu	公冶长篇#9	simplified (as published in chinese-poetry)	44
+407	lunyu	公冶长篇#10	simplified (as published in chinese-poetry)	56
+408	lunyu	公冶长篇#11	simplified (as published in chinese-poetry)	20
+409	lunyu	公冶长篇#12	simplified (as published in chinese-poetry)	28
+410	lunyu	公冶长篇#13	simplified (as published in chinese-poetry)	27
+411	lunyu	公冶长篇#14	simplified (as published in chinese-poetry)	12
+412	lunyu	公冶长篇#15	simplified (as published in chinese-poetry)	29
+413	lunyu	公冶长篇#16	simplified (as published in chinese-poetry)	31
+414	lunyu	公冶长篇#17	simplified (as published in chinese-poetry)	13
+415	lunyu	公冶长篇#18	simplified (as published in chinese-poetry)	16
+416	lunyu	公冶长篇#19	simplified (as published in chinese-poetry)	111
+417	lunyu	公冶长篇#20	simplified (as published in chinese-poetry)	16
+418	lunyu	公冶长篇#21	simplified (as published in chinese-poetry)	26
+419	lunyu	公冶长篇#22	simplified (as published in chinese-poetry)	25
+420	lunyu	公冶长篇#23	simplified (as published in chinese-poetry)	14
+421	lunyu	公冶长篇#24	simplified (as published in chinese-poetry)	19
+422	lunyu	公冶长篇#25	simplified (as published in chinese-poetry)	32
+423	lunyu	公冶长篇#26	simplified (as published in chinese-poetry)	62
+424	lunyu	公冶长篇#27	simplified (as published in chinese-poetry)	18
+425	lunyu	公冶长篇#28	simplified (as published in chinese-poetry)	21
+426	lunyu	雍也篇#1	simplified (as published in chinese-poetry)	8
+427	lunyu	雍也篇#2	simplified (as published in chinese-poetry)	44
+428	lunyu	雍也篇#3	simplified (as published in chinese-poetry)	41
+429	lunyu	雍也篇#4	simplified (as published in chinese-poetry)	54
+430	lunyu	雍也篇#5	simplified (as published in chinese-poetry)	22
+431	lunyu	雍也篇#6	simplified (as published in chinese-poetry)	21
+432	lunyu	雍也篇#7	simplified (as published in chinese-poetry)	21
+433	lunyu	雍也篇#8	simplified (as published in chinese-poetry)	61
+434	lunyu	雍也篇#9	simplified (as published in chinese-poetry)	30
+435	lunyu	雍也篇#10	simplified (as published in chinese-poetry)	34
+436	lunyu	雍也篇#11	simplified (as published in chinese-poetry)	30
+437	lunyu	雍也篇#12	simplified (as published in chinese-poetry)	26
+438	lunyu	雍也篇#13	simplified (as published in chinese-poetry)	15
+439	lunyu	雍也篇#14	simplified (as published in chinese-poetry)	36
+440	lunyu	雍也篇#15	simplified (as published in chinese-poetry)	25
+441	lunyu	雍也篇#16	simplified (as published in chinese-poetry)	22
+442	lunyu	雍也篇#17	simplified (as published in chinese-poetry)	14
+443	lunyu	雍也篇#18	simplified (as published in chinese-poetry)	20
+444	lunyu	雍也篇#19	simplified (as published in chinese-poetry)	14
+445	lunyu	雍也篇#20	simplified (as published in chinese-poetry)	18
+446	lunyu	雍也篇#21	simplified (as published in chinese-poetry)	21
+447	lunyu	雍也篇#22	simplified (as published in chinese-poetry)	34
+448	lunyu	雍也篇#23	simplified (as published in chinese-poetry)	22
+449	lunyu	雍也篇#24	simplified (as published in chinese-poetry)	14
+450	lunyu	雍也篇#25	simplified (as published in chinese-poetry)	9
+451	lunyu	雍也篇#26	simplified (as published in chinese-poetry)	41
+452	lunyu	雍也篇#27	simplified (as published in chinese-poetry)	19
+453	lunyu	雍也篇#28	simplified (as published in chinese-poetry)	23
+454	lunyu	雍也篇#29	simplified (as published in chinese-poetry)	16
+455	lunyu	雍也篇#30	simplified (as published in chinese-poetry)	61
+456	lunyu	述而篇#1	simplified (as published in chinese-poetry)	16
+457	lunyu	述而篇#2	simplified (as published in chinese-poetry)	19
+458	lunyu	述而篇#3	simplified (as published in chinese-poetry)	24
+459	lunyu	述而篇#4	simplified (as published in chinese-poetry)	12
+460	lunyu	述而篇#5	simplified (as published in chinese-poetry)	16
+461	lunyu	述而篇#6	simplified (as published in chinese-poetry)	14
+462	lunyu	述而篇#7	simplified (as published in chinese-poetry)	14
+463	lunyu	述而篇#8	simplified (as published in chinese-poetry)	22
+464	lunyu	述而篇#9	simplified (as published in chinese-poetry)	12
+465	lunyu	述而篇#10	simplified (as published in chinese-poetry)	8
+466	lunyu	述而篇#11	simplified (as published in chinese-poetry)	57
+467	lunyu	述而篇#12	simplified (as published in chinese-poetry)	24
+468	lunyu	述而篇#13	simplified (as published in chinese-poetry)	7
+469	lunyu	述而篇#14	simplified (as published in chinese-poetry)	21
+470	lunyu	述而篇#15	simplified (as published in chinese-poetry)	51
+471	lunyu	述而篇#16	simplified (as published in chinese-poetry)	29
+472	lunyu	述而篇#17	simplified (as published in chinese-poetry)	17
+473	lunyu	述而篇#18	simplified (as published in chinese-poetry)	12
+474	lunyu	述而篇#19	simplified (as published in chinese-poetry)	38
+475	lunyu	述而篇#20	simplified (as published in chinese-poetry)	17
+476	lunyu	述而篇#21	simplified (as published in chinese-poetry)	7
+477	lunyu	述而篇#22	simplified (as published in chinese-poetry)	24
+478	lunyu	述而篇#23	simplified (as published in chinese-poetry)	13
+479	lunyu	述而篇#24	simplified (as published in chinese-poetry)	28
+480	lunyu	述而篇#25	simplified (as published in chinese-poetry)	8
+481	lunyu	述而篇#26	simplified (as published in chinese-poetry)	55
+482	lunyu	述而篇#27	simplified (as published in chinese-poetry)	9
+483	lunyu	述而篇#28	simplified (as published in chinese-poetry)	32
+484	lunyu	述而篇#29	simplified (as published in chinese-poetry)	39
+485	lunyu	述而篇#30	simplified (as published in chinese-poetry)	13
+486	lunyu	述而篇#31	simplified (as published in chinese-poetry)	73
+487	lunyu	述而篇#32	simplified (as published in chinese-poetry)	14
+488	lunyu	述而篇#33	simplified (as published in chinese-poetry)	18
+489	lunyu	述而篇#34	simplified (as published in chinese-poetry)	38
+490	lunyu	述而篇#35	simplified (as published in chinese-poetry)	33
+491	lunyu	述而篇#36	simplified (as published in chinese-poetry)	16
+492	lunyu	述而篇#37	simplified (as published in chinese-poetry)	12
+493	lunyu	述而篇#38	simplified (as published in chinese-poetry)	11
+494	lunyu	泰伯篇#1	simplified (as published in chinese-poetry)	23
+495	lunyu	泰伯篇#2	simplified (as published in chinese-poetry)	44
+496	lunyu	泰伯篇#3	simplified (as published in chinese-poetry)	39
+497	lunyu	泰伯篇#4	simplified (as published in chinese-poetry)	68
+498	lunyu	泰伯篇#5	simplified (as published in chinese-poetry)	34
+499	lunyu	泰伯篇#6	simplified (as published in chinese-poetry)	33
+500	lunyu	泰伯篇#7	simplified (as published in chinese-poetry)	32
+501	lunyu	泰伯篇#8	simplified (as published in chinese-poetry)	11
+502	lunyu	泰伯篇#9	simplified (as published in chinese-poetry)	12
+503	lunyu	泰伯篇#10	simplified (as published in chinese-poetry)	18
+504	lunyu	泰伯篇#11	simplified (as published in chinese-poetry)	21
+505	lunyu	泰伯篇#12	simplified (as published in chinese-poetry)	13
+506	lunyu	泰伯篇#13	simplified (as published in chinese-poetry)	46
+507	lunyu	泰伯篇#14	simplified (as published in chinese-poetry)	10
+508	lunyu	泰伯篇#15	simplified (as published in chinese-poetry)	16
+509	lunyu	泰伯篇#16	simplified (as published in chinese-poetry)	20
+510	lunyu	泰伯篇#17	simplified (as published in chinese-poetry)	10
+511	lunyu	泰伯篇#18	simplified (as published in chinese-poetry)	16
+512	lunyu	泰伯篇#19	simplified (as published in chinese-poetry)	42
+513	lunyu	泰伯篇#20	simplified (as published in chinese-poetry)	65
+514	lunyu	泰伯篇#21	simplified (as published in chinese-poetry)	41
+515	lunyu	子罕篇#1	simplified (as published in chinese-poetry)	8
+516	lunyu	子罕篇#2	simplified (as published in chinese-poetry)	37
+517	lunyu	子罕篇#3	simplified (as published in chinese-poetry)	29
+518	lunyu	子罕篇#4	simplified (as published in chinese-poetry)	11
+519	lunyu	子罕篇#5	simplified (as published in chinese-poetry)	44
+520	lunyu	子罕篇#6	simplified (as published in chinese-poetry)	56
+521	lunyu	子罕篇#7	simplified (as published in chinese-poetry)	9
+522	lunyu	子罕篇#8	simplified (as published in chinese-poetry)	28
+523	lunyu	子罕篇#9	simplified (as published in chinese-poetry)	14
+524	lunyu	子罕篇#10	simplified (as published in chinese-poetry)	22
+525	lunyu	子罕篇#11	simplified (as published in chinese-poetry)	60
+526	lunyu	子罕篇#12	simplified (as published in chinese-poetry)	66
+527	lunyu	子罕篇#13	simplified (as published in chinese-poetry)	32
+528	lunyu	子罕篇#14	simplified (as published in chinese-poetry)	21
+529	lunyu	子罕篇#15	simplified (as published in chinese-poetry)	17
+530	lunyu	子罕篇#16	simplified (as published in chinese-poetry)	27
+531	lunyu	子罕篇#17	simplified (as published in chinese-poetry)	14
+532	lunyu	子罕篇#18	simplified (as published in chinese-poetry)	12
+533	lunyu	子罕篇#19	simplified (as published in chinese-poetry)	26
+534	lunyu	子罕篇#20	simplified (as published in chinese-poetry)	12
+535	lunyu	子罕篇#21	simplified (as published in chinese-poetry)	17
+536	lunyu	子罕篇#22	simplified (as published in chinese-poetry)	18
+537	lunyu	子罕篇#23	simplified (as published in chinese-poetry)	30
+538	lunyu	子罕篇#24	simplified (as published in chinese-poetry)	42
+539	lunyu	子罕篇#25	simplified (as published in chinese-poetry)	16
+540	lunyu	子罕篇#26	simplified (as published in chinese-poetry)	15
+541	lunyu	子罕篇#27	simplified (as published in chinese-poetry)	43
+542	lunyu	子罕篇#28	simplified (as published in chinese-poetry)	13
+543	lunyu	子罕篇#29	simplified (as published in chinese-poetry)	14
+544	lunyu	子罕篇#30	simplified (as published in chinese-poetry)	26
+545	lunyu	子罕篇#31	simplified (as published in chinese-poetry)	27
+546	lunyu	乡党篇#1	simplified (as published in chinese-poetry)	26
+547	lunyu	乡党篇#2	simplified (as published in chinese-poetry)	29
+548	lunyu	乡党篇#3	simplified (as published in chinese-poetry)	40
+549	lunyu	乡党篇#4	simplified (as published in chinese-poetry)	73
+550	lunyu	乡党篇#5	simplified (as published in chinese-poetry)	36
+551	lunyu	乡党篇#6	simplified (as published in chinese-poetry)	83
+552	lunyu	乡党篇#7	simplified (as published in chinese-poetry)	14
+553	lunyu	乡党篇#8	simplified (as published in chinese-poetry)	74
+554	lunyu	乡党篇#9	simplified (as published in chinese-poetry)	19
+555	lunyu	乡党篇#10	simplified (as published in chinese-poetry)	6
+556	lunyu	乡党篇#11	simplified (as published in chinese-poetry)	11
+557	lunyu	乡党篇#12	simplified (as published in chinese-poetry)	5
+558	lunyu	乡党篇#13	simplified (as published in chinese-poetry)	10
+559	lunyu	乡党篇#14	simplified (as published in chinese-poetry)	10
+560	lunyu	乡党篇#15	simplified (as published in chinese-poetry)	10
+561	lunyu	乡党篇#16	simplified (as published in chinese-poetry)	15
+562	lunyu	乡党篇#17	simplified (as published in chinese-poetry)	12
+563	lunyu	乡党篇#18	simplified (as published in chinese-poetry)	31
+564	lunyu	乡党篇#19	simplified (as published in chinese-poetry)	11
+565	lunyu	乡党篇#20	simplified (as published in chinese-poetry)	8
+566	lunyu	乡党篇#21	simplified (as published in chinese-poetry)	6
+567	lunyu	乡党篇#22	simplified (as published in chinese-poetry)	10
+568	lunyu	乡党篇#23	simplified (as published in chinese-poetry)	12
+569	lunyu	乡党篇#24	simplified (as published in chinese-poetry)	6
+570	lunyu	乡党篇#25	simplified (as published in chinese-poetry)	42
+571	lunyu	乡党篇#26	simplified (as published in chinese-poetry)	18
+572	lunyu	乡党篇#27	simplified (as published in chinese-poetry)	25
+573	lunyu	先进篇#1	simplified (as published in chinese-poetry)	26
+574	lunyu	先进篇#2	simplified (as published in chinese-poetry)	13
+575	lunyu	先进篇#3	simplified (as published in chinese-poetry)	30
+576	lunyu	先进篇#4	simplified (as published in chinese-poetry)	16
+577	lunyu	先进篇#5	simplified (as published in chinese-poetry)	18
+578	lunyu	先进篇#6	simplified (as published in chinese-poetry)	15
+579	lunyu	先进篇#7	simplified (as published in chinese-poetry)	30
+580	lunyu	先进篇#8	simplified (as published in chinese-poetry)	52
+581	lunyu	先进篇#9	simplified (as published in chinese-poetry)	12
+582	lunyu	先进篇#10	simplified (as published in chinese-poetry)	26
+583	lunyu	先进篇#11	simplified (as published in chinese-poetry)	42
+584	lunyu	先进篇#12	simplified (as published in chinese-poetry)	27
+585	lunyu	先进篇#13	simplified (as published in chinese-poetry)	32
+586	lunyu	先进篇#14	simplified (as published in chinese-poetry)	29
+587	lunyu	先进篇#15	simplified (as published in chinese-poetry)	29
+588	lunyu	先进篇#16	simplified (as published in chinese-poetry)	30
+589	lunyu	先进篇#17	simplified (as published in chinese-poetry)	32
+590	lunyu	先进篇#18	simplified (as published in chinese-poetry)	12
+591	lunyu	先进篇#19	simplified (as published in chinese-poetry)	21
+592	lunyu	先进篇#20	simplified (as published in chinese-poetry)	17
+593	lunyu	先进篇#21	simplified (as published in chinese-poetry)	14
+594	lunyu	先进篇#22	simplified (as published in chinese-poetry)	84
+595	lunyu	先进篇#23	simplified (as published in chinese-poetry)	22
+596	lunyu	先进篇#24	simplified (as published in chinese-poetry)	68
+597	lunyu	先进篇#25	simplified (as published in chinese-poetry)	42
+598	lunyu	先进篇#26	simplified (as published in chinese-poetry)	315
+599	lunyu	颜渊篇#1	simplified (as published in chinese-poetry)	69
+600	lunyu	颜渊篇#2	simplified (as published in chinese-poetry)	46
+601	lunyu	颜渊篇#3	simplified (as published in chinese-poetry)	35
+602	lunyu	颜渊篇#4	simplified (as published in chinese-poetry)	37
+603	lunyu	颜渊篇#5	simplified (as published in chinese-poetry)	57
+604	lunyu	颜渊篇#6	simplified (as published in chinese-poetry)	40
+605	lunyu	颜渊篇#7	simplified (as published in chinese-poetry)	60
+606	lunyu	颜渊篇#8	simplified (as published in chinese-poetry)	47
+607	lunyu	颜渊篇#9	simplified (as published in chinese-poetry)	52
+608	lunyu	颜渊篇#10	simplified (as published in chinese-poetry)	46
+609	lunyu	颜渊篇#11	simplified (as published in chinese-poetry)	46
+610	lunyu	颜渊篇#12	simplified (as published in chinese-poetry)	18
+611	lunyu	颜渊篇#13	simplified (as published in chinese-poetry)	14
+612	lunyu	颜渊篇#14	simplified (as published in chinese-poetry)	14
+613	lunyu	颜渊篇#15	simplified (as published in chinese-poetry)	17
+614	lunyu	颜渊篇#16	simplified (as published in chinese-poetry)	17
+615	lunyu	颜渊篇#17	simplified (as published in chinese-poetry)	24
+616	lunyu	颜渊篇#18	simplified (as published in chinese-poetry)	23
+617	lunyu	颜渊篇#19	simplified (as published in chinese-poetry)	52
+618	lunyu	颜渊篇#20	simplified (as published in chinese-poetry)	89
+619	lunyu	颜渊篇#21	simplified (as published in chinese-poetry)	57
+620	lunyu	颜渊篇#22	simplified (as published in chinese-poetry)	99
+621	lunyu	颜渊篇#23	simplified (as published in chinese-poetry)	20
+622	lunyu	颜渊篇#24	simplified (as published in chinese-poetry)	13
+623	lunyu	子路篇#1	simplified (as published in chinese-poetry)	15
+624	lunyu	子路篇#2	simplified (as published in chinese-poetry)	40
+625	lunyu	子路篇#3	simplified (as published in chinese-poetry)	119
+626	lunyu	子路篇#4	simplified (as published in chinese-poetry)	79
+627	lunyu	子路篇#5	simplified (as published in chinese-poetry)	26
+628	lunyu	子路篇#6	simplified (as published in chinese-poetry)	17
+629	lunyu	子路篇#7	simplified (as published in chinese-poetry)	9
+630	lunyu	子路篇#8	simplified (as published in chinese-poetry)	27
+631	lunyu	子路篇#9	simplified (as published in chinese-poetry)	35
+632	lunyu	子路篇#10	simplified (as published in chinese-poetry)	17
+633	lunyu	子路篇#11	simplified (as published in chinese-poetry)	21
+634	lunyu	子路篇#12	simplified (as published in chinese-poetry)	11
+635	lunyu	子路篇#13	simplified (as published in chinese-poetry)	22
+636	lunyu	子路篇#14	simplified (as published in chinese-poetry)	30
+637	lunyu	子路篇#15	simplified (as published in chinese-poetry)	120
+638	lunyu	子路篇#16	simplified (as published in chinese-poetry)	12
+639	lunyu	子路篇#17	simplified (as published in chinese-poetry)	30
+640	lunyu	子路篇#18	simplified (as published in chinese-poetry)	44
+641	lunyu	子路篇#19	simplified (as published in chinese-poetry)	23
+642	lunyu	子路篇#20	simplified (as published in chinese-poetry)	90
+643	lunyu	子路篇#21	simplified (as published in chinese-poetry)	25
+644	lunyu	子路篇#22	simplified (as published in chinese-poetry)	34
+645	lunyu	子路篇#23	simplified (as published in chinese-poetry)	14
+646	lunyu	子路篇#24	simplified (as published in chinese-poetry)	43
+647	lunyu	子路篇#25	simplified (as published in chinese-poetry)	49
+648	lunyu	子路篇#26	simplified (as published in chinese-poetry)	14
+649	lunyu	子路篇#27	simplified (as published in chinese-poetry)	8
+650	lunyu	子路篇#28	simplified (as published in chinese-poetry)	36
+651	lunyu	子路篇#29	simplified (as published in chinese-poetry)	14
+652	lunyu	子路篇#30	simplified (as published in chinese-poetry)	11
+653	lunyu	宪问篇#1	simplified (as published in chinese-poetry)	40
+654	lunyu	宪问篇#2	simplified (as published in chinese-poetry)	12
+655	lunyu	宪问篇#3	simplified (as published in chinese-poetry)	16
+656	lunyu	宪问篇#4	simplified (as published in chinese-poetry)	26
+657	lunyu	宪问篇#5	simplified (as published in chinese-poetry)	48
+658	lunyu	宪问篇#6	simplified (as published in chinese-poetry)	19
+659	lunyu	宪问篇#7	simplified (as published in chinese-poetry)	14
+660	lunyu	宪问篇#8	simplified (as published in chinese-poetry)	28
+661	lunyu	宪问篇#9	simplified (as published in chinese-poetry)	38
+662	lunyu	宪问篇#10	simplified (as published in chinese-poetry)	12
+663	lunyu	宪问篇#11	simplified (as published in chinese-poetry)	19
+664	lunyu	宪问篇#12	simplified (as published in chinese-poetry)	71
+665	lunyu	宪问篇#13	simplified (as published in chinese-poetry)	69
+666	lunyu	宪问篇#14	simplified (as published in chinese-poetry)	21
+667	lunyu	宪问篇#15	simplified (as published in chinese-poetry)	16
+668	lunyu	宪问篇#16	simplified (as published in chinese-poetry)	44
+669	lunyu	宪问篇#17	simplified (as published in chinese-poetry)	72
+670	lunyu	宪问篇#18	simplified (as published in chinese-poetry)	25
+671	lunyu	宪问篇#19	simplified (as published in chinese-poetry)	45
+672	lunyu	宪问篇#20	simplified (as published in chinese-poetry)	12
+673	lunyu	宪问篇#21	simplified (as published in chinese-poetry)	74
+674	lunyu	宪问篇#22	simplified (as published in chinese-poetry)	13
+675	lunyu	宪问篇#23	simplified (as published in chinese-poetry)	10
+676	lunyu	宪问篇#24	simplified (as published in chinese-poetry)	14
+677	lunyu	宪问篇#25	simplified (as published in chinese-poetry)	42
+678	lunyu	宪问篇#26	simplified (as published in chinese-poetry)	20
+679	lunyu	宪问篇#27	simplified (as published in chinese-poetry)	11
+680	lunyu	宪问篇#28	simplified (as published in chinese-poetry)	31
+681	lunyu	宪问篇#29	simplified (as published in chinese-poetry)	16
+682	lunyu	宪问篇#30	simplified (as published in chinese-poetry)	14
+683	lunyu	宪问篇#31	simplified (as published in chinese-poetry)	17
+684	lunyu	宪问篇#32	simplified (as published in chinese-poetry)	31
+685	lunyu	宪问篇#33	simplified (as published in chinese-poetry)	10
+686	lunyu	宪问篇#34	simplified (as published in chinese-poetry)	22
+687	lunyu	宪问篇#35	simplified (as published in chinese-poetry)	36
+688	lunyu	宪问篇#36	simplified (as published in chinese-poetry)	59
+689	lunyu	宪问篇#37	simplified (as published in chinese-poetry)	25
+690	lunyu	宪问篇#38	simplified (as published in chinese-poetry)	28
+691	lunyu	宪问篇#39	simplified (as published in chinese-poetry)	53
+692	lunyu	宪问篇#40	simplified (as published in chinese-poetry)	40
+693	lunyu	宪问篇#41	simplified (as published in chinese-poetry)	10
+694	lunyu	宪问篇#42	simplified (as published in chinese-poetry)	48
+695	lunyu	宪问篇#43	simplified (as published in chinese-poetry)	28
+696	lunyu	宪问篇#44	simplified (as published in chinese-poetry)	40
+697	lunyu	卫灵公篇#1	simplified (as published in chinese-poetry)	33
+698	lunyu	卫灵公篇#2	simplified (as published in chinese-poetry)	33
+699	lunyu	卫灵公篇#3	simplified (as published in chinese-poetry)	28
+700	lunyu	卫灵公篇#4	simplified (as published in chinese-poetry)	8
+701	lunyu	卫灵公篇#5	simplified (as published in chinese-poetry)	23
+702	lunyu	卫灵公篇#6	simplified (as published in chinese-poetry)	59
+703	lunyu	卫灵公篇#7	simplified (as published in chinese-poetry)	36
+704	lunyu	卫灵公篇#8	simplified (as published in chinese-poetry)	31
+705	lunyu	卫灵公篇#9	simplified (as published in chinese-poetry)	18
+706	lunyu	卫灵公篇#10	simplified (as published in chinese-poetry)	34
+707	lunyu	卫灵公篇#11	simplified (as published in chinese-poetry)	35
+708	lunyu	卫灵公篇#12	simplified (as published in chinese-poetry)	10
+709	lunyu	卫灵公篇#13	simplified (as published in chinese-poetry)	15
+710	lunyu	卫灵公篇#14	simplified (as published in chinese-poetry)	21
+711	lunyu	卫灵公篇#15	simplified (as published in chinese-poetry)	14
+712	lunyu	卫灵公篇#16	simplified (as published in chinese-poetry)	19
+713	lunyu	卫灵公篇#17	simplified (as published in chinese-poetry)	17
+714	lunyu	卫灵公篇#18	simplified (as published in chinese-poetry)	23
+715	lunyu	卫灵公篇#19	simplified (as published in chinese-poetry)	16
+716	lunyu	卫灵公篇#20	simplified (as published in chinese-poetry)	12
+717	lunyu	卫灵公篇#21	simplified (as published in chinese-poetry)	12
+718	lunyu	卫灵公篇#22	simplified (as published in chinese-poetry)	12
+719	lunyu	卫灵公篇#23	simplified (as published in chinese-poetry)	14
+720	lunyu	卫灵公篇#24	simplified (as published in chinese-poetry)	29
+721	lunyu	卫灵公篇#25	simplified (as published in chinese-poetry)	34
+722	lunyu	卫灵公篇#26	simplified (as published in chinese-poetry)	21
+723	lunyu	卫灵公篇#27	simplified (as published in chinese-poetry)	13
+724	lunyu	卫灵公篇#28	simplified (as published in chinese-poetry)	14
+725	lunyu	卫灵公篇#29	simplified (as published in chinese-poetry)	10
+726	lunyu	卫灵公篇#30	simplified (as published in chinese-poetry)	10
+727	lunyu	卫灵公篇#31	simplified (as published in chinese-poetry)	20
+728	lunyu	卫灵公篇#32	simplified (as published in chinese-poetry)	30
+729	lunyu	卫灵公篇#33	simplified (as published in chinese-poetry)	51
+730	lunyu	卫灵公篇#34	simplified (as published in chinese-poetry)	24
+731	lunyu	卫灵公篇#35	simplified (as published in chinese-poetry)	28
+732	lunyu	卫灵公篇#36	simplified (as published in chinese-poetry)	8
+733	lunyu	卫灵公篇#37	simplified (as published in chinese-poetry)	8
+734	lunyu	卫灵公篇#38	simplified (as published in chinese-poetry)	11
+735	lunyu	卫灵公篇#39	simplified (as published in chinese-poetry)	6
+736	lunyu	卫灵公篇#40	simplified (as published in chinese-poetry)	9
+737	lunyu	卫灵公篇#41	simplified (as published in chinese-poetry)	7
+738	lunyu	卫灵公篇#42	simplified (as published in chinese-poetry)	49
+739	lunyu	季氏篇#1	simplified (as published in chinese-poetry)	274
+740	lunyu	季氏篇#2	simplified (as published in chinese-poetry)	80
+741	lunyu	季氏篇#3	simplified (as published in chinese-poetry)	28
+742	lunyu	季氏篇#4	simplified (as published in chinese-poetry)	31
+743	lunyu	季氏篇#5	simplified (as published in chinese-poetry)	37
+744	lunyu	季氏篇#6	simplified (as published in chinese-poetry)	37
+745	lunyu	季氏篇#7	simplified (as published in chinese-poetry)	43
+746	lunyu	季氏篇#8	simplified (as published in chinese-poetry)	37
+747	lunyu	季氏篇#9	simplified (as published in chinese-poetry)	34
+748	lunyu	季氏篇#10	simplified (as published in chinese-poetry)	36
+749	lunyu	季氏篇#11	simplified (as published in chinese-poetry)	46
+750	lunyu	季氏篇#12	simplified (as published in chinese-poetry)	37
+751	lunyu	季氏篇#13	simplified (as published in chinese-poetry)	100
+752	lunyu	季氏篇#14	simplified (as published in chinese-poetry)	43
+753	lunyu	阳货篇#1	simplified (as published in chinese-poetry)	81
+754	lunyu	阳货篇#2	simplified (as published in chinese-poetry)	10
+755	lunyu	阳货篇#3	simplified (as published in chinese-poetry)	10
+756	lunyu	阳货篇#4	simplified (as published in chinese-poetry)	65
+757	lunyu	阳货篇#5	simplified (as published in chinese-poetry)	49
+758	lunyu	阳货篇#6	simplified (as published in chinese-poetry)	52
+759	lunyu	阳货篇#7	simplified (as published in chinese-poetry)	79
+760	lunyu	阳货篇#8	simplified (as published in chinese-poetry)	74
+761	lunyu	阳货篇#9	simplified (as published in chinese-poetry)	39
+762	lunyu	阳货篇#10	simplified (as published in chinese-poetry)	30
+763	lunyu	阳货篇#11	simplified (as published in chinese-poetry)	20
+764	lunyu	阳货篇#12	simplified (as published in chinese-poetry)	19
+765	lunyu	阳货篇#13	simplified (as published in chinese-poetry)	8
+766	lunyu	阳货篇#14	simplified (as published in chinese-poetry)	11
+767	lunyu	阳货篇#15	simplified (as published in chinese-poetry)	34
+768	lunyu	阳货篇#16	simplified (as published in chinese-poetry)	49
+769	lunyu	阳货篇#17	simplified (as published in chinese-poetry)	9
+770	lunyu	阳货篇#18	simplified (as published in chinese-poetry)	24
+771	lunyu	阳货篇#19	simplified (as published in chinese-poetry)	37
+772	lunyu	阳货篇#20	simplified (as published in chinese-poetry)	24
+773	lunyu	阳货篇#21	simplified (as published in chinese-poetry)	137
+774	lunyu	阳货篇#22	simplified (as published in chinese-poetry)	25
+775	lunyu	阳货篇#23	simplified (as published in chinese-poetry)	34
+776	lunyu	阳货篇#24	simplified (as published in chinese-poetry)	65
+777	lunyu	阳货篇#25	simplified (as published in chinese-poetry)	21
+778	lunyu	阳货篇#26	simplified (as published in chinese-poetry)	13
+779	lunyu	微子篇#1	simplified (as published in chinese-poetry)	22
+780	lunyu	微子篇#2	simplified (as published in chinese-poetry)	40
+781	lunyu	微子篇#3	simplified (as published in chinese-poetry)	32
+782	lunyu	微子篇#4	simplified (as published in chinese-poetry)	17
+783	lunyu	微子篇#5	simplified (as published in chinese-poetry)	55
+784	lunyu	微子篇#6	simplified (as published in chinese-poetry)	142
+785	lunyu	微子篇#7	simplified (as published in chinese-poetry)	134
+786	lunyu	微子篇#8	simplified (as published in chinese-poetry)	79
+787	lunyu	微子篇#9	simplified (as published in chinese-poetry)	41
+788	lunyu	微子篇#10	simplified (as published in chinese-poetry)	35
+789	lunyu	微子篇#11	simplified (as published in chinese-poetry)	20
+790	lunyu	子张篇#1	simplified (as published in chinese-poetry)	22
+791	lunyu	子张篇#2	simplified (as published in chinese-poetry)	19
+792	lunyu	子张篇#3	simplified (as published in chinese-poetry)	80
+793	lunyu	子张篇#4	simplified (as published in chinese-poetry)	23
+794	lunyu	子张篇#5	simplified (as published in chinese-poetry)	21
+795	lunyu	子张篇#6	simplified (as published in chinese-poetry)	18
+796	lunyu	子张篇#7	simplified (as published in chinese-poetry)	18
+797	lunyu	子张篇#8	simplified (as published in chinese-poetry)	10
+798	lunyu	子张篇#9	simplified (as published in chinese-poetry)	21
+799	lunyu	子张篇#10	simplified (as published in chinese-poetry)	31
+800	lunyu	子张篇#11	simplified (as published in chinese-poetry)	14
+801	lunyu	子张篇#12	simplified (as published in chinese-poetry)	78
+802	lunyu	子张篇#13	simplified (as published in chinese-poetry)	13
+803	lunyu	子张篇#14	simplified (as published in chinese-poetry)	9
+804	lunyu	子张篇#15	simplified (as published in chinese-poetry)	15
+805	lunyu	子张篇#16	simplified (as published in chinese-poetry)	14
+806	lunyu	子张篇#17	simplified (as published in chinese-poetry)	20
+807	lunyu	子张篇#18	simplified (as published in chinese-poetry)	33
+808	lunyu	子张篇#19	simplified (as published in chinese-poetry)	33
+809	lunyu	子张篇#20	simplified (as published in chinese-poetry)	28
+810	lunyu	子张篇#21	simplified (as published in chinese-poetry)	26
+811	lunyu	子张篇#22	simplified (as published in chinese-poetry)	59
+812	lunyu	子张篇#23	simplified (as published in chinese-poetry)	80
+813	lunyu	子张篇#24	simplified (as published in chinese-poetry)	61
+814	lunyu	子张篇#25	simplified (as published in chinese-poetry)	96
+815	lunyu	尧曰篇#1	simplified (as published in chinese-poetry)	152
+816	lunyu	尧曰篇#2	simplified (as published in chinese-poetry)	191
+817	lunyu	尧曰篇#3	simplified (as published in chinese-poetry)	27
+818	mengzi	梁惠王上#1	traditional	23
+819	mengzi	梁惠王上#2	traditional	129
+820	mengzi	梁惠王上#3	traditional	23
+821	mengzi	梁惠王上#4	traditional	142
+822	mengzi	梁惠王上#5	traditional	65
+823	mengzi	梁惠王上#6	traditional	48
+824	mengzi	梁惠王上#7	traditional	12
+825	mengzi	梁惠王上#8	traditional	182
+826	mengzi	梁惠王上#9	traditional	52
+827	mengzi	梁惠王上#10	traditional	10
+828	mengzi	梁惠王上#11	traditional	14
+829	mengzi	梁惠王上#12	traditional	5
+830	mengzi	梁惠王上#13	traditional	8
+831	mengzi	梁惠王上#14	traditional	5
+832	mengzi	梁惠王上#15	traditional	83
+833	mengzi	梁惠王上#16	traditional	57
+834	mengzi	梁惠王上#17	traditional	116
+835	mengzi	梁惠王上#18	traditional	39
+836	mengzi	梁惠王上#19	traditional	14
+837	mengzi	梁惠王上#20	traditional	102
+838	mengzi	梁惠王上#21	traditional	15
+839	mengzi	梁惠王上#22	traditional	32
+840	mengzi	梁惠王上#23	traditional	9
+841	mengzi	梁惠王上#24	traditional	10
+842	mengzi	梁惠王上#25	traditional	11
+843	mengzi	梁惠王上#26	traditional	2
+844	mengzi	梁惠王上#27	traditional	7
+845	mengzi	梁惠王上#28	traditional	71
+846	mengzi	梁惠王上#29	traditional	3
+847	mengzi	梁惠王上#30	traditional	23
+848	mengzi	梁惠王上#31	traditional	37
+849	mengzi	梁惠王上#32	traditional	37
+850	mengzi	梁惠王上#33	traditional	28
+851	mengzi	梁惠王上#34	traditional	46
+852	mengzi	梁惠王上#35	traditional	53
+853	mengzi	梁惠王上#36	traditional	39
+854	mengzi	梁惠王上#37	traditional	2
+855	mengzi	梁惠王上#38	traditional	63
+856	mengzi	梁惠王上#39	traditional	13
+857	mengzi	梁惠王上#40	traditional	205
+858	mengzi	梁惠王上#41	traditional	16
+859	mengzi	梁惠王上#42	traditional	15
+860	mengzi	梁惠王上#43	traditional	58
+861	mengzi	梁惠王上#44	traditional	7
+862	mengzi	梁惠王上#45	traditional	41
+863	mengzi	梁惠王上#46	traditional	7
+864	mengzi	梁惠王上#47	traditional	34
+865	mengzi	梁惠王上#48	traditional	5
+866	mengzi	梁惠王上#49	traditional	13
+867	mengzi	梁惠王上#50	traditional	4
+868	mengzi	梁惠王上#51	traditional	122
+869	mengzi	梁惠王上#52	traditional	28
+870	mengzi	梁惠王上#53	traditional	257
+871	mengzi	梁惠王下#1	traditional	27
+872	mengzi	梁惠王下#2	traditional	15
+873	mengzi	梁惠王下#3	traditional	38
+874	mengzi	梁惠王下#4	traditional	25
+875	mengzi	梁惠王下#5	traditional	15
+876	mengzi	梁惠王下#6	traditional	16
+877	mengzi	梁惠王下#7	traditional	122
+878	mengzi	梁惠王下#8	traditional	105
+879	mengzi	梁惠王下#9	traditional	15
+880	mengzi	梁惠王下#10	traditional	8
+881	mengzi	梁惠王下#11	traditional	6
+882	mengzi	梁惠王下#12	traditional	7
+883	mengzi	梁惠王下#13	traditional	16
+884	mengzi	梁惠王下#14	traditional	86
+885	mengzi	梁惠王下#15	traditional	11
+886	mengzi	梁惠王下#16	traditional	83
+887	mengzi	梁惠王下#17	traditional	14
+888	mengzi	梁惠王下#18	traditional	159
+889	mengzi	梁惠王下#19	traditional	18
+890	mengzi	梁惠王下#20	traditional	72
+891	mengzi	梁惠王下#21	traditional	263
+892	mengzi	梁惠王下#22	traditional	16
+893	mengzi	梁惠王下#23	traditional	23
+894	mengzi	梁惠王下#24	traditional	8
+895	mengzi	梁惠王下#25	traditional	89
+896	mengzi	梁惠王下#26	traditional	6
+897	mengzi	梁惠王下#27	traditional	10
+898	mengzi	梁惠王下#28	traditional	10
+899	mengzi	梁惠王下#29	traditional	71
+900	mengzi	梁惠王下#30	traditional	10
+901	mengzi	梁惠王下#31	traditional	62
+902	mengzi	梁惠王下#32	traditional	37
+903	mengzi	梁惠王下#33	traditional	4
+904	mengzi	梁惠王下#34	traditional	11
+905	mengzi	梁惠王下#35	traditional	4
+906	mengzi	梁惠王下#36	traditional	11
+907	mengzi	梁惠王下#37	traditional	7
+908	mengzi	梁惠王下#38	traditional	42
+909	mengzi	梁惠王下#39	traditional	12
+910	mengzi	梁惠王下#40	traditional	141
+911	mengzi	梁惠王下#41	traditional	14
+912	mengzi	梁惠王下#42	traditional	8
+913	mengzi	梁惠王下#43	traditional	7
+914	mengzi	梁惠王下#44	traditional	32
+915	mengzi	梁惠王下#45	traditional	116
+916	mengzi	梁惠王下#46	traditional	53
+917	mengzi	梁惠王下#47	traditional	84
+918	mengzi	梁惠王下#48	traditional	27
+919	mengzi	梁惠王下#49	traditional	101
+920	mengzi	梁惠王下#50	traditional	106
+921	mengzi	梁惠王下#51	traditional	49
+922	mengzi	梁惠王下#52	traditional	92
+923	mengzi	梁惠王下#53	traditional	19
+924	mengzi	梁惠王下#54	traditional	41
+925	mengzi	梁惠王下#55	traditional	18
+926	mengzi	梁惠王下#56	traditional	71
+927	mengzi	梁惠王下#57	traditional	25
+928	mengzi	梁惠王下#58	traditional	140
+929	mengzi	梁惠王下#59	traditional	83
+930	mengzi	梁惠王下#60	traditional	80
+931	mengzi	梁惠王下#61	traditional	66
+932	mengzi	公孫丑上#1	traditional	21
+933	mengzi	公孫丑上#2	traditional	115
+934	mengzi	公孫丑上#3	traditional	22
+935	mengzi	公孫丑上#4	traditional	8
+936	mengzi	公孫丑上#5	traditional	50
+937	mengzi	公孫丑上#6	traditional	143
+938	mengzi	公孫丑上#7	traditional	151
+939	mengzi	公孫丑上#8	traditional	31
+940	mengzi	公孫丑上#9	traditional	10
+941	mengzi	公孫丑上#10	traditional	11
+942	mengzi	公孫丑上#11	traditional	11
+943	mengzi	公孫丑上#12	traditional	7
+944	mengzi	公孫丑上#13	traditional	196
+945	mengzi	公孫丑上#14	traditional	20
+946	mengzi	公孫丑上#15	traditional	65
+947	mengzi	公孫丑上#16	traditional	20
+948	mengzi	公孫丑上#17	traditional	26
+949	mengzi	公孫丑上#18	traditional	7
+950	mengzi	公孫丑上#19	traditional	12
+951	mengzi	公孫丑上#20	traditional	8
+952	mengzi	公孫丑上#21	traditional	172
+953	mengzi	公孫丑上#22	traditional	4
+954	mengzi	公孫丑上#23	traditional	50
+955	mengzi	公孫丑上#24	traditional	39
+956	mengzi	公孫丑上#25	traditional	68
+957	mengzi	公孫丑上#26	traditional	33
+958	mengzi	公孫丑上#27	traditional	4
+959	mengzi	公孫丑上#28	traditional	7
+960	mengzi	公孫丑上#29	traditional	82
+961	mengzi	公孫丑上#30	traditional	11
+962	mengzi	公孫丑上#31	traditional	13
+963	mengzi	公孫丑上#32	traditional	6
+964	mengzi	公孫丑上#33	traditional	38
+965	mengzi	公孫丑上#34	traditional	7
+966	mengzi	公孫丑上#35	traditional	138
+967	mengzi	公孫丑上#36	traditional	86
+968	mengzi	公孫丑上#37	traditional	160
+969	mengzi	公孫丑上#38	traditional	168
+970	mengzi	公孫丑上#39	traditional	255
+971	mengzi	公孫丑上#40	traditional	137
+972	mengzi	公孫丑上#41	traditional	77
+973	mengzi	公孫丑上#42	traditional	178
+974	mengzi	公孫丑上#43	traditional	20
+975	mengzi	公孫丑下#1	traditional	165
+976	mengzi	公孫丑下#2	traditional	48
+977	mengzi	公孫丑下#3	traditional	37
+978	mengzi	公孫丑下#4	traditional	56
+979	mengzi	公孫丑下#5	traditional	48
+980	mengzi	公孫丑下#6	traditional	66
+981	mengzi	公孫丑下#7	traditional	41
+982	mengzi	公孫丑下#8	traditional	215
+983	mengzi	公孫丑下#9	traditional	67
+984	mengzi	公孫丑下#10	traditional	78
+985	mengzi	公孫丑下#11	traditional	27
+986	mengzi	公孫丑下#12	traditional	4
+987	mengzi	公孫丑下#13	traditional	35
+988	mengzi	公孫丑下#14	traditional	10
+989	mengzi	公孫丑下#15	traditional	44
+990	mengzi	公孫丑下#16	traditional	8
+991	mengzi	公孫丑下#17	traditional	37
+992	mengzi	公孫丑下#18	traditional	33
+993	mengzi	公孫丑下#19	traditional	33
+994	mengzi	公孫丑下#20	traditional	52
+995	mengzi	公孫丑下#21	traditional	38
+996	mengzi	公孫丑下#22	traditional	31
+997	mengzi	公孫丑下#23	traditional	10
+998	mengzi	公孫丑下#24	traditional	13
+999	mengzi	公孫丑下#25	traditional	33
+1000	mengzi	公孫丑下#26	traditional	93
+1001	mengzi	公孫丑下#27	traditional	11
+1002	mengzi	公孫丑下#28	traditional	62
+1003	mengzi	公孫丑下#29	traditional	13
+1004	mengzi	公孫丑下#30	traditional	92
+1005	mengzi	公孫丑下#31	traditional	11
+1006	mengzi	公孫丑下#32	traditional	18
+1007	mengzi	公孫丑下#33	traditional	7
+1008	mengzi	公孫丑下#34	traditional	49
+1009	mengzi	公孫丑下#35	traditional	10
+1010	mengzi	公孫丑下#36	traditional	5
+1011	mengzi	公孫丑下#37	traditional	14
+1012	mengzi	公孫丑下#38	traditional	2
+1013	mengzi	公孫丑下#39	traditional	11
+1014	mengzi	公孫丑下#40	traditional	4
+1015	mengzi	公孫丑下#41	traditional	8
+1016	mengzi	公孫丑下#42	traditional	71
+1017	mengzi	公孫丑下#43	traditional	54
+1018	mengzi	公孫丑下#44	traditional	39
+1019	mengzi	公孫丑下#45	traditional	152
+1020	mengzi	公孫丑下#46	traditional	7
+1021	mengzi	公孫丑下#47	traditional	40
+1022	mengzi	公孫丑下#48	traditional	61
+1023	mengzi	公孫丑下#49	traditional	61
+1024	mengzi	公孫丑下#50	traditional	152
+1025	mengzi	公孫丑下#51	traditional	10
+1026	mengzi	公孫丑下#52	traditional	33
+1027	mengzi	公孫丑下#53	traditional	77
+1028	mengzi	公孫丑下#54	traditional	6
+1029	mengzi	公孫丑下#55	traditional	14
+1030	mengzi	公孫丑下#56	traditional	37
+1031	mengzi	滕文公上#1	traditional	25
+1032	mengzi	滕文公上#2	traditional	104
+1033	mengzi	滕文公上#3	traditional	45
+1034	mengzi	滕文公上#4	traditional	82
+1035	mengzi	滕文公上#5	traditional	100
+1036	mengzi	滕文公上#6	traditional	81
+1037	mengzi	滕文公上#7	traditional	48
+1038	mengzi	滕文公上#8	traditional	118
+1039	mengzi	滕文公上#9	traditional	162
+1040	mengzi	滕文公上#10	traditional	92
+1041	mengzi	滕文公上#11	traditional	211
+1042	mengzi	滕文公上#12	traditional	56
+1043	mengzi	滕文公上#13	traditional	51
+1044	mengzi	滕文公上#14	traditional	56
+1045	mengzi	滕文公上#15	traditional	14
+1046	mengzi	滕文公上#16	traditional	15
+1047	mengzi	滕文公上#17	traditional	6
+1048	mengzi	滕文公上#18	traditional	6
+1049	mengzi	滕文公上#19	traditional	11
+1050	mengzi	滕文公上#20	traditional	12
+1051	mengzi	滕文公上#21	traditional	13
+1052	mengzi	滕文公上#22	traditional	10
+1053	mengzi	滕文公上#23	traditional	74
+1054	mengzi	滕文公上#24	traditional	85
+1055	mengzi	滕文公上#25	traditional	227
+1056	mengzi	滕文公上#26	traditional	127
+1057	mengzi	滕文公上#27	traditional	232
+1058	mengzi	滕文公上#28	traditional	123
+1059	mengzi	滕文公上#29	traditional	33
+1060	mengzi	滕文公上#30	traditional	76
+1061	mengzi	滕文公上#31	traditional	37
+1062	mengzi	滕文公上#32	traditional	147
+1063	mengzi	滕文公上#33	traditional	16
+1064	mengzi	滕文公下#1	traditional	36
+1065	mengzi	滕文公下#2	traditional	238
+1066	mengzi	滕文公下#3	traditional	27
+1067	mengzi	滕文公下#4	traditional	113
+1068	mengzi	滕文公下#5	traditional	10
+1069	mengzi	滕文公下#6	traditional	35
+1070	mengzi	滕文公下#7	traditional	10
+1071	mengzi	滕文公下#8	traditional	78
+1072	mengzi	滕文公下#9	traditional	7
+1073	mengzi	滕文公下#10	traditional	22
+1074	mengzi	滕文公下#11	traditional	28
+1075	mengzi	滕文公下#12	traditional	83
+1076	mengzi	滕文公下#13	traditional	24
+1077	mengzi	滕文公下#14	traditional	34
+1078	mengzi	滕文公下#15	traditional	10
+1079	mengzi	滕文公下#16	traditional	77
+1080	mengzi	滕文公下#17	traditional	26
+1081	mengzi	滕文公下#18	traditional	27
+1082	mengzi	滕文公下#19	traditional	3
+1083	mengzi	滕文公下#20	traditional	21
+1084	mengzi	滕文公下#21	traditional	2
+1085	mengzi	滕文公下#22	traditional	11
+1086	mengzi	滕文公下#23	traditional	23
+1087	mengzi	滕文公下#24	traditional	343
+1088	mengzi	滕文公下#25	traditional	43
+1089	mengzi	滕文公下#26	traditional	6
+1090	mengzi	滕文公下#27	traditional	107
+1091	mengzi	滕文公下#28	traditional	11
+1092	mengzi	滕文公下#29	traditional	141
+1093	mengzi	滕文公下#30	traditional	27
+1094	mengzi	滕文公下#31	traditional	51
+1095	mengzi	滕文公下#32	traditional	16
+1096	mengzi	滕文公下#33	traditional	113
+1097	mengzi	滕文公下#34	traditional	127
+1098	mengzi	滕文公下#35	traditional	58
+1099	mengzi	滕文公下#36	traditional	163
+1100	mengzi	滕文公下#37	traditional	98
+1101	mengzi	滕文公下#38	traditional	53
+1102	mengzi	滕文公下#39	traditional	89
+1103	mengzi	滕文公下#40	traditional	16
+1104	mengzi	滕文公下#41	traditional	143
+1105	mengzi	離婁上#1	traditional	74
+1106	mengzi	離婁上#2	traditional	100
+1107	mengzi	離婁上#3	traditional	81
+1108	mengzi	離婁上#4	traditional	100
+1109	mengzi	離婁上#5	traditional	128
+1110	mengzi	離婁上#6	traditional	80
+1111	mengzi	離婁上#7	traditional	52
+1112	mengzi	離婁上#8	traditional	29
+1113	mengzi	離婁上#9	traditional	40
+1114	mengzi	離婁上#10	traditional	62
+1115	mengzi	離婁上#11	traditional	133
+1116	mengzi	離婁上#12	traditional	131
+1117	mengzi	離婁上#13	traditional	181
+1118	mengzi	離婁上#14	traditional	69
+1119	mengzi	離婁上#15	traditional	29
+1120	mengzi	離婁上#16	traditional	105
+1121	mengzi	離婁上#17	traditional	107
+1122	mengzi	離婁上#18	traditional	116
+1123	mengzi	離婁上#19	traditional	48
+1124	mengzi	離婁上#20	traditional	39
+1125	mengzi	離婁上#21	traditional	12
+1126	mengzi	離婁上#22	traditional	5
+1127	mengzi	離婁上#23	traditional	9
+1128	mengzi	離婁上#24	traditional	26
+1129	mengzi	離婁上#25	traditional	13
+1130	mengzi	離婁上#26	traditional	21
+1131	mengzi	離婁上#27	traditional	12
+1132	mengzi	離婁上#28	traditional	80
+1133	mengzi	離婁上#29	traditional	142
+1134	mengzi	離婁上#30	traditional	46
+1135	mengzi	離婁上#31	traditional	13
+1136	mengzi	離婁上#32	traditional	13
+1137	mengzi	離婁上#33	traditional	11
+1138	mengzi	離婁上#34	traditional	79
+1139	mengzi	離婁上#35	traditional	31
+1140	mengzi	離婁上#36	traditional	27
+1141	mengzi	離婁上#37	traditional	69
+1142	mengzi	離婁上#38	traditional	81
+1143	mengzi	離婁下#1	traditional	72
+1144	mengzi	離婁下#2	traditional	74
+1145	mengzi	離婁下#3	traditional	49
+1146	mengzi	離婁下#4	traditional	15
+1147	mengzi	離婁下#5	traditional	106
+1148	mengzi	離婁下#6	traditional	24
+1149	mengzi	離婁下#7	traditional	13
+1150	mengzi	離婁下#8	traditional	15
+1151	mengzi	離婁下#9	traditional	45
+1152	mengzi	離婁下#10	traditional	14
+1153	mengzi	離婁下#11	traditional	13
+1154	mengzi	離婁下#12	traditional	10
+1155	mengzi	離婁下#13	traditional	18
+1156	mengzi	離婁下#14	traditional	15
+1157	mengzi	離婁下#15	traditional	20
+1158	mengzi	離婁下#16	traditional	50
+1159	mengzi	離婁下#17	traditional	15
+1160	mengzi	離婁下#18	traditional	37
+1161	mengzi	離婁下#19	traditional	17
+1162	mengzi	離婁下#20	traditional	19
+1163	mengzi	離婁下#21	traditional	61
+1164	mengzi	離婁下#22	traditional	41
+1165	mengzi	離婁下#23	traditional	69
+1166	mengzi	離婁下#24	traditional	53
+1167	mengzi	離婁下#25	traditional	33
+1168	mengzi	離婁下#26	traditional	33
+1169	mengzi	離婁下#27	traditional	242
+1170	mengzi	離婁下#28	traditional	30
+1171	mengzi	離婁下#29	traditional	92
+1172	mengzi	離婁下#30	traditional	63
+1173	mengzi	離婁下#31	traditional	36
+1174	mengzi	離婁下#32	traditional	239
+1175	mengzi	離婁下#33	traditional	136
+1176	mengzi	離婁下#34	traditional	28
+1177	mengzi	離婁下#35	traditional	168
+1178	mengzi	離婁下#36	traditional	102
+1179	mengzi	離婁下#37	traditional	25
+1180	mengzi	離婁下#38	traditional	31
+1181	mengzi	離婁下#39	traditional	16
+1182	mengzi	離婁下#40	traditional	15
+1183	mengzi	離婁下#41	traditional	79
+1184	mengzi	離婁下#42	traditional	93
+1185	mengzi	離婁下#43	traditional	30
+1186	mengzi	萬章上#1	traditional	19
+1187	mengzi	萬章上#2	traditional	6
+1188	mengzi	萬章上#3	traditional	24
+1189	mengzi	萬章上#4	traditional	267
+1190	mengzi	萬章上#5	traditional	31
+1191	mengzi	萬章上#6	traditional	34
+1192	mengzi	萬章上#7	traditional	25
+1193	mengzi	萬章上#8	traditional	11
+1194	mengzi	萬章上#9	traditional	93
+1195	mengzi	萬章上#10	traditional	14
+1196	mengzi	萬章上#11	traditional	8
+1197	mengzi	萬章上#12	traditional	107
+1198	mengzi	萬章上#13	traditional	20
+1199	mengzi	萬章上#14	traditional	10
+1200	mengzi	萬章上#15	traditional	70
+1201	mengzi	萬章上#16	traditional	55
+1202	mengzi	萬章上#17	traditional	9
+1203	mengzi	萬章上#18	traditional	58
+1204	mengzi	萬章上#19	traditional	73
+1205	mengzi	萬章上#20	traditional	84
+1206	mengzi	萬章上#21	traditional	50
+1207	mengzi	萬章上#22	traditional	156
+1208	mengzi	萬章上#23	traditional	11
+1209	mengzi	萬章上#24	traditional	13
+1210	mengzi	萬章上#25	traditional	10
+1211	mengzi	萬章上#26	traditional	4
+1212	mengzi	萬章上#27	traditional	10
+1213	mengzi	萬章上#28	traditional	14
+1214	mengzi	萬章上#29	traditional	11
+1215	mengzi	萬章上#30	traditional	83
+1216	mengzi	萬章上#31	traditional	21
+1217	mengzi	萬章上#32	traditional	170
+1218	mengzi	萬章上#33	traditional	23
+1219	mengzi	萬章上#34	traditional	366
+1220	mengzi	萬章上#35	traditional	16
+1221	mengzi	萬章上#36	traditional	324
+1222	mengzi	萬章上#37	traditional	23
+1223	mengzi	萬章上#38	traditional	155
+1224	mengzi	萬章上#39	traditional	29
+1225	mengzi	萬章上#40	traditional	168
+1226	mengzi	萬章下#1	traditional	92
+1227	mengzi	萬章下#2	traditional	88
+1228	mengzi	萬章下#3	traditional	74
+1229	mengzi	萬章下#4	traditional	47
+1230	mengzi	萬章下#5	traditional	113
+1231	mengzi	萬章下#6	traditional	14
+1232	mengzi	萬章下#7	traditional	78
+1233	mengzi	萬章下#8	traditional	64
+1234	mengzi	萬章下#9	traditional	191
+1235	mengzi	萬章下#10	traditional	7
+1236	mengzi	萬章下#11	traditional	272
+1237	mengzi	萬章下#12	traditional	11
+1238	mengzi	萬章下#13	traditional	5
+1239	mengzi	萬章下#14	traditional	10
+1240	mengzi	萬章下#15	traditional	29
+1241	mengzi	萬章下#16	traditional	29
+1242	mengzi	萬章下#17	traditional	17
+1243	mengzi	萬章下#18	traditional	28
+1244	mengzi	萬章下#19	traditional	48
+1245	mengzi	萬章下#20	traditional	29
+1246	mengzi	萬章下#21	traditional	72
+1247	mengzi	萬章下#22	traditional	12
+1248	mengzi	萬章下#23	traditional	4
+1249	mengzi	萬章下#24	traditional	6
+1250	mengzi	萬章下#25	traditional	17
+1251	mengzi	萬章下#26	traditional	5
+1252	mengzi	萬章下#27	traditional	74
+1253	mengzi	萬章下#28	traditional	100
+1254	mengzi	萬章下#29	traditional	11
+1255	mengzi	萬章下#30	traditional	27
+1256	mengzi	萬章下#31	traditional	11
+1257	mengzi	萬章下#32	traditional	3
+1258	mengzi	萬章下#33	traditional	5
+1259	mengzi	萬章下#34	traditional	9
+1260	mengzi	萬章下#35	traditional	12
+1261	mengzi	萬章下#36	traditional	4
+1262	mengzi	萬章下#37	traditional	8
+1263	mengzi	萬章下#38	traditional	27
+1264	mengzi	萬章下#39	traditional	13
+1265	mengzi	萬章下#40	traditional	72
+1266	mengzi	萬章下#41	traditional	16
+1267	mengzi	萬章下#42	traditional	96
+1268	mengzi	萬章下#43	traditional	12
+1269	mengzi	萬章下#44	traditional	36
+1270	mengzi	萬章下#45	traditional	24
+1271	mengzi	萬章下#46	traditional	21
+1272	mengzi	萬章下#47	traditional	10
+1273	mengzi	萬章下#48	traditional	167
+1274	mengzi	萬章下#49	traditional	8
+1275	mengzi	萬章下#50	traditional	109
+1276	mengzi	萬章下#51	traditional	19
+1277	mengzi	萬章下#52	traditional	15
+1278	mengzi	萬章下#53	traditional	80
+1279	mengzi	萬章下#54	traditional	14
+1280	mengzi	萬章下#55	traditional	6
+1281	mengzi	萬章下#56	traditional	13
+1282	mengzi	萬章下#57	traditional	8
+1283	mengzi	萬章下#58	traditional	16
+1284	mengzi	萬章下#59	traditional	21
+1285	mengzi	萬章下#60	traditional	25
+1286	mengzi	告子上#1	traditional	26
+1287	mengzi	告子上#2	traditional	65
+1288	mengzi	告子上#3	traditional	41
+1289	mengzi	告子上#4	traditional	80
+1290	mengzi	告子上#5	traditional	7
+1291	mengzi	告子上#6	traditional	16
+1292	mengzi	告子上#7	traditional	22
+1293	mengzi	告子上#8	traditional	17
+1294	mengzi	告子上#9	traditional	19
+1295	mengzi	告子上#10	traditional	11
+1296	mengzi	告子上#11	traditional	31
+1297	mengzi	告子上#12	traditional	44
+1298	mengzi	告子上#13	traditional	47
+1299	mengzi	告子上#14	traditional	29
+1300	mengzi	告子上#15	traditional	23
+1301	mengzi	告子上#16	traditional	14
+1302	mengzi	告子上#17	traditional	9
+1303	mengzi	告子上#18	traditional	15
+1304	mengzi	告子上#19	traditional	72
+1305	mengzi	告子上#20	traditional	21
+1306	mengzi	告子上#21	traditional	22
+1307	mengzi	告子上#22	traditional	97
+1308	mengzi	告子上#23	traditional	173
+1309	mengzi	告子上#24	traditional	328
+1310	mengzi	告子上#25	traditional	237
+1311	mengzi	告子上#26	traditional	142
+1312	mengzi	告子上#27	traditional	320
+1313	mengzi	告子上#28	traditional	55
+1314	mengzi	告子上#29	traditional	62
+1315	mengzi	告子上#30	traditional	43
+1316	mengzi	告子上#31	traditional	159
+1317	mengzi	告子上#32	traditional	19
+1318	mengzi	告子上#33	traditional	17
+1319	mengzi	告子上#34	traditional	17
+1320	mengzi	告子上#35	traditional	63
+1321	mengzi	告子上#36	traditional	76
+1322	mengzi	告子上#37	traditional	83
+1323	mengzi	告子上#38	traditional	56
+1324	mengzi	告子上#39	traditional	29
+1325	mengzi	告子上#40	traditional	34
+1326	mengzi	告子下#1	traditional	16
+1327	mengzi	告子下#2	traditional	8
+1328	mengzi	告子下#3	traditional	35
+1329	mengzi	告子下#4	traditional	141
+1330	mengzi	告子下#5	traditional	13
+1331	mengzi	告子下#6	traditional	4
+1332	mengzi	告子下#7	traditional	25
+1333	mengzi	告子下#8	traditional	142
+1334	mengzi	告子下#9	traditional	18
+1335	mengzi	告子下#10	traditional	24
+1336	mengzi	告子下#11	traditional	15
+1337	mengzi	告子下#12	traditional	7
+1338	mengzi	告子下#13	traditional	2
+1339	mengzi	告子下#14	traditional	72
+1340	mengzi	告子下#15	traditional	7
+1341	mengzi	告子下#16	traditional	63
+1342	mengzi	告子下#17	traditional	17
+1343	mengzi	告子下#18	traditional	37
+1344	mengzi	告子下#19	traditional	17
+1345	mengzi	告子下#20	traditional	8
+1346	mengzi	告子下#21	traditional	203
+1347	mengzi	告子下#22	traditional	81
+1348	mengzi	告子下#23	traditional	27
+1349	mengzi	告子下#24	traditional	23
+1350	mengzi	告子下#25	traditional	41
+1351	mengzi	告子下#26	traditional	66
+1352	mengzi	告子下#27	traditional	60
+1353	mengzi	告子下#28	traditional	71
+1354	mengzi	告子下#29	traditional	63
+1355	mengzi	告子下#30	traditional	165
+1356	mengzi	告子下#31	traditional	128
+1357	mengzi	告子下#32	traditional	37
+1358	mengzi	告子下#33	traditional	43
+1359	mengzi	告子下#34	traditional	15
+1360	mengzi	告子下#35	traditional	146
+1361	mengzi	告子下#36	traditional	109
+1362	mengzi	告子下#37	traditional	12
+1363	mengzi	告子下#38	traditional	19
+1364	mengzi	告子下#39	traditional	8
+1365	mengzi	告子下#40	traditional	100
+1366	mengzi	告子下#41	traditional	11
+1367	mengzi	告子下#42	traditional	53
+1368	mengzi	告子下#43	traditional	10
+1369	mengzi	告子下#44	traditional	8
+1370	mengzi	告子下#45	traditional	10
+1371	mengzi	告子下#46	traditional	11
+1372	mengzi	告子下#47	traditional	6
+1373	mengzi	告子下#48	traditional	6
+1374	mengzi	告子下#49	traditional	15
+1375	mengzi	告子下#50	traditional	97
+1376	mengzi	告子下#51	traditional	11
+1377	mengzi	告子下#52	traditional	115
+1378	mengzi	告子下#53	traditional	146
+1379	mengzi	告子下#54	traditional	24
+1380	mengzi	盡心上#1	traditional	43
+1381	mengzi	盡心上#2	traditional	40
+1382	mengzi	盡心上#3	traditional	43
+1383	mengzi	盡心上#4	traditional	27
+1384	mengzi	盡心上#5	traditional	27
+1385	mengzi	盡心上#6	traditional	16
+1386	mengzi	盡心上#7	traditional	29
+1387	mengzi	盡心上#8	traditional	65
+1388	mengzi	盡心上#9	traditional	27
+1389	mengzi	盡心上#10	traditional	9
+1390	mengzi	盡心上#11	traditional	69
+1391	mengzi	盡心上#12	traditional	25
+1392	mengzi	盡心上#13	traditional	21
+1393	mengzi	盡心上#14	traditional	23
+1394	mengzi	盡心上#15	traditional	63
+1395	mengzi	盡心上#16	traditional	44
+1396	mengzi	盡心上#17	traditional	62
+1397	mengzi	盡心上#18	traditional	52
+1398	mengzi	盡心上#19	traditional	20
+1399	mengzi	盡心上#20	traditional	33
+1400	mengzi	盡心上#21	traditional	58
+1401	mengzi	盡心上#22	traditional	65
+1402	mengzi	盡心上#23	traditional	88
+1403	mengzi	盡心上#24	traditional	185
+1404	mengzi	盡心上#25	traditional	79
+1405	mengzi	盡心上#26	traditional	76
+1406	mengzi	盡心上#27	traditional	44
+1407	mengzi	盡心上#28	traditional	64
+1408	mengzi	盡心上#29	traditional	58
+1409	mengzi	盡心上#30	traditional	13
+1410	mengzi	盡心上#31	traditional	23
+1411	mengzi	盡心上#32	traditional	29
+1412	mengzi	盡心上#33	traditional	46
+1413	mengzi	盡心上#34	traditional	18
+1414	mengzi	盡心上#35	traditional	19
+1415	mengzi	盡心上#36	traditional	36
+1416	mengzi	盡心上#37	traditional	8
+1417	mengzi	盡心上#38	traditional	5
+1418	mengzi	盡心上#39	traditional	5
+1419	mengzi	盡心上#40	traditional	44
+1420	mengzi	盡心上#41	traditional	49
+1421	mengzi	盡心上#42	traditional	20
+1422	mengzi	盡心上#43	traditional	8
+1423	mengzi	盡心上#44	traditional	6
+1424	mengzi	盡心上#45	traditional	14
+1425	mengzi	盡心上#46	traditional	6
+1426	mengzi	盡心上#47	traditional	29
+1427	mengzi	盡心上#48	traditional	33
+1428	mengzi	盡心上#49	traditional	69
+1429	mengzi	盡心上#50	traditional	39
+1430	mengzi	盡心上#51	traditional	17
+1431	mengzi	盡心上#52	traditional	19
+1432	mengzi	盡心上#53	traditional	27
+1433	mengzi	盡心上#54	traditional	26
+1434	mengzi	盡心上#55	traditional	27
+1435	mengzi	盡心上#56	traditional	45
+1436	mengzi	盡心上#57	traditional	33
+1437	mengzi	盡心上#58	traditional	39
+1438	mengzi	盡心上#59	traditional	28
+1439	mengzi	盡心上#60	traditional	19
+1440	mengzi	盡心上#61	traditional	35
+1441	mengzi	盡心上#62	traditional	31
+1442	mengzi	盡心上#63	traditional	32
+1443	mengzi	盡心上#64	traditional	77
+1444	mengzi	盡心下#1	traditional	33
+1445	mengzi	盡心下#2	traditional	8
+1446	mengzi	盡心下#3	traditional	47
+1447	mengzi	盡心下#4	traditional	28
+1448	mengzi	盡心下#5	traditional	44
+1449	mengzi	盡心下#6	traditional	93
+1450	mengzi	盡心下#7	traditional	17
+1451	mengzi	盡心下#8	traditional	33
+1452	mengzi	盡心下#9	traditional	42
+1453	mengzi	盡心下#10	traditional	21
+1454	mengzi	盡心下#11	traditional	23
+1455	mengzi	盡心下#12	traditional	21
+1456	mengzi	盡心下#13	traditional	24
+1457	mengzi	盡心下#14	traditional	26
+1458	mengzi	盡心下#15	traditional	22
+1459	mengzi	盡心下#16	traditional	68
+1460	mengzi	盡心下#17	traditional	78
+1461	mengzi	盡心下#18	traditional	14
+1462	mengzi	盡心下#19	traditional	33
+1463	mengzi	盡心下#20	traditional	18
+1464	mengzi	盡心下#21	traditional	9
+1465	mengzi	盡心下#22	traditional	37
+1466	mengzi	盡心下#23	traditional	22
+1467	mengzi	盡心下#24	traditional	34
+1468	mengzi	盡心下#25	traditional	11
+1469	mengzi	盡心下#26	traditional	7
+1470	mengzi	盡心下#27	traditional	4
+1471	mengzi	盡心下#28	traditional	14
+1472	mengzi	盡心下#29	traditional	20
+1473	mengzi	盡心下#30	traditional	59
+1474	mengzi	盡心下#31	traditional	83
+1475	mengzi	盡心下#32	traditional	12
+1476	mengzi	盡心下#33	traditional	9
+1477	mengzi	盡心下#34	traditional	6
+1478	mengzi	盡心下#35	traditional	52
+1479	mengzi	盡心下#36	traditional	42
+1480	mengzi	盡心下#37	traditional	38
+1481	mengzi	盡心下#38	traditional	22
+1482	mengzi	盡心下#39	traditional	14
+1483	mengzi	盡心下#40	traditional	18
+1484	mengzi	盡心下#41	traditional	25
+1485	mengzi	盡心下#42	traditional	32
+1486	mengzi	盡心下#43	traditional	9
+1487	mengzi	盡心下#44	traditional	29
+1488	mengzi	盡心下#45	traditional	112
+1489	mengzi	盡心下#46	traditional	67
+1490	mengzi	盡心下#47	traditional	62
+1491	mengzi	盡心下#48	traditional	84
+1492	mengzi	盡心下#49	traditional	37
+1493	mengzi	盡心下#50	traditional	25
+1494	mengzi	盡心下#51	traditional	6
+1495	mengzi	盡心下#52	traditional	18
+1496	mengzi	盡心下#53	traditional	24
+1497	mengzi	盡心下#54	traditional	35
+1498	mengzi	盡心下#55	traditional	45
+1499	mengzi	盡心下#56	traditional	9
+1500	mengzi	盡心下#57	traditional	16
+1501	mengzi	盡心下#58	traditional	6
+1502	mengzi	盡心下#59	traditional	75
+1503	mengzi	盡心下#60	traditional	10
+1504	mengzi	盡心下#61	traditional	53
+1505	mengzi	盡心下#62	traditional	27
+1506	mengzi	盡心下#63	traditional	126
+1507	mengzi	盡心下#64	traditional	136
+1508	daxue	大學#1	traditional	58
+1509	daxue	大學#2	traditional	157
+1510	daxue	大學#3	traditional	118
+1511	daxue	大學#4	traditional	125
+1512	daxue	大學#5	traditional	26
+1513	daxue	大學#6	traditional	40
+1514	daxue	大學#7	traditional	78
+1515	daxue	大學#8	traditional	30
+1516	daxue	大學#9	traditional	72
+1517	daxue	大學#10	traditional	96
+1518	daxue	大學#11	traditional	271
+1519	daxue	大學#12	traditional	160
+1520	daxue	大學#13	traditional	153
+1521	daxue	大學#14	traditional	193
+1522	daxue	大學#15	traditional	71
+1523	daxue	大學#16	traditional	105
+1524	zhongyong	中庸#1	traditional	109
+1525	zhongyong	中庸#2	traditional	36
+1526	zhongyong	中庸#3	traditional	13
+1527	zhongyong	中庸#4	traditional	50
+1528	zhongyong	中庸#5	traditional	8
+1529	zhongyong	中庸#6	traditional	36
+1530	zhongyong	中庸#7	traditional	39
+1531	zhongyong	中庸#8	traditional	24
+1532	zhongyong	中庸#9	traditional	25
+1533	zhongyong	中庸#10	traditional	92
+1534	zhongyong	中庸#11	traditional	50
+1535	zhongyong	中庸#12	traditional	114
+1536	zhongyong	中庸#13	traditional	153
+1537	zhongyong	中庸#14	traditional	94
+1538	zhongyong	中庸#15	traditional	69
+1539	zhongyong	中庸#16	traditional	78
+1540	zhongyong	中庸#17	traditional	103
+1541	zhongyong	中庸#18	traditional	162
+1542	zhongyong	中庸#19	traditional	156
+1543	zhongyong	中庸#20	traditional	237
+1544	zhongyong	中庸#21	traditional	303
+1545	zhongyong	中庸#22	traditional	239
+1546	zhongyong	中庸#23	traditional	81
+1547	zhongyong	中庸#24	traditional	34
+1548	zhongyong	中庸#25	traditional	52
+1549	zhongyong	中庸#26	traditional	140
+1550	zhongyong	中庸#27	traditional	178
+1551	zhongyong	中庸#28	traditional	120
+1552	zhongyong	中庸#29	traditional	83
+1553	zhongyong	中庸#30	traditional	206
+1554	zhongyong	中庸#31	traditional	76
+1555	zhongyong	中庸#32	traditional	136
+1556	zhongyong	中庸#33	traditional	59
+1557	zhongyong	中庸#34	traditional	62
+1558	zhongyong	中庸#35	traditional	36
+1559	zhongyong	中庸#36	traditional	23
+1560	zhongyong	中庸#37	traditional	27
+1561	zhongyong	中庸#38	traditional	21
+1562	zhongyong	中庸#39	traditional	42

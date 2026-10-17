@@ -1,0 +1,13 @@
+{
+  "sign": "740",
+  "eligible_distinct_lines": 1915,
+  "observed_terminal": 685,
+  "expected_terminal": 213.75324397824397,
+  "null_mean": 213.5055055055055,
+  "null_min": 169,
+  "null_max": 254,
+  "permutations": 999,
+  "p_one_sided": 0.001,
+  "seed": 20261005,
+  "interpretation": "Positional structure under supplied segmentation and direction; no sound or meaning inferred. Exploratory replication of a known pattern."
+}

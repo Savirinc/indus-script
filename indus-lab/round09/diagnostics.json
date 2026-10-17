@@ -1,0 +1,51 @@
+{
+  "Harappa": {
+    "seal": {
+      "n": 198,
+      "subtypes": {
+        "SEAL:S": 148,
+        "SEAL:R": 47,
+        "SEAL": 2,
+        "SEAL:CY": 1
+      },
+      "median_length": 5.0,
+      "sign400_present": 7,
+      "sign95_present": 1
+    },
+    "tablet": {
+      "n": 249,
+      "subtypes": {
+        "TAB:B": 163,
+        "TAB:I": 85,
+        "SEAL:R": 1
+      },
+      "median_length": 4,
+      "sign400_present": 94,
+      "sign95_present": 0
+    }
+  },
+  "Mohenjo-daro": {
+    "seal": {
+      "n": 791,
+      "subtypes": {
+        "SEAL:R": 111,
+        "SEAL:S": 671,
+        "SEAL": 7,
+        "SEAL:C": 2
+      },
+      "median_length": 5,
+      "sign400_present": 44,
+      "sign95_present": 3
+    },
+    "tablet": {
+      "n": 75,
+      "subtypes": {
+        "TAB:C": 46,
+        "TAB:B": 29
+      },
+      "median_length": 5,
+      "sign400_present": 7,
+      "sign95_present": 6
+    }
+  }
+}

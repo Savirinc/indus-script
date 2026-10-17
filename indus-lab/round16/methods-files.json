@@ -1,0 +1,122 @@
+[
+  {
+    "path": "targets/indus/keyfit.py",
+    "sha256": "934ced259037649ef08ff65e194b4321504c57b3739b3b6b60378554e341badc",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/lmkey.py",
+    "sha256": "6d13ff8cb2d6efd7bccf72092ec372bf056a8970ea8f1bbf1e295009d680b5e9",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/linb_control.py",
+    "sha256": "944b2902056595b89ac42c2e3a53d258166cf2f8c8aa21490b6da16ab3285d5e",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/fit_holdout.py",
+    "sha256": "c2a04bbd6547fce0d61db76759f47285ddd57d8c5ada7ef3ddb09ee5eb5fdf0c",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/matched_holdout.py",
+    "sha256": "61511f7384c0558562e7dbea487ef1545db21fe2ec6410292499712839caa499",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/predict_test197.py",
+    "sha256": "f0b55594328d19459f75e0dccb35721e806746f7adc3b11ec5291b6ccad178e5",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/predict_test198.py",
+    "sha256": "abe3743e9c0fa2e0753e7337795bd7609d271023c2de42767d089a34adaafcbb",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/predict_test205.py",
+    "sha256": "73ccabe862ac5fdcfa7efad9e7eeac8bdda84fb8b7aab4e28283623980469595",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/predict_test207.py",
+    "sha256": "a6bb4556d32e7ff6bc8aad87fc1ad473f7861a20ce2fcfac4567c1df9042402c",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/results/predict_test197.md",
+    "sha256": "4f8a8e1697b6ee09279ba067224e87d518cf8ab27c172e2649e72bdc3e57d687",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/results/predict_test198.md",
+    "sha256": "a6a213d3e169d68bade64d111cf3f222db5d5994a04300e16a8ce5926c99f65e",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/results/predict_test205.md",
+    "sha256": "dc9a2f7ff7b0c6fa31be98cd23d7b06b4e94a94e6035bcc57d45ce8c4482ee78",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/results/predict_test207.md",
+    "sha256": "325de995e3ac2cd81b798ef22461790a76f1930ef884ec630ddbccd85de67a38",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/results/linb_control.md",
+    "sha256": "fa70d251d3c4c96ca867b6b0386011d534e1a36bd4ebd111d483b78390fe9eb3",
+    "direct_download_matches_clone": true,
+    "review_scope": "full source/output"
+  },
+  {
+    "path": "targets/indus/bench.py",
+    "sha256": "aa5dd8e635588dd9e029165ebb20415693257b20bfc38f585b356634bd9f52bc",
+    "direct_download_matches_clone": true,
+    "review_scope": "targeted sections"
+  },
+  {
+    "path": "targets/indus/lang_names.py",
+    "sha256": "685119cfa0bfea9d9707dd9424b691cfca75f56a0c25674add4f2edd289317be",
+    "direct_download_matches_clone": true,
+    "review_scope": "targeted sections"
+  },
+  {
+    "path": "targets/indus/PROGRESS.md",
+    "sha256": "61dc275b7c4a7d8850c11c92b7f122ccc4990d4073def23576821b11041cd2c3",
+    "direct_download_matches_clone": true,
+    "review_scope": "full document"
+  },
+  {
+    "path": "targets/indus/PREDICTIONS.md",
+    "sha256": "41f355178b8029b5afdc8cbe7b926b8bd0126ecf66dbe4a75a7ee5bd0e40dbb9",
+    "direct_download_matches_clone": true,
+    "review_scope": "targeted sections197/198,205\u2013207,347\u2013350"
+  },
+  {
+    "path": "targets/indus/NOTES.md",
+    "sha256": "06b12d6604670b3eee8ce4ed06ff45bfc7f2a46e1a622313564f63369f62936d",
+    "review_scope": "opening overview; lines2600\u20133269",
+    "read_from": "clone snapshot"
+  },
+  {
+    "path": "targets/indus/predict_test350.py",
+    "sha256": "9fa5b86a5453b253811c44f44aa11bab9c042bce9c3c366241c18f807dee764f",
+    "review_scope": "full code; output absent in snapshot",
+    "read_from": "clone snapshot"
+  }
+]

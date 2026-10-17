@@ -1,0 +1,171 @@
+{
+  "source_sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+  "harappa_rows": 2717,
+  "assigned_label_crosswalk_rows": 1930,
+  "notes": [
+    "Original chronology export unchanged; its bins remain provisional.",
+    "HARP ID detection is a provenance triage heuristic, not object dating validation.",
+    "Counts are source rows and ID stems, not verified independent objects or mould families.",
+    "No calendar range or sign evolution is inferred from unsupported legacy labels.",
+    "Date assignments based on shape or carving cannot independently validate changes in those same features."
+  ],
+  "groups": {
+    "harp_excavation_id_candidate": {
+      "rows": 1157,
+      "bins": {
+        "3B/C": 405,
+        "3": 219,
+        "2": 30,
+        "3C": 166,
+        "3B": 192,
+        "UNASSIGNED": 142,
+        "3A": 1,
+        "1": 2
+      },
+      "target_signs": {
+        "220": {
+          "3B": 14,
+          "3B/C": 11,
+          "3C": 16,
+          "3": 7,
+          "UNASSIGNED": 6,
+          "2": 1
+        },
+        "231": {
+          "3B/C": 4,
+          "3": 1,
+          "3C": 1,
+          "UNASSIGNED": 1
+        }
+      }
+    },
+    "other_excavation_id_scheme_unverified": {
+      "rows": 1560,
+      "bins": {
+        "3": 3,
+        "UNASSIGNED": 645,
+        "3B/C": 468,
+        "3C": 408,
+        "4": 27,
+        "3B": 9
+      },
+      "target_signs": {
+        "220": {
+          "UNASSIGNED": 35,
+          "3C": 49,
+          "3B/C": 34,
+          "4": 2,
+          "3B": 1
+        },
+        "231": {
+          "UNASSIGNED": 10,
+          "3C": 9,
+          "4": 1,
+          "3B/C": 1
+        }
+      }
+    }
+  },
+  "narrow_harp_candidates": {
+    "3B": {
+      "rows": 192,
+      "id_stems": 108,
+      "types": {
+        "TAB:B": 75,
+        "POT:T:g": 4,
+        "TAB:I": 106,
+        "SEAL:S": 6,
+        "MISC": 1
+      },
+      "target_signs": {
+        "220": {
+          "rows": 14,
+          "id_stems": 14,
+          "types": {
+            "TAB:B": 3,
+            "TAB:I": 10,
+            "SEAL:S": 1
+          },
+          "ids": [
+            "388.2",
+            "467.2",
+            "586.1",
+            "589.1",
+            "632.1",
+            "739.1",
+            "770.2",
+            "795.2",
+            "827.2",
+            "841.1",
+            "848.1",
+            "865.2",
+            "891.2",
+            "904.2"
+          ]
+        },
+        "231": {
+          "rows": 0,
+          "id_stems": 0,
+          "types": {},
+          "ids": []
+        }
+      }
+    },
+    "3C": {
+      "rows": 166,
+      "id_stems": 121,
+      "types": {
+        "POT:T:g": 9,
+        "SEAL:R": 10,
+        "BEAD": 1,
+        "TAB:B": 58,
+        "SEAL:S": 6,
+        "TAB:I": 46,
+        "POT:T:S": 1,
+        "BNGL": 2,
+        "POT:T:s": 32,
+        "TAG": 1
+      },
+      "target_signs": {
+        "220": {
+          "rows": 16,
+          "id_stems": 15,
+          "types": {
+            "SEAL:S": 3,
+            "TAB:I": 2,
+            "TAB:B": 8,
+            "POT:T:s": 3
+          },
+          "ids": [
+            "479.1",
+            "481.1",
+            "485.1",
+            "485.2",
+            "491.1",
+            "729.1",
+            "741.1",
+            "744.2",
+            "751.2",
+            "928.1",
+            "937.1",
+            "947.2",
+            "1017.1",
+            "1020.1",
+            "1029.1",
+            "1032.1"
+          ]
+        },
+        "231": {
+          "rows": 1,
+          "id_stems": 1,
+          "types": {
+            "SEAL:R": 1
+          },
+          "ids": [
+            "939.1"
+          ]
+        }
+      }
+    }
+  }
+}

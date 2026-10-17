@@ -1,0 +1,57 @@
+{
+  "input_sha256": "60e2f6db0c85625b980df75dc25beb7b845f7b661a6a5ac7c22a91dbc1e3a955",
+  "eligible_forms": 1986,
+  "languages": 20,
+  "unordered_cross_language_form_pairs_scored": 1869766,
+  "all_queries": {
+    "queries": 37734,
+    "ordered_language_pairs": 380,
+    "micro": {
+      "same_concept": 0.12927707923172815,
+      "same_concept_cognacy": 0.11685398864871141,
+      "uniform_same_concept": 0.010141956449708176,
+      "uniform_same_concept_cognacy": 0.0037250128746251624
+    },
+    "language_pair_macro": {
+      "same_concept": 0.12845055577629721,
+      "same_concept_cognacy": 0.11606113864603212,
+      "uniform_same_concept": 0.010131341667867715,
+      "uniform_same_concept_cognacy": 0.0037556639851755117
+    }
+  },
+  "cognate_available_queries": {
+    "queries": 13053,
+    "ordered_language_pairs": 380,
+    "micro": {
+      "same_concept": 0.33901489077484304,
+      "same_concept_cognacy": 0.33780498028579453,
+      "uniform_same_concept": 0.011314392253603056,
+      "uniform_same_concept_cognacy": 0.010768377829702434
+    },
+    "language_pair_macro": {
+      "same_concept": 0.29214046565201623,
+      "same_concept_cognacy": 0.29106799973601843,
+      "uniform_same_concept": 0.011528180784704922,
+      "uniform_same_concept_cognacy": 0.011037136852203004
+    }
+  },
+  "ties": {
+    "queries_with_ties": 18920,
+    "mean_top_tie_size": 2.7207028144379075,
+    "maximum_top_tie_size": 119
+  },
+  "shuffled_target_labels": {
+    "same_concept": {
+      "mean": 0.010144057654742984,
+      "min": 0.009147275562046865,
+      "max": 0.01137918875426841
+    },
+    "same_concept_cognacy": {
+      "mean": 0.0036294636034245897,
+      "min": 0.0027275564691595687,
+      "max": 0.004587880733677942
+    }
+  },
+  "p_value": null,
+  "interpretation": "Meaning labels excluded from scoring; phonetic values and segmentation known. All languages are related. Artificial-label controls, not historical inference. No Indus or family-identification conclusion."
+}

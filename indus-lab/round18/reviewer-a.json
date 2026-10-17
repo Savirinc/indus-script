@@ -1,0 +1,72 @@
+[
+  {
+    "face_id": "M1543A",
+    "visible_features": "Dark, roughly rectangular face with dense mottling and fine surface striations. Scattered short linear and curved traces are faintly visible, especially toward the lower portion, but do not form a securely traceable row.",
+    "full_sequence_readable": false,
+    "full_sequence": null,
+    "rationale": "Low contrast and surface texture prevent reliable identification of all intentional strokes, their boundaries, or their order. An unreadable sequence is not evidence of an empty face."
+  },
+  {
+    "face_id": "M1543B",
+    "visible_features": "A largely dark, mottled rectangular face. A small dark angular marking lies near the lower edge; other fine linear traces are weak and scattered. No complete ordered series can be followed visually.",
+    "full_sequence_readable": false,
+    "full_sequence": null,
+    "rationale": "The lower marking cannot be securely classified or integrated with the indistinct surface traces. A full set of engraved units and their boundaries is not visible."
+  },
+  {
+    "face_id": "M1544A",
+    "visible_features": "Irregular-edged, heavily mottled face with scattered short upright, oblique, and curved-looking traces. Some central oblique traces appear to intersect, but their continuity is unclear. The right edge has a projecting irregular section.",
+    "full_sequence_readable": false,
+    "full_sequence": null,
+    "rationale": "Texture and damage obscure junctions and endpoints. Neither a complete line nor a defensible set of unit boundaries can be recovered."
+  },
+  {
+    "face_id": "M1544B",
+    "visible_features": "Rough, irregular-edged face with diffuse light and dark patches. Partial curving and angular traces occur toward the upper-left and central regions, but none can be followed as a complete ordered sequence.",
+    "full_sequence_readable": false,
+    "full_sequence": null,
+    "rationale": "The visible fragments are insufficient to separate intentional markings from surface relief or to reconstruct all missing connections."
+  },
+  {
+    "face_id": "M1545A",
+    "visible_features": "Broken rectangular fragment with conspicuous bright jagged lines crossing the upper portion and descending near the right side. Finer upright and curved traces appear within the remaining surface, especially around the middle and lower-left, but are interrupted.",
+    "full_sequence_readable": false,
+    "full_sequence": null,
+    "rationale": "Fracture-like lines and incomplete fine traces cannot be cleanly separated throughout the face. The preserved image does not support a complete transcription."
+  },
+  {
+    "face_id": "M1545B",
+    "visible_features": "Irregular fragment with bright fracture-like traces near the upper edge, a short upright or kinked pale trace near the upper-left, and a partial arc around the center-right. Additional fine marks are diffuse.",
+    "full_sequence_readable": false,
+    "full_sequence": null,
+    "rationale": "Some local forms can be described, but their membership, connections, and sequence boundaries are unresolved. Broken margins further limit completeness."
+  },
+  {
+    "face_id": "M1546A",
+    "visible_features": "Small fragment with a broad upper edge and narrowed lower end. Its surface is dark and mottled; a few short pale angular or curved traces are visible near the lower-middle area.",
+    "full_sequence_readable": false,
+    "full_sequence": null,
+    "rationale": "Only fragmentary traces are discernible. They cannot be organized into a complete sequence, and the broken outline prevents assuming completeness."
+  },
+  {
+    "face_id": "M1546B",
+    "visible_features": "Small irregular fragment with a prominent pale rough patch near the center-right and fine approximately horizontal surface striations. No continuous ordered line of distinct forms is resolved.",
+    "full_sequence_readable": false,
+    "full_sequence": null,
+    "rationale": "The pale patch and surface texture do not provide securely bounded units. No full transcription is supportable from this view."
+  },
+  {
+    "face_id": "M1547A",
+    "visible_features": "Elongated rectangular face with faint linear marks across its lower-middle region. A strong dark diagonal fracture-like feature descends from the upper edge through the central area. A small group of short uprights is visible right of center, with weaker curved and angular traces nearby and farther left.",
+    "full_sequence_readable": false,
+    "full_sequence": null,
+    "rationale": "The central interruption and weak surrounding marks prevent a complete position-by-position tracing. A few local features are visible, but missing units must not be supplied from comparisons."
+  },
+  {
+    "face_id": "M1547B",
+    "visible_features": "Elongated face with a narrow upright, partly enclosed or U-like outline near the center and short crosswise or oblique marks within or beside it. A broad dark vertical band overlaps this area. Additional weak curved or upright traces occur to the right.",
+    "full_sequence_readable": false,
+    "full_sequence": null,
+    "rationale": "The central form is only partly traceable, its internal connections are uncertain, and the other marks are indistinct. A complete ordered sequence cannot be certified."
+  }
+]

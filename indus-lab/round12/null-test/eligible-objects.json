@@ -1,0 +1,5618 @@
+[
+  {
+    "stem": "198",
+    "ids": [
+      "198.1",
+      "198.2"
+    ],
+    "cisi": "H-1138",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-603-240-060-692+"
+    ],
+    "code": 34,
+    "target_face": "198.2",
+    "excavation": "-346"
+  },
+  {
+    "stem": "222",
+    "ids": [
+      "222.1",
+      "222.2",
+      "222.3"
+    ],
+    "cisi": "H-1354",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-714-840-799+",
+      "+824-032-578-415+"
+    ],
+    "code": 34,
+    "target_face": "222.3",
+    "excavation": "11349583"
+  },
+  {
+    "stem": "225",
+    "ids": [
+      "225.1",
+      "225.2"
+    ],
+    "cisi": "-",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+804-740-219+"
+    ],
+    "code": 33,
+    "target_face": "225.2",
+    "excavation": "11449373"
+  },
+  {
+    "stem": "229",
+    "ids": [
+      "229.1",
+      "229.2"
+    ],
+    "cisi": "H-1312",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-031-904-001-032+"
+    ],
+    "code": 32,
+    "target_face": "229.2",
+    "excavation": "1154d554"
+  },
+  {
+    "stem": "249",
+    "ids": [
+      "249.1",
+      "249.2"
+    ],
+    "cisi": "H-1133",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-892-831+"
+    ],
+    "code": 32,
+    "target_face": "249.2",
+    "excavation": "12562610"
+  },
+  {
+    "stem": "255",
+    "ids": [
+      "255.1",
+      "255.2"
+    ],
+    "cisi": "H-1319",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-678+"
+    ],
+    "code": 32,
+    "target_face": "255.1",
+    "excavation": "1722407"
+  },
+  {
+    "stem": "257",
+    "ids": [
+      "257.1",
+      "257.2"
+    ],
+    "cisi": "H-1309",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-176-741-060-920+"
+    ],
+    "code": 32,
+    "target_face": "257.2",
+    "excavation": "2257404"
+  },
+  {
+    "stem": "260",
+    "ids": [
+      "260.1",
+      "260.2"
+    ],
+    "cisi": "-",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "260.1",
+    "excavation": "2355542"
+  },
+  {
+    "stem": "264",
+    "ids": [
+      "264.1",
+      "264.2"
+    ],
+    "cisi": "H-1287",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-156-140-032+"
+    ],
+    "code": 33,
+    "target_face": "264.2",
+    "excavation": "2482462"
+  },
+  {
+    "stem": "265",
+    "ids": [
+      "265.1",
+      "265.2"
+    ],
+    "cisi": "H-1273",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 34,
+    "target_face": "265.2",
+    "excavation": "2568508"
+  },
+  {
+    "stem": "270",
+    "ids": [
+      "270.1",
+      "270.2"
+    ],
+    "cisi": "H-1156",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:B"
+    ],
+    "context": [
+      "+200-705-380+"
+    ],
+    "code": 32,
+    "target_face": "270.2",
+    "excavation": "2787691"
+  },
+  {
+    "stem": "273",
+    "ids": [
+      "273.1",
+      "273.2"
+    ],
+    "cisi": "H-1102",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-382+"
+    ],
+    "code": 32,
+    "target_face": "273.2",
+    "excavation": "2891347"
+  },
+  {
+    "stem": "274",
+    "ids": [
+      "274.1",
+      "274.2"
+    ],
+    "cisi": "-",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+154-435-255+"
+    ],
+    "code": 34,
+    "target_face": "274.2",
+    "excavation": "2895577"
+  },
+  {
+    "stem": "280",
+    "ids": [
+      "280.1",
+      "280.2"
+    ],
+    "cisi": "-",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "clay",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-904-240-002-817+"
+    ],
+    "code": 32,
+    "target_face": "280.2",
+    "excavation": "3801314"
+  },
+  {
+    "stem": "282",
+    "ids": [
+      "282.1",
+      "282.2"
+    ],
+    "cisi": "H-1330",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+520-220+"
+    ],
+    "code": 32,
+    "target_face": "282.1",
+    "excavation": "3961551"
+  },
+  {
+    "stem": "313",
+    "ids": [
+      "313.1",
+      "313.2"
+    ],
+    "cisi": "H-1123",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+525-550-220+"
+    ],
+    "code": 32,
+    "target_face": "313.2",
+    "excavation": "9015360"
+  },
+  {
+    "stem": "316",
+    "ids": [
+      "316.1",
+      "316.2"
+    ],
+    "cisi": "-",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-904-240+"
+    ],
+    "code": 33,
+    "target_face": "316.2",
+    "excavation": "Af670"
+  },
+  {
+    "stem": "317",
+    "ids": [
+      "317.1",
+      "317.2"
+    ],
+    "cisi": "H-1321",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-226-032+"
+    ],
+    "code": 32,
+    "target_face": "317.2",
+    "excavation": "Af97556"
+  },
+  {
+    "stem": "371",
+    "ids": [
+      "371.1",
+      "371.2"
+    ],
+    "cisi": "H-1771",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-031-001-140+"
+    ],
+    "code": 32,
+    "target_face": "371.1",
+    "excavation": "H2000-4375Figure 36.03"
+  },
+  {
+    "stem": "373",
+    "ids": [
+      "373.1",
+      "373.2"
+    ],
+    "cisi": "H-1924",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+550-003-435+"
+    ],
+    "code": 33,
+    "target_face": "373.1",
+    "excavation": "H2000-4377Figure 36.04"
+  },
+  {
+    "stem": "375",
+    "ids": [
+      "375.1",
+      "375.2"
+    ],
+    "cisi": "H-1881",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+415-700-033-171+"
+    ],
+    "code": 36,
+    "target_face": "375.1",
+    "excavation": "H2000-4384Figure 44.01"
+  },
+  {
+    "stem": "377",
+    "ids": [
+      "377.1",
+      "377.2"
+    ],
+    "cisi": "H-1878",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+167-705+"
+    ],
+    "code": 33,
+    "target_face": "377.1",
+    "excavation": "H2000-4386Figure 37.01"
+  },
+  {
+    "stem": "382",
+    "ids": [
+      "382.1",
+      "382.2"
+    ],
+    "cisi": "H-1894",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-061-140+"
+    ],
+    "code": 34,
+    "target_face": "382.1",
+    "excavation": "H2000-4391Figure 37.09"
+  },
+  {
+    "stem": "383",
+    "ids": [
+      "383.1",
+      "383.2"
+    ],
+    "cisi": "H-1773",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-031-001-140+"
+    ],
+    "code": 32,
+    "target_face": "383.1",
+    "excavation": "H2000-4392Figure 37.08"
+  },
+  {
+    "stem": "386",
+    "ids": [
+      "386.1",
+      "386.2"
+    ],
+    "cisi": "H-1853",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-617-829+"
+    ],
+    "code": 32,
+    "target_face": "386.1",
+    "excavation": "H2000-4395Figure 39.01"
+  },
+  {
+    "stem": "392",
+    "ids": [
+      "392.1",
+      "392.2"
+    ],
+    "cisi": "H-1858",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-137+"
+    ],
+    "code": 33,
+    "target_face": "392.1",
+    "excavation": "H2000-4413Figure 41.03"
+  },
+  {
+    "stem": "394",
+    "ids": [
+      "394.1",
+      "394.2"
+    ],
+    "cisi": "H-1987",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "clay",
+      "TAB:B"
+    ],
+    "context": [
+      "+390-004-455-371-741-590+"
+    ],
+    "code": 34,
+    "target_face": "394.1",
+    "excavation": "H2000-4426Figure 39.07"
+  },
+  {
+    "stem": "395",
+    "ids": [
+      "395.1",
+      "395.2"
+    ],
+    "cisi": "H-1994",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "clay",
+      "TAB:B"
+    ],
+    "context": [
+      "+200-705-380+"
+    ],
+    "code": 33,
+    "target_face": "395.1",
+    "excavation": "H2000-4427Figure 41.04"
+  },
+  {
+    "stem": "396",
+    "ids": [
+      "396.1",
+      "396.2"
+    ],
+    "cisi": "H-1877",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-775-516+"
+    ],
+    "code": 34,
+    "target_face": "396.1",
+    "excavation": "H2000-4428Figure 41.06"
+  },
+  {
+    "stem": "397",
+    "ids": [
+      "397.1",
+      "397.2"
+    ],
+    "cisi": "H-2141",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+565-740-176-231+"
+    ],
+    "code": 34,
+    "target_face": "397.1",
+    "excavation": "H2000-4433Figure 38.01"
+  },
+  {
+    "stem": "400",
+    "ids": [
+      "400.1",
+      "400.2"
+    ],
+    "cisi": "H-1772",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-031-001-140+"
+    ],
+    "code": 32,
+    "target_face": "400.1",
+    "excavation": "H2000-4437Figure 39.05"
+  },
+  {
+    "stem": "406",
+    "ids": [
+      "406.1",
+      "406.2"
+    ],
+    "cisi": "H-1895",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-100-240+"
+    ],
+    "code": 34,
+    "target_face": "406.1",
+    "excavation": "H2000-4457Figure 39.03"
+  },
+  {
+    "stem": "407",
+    "ids": [
+      "407.1",
+      "407.2",
+      "407.3"
+    ],
+    "cisi": "H-2213",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-760-840-799+",
+      "+824-032-578-415+"
+    ],
+    "code": 33,
+    "target_face": "407.1",
+    "excavation": "H2000-4459Figure 38.07"
+  },
+  {
+    "stem": "409",
+    "ids": [
+      "409.1",
+      "409.2"
+    ],
+    "cisi": "H-1942",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+405-035-002-861+"
+    ],
+    "code": 32,
+    "target_face": "409.1",
+    "excavation": "H2000-4462Figure 39.04"
+  },
+  {
+    "stem": "410",
+    "ids": [
+      "410.1",
+      "410.2"
+    ],
+    "cisi": "H-1897",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-904-240+"
+    ],
+    "code": 33,
+    "target_face": "410.1",
+    "excavation": "H2000-4463Figure 42.09"
+  },
+  {
+    "stem": "414",
+    "ids": [
+      "414.1",
+      "414.2"
+    ],
+    "cisi": "H-1915",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+032-920-491+"
+    ],
+    "code": 33,
+    "target_face": "414.1",
+    "excavation": "H2000-4469Figure 42.12"
+  },
+  {
+    "stem": "415",
+    "ids": [
+      "415.1",
+      "415.2"
+    ],
+    "cisi": "H-1832",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-297-352-892-590-740-176+"
+    ],
+    "code": 34,
+    "target_face": "415.1",
+    "excavation": "H2000-4470Figure 42.04"
+  },
+  {
+    "stem": "418",
+    "ids": [
+      "418.1",
+      "418.2"
+    ],
+    "cisi": "H-2140",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+565-740-176-231+"
+    ],
+    "code": 34,
+    "target_face": "418.1",
+    "excavation": "H2000-4475Figure 42.01"
+  },
+  {
+    "stem": "419",
+    "ids": [
+      "419.1",
+      "419.2"
+    ],
+    "cisi": "H-1898",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-368-741+"
+    ],
+    "code": 33,
+    "target_face": "419.1",
+    "excavation": "H2000-4476Figure 42.08"
+  },
+  {
+    "stem": "422",
+    "ids": [
+      "422.1",
+      "422.2"
+    ],
+    "cisi": "H-1943",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-384-031+"
+    ],
+    "code": 34,
+    "target_face": "422.1",
+    "excavation": "H2000-4482Figure 42.10"
+  },
+  {
+    "stem": "424",
+    "ids": [
+      "424.1",
+      "424.2"
+    ],
+    "cisi": "H-1845",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-642-240-060-692+"
+    ],
+    "code": 34,
+    "target_face": "424.1",
+    "excavation": "H2000-4484Figure 42.05"
+  },
+  {
+    "stem": "425",
+    "ids": [
+      "425.1",
+      "425.2"
+    ],
+    "cisi": "H-2125",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-143-067+"
+    ],
+    "code": 33,
+    "target_face": "425.1",
+    "excavation": "H2000-4485Figure 42.03"
+  },
+  {
+    "stem": "427",
+    "ids": [
+      "427.1",
+      "427.2"
+    ],
+    "cisi": "H-1854",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-717+"
+    ],
+    "code": 34,
+    "target_face": "427.1",
+    "excavation": "H2000-4489Figure 46.01"
+  },
+  {
+    "stem": "433",
+    "ids": [
+      "433.1",
+      "433.2"
+    ],
+    "cisi": "H-1905",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-843+"
+    ],
+    "code": 33,
+    "target_face": "433.2",
+    "excavation": "H2000-4505Figure 46.03"
+  },
+  {
+    "stem": "437",
+    "ids": [
+      "437.1",
+      "437.2"
+    ],
+    "cisi": "H-1912",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+520-240+"
+    ],
+    "code": 33,
+    "target_face": "437.1",
+    "excavation": "H2000-5041Figure 43.15"
+  },
+  {
+    "stem": "453",
+    "ids": [
+      "453.1",
+      "453.2"
+    ],
+    "cisi": "H-1909",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-817-491+"
+    ],
+    "code": 32,
+    "target_face": "453.1",
+    "excavation": "H2001-5066Figure 45.07"
+  },
+  {
+    "stem": "458",
+    "ids": [
+      "458.1",
+      "458.2"
+    ],
+    "cisi": "H-1940",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-067-100+"
+    ],
+    "code": 33,
+    "target_face": "458.1",
+    "excavation": "H2001-5072Figure 44.05"
+  },
+  {
+    "stem": "461",
+    "ids": [
+      "461.1",
+      "461.2"
+    ],
+    "cisi": "H-1919",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-892+"
+    ],
+    "code": 31,
+    "target_face": "461.1",
+    "excavation": "H2001-5076Figure 37.10"
+  },
+  {
+    "stem": "467",
+    "ids": [
+      "467.1",
+      "467.2"
+    ],
+    "cisi": "H-1825",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-176-220+"
+    ],
+    "code": 34,
+    "target_face": "467.1",
+    "excavation": "H2001-5082Figure 44.06"
+  },
+  {
+    "stem": "468",
+    "ids": [
+      "468.1",
+      "468.2"
+    ],
+    "cisi": "H-1876",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-775-516+"
+    ],
+    "code": 34,
+    "target_face": "468.1",
+    "excavation": "H2001-5083Figure 43.11"
+  },
+  {
+    "stem": "476",
+    "ids": [
+      "476.1",
+      "476.2"
+    ],
+    "cisi": "H-2094",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+002-861-416+"
+    ],
+    "code": 34,
+    "target_face": "476.1",
+    "excavation": "H2001-5134Figure 47.02"
+  },
+  {
+    "stem": "480",
+    "ids": [
+      "480.1",
+      "480.2"
+    ],
+    "cisi": "H-1850",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-760-382+"
+    ],
+    "code": 34,
+    "target_face": "480.1",
+    "excavation": "H2001-5141Figure 48.07"
+  },
+  {
+    "stem": "484",
+    "ids": [
+      "484.1",
+      "484.2",
+      "484.3"
+    ],
+    "cisi": "H-2246",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-760-840-799+",
+      "+824-032-578-415+"
+    ],
+    "code": 34,
+    "target_face": "484.1",
+    "excavation": "H2001-5145Figure 47.05"
+  },
+  {
+    "stem": "488",
+    "ids": [
+      "488.1",
+      "488.2"
+    ],
+    "cisi": "H-2097",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+002-861-416+"
+    ],
+    "code": 34,
+    "target_face": "488.1",
+    "excavation": "H2001-5193Figure 48.02"
+  },
+  {
+    "stem": "490",
+    "ids": [
+      "490.1",
+      "490.2"
+    ],
+    "cisi": "H-2184",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-032-015+"
+    ],
+    "code": 32,
+    "target_face": "490.1",
+    "excavation": "H2001-5200Figure 47.01"
+  },
+  {
+    "stem": "506",
+    "ids": [
+      "506.1",
+      "506.2"
+    ],
+    "cisi": "H-1867",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+151-740-221+"
+    ],
+    "code": 34,
+    "target_face": "506.1",
+    "excavation": "H90-1593Figure 13.46 (k)"
+  },
+  {
+    "stem": "508",
+    "ids": [
+      "508.1",
+      "508.2"
+    ],
+    "cisi": "H-1869",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+151-740-222+"
+    ],
+    "code": 34,
+    "target_face": "508.1",
+    "excavation": "H90-1595Figure 13.46 (i)"
+  },
+  {
+    "stem": "509",
+    "ids": [
+      "509.1",
+      "509.2"
+    ],
+    "cisi": "H-1868",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+151-740-222+"
+    ],
+    "code": 34,
+    "target_face": "509.1",
+    "excavation": "H90-1596Figure 13.46 (j)"
+  },
+  {
+    "stem": "515",
+    "ids": [
+      "515.1",
+      "515.2"
+    ],
+    "cisi": "H-1908",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+520-240+"
+    ],
+    "code": 33,
+    "target_face": "515.1",
+    "excavation": "H90-1627Figure 13.46 (f)"
+  },
+  {
+    "stem": "519",
+    "ids": [
+      "519.1",
+      "519.2"
+    ],
+    "cisi": "H-2186",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+390-004-155-390+"
+    ],
+    "code": 32,
+    "target_face": "519.1",
+    "excavation": "H90-1690"
+  },
+  {
+    "stem": "544",
+    "ids": [
+      "544.1",
+      "544.2"
+    ],
+    "cisi": "H-2115",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-032-028+"
+    ],
+    "code": 33,
+    "target_face": "544.1",
+    "excavation": "H94-2172Figure 20.d"
+  },
+  {
+    "stem": "548",
+    "ids": [
+      "548.1",
+      "548.2"
+    ],
+    "cisi": "H-1931",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-176-791+"
+    ],
+    "code": 32,
+    "target_face": "548.1",
+    "excavation": "H94-2177Figure 17.08"
+  },
+  {
+    "stem": "549",
+    "ids": [
+      "549.1",
+      "549.2"
+    ],
+    "cisi": "H-2208",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-032-027+"
+    ],
+    "code": 34,
+    "target_face": "549.1",
+    "excavation": "H94-2179Figure 27.04"
+  },
+  {
+    "stem": "550",
+    "ids": [
+      "550.1",
+      "550.2"
+    ],
+    "cisi": "H-1822",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-176-519+"
+    ],
+    "code": 33,
+    "target_face": "550.1",
+    "excavation": "H94-2181Figure 28.08"
+  },
+  {
+    "stem": "554",
+    "ids": [
+      "554.1",
+      "554.2"
+    ],
+    "cisi": "H-1906",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-090-740-400-090+"
+    ],
+    "code": 32,
+    "target_face": "554.1",
+    "excavation": "H94-2185Figure 18.01"
+  },
+  {
+    "stem": "557",
+    "ids": [
+      "557.1",
+      "557.2"
+    ],
+    "cisi": "H-1855",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-153-118+"
+    ],
+    "code": 32,
+    "target_face": "557.1",
+    "excavation": "H94-2188Figure 17.13"
+  },
+  {
+    "stem": "560",
+    "ids": [
+      "560.1",
+      "560.2"
+    ],
+    "cisi": "H-1873",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-236-233+"
+    ],
+    "code": 33,
+    "target_face": "560.1",
+    "excavation": "H94-2191Figure 17.06"
+  },
+  {
+    "stem": "567",
+    "ids": [
+      "567.1",
+      "567.2"
+    ],
+    "cisi": "H-1923",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-032-840+"
+    ],
+    "code": 32,
+    "target_face": "567.1",
+    "excavation": "H94-2217Figure 28.01"
+  },
+  {
+    "stem": "569",
+    "ids": [
+      "569.1",
+      "569.2"
+    ],
+    "cisi": "H-1922",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-920-320-233-240-798+"
+    ],
+    "code": 32,
+    "target_face": "569.1",
+    "excavation": "H94-2247Figure 20.b"
+  },
+  {
+    "stem": "570",
+    "ids": [
+      "570.1",
+      "570.2"
+    ],
+    "cisi": "H-1797",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-690-435-255-055+"
+    ],
+    "code": 32,
+    "target_face": "570.1",
+    "excavation": "H94-2254Figure 19.05"
+  },
+  {
+    "stem": "578",
+    "ids": [
+      "578.1",
+      "578.2"
+    ],
+    "cisi": "H-2197",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-090-740-100-390-231+"
+    ],
+    "code": 33,
+    "target_face": "578.1",
+    "excavation": "H94-2267Figure 22.02"
+  },
+  {
+    "stem": "593",
+    "ids": [
+      "593.1",
+      "593.2"
+    ],
+    "cisi": "H-1839",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-100-175-630-705+"
+    ],
+    "code": 33,
+    "target_face": "593.1",
+    "excavation": "H95-2431Figure 21.05"
+  },
+  {
+    "stem": "596",
+    "ids": [
+      "596.1",
+      "596.2"
+    ],
+    "cisi": "H-2139",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-176-033-705-235+"
+    ],
+    "code": 32,
+    "target_face": "596.1",
+    "excavation": "H95-2440Figure 18.06"
+  },
+  {
+    "stem": "598",
+    "ids": [
+      "598.1",
+      "598.2"
+    ],
+    "cisi": "H-1859",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-137+"
+    ],
+    "code": 33,
+    "target_face": "598.1",
+    "excavation": "H94-2499Figure 21.07"
+  },
+  {
+    "stem": "599",
+    "ids": [
+      "599.1",
+      "599.2"
+    ],
+    "cisi": "H-1864",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-142-062-002-817+"
+    ],
+    "code": 32,
+    "target_face": "599.1",
+    "excavation": "H94-2511Figure 17.03"
+  },
+  {
+    "stem": "621",
+    "ids": [
+      "621.1",
+      "621.2"
+    ],
+    "cisi": "-",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+002-861-416+"
+    ],
+    "code": 34,
+    "target_face": "621.2",
+    "excavation": "H95-2260Figure 30.06"
+  },
+  {
+    "stem": "624",
+    "ids": [
+      "624.1",
+      "624.2"
+    ],
+    "cisi": "H-1817",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-525-554+"
+    ],
+    "code": 34,
+    "target_face": "624.1",
+    "excavation": "H94-2326Figure 26.06"
+  },
+  {
+    "stem": "631",
+    "ids": [
+      "631.1",
+      "631.2"
+    ],
+    "cisi": "H-1842",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-690-435-176-233-803+"
+    ],
+    "code": 33,
+    "target_face": "631.1",
+    "excavation": "H95-2416Figure 26.07"
+  },
+  {
+    "stem": "637",
+    "ids": [
+      "637.1",
+      "637.2"
+    ],
+    "cisi": "H-1860",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-097+"
+    ],
+    "code": 34,
+    "target_face": "637.1",
+    "excavation": "H95-2422Figure 28.09"
+  },
+  {
+    "stem": "638",
+    "ids": [
+      "638.1",
+      "638.2"
+    ],
+    "cisi": "H-2209",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-032-025+"
+    ],
+    "code": 33,
+    "target_face": "638.1",
+    "excavation": "H95-2423"
+  },
+  {
+    "stem": "642",
+    "ids": [
+      "642.1",
+      "642.2"
+    ],
+    "cisi": "H-2105",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+137+"
+    ],
+    "code": 34,
+    "target_face": "642.2",
+    "excavation": "H95-2428Figure 27.13"
+  },
+  {
+    "stem": "643",
+    "ids": [
+      "643.1",
+      "643.2"
+    ],
+    "cisi": "H-2198",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-255-032+"
+    ],
+    "code": 32,
+    "target_face": "643.2",
+    "excavation": "H95-2429Figure 29.07"
+  },
+  {
+    "stem": "646",
+    "ids": [
+      "646.1",
+      "646.2"
+    ],
+    "cisi": "H-1824",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-176-031-060-201+"
+    ],
+    "code": 34,
+    "target_face": "646.1",
+    "excavation": "H95-2434Figure 26.10"
+  },
+  {
+    "stem": "649",
+    "ids": [
+      "649.1",
+      "649.2"
+    ],
+    "cisi": "H-1823",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-798-365-415-001+"
+    ],
+    "code": 34,
+    "target_face": "649.1",
+    "excavation": "H95-2438Figure 28.14"
+  },
+  {
+    "stem": "652",
+    "ids": [
+      "652.1",
+      "652.2"
+    ],
+    "cisi": "H-1841",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-540-204-255+"
+    ],
+    "code": 32,
+    "target_face": "652.1",
+    "excavation": "H95-2442Figure 28.13"
+  },
+  {
+    "stem": "659",
+    "ids": [
+      "659.1",
+      "659.2"
+    ],
+    "cisi": "H-2204",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-032-027+"
+    ],
+    "code": 34,
+    "target_face": "659.1",
+    "excavation": "H95-2482Figure 27.06"
+  },
+  {
+    "stem": "672",
+    "ids": [
+      "672.1",
+      "672.2",
+      "672.3"
+    ],
+    "cisi": "H-2214",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-760-840-799+",
+      "+876-032-578-415+"
+    ],
+    "code": 33,
+    "target_face": "672.1",
+    "excavation": "H95-2498Figure 27.03"
+  },
+  {
+    "stem": "675",
+    "ids": [
+      "675.1",
+      "675.2"
+    ],
+    "cisi": "H-1903",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-923-235+"
+    ],
+    "code": 33,
+    "target_face": "675.1",
+    "excavation": "H95-2516Figure 22.09"
+  },
+  {
+    "stem": "679",
+    "ids": [
+      "679.1",
+      "679.2",
+      "679.3"
+    ],
+    "cisi": "H-2217",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+257-360+",
+      "+400-854-032+"
+    ],
+    "code": 32,
+    "target_face": "679.1",
+    "excavation": "H95-2521Figure 27.09"
+  },
+  {
+    "stem": "686",
+    "ids": [
+      "686.1",
+      "686.2"
+    ],
+    "cisi": "H-1846",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-603-240-060-692+"
+    ],
+    "code": 34,
+    "target_face": "686.1",
+    "excavation": "H95-2672Figure 30.13"
+  },
+  {
+    "stem": "693",
+    "ids": [
+      "693.1",
+      "693.2",
+      "693.3"
+    ],
+    "cisi": "H-2238",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 33,
+    "target_face": "693.1",
+    "excavation": "H95-2613Figure 12.18"
+  },
+  {
+    "stem": "699",
+    "ids": [
+      "699.1",
+      "699.2"
+    ],
+    "cisi": "H-1856",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+951-090+"
+    ],
+    "code": 33,
+    "target_face": "699.1",
+    "excavation": "H95-2787Figure 16.04"
+  },
+  {
+    "stem": "732",
+    "ids": [
+      "732.1",
+      "732.2"
+    ],
+    "cisi": "H-2131",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+368-900+"
+    ],
+    "code": 33,
+    "target_face": "732.1",
+    "excavation": "H96-2738Figure 17.04"
+  },
+  {
+    "stem": "740",
+    "ids": [
+      "740.1",
+      "740.2"
+    ],
+    "cisi": "-",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+090-740-792+"
+    ],
+    "code": 34,
+    "target_face": "740.2",
+    "excavation": "H96-2765bFigure 18.02"
+  },
+  {
+    "stem": "743",
+    "ids": [
+      "743.1",
+      "743.2"
+    ],
+    "cisi": "H-1907",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+520-240+"
+    ],
+    "code": 34,
+    "target_face": "743.2",
+    "excavation": "H96-2768Figure 21.07"
+  },
+  {
+    "stem": "749",
+    "ids": [
+      "749.1",
+      "749.2"
+    ],
+    "cisi": "H-2183",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-575-017-798+"
+    ],
+    "code": 32,
+    "target_face": "749.1",
+    "excavation": "H96-2776Figure 17.12"
+  },
+  {
+    "stem": "751",
+    "ids": [
+      "751.1",
+      "751.2"
+    ],
+    "cisi": "H-1872",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-236-220+"
+    ],
+    "code": 33,
+    "target_face": "751.1",
+    "excavation": "H96-2778Figure 17.13"
+  },
+  {
+    "stem": "753",
+    "ids": [
+      "753.1",
+      "753.2"
+    ],
+    "cisi": "H-2201",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176-240+"
+    ],
+    "code": 32,
+    "target_face": "753.1",
+    "excavation": "H96-2781Figure 20.08"
+  },
+  {
+    "stem": "758",
+    "ids": [
+      "758.1",
+      "758.2"
+    ],
+    "cisi": "H-1768",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+144+"
+    ],
+    "code": 33,
+    "target_face": "758.2",
+    "excavation": "H96-2788Figure 20.13"
+  },
+  {
+    "stem": "765",
+    "ids": [
+      "765.1",
+      "765.2"
+    ],
+    "cisi": "H-1936",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+511-032-142+"
+    ],
+    "code": 32,
+    "target_face": "765.1",
+    "excavation": "H96-2798Figure 18.08"
+  },
+  {
+    "stem": "769",
+    "ids": [
+      "769.1",
+      "769.2",
+      "769.3"
+    ],
+    "cisi": "H-2239",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "769.2",
+    "excavation": "H96-3046Figure 12.16"
+  },
+  {
+    "stem": "772",
+    "ids": [
+      "772.1",
+      "772.2"
+    ],
+    "cisi": "H-1831",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+156-176+"
+    ],
+    "code": 34,
+    "target_face": "772.1",
+    "excavation": "H96-3051Figure 21.10"
+  },
+  {
+    "stem": "773",
+    "ids": [
+      "773.1",
+      "773.2"
+    ],
+    "cisi": "H-1830",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+156-176+"
+    ],
+    "code": 34,
+    "target_face": "773.1",
+    "excavation": "H96-3052Figure 21.11"
+  },
+  {
+    "stem": "774",
+    "ids": [
+      "774.1",
+      "774.2"
+    ],
+    "cisi": "H-1861",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+368-091+"
+    ],
+    "code": 33,
+    "target_face": "774.1",
+    "excavation": "H96-3053Figure 21.08"
+  },
+  {
+    "stem": "780",
+    "ids": [
+      "780.1",
+      "780.2"
+    ],
+    "cisi": "H-1844",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-154-690+"
+    ],
+    "code": 34,
+    "target_face": "780.1",
+    "excavation": "H96-3106Figure 21.06"
+  },
+  {
+    "stem": "784",
+    "ids": [
+      "784.1",
+      "784.2"
+    ],
+    "cisi": "H-1871",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+151-740-235+"
+    ],
+    "code": 34,
+    "target_face": "784.1",
+    "excavation": "H96-3110Figure 21.04"
+  },
+  {
+    "stem": "794",
+    "ids": [
+      "794.1",
+      "794.2",
+      "794.3"
+    ],
+    "cisi": "H-2237",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+154-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "794.1",
+    "excavation": "H96-3125Figure 12.17"
+  },
+  {
+    "stem": "801",
+    "ids": [
+      "801.1",
+      "801.2"
+    ],
+    "cisi": "H-2173",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-817-491+"
+    ],
+    "code": 32,
+    "target_face": "801.1",
+    "excavation": "H96-3132Figure 20.06"
+  },
+  {
+    "stem": "812",
+    "ids": [
+      "812.1",
+      "812.2"
+    ],
+    "cisi": "H-2155",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-236+"
+    ],
+    "code": 34,
+    "target_face": "812.1",
+    "excavation": "H96-3173Figure 19.12"
+  },
+  {
+    "stem": "814",
+    "ids": [
+      "814.1",
+      "814.2"
+    ],
+    "cisi": "H-2134",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+001-480-388-032+"
+    ],
+    "code": 34,
+    "target_face": "814.2",
+    "excavation": "H96-3175Figure 19.07"
+  },
+  {
+    "stem": "815",
+    "ids": [
+      "815.1",
+      "815.2"
+    ],
+    "cisi": "H-2154",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-226+"
+    ],
+    "code": 34,
+    "target_face": "815.1",
+    "excavation": "H96-3176Figure 19.03"
+  },
+  {
+    "stem": "823",
+    "ids": [
+      "823.1",
+      "823.2"
+    ],
+    "cisi": "H-2130",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+365-900+"
+    ],
+    "code": 34,
+    "target_face": "823.1",
+    "excavation": "H96-2709Figure 17.02"
+  },
+  {
+    "stem": "827",
+    "ids": [
+      "827.1",
+      "827.2"
+    ],
+    "cisi": "H-2145",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+074-220-415+"
+    ],
+    "code": 34,
+    "target_face": "827.1",
+    "excavation": "H97-3283Figure 16.04"
+  },
+  {
+    "stem": "829",
+    "ids": [
+      "829.1",
+      "829.2"
+    ],
+    "cisi": "H-2211",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+700-840-032-741+"
+    ],
+    "code": 32,
+    "target_face": "829.1",
+    "excavation": "H97-3285Figure 16.02"
+  },
+  {
+    "stem": "831",
+    "ids": [
+      "831.1",
+      "831.2"
+    ],
+    "cisi": "H-1880",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+520-033-033+"
+    ],
+    "code": 34,
+    "target_face": "831.1",
+    "excavation": "H97-3289Figure 14.10"
+  },
+  {
+    "stem": "832",
+    "ids": [
+      "832.1",
+      "832.2",
+      "832.3"
+    ],
+    "cisi": "H-2229",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "832.2",
+    "excavation": "H97-3290Figure 12.06"
+  },
+  {
+    "stem": "834",
+    "ids": [
+      "834.1",
+      "834.2"
+    ],
+    "cisi": "H-2185",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-158-690+"
+    ],
+    "code": 32,
+    "target_face": "834.1",
+    "excavation": "H97-3292Figure 16.06"
+  },
+  {
+    "stem": "841",
+    "ids": [
+      "841.1",
+      "841.2"
+    ],
+    "cisi": "H-2146",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+520-220-415+"
+    ],
+    "code": 32,
+    "target_face": "841.2",
+    "excavation": "H97-3300Figure 16.14"
+  },
+  {
+    "stem": "844",
+    "ids": [
+      "844.1",
+      "844.2",
+      "844.3"
+    ],
+    "cisi": "H-2221",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "844.1",
+    "excavation": "H97-3304Figure 12.02"
+  },
+  {
+    "stem": "845",
+    "ids": [
+      "845.1",
+      "845.2",
+      "845.3"
+    ],
+    "cisi": "H-2222",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "845.2",
+    "excavation": "H97-3305Figure 12.03"
+  },
+  {
+    "stem": "846",
+    "ids": [
+      "846.1",
+      "846.2",
+      "846.3"
+    ],
+    "cisi": "H-2223",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "846.2",
+    "excavation": "H97-3306Figure 12.14"
+  },
+  {
+    "stem": "847",
+    "ids": [
+      "847.1",
+      "847.2",
+      "847.3"
+    ],
+    "cisi": "H-2236",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "847.2",
+    "excavation": "H97-3307Figure 12.15"
+  },
+  {
+    "stem": "850",
+    "ids": [
+      "850.1",
+      "850.2",
+      "850.3"
+    ],
+    "cisi": "H-2230",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "850.1",
+    "excavation": "H97-3311Figure 12.19"
+  },
+  {
+    "stem": "851",
+    "ids": [
+      "851.1",
+      "851.2",
+      "851.3"
+    ],
+    "cisi": "H-2220",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "851.2",
+    "excavation": "H97-3312Figure 12.04"
+  },
+  {
+    "stem": "852",
+    "ids": [
+      "852.1",
+      "852.2",
+      "852.3"
+    ],
+    "cisi": "H-2226",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "852.1",
+    "excavation": "H97-3313Figure 12.13"
+  },
+  {
+    "stem": "853",
+    "ids": [
+      "853.1",
+      "853.2",
+      "853.3"
+    ],
+    "cisi": "H-2227",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "853.1",
+    "excavation": "H97-3314Figure 12.05"
+  },
+  {
+    "stem": "854",
+    "ids": [
+      "854.1",
+      "854.2",
+      "854.3"
+    ],
+    "cisi": "H-2225",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "854.2",
+    "excavation": "H97-3315Figure 12.07"
+  },
+  {
+    "stem": "855",
+    "ids": [
+      "855.1",
+      "855.2",
+      "855.3"
+    ],
+    "cisi": "H-2228",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "855.1",
+    "excavation": "H97-3316Figure 12.12"
+  },
+  {
+    "stem": "856",
+    "ids": [
+      "856.1",
+      "856.2",
+      "856.3"
+    ],
+    "cisi": "H-2219",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "856.2",
+    "excavation": "H97-3317Figure 12.10"
+  },
+  {
+    "stem": "857",
+    "ids": [
+      "857.1",
+      "857.2",
+      "857.3"
+    ],
+    "cisi": "H-2224",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "857.2",
+    "excavation": "H97-3318Figure 12.08"
+  },
+  {
+    "stem": "858",
+    "ids": [
+      "858.1",
+      "858.2",
+      "858.3"
+    ],
+    "cisi": "H-2218",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "858.2",
+    "excavation": "H97-3319Figure 12.11"
+  },
+  {
+    "stem": "859",
+    "ids": [
+      "859.1",
+      "859.2",
+      "859.3"
+    ],
+    "cisi": "H-2231",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "859.2",
+    "excavation": "H97-3320Figure 12.21"
+  },
+  {
+    "stem": "860",
+    "ids": [
+      "860.1",
+      "860.2",
+      "860.3"
+    ],
+    "cisi": "H-2232",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "860.2",
+    "excavation": "H97-3321Figure 12.23"
+  },
+  {
+    "stem": "861",
+    "ids": [
+      "861.1",
+      "861.2",
+      "861.3"
+    ],
+    "cisi": "H-2234",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "861.2",
+    "excavation": "H97-3322Figure 12.22"
+  },
+  {
+    "stem": "862",
+    "ids": [
+      "862.1",
+      "862.2"
+    ],
+    "cisi": "H-2070",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-817-276+"
+    ],
+    "code": 34,
+    "target_face": "862.1",
+    "excavation": "H97-3324Figure 16.19"
+  },
+  {
+    "stem": "863",
+    "ids": [
+      "863.1",
+      "863.2"
+    ],
+    "cisi": "H-1896",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-892-831+"
+    ],
+    "code": 33,
+    "target_face": "863.1",
+    "excavation": "H97-3325Figure 14.08"
+  },
+  {
+    "stem": "864",
+    "ids": [
+      "864.1",
+      "864.2"
+    ],
+    "cisi": "H-1925",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+516-775+"
+    ],
+    "code": 33,
+    "target_face": "864.1",
+    "excavation": "H97-3326Figure 14.17"
+  },
+  {
+    "stem": "866",
+    "ids": [
+      "866.1",
+      "866.2"
+    ],
+    "cisi": "H-2133",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+031-480-388-032+"
+    ],
+    "code": 34,
+    "target_face": "866.1",
+    "excavation": "H97-3328Figure 16.05"
+  },
+  {
+    "stem": "869",
+    "ids": [
+      "869.1",
+      "869.2"
+    ],
+    "cisi": "H-1995",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "clay",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-151-142+"
+    ],
+    "code": 33,
+    "target_face": "869.1",
+    "excavation": "H97-3331Figure 13.05"
+  },
+  {
+    "stem": "870",
+    "ids": [
+      "870.1",
+      "870.2",
+      "870.3"
+    ],
+    "cisi": "H-2235",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "870.1",
+    "excavation": "H97-3333Figure 12.09"
+  },
+  {
+    "stem": "871",
+    "ids": [
+      "871.1",
+      "871.2"
+    ],
+    "cisi": "H-2206",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-032-025+"
+    ],
+    "code": 34,
+    "target_face": "871.1",
+    "excavation": "H97-3334Figure 15.05"
+  },
+  {
+    "stem": "878",
+    "ids": [
+      "878.1",
+      "878.2",
+      "878.3"
+    ],
+    "cisi": "H-2233",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "code": 34,
+    "target_face": "878.1",
+    "excavation": "H97-3341Figure 12.20"
+  },
+  {
+    "stem": "890",
+    "ids": [
+      "890.1",
+      "890.2"
+    ],
+    "cisi": "H-1829",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+156-176+"
+    ],
+    "code": 34,
+    "target_face": "890.2",
+    "excavation": "H97-3365Figure 14.13"
+  },
+  {
+    "stem": "895",
+    "ids": [
+      "895.1",
+      "895.2"
+    ],
+    "cisi": "H-1828",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+156-176+"
+    ],
+    "code": 34,
+    "target_face": "895.2",
+    "excavation": "H97-3371Figure 14.12"
+  },
+  {
+    "stem": "901",
+    "ids": [
+      "901.1",
+      "901.2"
+    ],
+    "cisi": "H-1870",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+158-221+"
+    ],
+    "code": 34,
+    "target_face": "901.1",
+    "excavation": "H97-3380Figure 14.16"
+  },
+  {
+    "stem": "917",
+    "ids": [
+      "917.1",
+      "917.2"
+    ],
+    "cisi": "H-1933",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-520-400-352+"
+    ],
+    "code": 33,
+    "target_face": "917.1",
+    "excavation": "H97-3422Figure 14.09"
+  },
+  {
+    "stem": "921",
+    "ids": [
+      "921.1",
+      "921.2"
+    ],
+    "cisi": "H-1929",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-061-140+"
+    ],
+    "code": 33,
+    "target_face": "921.1",
+    "excavation": "H98-3435Figure 25.07"
+  },
+  {
+    "stem": "922",
+    "ids": [
+      "922.1",
+      "922.2"
+    ],
+    "cisi": "H-1902",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+158-003-494+"
+    ],
+    "code": 32,
+    "target_face": "922.1",
+    "excavation": "H98-3436Figure 25.12"
+  },
+  {
+    "stem": "923",
+    "ids": [
+      "923.1",
+      "923.2"
+    ],
+    "cisi": "H-1945",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-388-717-705+"
+    ],
+    "code": 32,
+    "target_face": "923.1",
+    "excavation": "H98-3437Figure 25.11"
+  },
+  {
+    "stem": "927",
+    "ids": [
+      "927.1",
+      "927.2"
+    ],
+    "cisi": "H-1941",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-236-220+"
+    ],
+    "code": 32,
+    "target_face": "927.1",
+    "excavation": "H98-3443Figure 25.08"
+  },
+  {
+    "stem": "930",
+    "ids": [
+      "930.1",
+      "930.2"
+    ],
+    "cisi": "H-1883",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-790-032+"
+    ],
+    "code": 33,
+    "target_face": "930.1",
+    "excavation": "H98-3498Figure 24.10"
+  },
+  {
+    "stem": "938",
+    "ids": [
+      "938.1",
+      "938.2"
+    ],
+    "cisi": "H-1937",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-690-435-255+"
+    ],
+    "code": 34,
+    "target_face": "938.1",
+    "excavation": "H98-3504Figure 25.09"
+  },
+  {
+    "stem": "945",
+    "ids": [
+      "945.1",
+      "945.2"
+    ],
+    "cisi": "H-2142",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:B"
+    ],
+    "context": [
+      "+526-550-233+"
+    ],
+    "code": 33,
+    "target_face": "945.1",
+    "excavation": "H98-3513Figure 24.08"
+  },
+  {
+    "stem": "1018",
+    "ids": [
+      "1018.1",
+      "1018.2"
+    ],
+    "cisi": "H-2102",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+137-413+"
+    ],
+    "code": 34,
+    "target_face": "1018.1",
+    "excavation": "H99-3960Figure 34.04"
+  },
+  {
+    "stem": "1021",
+    "ids": [
+      "1021.1",
+      "1021.2"
+    ],
+    "cisi": "H-1774",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-335-482-175+"
+    ],
+    "code": 32,
+    "target_face": "1021.2",
+    "excavation": "H99-4066Figure 33.11"
+  },
+  {
+    "stem": "1024",
+    "ids": [
+      "1024.1",
+      "1024.2"
+    ],
+    "cisi": "H-1851",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-803-892-031-002-861+"
+    ],
+    "code": 33,
+    "target_face": "1024.1",
+    "excavation": "H99-4073Figure 34.06"
+  },
+  {
+    "stem": "1052",
+    "ids": [
+      "1052.1",
+      "1052.2"
+    ],
+    "cisi": "-",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-817-491+"
+    ],
+    "code": 34,
+    "target_face": "1052.2",
+    "excavation": "J229510"
+  },
+  {
+    "stem": "1057",
+    "ids": [
+      "1057.1",
+      "1057.2"
+    ],
+    "cisi": "H-733",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-390-590-240+"
+    ],
+    "code": 33,
+    "target_face": "1057.2",
+    "excavation": "J533911"
+  },
+  {
+    "stem": "1058",
+    "ids": [
+      "1058.1",
+      "1058.2"
+    ],
+    "cisi": "H-1308",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-690-636-240+"
+    ],
+    "code": 33,
+    "target_face": "1058.2",
+    "excavation": "J582445"
+  },
+  {
+    "stem": "1061",
+    "ids": [
+      "1061.1",
+      "1061.2"
+    ],
+    "cisi": "H-1294",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+527-550-233+"
+    ],
+    "code": 32,
+    "target_face": "1061.2",
+    "excavation": "PII-1499"
+  },
+  {
+    "stem": "1240",
+    "ids": [
+      "1240.1",
+      "1240.2"
+    ],
+    "cisi": "H-209",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-921-690-435-255-055+"
+    ],
+    "code": 32,
+    "target_face": "1240.2",
+    "excavation": "10242348"
+  },
+  {
+    "stem": "1243",
+    "ids": [
+      "1243.1",
+      "1243.2"
+    ],
+    "cisi": "H-212",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-156-118+"
+    ],
+    "code": 32,
+    "target_face": "1243.2",
+    "excavation": "3890357"
+  },
+  {
+    "stem": "1245",
+    "ids": [
+      "1245.1",
+      "1245.2"
+    ],
+    "cisi": "H-214",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-520-400-353+"
+    ],
+    "code": 32,
+    "target_face": "1245.2",
+    "excavation": "1032684"
+  },
+  {
+    "stem": "1248",
+    "ids": [
+      "1248.1",
+      "1248.2"
+    ],
+    "cisi": "H-217",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-337-484+"
+    ],
+    "code": 32,
+    "target_face": "1248.2",
+    "excavation": "-"
+  },
+  {
+    "stem": "1256",
+    "ids": [
+      "1256.1",
+      "1256.2"
+    ],
+    "cisi": "H-229",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-892-617+"
+    ],
+    "code": 33,
+    "target_face": "1256.2",
+    "excavation": "5974674"
+  },
+  {
+    "stem": "1257",
+    "ids": [
+      "1257.1",
+      "1257.2"
+    ],
+    "cisi": "H-230",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+520-072-219+"
+    ],
+    "code": 32,
+    "target_face": "1257.2",
+    "excavation": "9059324"
+  },
+  {
+    "stem": "1258",
+    "ids": [
+      "1258.1",
+      "1258.2"
+    ],
+    "cisi": "H-231",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+520-220-240-002-820+"
+    ],
+    "code": 33,
+    "target_face": "1258.2",
+    "excavation": "11381673"
+  },
+  {
+    "stem": "1259",
+    "ids": [
+      "1259.1",
+      "1259.2"
+    ],
+    "cisi": "H-232",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-177-519+"
+    ],
+    "code": 32,
+    "target_face": "1259.2",
+    "excavation": "H550368"
+  },
+  {
+    "stem": "1260",
+    "ids": [
+      "1260.1",
+      "1260.2"
+    ],
+    "cisi": "H-233",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "1260.2",
+    "excavation": "12544387"
+  },
+  {
+    "stem": "1270",
+    "ids": [
+      "1270.1",
+      "1270.2"
+    ],
+    "cisi": "H-245",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-807-740-219+"
+    ],
+    "code": 33,
+    "target_face": "1270.2",
+    "excavation": "H297702"
+  },
+  {
+    "stem": "1273",
+    "ids": [
+      "1273.1",
+      "1273.2"
+    ],
+    "cisi": "H-248",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-920-320-233-240-798+"
+    ],
+    "code": 33,
+    "target_face": "1273.2",
+    "excavation": "12588371"
+  },
+  {
+    "stem": "1274",
+    "ids": [
+      "1274.1",
+      "1274.2"
+    ],
+    "cisi": "H-249",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+520-233+"
+    ],
+    "code": 33,
+    "target_face": "1274.1",
+    "excavation": "11027374"
+  },
+  {
+    "stem": "1276",
+    "ids": [
+      "1276.1",
+      "1276.2"
+    ],
+    "cisi": "H-251",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-100-240+"
+    ],
+    "code": 32,
+    "target_face": "1276.2",
+    "excavation": "8800342"
+  },
+  {
+    "stem": "1318",
+    "ids": [
+      "1318.1",
+      "1318.2"
+    ],
+    "cisi": "H-296",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-575-017-920+"
+    ],
+    "code": 33,
+    "target_face": "1318.2",
+    "excavation": "12534457"
+  },
+  {
+    "stem": "1325",
+    "ids": [
+      "1325.1",
+      "1325.2"
+    ],
+    "cisi": "H-303",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-032-027+"
+    ],
+    "code": 33,
+    "target_face": "1325.2",
+    "excavation": "11291444"
+  },
+  {
+    "stem": "1329",
+    "ids": [
+      "1329.1",
+      "1329.2"
+    ],
+    "cisi": "H-307",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+368-900+"
+    ],
+    "code": 34,
+    "target_face": "1329.2",
+    "excavation": "1963"
+  },
+  {
+    "stem": "1330",
+    "ids": [
+      "1330.1",
+      "1330.2"
+    ],
+    "cisi": "H-308",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 34,
+    "target_face": "1330.2",
+    "excavation": "2569"
+  },
+  {
+    "stem": "1331",
+    "ids": [
+      "1331.1",
+      "1331.2"
+    ],
+    "cisi": "H-309",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "1331.2",
+    "excavation": "2056(1)"
+  },
+  {
+    "stem": "1333",
+    "ids": [
+      "1333.1",
+      "1333.2"
+    ],
+    "cisi": "H-311",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-178+"
+    ],
+    "code": 33,
+    "target_face": "1333.2",
+    "excavation": "2356"
+  },
+  {
+    "stem": "1334",
+    "ids": [
+      "1334.1",
+      "1334.2"
+    ],
+    "cisi": "H-312",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 34,
+    "target_face": "1334.2",
+    "excavation": "2483"
+  },
+  {
+    "stem": "1335",
+    "ids": [
+      "1335.1",
+      "1335.2"
+    ],
+    "cisi": "H-313",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 34,
+    "target_face": "1335.2",
+    "excavation": "2648"
+  },
+  {
+    "stem": "1336",
+    "ids": [
+      "1336.1",
+      "1336.2"
+    ],
+    "cisi": "H-314",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 34,
+    "target_face": "1336.2",
+    "excavation": "3091"
+  },
+  {
+    "stem": "1337",
+    "ids": [
+      "1337.1",
+      "1337.2"
+    ],
+    "cisi": "H-315",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 32,
+    "target_face": "1337.2",
+    "excavation": "10185c"
+  },
+  {
+    "stem": "1338",
+    "ids": [
+      "1338.1",
+      "1338.2"
+    ],
+    "cisi": "H-316",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "1338.2",
+    "excavation": "2480"
+  },
+  {
+    "stem": "1339",
+    "ids": [
+      "1339.1",
+      "1339.2"
+    ],
+    "cisi": "H-317",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 34,
+    "target_face": "1339.2",
+    "excavation": "3025"
+  },
+  {
+    "stem": "1341",
+    "ids": [
+      "1341.1",
+      "1341.2"
+    ],
+    "cisi": "H-319",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+520-220-415+"
+    ],
+    "code": 34,
+    "target_face": "1341.2",
+    "excavation": "10060544"
+  },
+  {
+    "stem": "1343",
+    "ids": [
+      "1343.1",
+      "1343.2"
+    ],
+    "cisi": "H-321",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-690-630-240+"
+    ],
+    "code": 32,
+    "target_face": "1343.2",
+    "excavation": "J575"
+  },
+  {
+    "stem": "1345",
+    "ids": [
+      "1345.1",
+      "1345.2"
+    ],
+    "cisi": "H-323",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-100-240+"
+    ],
+    "code": 33,
+    "target_face": "1345.2",
+    "excavation": "10186497"
+  },
+  {
+    "stem": "1346",
+    "ids": [
+      "1346.1",
+      "1346.2"
+    ],
+    "cisi": "H-324",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-156-384-031+"
+    ],
+    "code": 34,
+    "target_face": "1346.2",
+    "excavation": "11851484"
+  },
+  {
+    "stem": "1348",
+    "ids": [
+      "1348.1",
+      "1348.2"
+    ],
+    "cisi": "H-326",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-840-013+"
+    ],
+    "code": 33,
+    "target_face": "1348.2",
+    "excavation": "1171564"
+  },
+  {
+    "stem": "1362",
+    "ids": [
+      "1362.1",
+      "1362.2"
+    ],
+    "cisi": "H-341",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-336-176+"
+    ],
+    "code": 32,
+    "target_face": "1362.2",
+    "excavation": "4080419"
+  },
+  {
+    "stem": "1363",
+    "ids": [
+      "1363.1",
+      "1363.2"
+    ],
+    "cisi": "H-343",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-861-877+"
+    ],
+    "code": 33,
+    "target_face": "1363.2",
+    "excavation": "Af113549"
+  },
+  {
+    "stem": "1364",
+    "ids": [
+      "1364.1",
+      "1364.2"
+    ],
+    "cisi": "H-344",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+526-550-220+"
+    ],
+    "code": 33,
+    "target_face": "1364.2",
+    "excavation": "9014410"
+  },
+  {
+    "stem": "1365",
+    "ids": [
+      "1365.1",
+      "1365.2"
+    ],
+    "cisi": "H-345",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+090-740-362+"
+    ],
+    "code": 33,
+    "target_face": "1365.2",
+    "excavation": "4269550"
+  },
+  {
+    "stem": "1369",
+    "ids": [
+      "1369.1",
+      "1369.2"
+    ],
+    "cisi": "H-350",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-690-642-240+"
+    ],
+    "code": 34,
+    "target_face": "1369.2",
+    "excavation": "3534a576"
+  },
+  {
+    "stem": "1370",
+    "ids": [
+      "1370.1",
+      "1370.2"
+    ],
+    "cisi": "H-351",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-032-060-013+"
+    ],
+    "code": 34,
+    "target_face": "1370.2",
+    "excavation": "2429581"
+  },
+  {
+    "stem": "1371",
+    "ids": [
+      "1371.1",
+      "1371.2"
+    ],
+    "cisi": "H-352",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "SEAL:R"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "1371.2",
+    "excavation": "1278575"
+  },
+  {
+    "stem": "1372",
+    "ids": [
+      "1372.1",
+      "1372.2"
+    ],
+    "cisi": "H-353",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "1372.2",
+    "excavation": "1348"
+  },
+  {
+    "stem": "1373",
+    "ids": [
+      "1373.1",
+      "1373.2"
+    ],
+    "cisi": "H-354",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "SEAL:R"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "1373.2",
+    "excavation": "1278"
+  },
+  {
+    "stem": "1376",
+    "ids": [
+      "1376.1",
+      "1376.2"
+    ],
+    "cisi": "H-357",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "1376.2",
+    "excavation": "2917"
+  },
+  {
+    "stem": "1378",
+    "ids": [
+      "1378.1",
+      "1378.2"
+    ],
+    "cisi": "H-359",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+526-550-220+"
+    ],
+    "code": 32,
+    "target_face": "1378.2",
+    "excavation": "12540580"
+  },
+  {
+    "stem": "1381",
+    "ids": [
+      "1381.1",
+      "1381.2"
+    ],
+    "cisi": "H-362",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-760-797+"
+    ],
+    "code": 32,
+    "target_face": "1381.2",
+    "excavation": "11371"
+  },
+  {
+    "stem": "1388",
+    "ids": [
+      "1388.1",
+      "1388.2"
+    ],
+    "cisi": "H-369",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "SEAL:CY"
+    ],
+    "context": [
+      "+368-033-705-031-741-390-741+"
+    ],
+    "code": 33,
+    "target_face": "1388.2",
+    "excavation": "7121409a"
+  },
+  {
+    "stem": "1602",
+    "ids": [
+      "1602.1",
+      "1602.2"
+    ],
+    "cisi": "H-697",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "clay",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-904-240-002-817+"
+    ],
+    "code": 32,
+    "target_face": "1602.2",
+    "excavation": "10965"
+  },
+  {
+    "stem": "1607",
+    "ids": [
+      "1607.1",
+      "1607.2"
+    ],
+    "cisi": "H-702",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+137-002-820+"
+    ],
+    "code": 33,
+    "target_face": "1607.2",
+    "excavation": "2276601"
+  },
+  {
+    "stem": "1620",
+    "ids": [
+      "1620.1",
+      "1620.2"
+    ],
+    "cisi": "H-717",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+705-904+"
+    ],
+    "code": 32,
+    "target_face": "1620.2",
+    "excavation": "2543594"
+  },
+  {
+    "stem": "1658",
+    "ids": [
+      "1658.1",
+      "1658.2"
+    ],
+    "cisi": "H-766",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+065-826+"
+    ],
+    "code": 32,
+    "target_face": "1658.2",
+    "excavation": "H715359"
+  },
+  {
+    "stem": "1659",
+    "ids": [
+      "1659.1",
+      "1659.2"
+    ],
+    "cisi": "H-767",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "clay",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-220-415-798+"
+    ],
+    "code": 33,
+    "target_face": "1659.2",
+    "excavation": "10058352"
+  },
+  {
+    "stem": "1662",
+    "ids": [
+      "1662.1",
+      "1662.2"
+    ],
+    "cisi": "H-770",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+151-840-416+"
+    ],
+    "code": 33,
+    "target_face": "1662.2",
+    "excavation": "2177353"
+  },
+  {
+    "stem": "1663",
+    "ids": [
+      "1663.1",
+      "1663.2"
+    ],
+    "cisi": "H-771",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+032-257-840+"
+    ],
+    "code": 34,
+    "target_face": "1663.2",
+    "excavation": "657678"
+  },
+  {
+    "stem": "1667",
+    "ids": [
+      "1667.1",
+      "1667.2"
+    ],
+    "cisi": "H-776",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-803-741-031-032-716+"
+    ],
+    "code": 33,
+    "target_face": "1667.2",
+    "excavation": "J463350"
+  },
+  {
+    "stem": "1671",
+    "ids": [
+      "1671.1",
+      "1671.2"
+    ],
+    "cisi": "H-780",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-400-142-061+"
+    ],
+    "code": 34,
+    "target_face": "1671.2",
+    "excavation": "3789361"
+  },
+  {
+    "stem": "1675",
+    "ids": [
+      "1675.1",
+      "1675.2"
+    ],
+    "cisi": "H-784",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+098+"
+    ],
+    "code": 32,
+    "target_face": "1675.2",
+    "excavation": "10363364"
+  },
+  {
+    "stem": "1680",
+    "ids": [
+      "1680.1",
+      "1680.2"
+    ],
+    "cisi": "H-789",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-520-220-016+"
+    ],
+    "code": 33,
+    "target_face": "1680.2",
+    "excavation": "12549604"
+  },
+  {
+    "stem": "1681",
+    "ids": [
+      "1681.1",
+      "1681.2"
+    ],
+    "cisi": "H-790",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-384-033+"
+    ],
+    "code": 33,
+    "target_face": "1681.2",
+    "excavation": "12416605"
+  },
+  {
+    "stem": "1683",
+    "ids": [
+      "1683.1",
+      "1683.2"
+    ],
+    "cisi": "H-792",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-154-896+"
+    ],
+    "code": 33,
+    "target_face": "1683.2",
+    "excavation": "3483692"
+  },
+  {
+    "stem": "1684",
+    "ids": [
+      "1684.1",
+      "1684.2"
+    ],
+    "cisi": "H-793",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-154-896+"
+    ],
+    "code": 33,
+    "target_face": "1684.2",
+    "excavation": "J283680"
+  },
+  {
+    "stem": "1690",
+    "ids": [
+      "1690.1",
+      "1690.2"
+    ],
+    "cisi": "H-799",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+032-820-100-415+"
+    ],
+    "code": 33,
+    "target_face": "1690.2",
+    "excavation": "11022603"
+  },
+  {
+    "stem": "1691",
+    "ids": [
+      "1691.1",
+      "1691.2"
+    ],
+    "cisi": "H-800",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-337-692-490+"
+    ],
+    "code": 33,
+    "target_face": "1691.2",
+    "excavation": "J228689"
+  },
+  {
+    "stem": "1701",
+    "ids": [
+      "1701.1",
+      "1701.2"
+    ],
+    "cisi": "H-812",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+368-035+"
+    ],
+    "code": 33,
+    "target_face": "1701.2",
+    "excavation": "J403686"
+  },
+  {
+    "stem": "1703",
+    "ids": [
+      "1703.1",
+      "1703.2"
+    ],
+    "cisi": "H-814",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-820-100-415+"
+    ],
+    "code": 32,
+    "target_face": "1703.2",
+    "excavation": "11417606"
+  },
+  {
+    "stem": "1704",
+    "ids": [
+      "1704.1",
+      "1704.2"
+    ],
+    "cisi": "H-815",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+520-072-219+"
+    ],
+    "code": 32,
+    "target_face": "1704.1",
+    "excavation": "11358"
+  },
+  {
+    "stem": "1705",
+    "ids": [
+      "1705.1",
+      "1705.2"
+    ],
+    "cisi": "H-816",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-390-590+"
+    ],
+    "code": 33,
+    "target_face": "1705.2",
+    "excavation": "10614a602"
+  },
+  {
+    "stem": "1706",
+    "ids": [
+      "1706.1",
+      "1706.2"
+    ],
+    "cisi": "H-817",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-336-018+"
+    ],
+    "code": 32,
+    "target_face": "1706.2",
+    "excavation": "1235369"
+  },
+  {
+    "stem": "1707",
+    "ids": [
+      "1707.1",
+      "1707.2"
+    ],
+    "cisi": "H-818",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-336-018+"
+    ],
+    "code": 33,
+    "target_face": "1707.2",
+    "excavation": "J449376"
+  },
+  {
+    "stem": "1719",
+    "ids": [
+      "1719.1",
+      "1719.2"
+    ],
+    "cisi": "H-833",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+526-554-002-820+"
+    ],
+    "code": 32,
+    "target_face": "1719.2",
+    "excavation": "J394370"
+  },
+  {
+    "stem": "1720",
+    "ids": [
+      "1720.1",
+      "1720.2"
+    ],
+    "cisi": "H-834",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-690-436-255+"
+    ],
+    "code": 33,
+    "target_face": "1720.2",
+    "excavation": "4078666"
+  },
+  {
+    "stem": "1724",
+    "ids": [
+      "1724.1",
+      "1724.2"
+    ],
+    "cisi": "H-838",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-615-495-002-817+"
+    ],
+    "code": 33,
+    "target_face": "1724.2",
+    "excavation": "11333375"
+  },
+  {
+    "stem": "1725",
+    "ids": [
+      "1725.1",
+      "1725.2"
+    ],
+    "cisi": "H-839",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-140+"
+    ],
+    "code": 32,
+    "target_face": "1725.1",
+    "excavation": "J593378"
+  },
+  {
+    "stem": "1732",
+    "ids": [
+      "1732.1",
+      "1732.2"
+    ],
+    "cisi": "H-846",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-100-031-705+"
+    ],
+    "code": 33,
+    "target_face": "1732.2",
+    "excavation": "12750641"
+  },
+  {
+    "stem": "1735",
+    "ids": [
+      "1735.1",
+      "1735.2"
+    ],
+    "cisi": "H-849",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-892-617+"
+    ],
+    "code": 32,
+    "target_face": "1735.2",
+    "excavation": "J359645"
+  },
+  {
+    "stem": "1736",
+    "ids": [
+      "1736.1",
+      "1736.2"
+    ],
+    "cisi": "H-850",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-892-617+"
+    ],
+    "code": 32,
+    "target_face": "1736.2",
+    "excavation": "J619642"
+  },
+  {
+    "stem": "1738",
+    "ids": [
+      "1738.1",
+      "1738.2"
+    ],
+    "cisi": "H-852",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+740-760-268-233-220+"
+    ],
+    "code": 32,
+    "target_face": "1738.1",
+    "excavation": "11511596"
+  },
+  {
+    "stem": "1740",
+    "ids": [
+      "1740.1",
+      "1740.2"
+    ],
+    "cisi": "H-854",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-335-003+"
+    ],
+    "code": 32,
+    "target_face": "1740.2",
+    "excavation": "10010647"
+  },
+  {
+    "stem": "1759",
+    "ids": [
+      "1759.1",
+      "1759.2"
+    ],
+    "cisi": "H-876",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:B"
+    ],
+    "context": [
+      "+200-705-380+"
+    ],
+    "code": 33,
+    "target_face": "1759.2",
+    "excavation": "J466675"
+  },
+  {
+    "stem": "1774",
+    "ids": [
+      "1774.1",
+      "1774.2"
+    ],
+    "cisi": "H-892",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-336-176+"
+    ],
+    "code": 34,
+    "target_face": "1774.2",
+    "excavation": "995451"
+  },
+  {
+    "stem": "1775",
+    "ids": [
+      "1775.1",
+      "1775.2"
+    ],
+    "cisi": "H-893",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-337+"
+    ],
+    "code": 34,
+    "target_face": "1775.2",
+    "excavation": "12581522"
+  },
+  {
+    "stem": "1782",
+    "ids": [
+      "1782.1",
+      "1782.2"
+    ],
+    "cisi": "H-900",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-817-491+"
+    ],
+    "code": 33,
+    "target_face": "1782.2",
+    "excavation": "10059455/504"
+  },
+  {
+    "stem": "1792",
+    "ids": [
+      "1792.1",
+      "1792.2"
+    ],
+    "cisi": "H-910",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+002-861-416+"
+    ],
+    "code": 34,
+    "target_face": "1792.2",
+    "excavation": "10994470"
+  },
+  {
+    "stem": "1796",
+    "ids": [
+      "1796.1",
+      "1796.2"
+    ],
+    "cisi": "H-916",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-032-059+"
+    ],
+    "code": 33,
+    "target_face": "1796.2",
+    "excavation": "12516456"
+  },
+  {
+    "stem": "1805",
+    "ids": [
+      "1805.1",
+      "1805.2"
+    ],
+    "cisi": "H-925",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-840-013+"
+    ],
+    "code": 33,
+    "target_face": "1805.2",
+    "excavation": "3286512"
+  },
+  {
+    "stem": "1807",
+    "ids": [
+      "1807.1",
+      "1807.2"
+    ],
+    "cisi": "H-927",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+368-900+"
+    ],
+    "code": 33,
+    "target_face": "1807.1",
+    "excavation": "1172502"
+  },
+  {
+    "stem": "1808",
+    "ids": [
+      "1808.1",
+      "1808.2"
+    ],
+    "cisi": "H-928",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+368-900+"
+    ],
+    "code": 33,
+    "target_face": "1808.1",
+    "excavation": "1219"
+  },
+  {
+    "stem": "1809",
+    "ids": [
+      "1809.1",
+      "1809.2"
+    ],
+    "cisi": "H-929",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+368-900+"
+    ],
+    "code": 33,
+    "target_face": "1809.1",
+    "excavation": "4253"
+  },
+  {
+    "stem": "1810",
+    "ids": [
+      "1810.1",
+      "1810.2"
+    ],
+    "cisi": "H-930",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-900-004+"
+    ],
+    "code": 32,
+    "target_face": "1810.2",
+    "excavation": "J30520"
+  },
+  {
+    "stem": "1814",
+    "ids": [
+      "1814.1",
+      "1814.2"
+    ],
+    "cisi": "H-934",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "1814.1",
+    "excavation": "11380"
+  },
+  {
+    "stem": "1815",
+    "ids": [
+      "1815.1",
+      "1815.2"
+    ],
+    "cisi": "H-935",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "1815.2",
+    "excavation": "1280509"
+  },
+  {
+    "stem": "1816",
+    "ids": [
+      "1816.1",
+      "1816.2"
+    ],
+    "cisi": "H-936",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 34,
+    "target_face": "1816.2",
+    "excavation": "1242"
+  },
+  {
+    "stem": "1818",
+    "ids": [
+      "1818.1",
+      "1818.2"
+    ],
+    "cisi": "H-938",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+520-220-415+"
+    ],
+    "code": 34,
+    "target_face": "1818.2",
+    "excavation": "8650b458"
+  },
+  {
+    "stem": "1819",
+    "ids": [
+      "1819.1",
+      "1819.2"
+    ],
+    "cisi": "H-939",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+520-220-415+"
+    ],
+    "code": 34,
+    "target_face": "1819.1",
+    "excavation": "J402"
+  },
+  {
+    "stem": "1822",
+    "ids": [
+      "1822.1",
+      "1822.2"
+    ],
+    "cisi": "H-942",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+520-220-016+"
+    ],
+    "code": 33,
+    "target_face": "1822.2",
+    "excavation": "5152490"
+  },
+  {
+    "stem": "1823",
+    "ids": [
+      "1823.1",
+      "1823.2"
+    ],
+    "cisi": "H-943",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-158-592+"
+    ],
+    "code": 32,
+    "target_face": "1823.2",
+    "excavation": "3668461"
+  },
+  {
+    "stem": "1824",
+    "ids": [
+      "1824.1",
+      "1824.2"
+    ],
+    "cisi": "H-944",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-158-592+"
+    ],
+    "code": 32,
+    "target_face": "1824.2",
+    "excavation": "2730475"
+  },
+  {
+    "stem": "1825",
+    "ids": [
+      "1825.1",
+      "1825.2"
+    ],
+    "cisi": "H-945",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-234+"
+    ],
+    "code": 34,
+    "target_face": "1825.2",
+    "excavation": "2698503"
+  },
+  {
+    "stem": "1826",
+    "ids": [
+      "1826.1",
+      "1826.2"
+    ],
+    "cisi": "H-946",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-234+"
+    ],
+    "code": 34,
+    "target_face": "1826.1",
+    "excavation": "2544501"
+  },
+  {
+    "stem": "1827",
+    "ids": [
+      "1827.1",
+      "1827.2"
+    ],
+    "cisi": "H-947",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-236+"
+    ],
+    "code": 34,
+    "target_face": "1827.2",
+    "excavation": "8650b493"
+  },
+  {
+    "stem": "1828",
+    "ids": [
+      "1828.1",
+      "1828.2"
+    ],
+    "cisi": "H-948",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-151-229+"
+    ],
+    "code": 33,
+    "target_face": "1828.2",
+    "excavation": "8650b489"
+  },
+  {
+    "stem": "1829",
+    "ids": [
+      "1829.1",
+      "1829.2"
+    ],
+    "cisi": "H-949",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+151-229+"
+    ],
+    "code": 33,
+    "target_face": "1829.1",
+    "excavation": "J580479"
+  },
+  {
+    "stem": "1830",
+    "ids": [
+      "1830.1",
+      "1830.2"
+    ],
+    "cisi": "H-950",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+710-455-220-032+"
+    ],
+    "code": 33,
+    "target_face": "1830.2",
+    "excavation": "2431463"
+  },
+  {
+    "stem": "1831",
+    "ids": [
+      "1831.1",
+      "1831.2"
+    ],
+    "cisi": "H-951",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+388-134-368-590+"
+    ],
+    "code": 33,
+    "target_face": "1831.2",
+    "excavation": "9082498"
+  },
+  {
+    "stem": "1832",
+    "ids": [
+      "1832.1",
+      "1832.2"
+    ],
+    "cisi": "H-952",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-564+"
+    ],
+    "code": 34,
+    "target_face": "1832.2",
+    "excavation": "G257469"
+  },
+  {
+    "stem": "1836",
+    "ids": [
+      "1836.1",
+      "1836.2"
+    ],
+    "cisi": "H-959",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-178+"
+    ],
+    "code": 33,
+    "target_face": "1836.2",
+    "excavation": "2355405"
+  },
+  {
+    "stem": "1837",
+    "ids": [
+      "1837.1",
+      "1837.2"
+    ],
+    "cisi": "H-960",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 34,
+    "target_face": "1837.1",
+    "excavation": "1261543"
+  },
+  {
+    "stem": "1839",
+    "ids": [
+      "1839.1",
+      "1839.2"
+    ],
+    "cisi": "H-962",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 32,
+    "target_face": "1839.2",
+    "excavation": "2642548"
+  },
+  {
+    "stem": "1842",
+    "ids": [
+      "1842.1",
+      "1842.2"
+    ],
+    "cisi": "H-965",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-690-636-240+"
+    ],
+    "code": 32,
+    "target_face": "1842.2",
+    "excavation": "3397562"
+  },
+  {
+    "stem": "1852",
+    "ids": [
+      "1852.1",
+      "1852.2"
+    ],
+    "cisi": "H-975",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-760-382+"
+    ],
+    "code": 32,
+    "target_face": "1852.2",
+    "excavation": "2256402"
+  },
+  {
+    "stem": "1853",
+    "ids": [
+      "1853.1",
+      "1853.2"
+    ],
+    "cisi": "H-976",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-137+"
+    ],
+    "code": 33,
+    "target_face": "1853.2",
+    "excavation": "12102588"
+  },
+  {
+    "stem": "1855",
+    "ids": [
+      "1855.1",
+      "1855.2"
+    ],
+    "cisi": "H-978",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "1855.2",
+    "excavation": "1277"
+  },
+  {
+    "stem": "1858",
+    "ids": [
+      "1858.1",
+      "1858.2"
+    ],
+    "cisi": "H-982",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "SEAL:R"
+    ],
+    "context": [
+      "+740-388-031+"
+    ],
+    "code": 34,
+    "target_face": "1858.2",
+    "excavation": "2999574"
+  },
+  {
+    "stem": "1859",
+    "ids": [
+      "1859.1",
+      "1859.2"
+    ],
+    "cisi": "H-983",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-637-240+"
+    ],
+    "code": 34,
+    "target_face": "1859.2",
+    "excavation": "2528582"
+  },
+  {
+    "stem": "1863",
+    "ids": [
+      "1863.1",
+      "1863.2",
+      "1863.3"
+    ],
+    "cisi": "H-987",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+",
+      "+690-365-817+"
+    ],
+    "code": 33,
+    "target_face": "1863.2",
+    "excavation": "11715586"
+  },
+  {
+    "stem": "1926",
+    "ids": [
+      "1926.1",
+      "1926.2"
+    ],
+    "cisi": "K-68",
+    "status": "included",
+    "stratum": [
+      "Kalibangan",
+      "faience",
+      "TAB:B"
+    ],
+    "context": [
+      "+400-740-263+"
+    ],
+    "code": 32,
+    "target_face": "1926.2",
+    "excavation": "KLB 19527"
+  },
+  {
+    "stem": "3932",
+    "ids": [
+      "3932.1",
+      "3932.2"
+    ],
+    "cisi": "H-2137",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+740-100-176+"
+    ],
+    "code": 34,
+    "target_face": "3932.1",
+    "excavation": "H95-2480Figure 30.09"
+  },
+  {
+    "stem": "4073",
+    "ids": [
+      "4073.1",
+      "4073.2"
+    ],
+    "cisi": "H-1302",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "4073.2",
+    "excavation": "2366"
+  },
+  {
+    "stem": "4077",
+    "ids": [
+      "4077.1",
+      "4077.2"
+    ],
+    "cisi": "H-1303",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "4077.2",
+    "excavation": "2357879"
+  },
+  {
+    "stem": "4086",
+    "ids": [
+      "4086.1",
+      "4086.2"
+    ],
+    "cisi": "H-1345",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "4086.2",
+    "excavation": "3509902"
+  },
+  {
+    "stem": "4087",
+    "ids": [
+      "4087.1",
+      "4087.2"
+    ],
+    "cisi": "H-1346",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "4087.2",
+    "excavation": "2894900"
+  },
+  {
+    "stem": "4088",
+    "ids": [
+      "4088.1",
+      "4088.2"
+    ],
+    "cisi": "H-1347",
+    "status": "included",
+    "stratum": [
+      "Harappa",
+      "steatite",
+      "TAB:I"
+    ],
+    "context": [
+      "+400-740-176+"
+    ],
+    "code": 33,
+    "target_face": "4088.2",
+    "excavation": "1262896"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "repo": "mayig/indus-valley-script-corpus",
+    "default_branch": "main",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "fork": false,
+    "description": "Digital corpus of Indus Valley Script",
+    "readme_path": "README.md",
+    "readme_sha": "15e86b357c5cb1cf4c5a8ac08d75c7c1053c04be",
+    "license_path": "LICENSE",
+    "license_sha": "b475369a776059c8fe03e1d938c3a8dd506e391c"
+  },
+  {
+    "repo": "joyboseroy/indus_decipher",
+    "default_branch": "main",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "fork": false,
+    "description": "Statistics-first computational analysis and falsification toolkit for the undeciphered Indus Valley script.",
+    "readme_path": "README.md",
+    "readme_sha": "9ebb6a9ebabb87fca96a4447e9b5ff076d8774b1",
+    "license_path": "LICENSE",
+    "license_sha": "8ce03dd398bf5454d3ad0419ef0c7bd2fbfd7c69"
+  },
+  {
+    "repo": "yajnadevam/indus-website",
+    "default_branch": "main",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "fork": false,
+    "description": "Website-Database of the Indus Valley Script",
+    "readme_path": "README.md",
+    "readme_sha": "a428c755bfc88dfd14a645e24c93d42127eb8c29",
+    "license_path": "LICENSE",
+    "license_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7"
+  },
+  {
+    "repo": "yajnadevam/lipi",
+    "default_branch": "main",
+    "license": null,
+    "fork": false,
+    "description": null,
+    "readme_path": "README.md",
+    "readme_sha": "64e23cd0a036ecc81558c1fec89b7d9b35c2236b",
+    "license_error": "HTTP Error 404: Not Found"
+  },
+  {
+    "repo": "field-cady/indus_valley_script_corpus",
+    "default_branch": "main",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "fork": true,
+    "description": "Digital corpus of Indus Valley Script",
+    "readme_path": "README.md",
+    "readme_sha": "38839112887e7dd1c34dc3689281087f0fcdaab9",
+    "license_path": "LICENSE",
+    "license_sha": "b475369a776059c8fe03e1d938c3a8dd506e391c"
+  },
+  {
+    "repo": "prabhatchanchal/IndusBench",
+    "default_branch": "master",
+    "license": null,
+    "fork": false,
+    "description": null,
+    "readme_path": "README.md",
+    "readme_sha": "f466f1b589a9c201b179b8da136e1aa731d0feca",
+    "license_error": "HTTP Error 404: Not Found"
+  },
+  {
+    "repo": "isramos/indus-script-sign-merging",
+    "default_branch": "main",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "fork": false,
+    "description": "How statistics on the undeciphered Indus script respond to sign-catalogue choices, and a calibration that makes the answer readable. v1 working draft.",
+    "readme_path": "README.md",
+    "readme_sha": "159dd54657015765357538e0fe9c8c56170ed9e1",
+    "license_path": "LICENSE",
+    "license_sha": "53d1f3d01864c35841739c55aeba9700657627b7"
+  },
+  {
+    "repo": "vatsalajha/indus",
+    "default_branch": "main",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA="
+    },
+    "fork": false,
+    "description": null,
+    "readme_path": "README.md",
+    "readme_sha": "cc4e773ce88fecf21cd1c374730f3b1128374388",
+    "license_path": "LICENSE",
+    "license_sha": "b12f1019f8b66f974ae2118e4eb1fb65b5676c50"
+  },
+  {
+    "repo": "sriharideveloper/indus",
+    "default_branch": "main",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "fork": false,
+    "description": "A falsifiable computational workbench for an undeciphered script. This repository asks what can be learned from sign order, repetition, archaeological metadata, and conservative external anchors without pretending that statistical labels are translations.",
+    "readme_path": "README.md",
+    "readme_sha": "d75d530411876f3eb362bf29126349a6f126d089",
+    "license_path": "LICENSE",
+    "license_sha": "946b71e20092f018bea188f2d767eb9932c193ab"
+  },
+  {
+    "repo": "BitConcepts/glossa-lab",
+    "default_branch": "main",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA="
+    },
+    "fork": false,
+    "description": "Agentic computational linguistics platform \u00b7 Indus Script: 161 H+M proto-Dravidian readings, 90.96% token coverage, 3-slot positional grammar z=10.3 \u00b7 AI-assisted corpus analysis, hypothesis testing, literature discovery \u00b7 Open source",
+    "readme_path": "README.md",
+    "readme_sha": "297c873f27cc4bed06c9c102d87c1510eb4e6d05",
+    "license_path": "LICENSE",
+    "license_sha": "f5aa99b12c81fc07438c89efc0acf42cd5b02d0d"
+  }
+]

@@ -1,0 +1,2651 @@
+[
+  {
+    "sign_a": "817",
+    "sign_b": "861",
+    "contexts": 10,
+    "examples": [
+      {
+        "position": 1,
+        "left": "817 2 3 390",
+        "right": "861 2 3 390",
+        "left_records": [
+          {
+            "id": "61.1",
+            "cisi": "C-66",
+            "site": "Chanhu-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "1412.1",
+            "cisi": "H-407",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "2560.1",
+            "cisi": "M-32",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1938.1",
+            "cisi": "K-82",
+            "site": "Kalibangan",
+            "type": "TAG:L",
+            "symbol": "Bull1"
+          },
+          {
+            "id": "2228.1",
+            "cisi": "M-1697",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "3137.1",
+            "cisi": "M-712",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "817 2 176 740",
+        "right": "861 2 176 740",
+        "left_records": [
+          {
+            "id": "2263.1",
+            "cisi": "M-963",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2323.1",
+            "cisi": "M-1755",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:L"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "817 2 235 840 32 740",
+        "right": "861 2 235 840 32 740",
+        "left_records": [
+          {
+            "id": "3925.1",
+            "cisi": "H-1048",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3513.1",
+            "cisi": "M-1152",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Elep"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "817 2 240 415 100 740 90",
+        "right": "861 2 240 415 100 740 90",
+        "left_records": [
+          {
+            "id": "2283.1",
+            "cisi": "M-1746",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2724.1",
+            "cisi": "M-199",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "817 2 255 435 690 740",
+        "right": "861 2 255 435 690 740",
+        "left_records": [
+          {
+            "id": "3229.1",
+            "cisi": "M-816",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3556.2",
+            "cisi": "M-1206",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Gaur"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "817",
+    "sign_b": "820",
+    "contexts": 8,
+    "examples": [
+      {
+        "position": 1,
+        "left": "817 2 3 390",
+        "right": "820 2 3 390",
+        "left_records": [
+          {
+            "id": "61.1",
+            "cisi": "C-66",
+            "site": "Chanhu-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "1412.1",
+            "cisi": "H-407",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "2560.1",
+            "cisi": "M-32",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "634.1",
+            "cisi": "H-1680",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "2386.1",
+            "cisi": "M-1729",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "3855.1",
+            "cisi": "Ns-7",
+            "site": "Nausharo",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          },
+          {
+            "id": "3990.1",
+            "cisi": "M-1806",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "817 2 17 585 740",
+        "right": "820 2 17 585 740",
+        "left_records": [
+          {
+            "id": "2299.1",
+            "cisi": "M-1708",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:I"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3505.1",
+            "cisi": "M-1138",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Rhin"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "817 2 222 740",
+        "right": "820 2 222 740",
+        "left_records": [
+          {
+            "id": "5356.1",
+            "cisi": "Ns-54",
+            "site": "Nausharo",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2725.1",
+            "cisi": "M-200",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "817 2 231 520",
+        "right": "820 2 231 520",
+        "left_records": [
+          {
+            "id": "2782.1",
+            "cisi": "M-259",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Zebu"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3480.1",
+            "cisi": "M-1109",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Zebu"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "817 2 4 390",
+        "right": "820 2 4 390",
+        "left_records": [
+          {
+            "id": "401.1",
+            "cisi": "H-2003",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Mult"
+          },
+          {
+            "id": "951.1",
+            "cisi": "-",
+            "site": "Dholavira",
+            "type": "SEAL:S",
+            "symbol": "Bull1:U"
+          },
+          {
+            "id": "2418.1",
+            "cisi": "M-1844",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:U"
+          },
+          {
+            "id": "2453.1",
+            "cisi": "M-984",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2630.1",
+            "cisi": "M-103",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "233",
+    "sign_b": "235",
+    "contexts": 7,
+    "examples": [
+      {
+        "position": 1,
+        "left": "233 176 740",
+        "right": "235 176 740",
+        "left_records": [
+          {
+            "id": "2008.1",
+            "cisi": "L-35",
+            "site": "Lothal",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          },
+          {
+            "id": "2022.1",
+            "cisi": "L-55",
+            "site": "Lothal",
+            "type": "SEAL:S",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2931.1",
+            "cisi": "M-445",
+            "site": "Mohenjo-daro",
+            "type": "TAB:B",
+            "symbol": "Bull1"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "233 32 877 740",
+        "right": "235 32 877 740",
+        "left_records": [
+          {
+            "id": "2741.1",
+            "cisi": "M-217",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3872.1",
+            "cisi": "-",
+            "site": "Rupar",
+            "type": "TAG:L",
+            "symbol": "Bull1:J"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "233 550 527",
+        "right": "235 550 527",
+        "left_records": [
+          {
+            "id": "1061.1",
+            "cisi": "H-1294",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2181.1",
+            "cisi": "M-1847",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "233 798 740",
+        "right": "235 798 740",
+        "left_records": [
+          {
+            "id": "3736.1",
+            "cisi": "M-1461",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "-"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2194.1",
+            "cisi": "M-1809",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:U"
+          },
+          {
+            "id": "2266.1",
+            "cisi": "M-1705",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "233 803 740",
+        "right": "235 803 740",
+        "left_records": [
+          {
+            "id": "2761.1",
+            "cisi": "M-238",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Gaur"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2476.1",
+            "cisi": "M-1845",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "390",
+    "sign_b": "405",
+    "contexts": 6,
+    "examples": [
+      {
+        "position": 3,
+        "left": "104 4 390",
+        "right": "104 4 405",
+        "left_records": [
+          {
+            "id": "1668.2",
+            "cisi": "H-777",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "430.1",
+            "cisi": "H-1673",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "235 590 390 740",
+        "right": "235 590 405 740",
+        "left_records": [
+          {
+            "id": "1741.1",
+            "cisi": "H-857",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "3967.1",
+            "cisi": "H-1107",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Phyt"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3111.1",
+            "cisi": "M-672",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "left": "3 220 590 390 740",
+        "right": "3 220 590 405 740",
+        "left_records": [
+          {
+            "id": "2621.1",
+            "cisi": "M-94",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3066.2",
+            "cisi": "M-605",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "left": "590 390 740",
+        "right": "590 405 740",
+        "left_records": [
+          {
+            "id": "6.1",
+            "cisi": "Ad-1",
+            "site": "Allahdino",
+            "type": "SEAL:S",
+            "symbol": "Bull1"
+          },
+          {
+            "id": "90.1",
+            "cisi": "C-2",
+            "site": "Chanhu-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:L"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2327.1",
+            "cisi": "M-1922",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "left": "861 2 16 390",
+        "right": "861 2 16 405",
+        "left_records": [
+          {
+            "id": "136.1",
+            "cisi": "-",
+            "site": "Dholavira",
+            "type": "SEAL:R",
+            "symbol": "None"
+          },
+          {
+            "id": "4260.1",
+            "cisi": "-",
+            "site": "Dholavira",
+            "type": "SEAL:R",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "4272.1",
+            "cisi": "-",
+            "site": "Dholavira",
+            "type": "SEAL:R",
+            "symbol": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "240",
+    "contexts": 6,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 176 740 400",
+        "right": "240 176 740 400",
+        "left_records": [
+          {
+            "id": "423.1",
+            "cisi": "H-1997",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Mult"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "746.1",
+            "cisi": "H-2200",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Fish"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "235 415 220 520",
+        "right": "240 415 220 520",
+        "left_records": [
+          {
+            "id": "2841.1",
+            "cisi": "M-323",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:L"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2420.1",
+            "cisi": "M-1814",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "235 590 390 740",
+        "right": "240 590 390 740",
+        "left_records": [
+          {
+            "id": "1741.1",
+            "cisi": "H-857",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "3967.1",
+            "cisi": "H-1107",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Phyt"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1057.1",
+            "cisi": "H-733",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Phyt"
+          },
+          {
+            "id": "1226.1",
+            "cisi": "H-194",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Phyt"
+          },
+          {
+            "id": "1633.1",
+            "cisi": "H-734",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Phyt"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "235 772 740",
+        "right": "240 772 740",
+        "left_records": [
+          {
+            "id": "3508.1",
+            "cisi": "M-1146",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Elep"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2348.1",
+            "cisi": "M-1988",
+            "site": "Mohenjo-daro",
+            "type": "SEAL",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "left": "806 235 520",
+        "right": "806 240 520",
+        "left_records": [
+          {
+            "id": "3122.1",
+            "cisi": "M-686",
+            "site": "Mohenjo-daro",
+            "type": "SEAL",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3182.1",
+            "cisi": "M-759",
+            "site": "Mohenjo-daro",
+            "type": "SEAL",
+            "symbol": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "820",
+    "sign_b": "861",
+    "contexts": 6,
+    "examples": [
+      {
+        "position": 1,
+        "left": "820 2 3 390",
+        "right": "861 2 3 390",
+        "left_records": [
+          {
+            "id": "634.1",
+            "cisi": "H-1680",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "2386.1",
+            "cisi": "M-1729",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "3855.1",
+            "cisi": "Ns-7",
+            "site": "Nausharo",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          },
+          {
+            "id": "3990.1",
+            "cisi": "M-1806",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1938.1",
+            "cisi": "K-82",
+            "site": "Kalibangan",
+            "type": "TAG:L",
+            "symbol": "Bull1"
+          },
+          {
+            "id": "2228.1",
+            "cisi": "M-1697",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "3137.1",
+            "cisi": "M-712",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "820 2 4 390",
+        "right": "861 2 4 390",
+        "left_records": [
+          {
+            "id": "2630.1",
+            "cisi": "M-103",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2450.1",
+            "cisi": "M-1750",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "820 2 415 100 740",
+        "right": "861 2 415 100 740",
+        "left_records": [
+          {
+            "id": "3151.1",
+            "cisi": "M-727",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3262.1",
+            "cisi": "M-850",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:L"
+          },
+          {
+            "id": "3279.1",
+            "cisi": "M-869",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "820 2 590 390 740",
+        "right": "861 2 590 390 740",
+        "left_records": [
+          {
+            "id": "2929.1",
+            "cisi": "M-437",
+            "site": "Mohenjo-daro",
+            "type": "TAG:P",
+            "symbol": "Zebu"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "537.1",
+            "cisi": "H-1692",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "820 2 236",
+        "right": "861 2 236",
+        "left_records": [
+          {
+            "id": "52.1",
+            "cisi": "-",
+            "site": "Bhirrana",
+            "type": "SEAL:S",
+            "symbol": "Bull1"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2073.1",
+            "cisi": "L-130",
+            "site": "Lothal",
+            "type": "TAG",
+            "symbol": "Bull1"
+          },
+          {
+            "id": "2074.1",
+            "cisi": "L-131",
+            "site": "Lothal",
+            "type": "TAG",
+            "symbol": "-"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "705",
+    "sign_b": "706",
+    "contexts": 5,
+    "examples": [
+      {
+        "position": 2,
+        "left": "31 705 33 520",
+        "right": "31 706 33 520",
+        "left_records": [
+          {
+            "id": "2662.1",
+            "cisi": "M-135",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1510.1",
+            "cisi": "H-550",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "-"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "705 33 520",
+        "right": "706 33 520",
+        "left_records": [
+          {
+            "id": "2088.1",
+            "cisi": "L-146",
+            "site": "Lothal",
+            "type": "TAG:O",
+            "symbol": "Bull1"
+          },
+          {
+            "id": "2649.1",
+            "cisi": "M-122",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          },
+          {
+            "id": "3658.1",
+            "cisi": "M-1359",
+            "site": "Mohenjo-daro",
+            "type": "SEAL",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1112.1",
+            "cisi": "H-53",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:I"
+          },
+          {
+            "id": "4167.1",
+            "cisi": "-",
+            "site": "Dholavira",
+            "type": "SEAL:R",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "left": "590 705 868",
+        "right": "590 706 868",
+        "left_records": [
+          {
+            "id": "532.1",
+            "cisi": "H-2069",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "647.2",
+            "cisi": "H-2062",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1778.1",
+            "cisi": "H-896",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1781.1",
+            "cisi": "H-899",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "390.1",
+            "cisi": "H-2063",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1321.1",
+            "cisi": "H-299",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1779.1",
+            "cisi": "H-1181",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "4052.2",
+            "cisi": "H-897",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "705 33 923 740 1",
+        "right": "706 33 923 740 1",
+        "left_records": [
+          {
+            "id": "2488.2",
+            "cisi": "-",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Comp"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3001.1",
+            "cisi": "M-527",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Elep"
+          },
+          {
+            "id": "3002.1",
+            "cisi": "M-528",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Elep"
+          },
+          {
+            "id": "3003.1",
+            "cisi": "M-529",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Elep"
+          },
+          {
+            "id": "3004.1",
+            "cisi": "M-530",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Elep"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "705 717 388 154",
+        "right": "706 717 388 154",
+        "left_records": [
+          {
+            "id": "134.1",
+            "cisi": "-",
+            "site": "Dholavira",
+            "type": "SEAL:R",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3577.1",
+            "cisi": "M-1270",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:R",
+            "symbol": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "151",
+    "sign_b": "740",
+    "contexts": 4,
+    "examples": [
+      {
+        "position": 3,
+        "left": "220 100 151",
+        "right": "220 100 740",
+        "left_records": [
+          {
+            "id": "2011.1",
+            "cisi": "L-38",
+            "site": "Lothal",
+            "type": "SEAL:S",
+            "symbol": "Bull1:V"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2958.1",
+            "cisi": "M-473",
+            "site": "Mohenjo-daro",
+            "type": "TAB:B",
+            "symbol": "-"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "416 840 151",
+        "right": "416 840 740",
+        "left_records": [
+          {
+            "id": "1662.1",
+            "cisi": "H-770",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "4165.1",
+            "cisi": "-",
+            "site": "Dholavira",
+            "type": "SEAL:S",
+            "symbol": "Bull1:V"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "590 390 151",
+        "right": "590 390 740",
+        "left_records": [
+          {
+            "id": "3924.1",
+            "cisi": "H-1046",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "6.1",
+            "cisi": "Ad-1",
+            "site": "Allahdino",
+            "type": "SEAL:S",
+            "symbol": "Bull1"
+          },
+          {
+            "id": "90.1",
+            "cisi": "C-2",
+            "site": "Chanhu-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:L"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "left": "861 2 176 151",
+        "right": "861 2 176 740",
+        "left_records": [
+          {
+            "id": "2179.1",
+            "cisi": "M-1880",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Gaur"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2323.1",
+            "cisi": "M-1755",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "923",
+    "contexts": 4,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 176 740",
+        "right": "233 923 740",
+        "left_records": [
+          {
+            "id": "2008.1",
+            "cisi": "L-35",
+            "site": "Lothal",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          },
+          {
+            "id": "2022.1",
+            "cisi": "L-55",
+            "site": "Lothal",
+            "type": "SEAL:S",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3340.1",
+            "cisi": "M-945",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "left": "235 176 740",
+        "right": "235 923 740",
+        "left_records": [
+          {
+            "id": "2931.1",
+            "cisi": "M-445",
+            "site": "Mohenjo-daro",
+            "type": "TAB:B",
+            "symbol": "Bull1"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "675.2",
+            "cisi": "H-1903",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "32 220 176 740",
+        "right": "32 220 923 740",
+        "left_records": [
+          {
+            "id": "2987.2",
+            "cisi": "M-511",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          },
+          {
+            "id": "2988.2",
+            "cisi": "M-512",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2651.1",
+            "cisi": "M-124",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "left": "817 2 240 176 740",
+        "right": "817 2 240 923 740",
+        "left_records": [
+          {
+            "id": "2809.1",
+            "cisi": "M-289",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Tigr"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3526.1",
+            "cisi": "M-1166",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Tigr"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "4",
+    "contexts": 4,
+    "examples": [
+      {
+        "position": 2,
+        "left": "491 3 390",
+        "right": "491 4 390",
+        "left_records": [
+          {
+            "id": "1129.1",
+            "cisi": "H-70",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:I"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1998.1",
+            "cisi": "L-20",
+            "site": "Lothal",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "817 2 3 390",
+        "right": "817 2 4 390",
+        "left_records": [
+          {
+            "id": "61.1",
+            "cisi": "C-66",
+            "site": "Chanhu-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "1412.1",
+            "cisi": "H-407",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "2560.1",
+            "cisi": "M-32",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "401.1",
+            "cisi": "H-2003",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Mult"
+          },
+          {
+            "id": "951.1",
+            "cisi": "-",
+            "site": "Dholavira",
+            "type": "SEAL:S",
+            "symbol": "Bull1:U"
+          },
+          {
+            "id": "2418.1",
+            "cisi": "M-1844",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:U"
+          },
+          {
+            "id": "2453.1",
+            "cisi": "M-984",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "820 2 3 390",
+        "right": "820 2 4 390",
+        "left_records": [
+          {
+            "id": "634.1",
+            "cisi": "H-1680",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "2386.1",
+            "cisi": "M-1729",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "3855.1",
+            "cisi": "Ns-7",
+            "site": "Nausharo",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          },
+          {
+            "id": "3990.1",
+            "cisi": "M-1806",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2630.1",
+            "cisi": "M-103",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "861 2 3 390",
+        "right": "861 2 4 390",
+        "left_records": [
+          {
+            "id": "1938.1",
+            "cisi": "K-82",
+            "site": "Kalibangan",
+            "type": "TAG:L",
+            "symbol": "Bull1"
+          },
+          {
+            "id": "2228.1",
+            "cisi": "M-1697",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          },
+          {
+            "id": "3137.1",
+            "cisi": "M-712",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2450.1",
+            "cisi": "M-1750",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "176",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 2,
+        "left": "140 176 740 400",
+        "right": "140 61 740 400",
+        "left_records": [
+          {
+            "id": "2356.1",
+            "cisi": "M-2098",
+            "site": "Mohenjo-daro",
+            "type": "ROD",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "382.2",
+            "cisi": "H-1894",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "921.2",
+            "cisi": "H-1929",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Bull2"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "817 2 176 740",
+        "right": "817 2 61 740",
+        "left_records": [
+          {
+            "id": "2263.1",
+            "cisi": "M-963",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2729.1",
+            "cisi": "M-204",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          },
+          {
+            "id": "3236.1",
+            "cisi": "M-823",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "861 2 176 151",
+        "right": "861 2 61 151",
+        "left_records": [
+          {
+            "id": "2179.1",
+            "cisi": "M-1880",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Gaur"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3197.1",
+            "cisi": "M-783",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "803",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "803 740 400",
+        "left_records": [
+          {
+            "id": "260.2",
+            "cisi": "-",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "265.1",
+            "cisi": "H-1273",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "463.2",
+            "cisi": "H-1827",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "585.1",
+            "cisi": "H-1954",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Bull"
+          },
+          {
+            "id": "1260.1",
+            "cisi": "H-233",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "1330.1",
+            "cisi": "H-308",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1331.1",
+            "cisi": "H-309",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1334.1",
+            "cisi": "H-312",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1335.1",
+            "cisi": "H-313",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1336.1",
+            "cisi": "H-314",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1337.1",
+            "cisi": "H-315",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1338.1",
+            "cisi": "H-316",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1339.1",
+            "cisi": "H-317",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1371.1",
+            "cisi": "H-352",
+            "site": "Harappa",
+            "type": "SEAL:R",
+            "symbol": "Bult"
+          },
+          {
+            "id": "1372.1",
+            "cisi": "H-353",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Bult"
+          },
+          {
+            "id": "1373.1",
+            "cisi": "H-354",
+            "site": "Harappa",
+            "type": "SEAL:R",
+            "symbol": "Bult"
+          },
+          {
+            "id": "1374.1",
+            "cisi": "H-355",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1375.2",
+            "cisi": "H-356",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Bult"
+          },
+          {
+            "id": "1376.1",
+            "cisi": "H-357",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Bult"
+          },
+          {
+            "id": "1814.2",
+            "cisi": "H-934",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1815.1",
+            "cisi": "H-935",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1816.1",
+            "cisi": "H-936",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1817.1",
+            "cisi": "H-937",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1837.2",
+            "cisi": "H-960",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1839.1",
+            "cisi": "H-962",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1855.1",
+            "cisi": "H-978",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Bult"
+          },
+          {
+            "id": "1856.2",
+            "cisi": "H-979",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Bult"
+          },
+          {
+            "id": "1863.3",
+            "cisi": "H-987",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "4036.1",
+            "cisi": "M-2097",
+            "site": "Mohenjo-daro",
+            "type": "ROD",
+            "symbol": "None"
+          },
+          {
+            "id": "4085.1",
+            "cisi": "H-1344",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Bult"
+          },
+          {
+            "id": "4086.1",
+            "cisi": "H-1345",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Bult"
+          },
+          {
+            "id": "4087.1",
+            "cisi": "H-1346",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Bult"
+          },
+          {
+            "id": "4088.1",
+            "cisi": "H-1347",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Bult"
+          },
+          {
+            "id": "5470.1",
+            "cisi": "H-1304",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2966.1",
+            "cisi": "M-482",
+            "site": "Mohenjo-daro",
+            "type": "TAB:B",
+            "symbol": "Mult"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "left": "233 176 740",
+        "right": "233 803 740",
+        "left_records": [
+          {
+            "id": "2008.1",
+            "cisi": "L-35",
+            "site": "Lothal",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          },
+          {
+            "id": "2022.1",
+            "cisi": "L-55",
+            "site": "Lothal",
+            "type": "SEAL:S",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2761.1",
+            "cisi": "M-238",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Gaur"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "left": "235 176 740",
+        "right": "235 803 740",
+        "left_records": [
+          {
+            "id": "2931.1",
+            "cisi": "M-445",
+            "site": "Mohenjo-daro",
+            "type": "TAB:B",
+            "symbol": "Bull1"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2476.1",
+            "cisi": "M-1845",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "415",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 100 740",
+        "right": "415 100 740",
+        "left_records": [
+          {
+            "id": "1345.1",
+            "cisi": "H-323",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "459.2",
+            "cisi": "H-1991",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "1733.3",
+            "cisi": "H-847",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "2306.1",
+            "cisi": "M-1886",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Gaur"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "left": "235 240 220 520",
+        "right": "235 415 220 520",
+        "left_records": [
+          {
+            "id": "3357.1",
+            "cisi": "M-962",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2841.1",
+            "cisi": "M-323",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:L"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "240 100 740 400",
+        "right": "415 100 740 400",
+        "left_records": [
+          {
+            "id": "1276.1",
+            "cisi": "H-251",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Gaur"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2755.1",
+            "cisi": "M-231",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:I"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "231",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 17 585 95 520 32 407",
+        "right": "231 17 585 95 520 32 407",
+        "left_records": [
+          {
+            "id": "2284.2",
+            "cisi": "M-2053",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3019.1",
+            "cisi": "M-547",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Othr"
+          },
+          {
+            "id": "3020.1",
+            "cisi": "M-548",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Goat:8"
+          },
+          {
+            "id": "3021.1",
+            "cisi": "M-549",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "-"
+          },
+          {
+            "id": "3791.1",
+            "cisi": "M-1555",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          },
+          {
+            "id": "3792.1",
+            "cisi": "M-1556",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          },
+          {
+            "id": "3793.1",
+            "cisi": "M-1557",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          },
+          {
+            "id": "3794.1",
+            "cisi": "M-1558",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          },
+          {
+            "id": "5587.1",
+            "cisi": "-",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Buff"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "left": "3 220 740",
+        "right": "3 231 740",
+        "left_records": [
+          {
+            "id": "2814.1",
+            "cisi": "M-294",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Scene"
+          },
+          {
+            "id": "3720.1",
+            "cisi": "M-1439",
+            "site": "Mohenjo-daro",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "3722.1",
+            "cisi": "M-1441",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:R",
+            "symbol": "None"
+          },
+          {
+            "id": "3723.1",
+            "cisi": "M-1442",
+            "site": "Mohenjo-daro",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "3724.1",
+            "cisi": "M-1443",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:R",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1332.1",
+            "cisi": "H-310",
+            "site": "Harappa",
+            "type": "SEAL:R",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "820 60 220 798 740",
+        "right": "820 60 231 798 740",
+        "left_records": [
+          {
+            "id": "2427.1",
+            "cisi": "M-1768",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2345.1",
+            "cisi": "M-1804",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "235",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 240 740 90",
+        "right": "31 240 740 90",
+        "left_records": [
+          {
+            "id": "574.1",
+            "cisi": "H-2055",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "S590"
+          },
+          {
+            "id": "666.1",
+            "cisi": "H-2054",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "S590"
+          },
+          {
+            "id": "902.1",
+            "cisi": "H-2020",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Gavi"
+          },
+          {
+            "id": "904.1",
+            "cisi": "H-2019",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Gavi"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1430.1",
+            "cisi": "H-440",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "235 176 740",
+        "right": "31 176 740",
+        "left_records": [
+          {
+            "id": "2931.1",
+            "cisi": "M-445",
+            "site": "Mohenjo-daro",
+            "type": "TAB:B",
+            "symbol": "Bull1"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2682.1",
+            "cisi": "M-155",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "235 388 740",
+        "right": "31 388 740",
+        "left_records": [
+          {
+            "id": "2347.1",
+            "cisi": "M-1817",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:II"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "559.1",
+            "cisi": "H-1834",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "1858.1",
+            "cisi": "H-982",
+            "site": "Harappa",
+            "type": "SEAL:R",
+            "symbol": "Bult"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "772",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 176 740",
+        "right": "235 772 740",
+        "left_records": [
+          {
+            "id": "2931.1",
+            "cisi": "M-445",
+            "site": "Mohenjo-daro",
+            "type": "TAB:B",
+            "symbol": "Bull1"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3508.1",
+            "cisi": "M-1146",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Elep"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "817 2 176 740",
+        "right": "817 2 772 740",
+        "left_records": [
+          {
+            "id": "2263.1",
+            "cisi": "M-963",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3308.1",
+            "cisi": "M-903",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "left": "861 2 176 740",
+        "right": "861 2 772 740",
+        "left_records": [
+          {
+            "id": "2323.1",
+            "cisi": "M-1755",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:L"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2679.1",
+            "cisi": "M-152",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "904",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 4,
+        "left": "235 705 33 176 740",
+        "right": "235 705 33 904 740",
+        "left_records": [
+          {
+            "id": "596.2",
+            "cisi": "H-2139",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "8.1",
+            "cisi": "Ad-3",
+            "site": "Allahdino",
+            "type": "SEAL:S",
+            "symbol": "Bull1:II"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "left": "240 176 740 400",
+        "right": "240 904 740 400",
+        "left_records": [
+          {
+            "id": "746.1",
+            "cisi": "H-2200",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Fish"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "410.2",
+            "cisi": "H-1897",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "left": "817 2 240 176 740",
+        "right": "817 2 240 904 740",
+        "left_records": [
+          {
+            "id": "2809.1",
+            "cisi": "M-289",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Tigr"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "280.1",
+            "cisi": "-",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Bull2"
+          },
+          {
+            "id": "1602.1",
+            "cisi": "H-697",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Bull2"
+          },
+          {
+            "id": "3959.1",
+            "cisi": "H-1100",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Bull2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "390",
+    "sign_b": "407",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 2,
+        "left": "590 390 740",
+        "right": "590 407 740",
+        "left_records": [
+          {
+            "id": "6.1",
+            "cisi": "Ad-1",
+            "site": "Allahdino",
+            "type": "SEAL:S",
+            "symbol": "Bull1"
+          },
+          {
+            "id": "90.1",
+            "cisi": "C-2",
+            "site": "Chanhu-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:L"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1874.1",
+            "cisi": "Hls-1",
+            "site": "Hulas",
+            "type": "TAG:P",
+            "symbol": "None"
+          },
+          {
+            "id": "3730.2",
+            "cisi": "M-1452",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Othr"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "left": "820 2 4 390",
+        "right": "820 2 4 407",
+        "left_records": [
+          {
+            "id": "2630.1",
+            "cisi": "M-103",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2881.1",
+            "cisi": "M-385",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:R",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "left": "861 2 4 390",
+        "right": "861 2 4 407",
+        "left_records": [
+          {
+            "id": "2450.1",
+            "cisi": "M-1750",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "789.1",
+            "cisi": "H-1785",
+            "site": "Harappa",
+            "type": "TAB:B",
+            "symbol": "Phyt"
+          },
+          {
+            "id": "3437.1",
+            "cisi": "M-1063",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "-"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "25",
+    "sign_b": "28",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "25 32 740 400",
+        "right": "28 32 740 400",
+        "left_records": [
+          {
+            "id": "638.2",
+            "cisi": "H-2209",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Fish"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "544.2",
+            "cisi": "H-2115",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1344.1",
+            "cisi": "H-322",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          },
+          {
+            "id": "1844.1",
+            "cisi": "H-967",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "25 32 740",
+        "right": "28 32 740",
+        "left_records": [
+          {
+            "id": "871.2",
+            "cisi": "H-2206",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Fish"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1124.1",
+            "cisi": "H-65",
+            "site": "Harappa",
+            "type": "SEAL:S",
+            "symbol": "Bull1:U"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sign_a": "25",
+    "sign_b": "59",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "25 32 740 400",
+        "right": "59 32 740 400",
+        "left_records": [
+          {
+            "id": "638.2",
+            "cisi": "H-2209",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Fish"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1796.1",
+            "cisi": "H-916",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "left": "25 32 740",
+        "right": "59 32 740",
+        "left_records": [
+          {
+            "id": "871.2",
+            "cisi": "H-2206",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "Fish"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1326.2",
+            "cisi": "H-304",
+            "site": "Harappa",
+            "type": "TAB:I",
+            "symbol": "None"
+          }
+        ]
+      }
+    ]
+  }
+]

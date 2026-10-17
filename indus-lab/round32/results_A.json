@@ -1,0 +1,38 @@
+{
+  "source": "/home/claude/j-luo93/neurodecipher/data/linear_b-greek.cog",
+  "source_sha256": "0e8099cd9f02c36fc14599d9bc12836489816c0b1d17f471e723b98c978b10fa",
+  "rule_exact_coverage": 0.4820457018498368,
+  "settings": {
+    "steps": 150000,
+    "chains": 4,
+    "T0": 3.0,
+    "T1": 0.05,
+    "k": 0.1
+  },
+  "results": [
+    {
+      "condition": "A",
+      "sign_ids": 70,
+      "text_types": 919,
+      "tokens": 3451,
+      "lexicon_forms": 919,
+      "token_accuracy": 1.0,
+      "type_accuracy": 1.0,
+      "freq_baseline": 0.9368299043755434,
+      "best_objective": -12129.9415652104,
+      "true_key_objective": -12129.941565210449,
+      "chain_objectives": [
+        -12129.941565210556,
+        -12129.94156521052,
+        -12129.9415652104,
+        -12129.941565210524
+      ],
+      "chain_accuracies": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ]
+}

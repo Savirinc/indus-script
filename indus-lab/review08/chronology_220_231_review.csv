@@ -1,0 +1,205 @@
+id,cisi,site,excavation-idno,time,period,phase,type,material,symbol,text,provisional_bin,earliest_year,latest_year,dating_status,excavation_id_group
+166.1,H-1392,Harappa,-708,-,-,-,POT:T:g,-,Mult,+000-220-000+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+173.1,H-1086,Harappa,-782,-,-,-,POT:T:s,Clay,None,+220-016+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+174.1,H-1394,Harappa,3656716,Period 3C-2,-,Stratum III,POT:T:g,Clay,None,]590-220-003+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+175.1,H-1418,Harappa,-761,-,-,-,POT:T:g,Clay,None,]220-032+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+185.1,H-1410,Harappa,-721,-,-,-,POT:T:g,Clay,None,]080-388-220[,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+186.1,H-1403,Harappa,3931739,-,-,-,POT:T:g,Clay,None,]000-000-220+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+187.2,H-1282,Harappa,1433570,-,-,-,TAB:I,Steatite,None,]220[,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+188.1,H-1412,Harappa,3779723,-,-,-,POT:T:g,Clay,None,]000-550-231[,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+199.1,H-423,Harappa,-056,-,-,-,SEAL:S,Steatite,Bull1,+520-220-240-798-060-692+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+206.1,H-1404,Harappa,-760,-,-,-,POT:T:g,Clay,None,]000-220-840[,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+217.1,H-294,Harappa,10928a442,Period 3C-1,-,Stratum IV,TAB:I,Steatite,S590,+090-740-240-220+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+220.1,H-1142,Harappa,11330644,Period 3C-3,-,Stratum II,TAB:B,Faience,Fish,+400-154-440-220+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+221.1,H-1326,Harappa,11334408,Period 3C-2,-,Stratum III,TAB:I,Steatite,Bult,+520-220-415+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+223.1,H-1042,Harappa,11359101,Period 3C-2,-,Stratum III,SEAL:S,Steatite,Bull1,+740-923-000-220-002-817+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+237.1,H-1056,Harappa,11795164,Period 3B/C,-,Stratum V,SEAL:S,Steatite,Bull1,+400-090-740-220-003+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+240.1,H-73,Harappa,12002617,Period 3C-2,-,Stratum IV,SEAL:S,Steatite,Bull1:I,+151-231+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+250.1,H-1166,Harappa,12576521,Period 3B/C,-,Stratum V,TAB:I,Steatite,Bult,+220+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+252.1,H-1174,Harappa,12704526,Period 3B/C,-,-,TAB:I,Steatite,None,]220[,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+258.1,H-1121,Harappa,2270356,Period 3B/C,-,Stratum VI,TAB:B,Faience,None,+400-520-220-016+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+277.2,H-1184,Harappa,3178507,Period 3B/C,-,-,TAB:I,Steatite,None,+520-220[,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+282.2,H-1330,Harappa,3961551,Period 3C-1,-,Stratum IV,TAB:I,Steatite,None,+520-220+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+291.1,-,Harappa,4532334,Period 3C-2,-,Stratum III,TAB:B,Clay,Gavi,+740-407-590-690-436-255-920-318-220-415-803+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+293.1,H-1033,Harappa,483046,Period 3C-3,-,Stratum II,SEAL:S,Steatite,Bull1:W,+220-500-520-002-862-032+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+302.2,H-1152,Harappa,647363,Period 3B/C,-,-,TAB:B,Faience,None,]220-700[,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+303.1,H-1043,Harappa,7006073,Period 3C-3,-,Stratum III,SEAL:S,Steatite,Bull1:W,+151-760-220-003-002-861+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+308.2,-,Harappa,8080428,Period 3C-1,-,Stratum IV,TAB:I,Steatite,None,+000-220+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+311.1,H-1192,Harappa,8650c452,Period 3C-1,-,Stratum IV,TAB:I,Steatite,None,+400-740-767-220-416+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+311.2,H-1192,Harappa,8650c452,Period 3C-1,-,Stratum IV,TAB:I,Steatite,None,+700-220-004+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+313.1,H-1123,Harappa,9015360,Period 3B/C,-,Stratum VI,TAB:B,Faience,None,+525-550-220+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+318.1,H-1028,Harappa,Ai16171,Period 3B/C,-,-,SEAL:S,Steatite,Bull1:W,+220-016+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+322.1,H-1027,Harappa,G217015,Period 4,-,Stratum II,SEAL:S,Steatite,Bull1:W,+520-033-706-231-415-803+,4,-1900,-1800,label_crosswalk_only_not_object_verified,other_scheme_unverified
+388.2,H-1874,Harappa,H2000-4403Figure 44.03,Period 3B,3,B,TAB:B,Faience,None,+002-220-455-000+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+397.2,H-2141,Harappa,H2000-4433Figure 38.01,Period 3B/C,3,B/C,TAB:I,Steatite,None,+565-740-176-231+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+416.1,H-2035,Harappa,H2000-4471Figure 38.02,Period 3B/C,3,B/C,TAB:I,Steatite,Gavi,+220-233+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+418.2,H-2140,Harappa,H2000-4475Figure 42.01,Period 3B/C,3,B/C,TAB:I,Steatite,None,+565-740-176-231+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+467.2,H-1825,Harappa,H2001-5082Figure 44.06,Period 3B,3,B,TAB:B,Faience,None,+740-176-220+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+479.1,H-1669,Harappa,H2001-5139Figure 48.10,Period 3C,3,C,SEAL:S,Steatite,Bull1:W,+520-220-415-060-920+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+481.1,H-2148,Harappa,H2001-5142Figure 48.01,Period 3C,3,C,TAB:I,Steatite,None,+520-220-415+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+485.1,H-1953,Harappa,H2001-5148Figure 48.09,Period 3C,3,C,TAB:B,Clay,Zebu,+700-032-220+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+485.2,H-1953,Harappa,H2001-5148Figure 48.09,Period 3C,3,C,TAB:B,Clay,Zebu,+520-220-415-240-803+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+491.1,H-2127,Harappa,H2001-5201Figure 47.03,Period 3C,3,C,TAB:I,Steatite,None,+455-590-142-220+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+517.1,H-1722,Harappa,H90-1686Figure 13.44 (b),Period 3B/C,3,B/C,TAG,-,None,+520-220-415-000[,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+517.2,H-1722,Harappa,H90-1686Figure 13.44 (b),Period 3B/C,3,B/C,TAG,-,None,]000-220[,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+538.1,H-2343,Harappa,H93-3323,Period 3,3,-,POT:T:g,Clay,None,]220-032-176-000+,3,-2600,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+553.2,-,Harappa,H94-2184Figure 18.04,-,-,-,TAB:B,Faience,-,+220+,UNASSIGNED,,,scheme_or_date_unverified,harp_candidate
+568.1,H-1777,Harappa,H94-2218Figure 24.03,Period 3B/C,3,B/C,TAB:B,Faience,Gavi,]220+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+576.1,H-1685,Harappa,H94-2262,Period 3,3,-,SEAL:S,-,Bull,+090-740-220-000-000-000-000+,3,-2600,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+578.2,H-2197,Harappa,H94-2267Figure 22.02,Period 3B/C,3,B/C,TAB:I,Steatite,None,+400-090-740-100-390-231+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+586.1,H-2194,Harappa,H94-2320Figure 29.02,Period 3B,3,B,TAB:I,Steatite,None,+590-032-220[,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+589.1,H-2128,Harappa,H94-2323Figure 29.06,Period 3B,3,B,TAB:I,Steatite,None,+455-590-142-220+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+595.1,H-1892,Harappa,H94-2435Figure 17.12,-,-,-,TAB:B,Faience,None,+220-000-700+,UNASSIGNED,,,scheme_or_date_unverified,harp_candidate
+632.1,H-2193,Harappa,H95-2417Figure 29.01,Period 3B,3,B?,TAB:I,Steatite,None,+590-032-220+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+653.1,H-1813,Harappa,H95-2443Figure 26.11,Period 3B/C,3,B/C,TAB:B,Faience,None,+400-525-550-033-705-220+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+673.2,H-2147,Harappa,H95-2514Figure 27.14,Period 3B/C,3,B/C,TAB:I,Steatite,None,]220-415+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+674.2,H-2129,Harappa,H95-2515Figure 30.05,Period 3B/C,3,B/C,TAB:I,Steatite,None,]000-590-231+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+705.1,H-2264,Harappa,H95-2924,Period 3,3,-,POT:T:g,Clay,None,]000-231-060-820[,3,-2600,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+707.1,H-2336,Harappa,H95-3043,Period 3,3,-,POT:T:g,Clay,None,+740-463-495-220[,3,-2600,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+715.1,H-1734,Harappa,H95-4450-31Figure 39.11,-,-,-,POT:T:s,Clay,None,+016-220-382+,UNASSIGNED,,,scheme_or_date_unverified,harp_candidate
+729.1,H-2010,Harappa,H96-2708Figure 17.05,Period 3C,3,C,TAB:B,Faience,Bull1,+740-176-220-235+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+739.1,H-1687,Harappa,H96-2765Figure 18.01,Period 3B,3,B,SEAL:S,Steatite,Bull1:J,+520-220[,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+741.1,H-1690,Harappa,H96-2766Figure 17.16,Period 3C,3,C,SEAL:S,Steatite,Tigr,]000-741-615-440-220+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+744.2,H-1993,Harappa,H96-2769Figure 17.07,Period 3C,3,C,TAB:B,Clay,None,+740-000-220-004-002-390-095+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+751.2,H-1872,Harappa,H96-2778Figure 17.13,Period 3C,3,C,TAB:B,Faience,None,+400-236-220+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+770.2,H-2150,Harappa,H96-3048Figure 19.05,Period 3B,3,B,TAB:I,Steatite,None,]220-415+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+795.2,H-2080,Harappa,H96-3126Figure 19.16,Period 3B,3,B,TAB:I,Steatite,None,]220-760[,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+816.1,H-2240,Harappa,H96-3177Figure 20.03,Period 3B/C,3,B/C,TAB:I,Steatite,Bult,+520-220-415+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+824.2,H-1775,Harappa,H97-3251Figure 13.06,Period 3B/C,3,B/C,TAB:B,Faience,None,+220-000-700-033+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+827.2,H-2145,Harappa,H97-3283Figure 16.04,Period 3B,3,B,TAB:I,Steatite,None,+074-220-415+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+841.1,H-2146,Harappa,H97-3300Figure 16.14,Period 3B,3,B,TAB:I,Steatite,None,+520-220-415+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+848.1,H-2149,Harappa,H97-3308Figure 16.18,Period 3B,3,B,TAB:I,Steatite,None,+520-220-415+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+865.2,H-2152,Harappa,H97-3327Figure 15.19,Period 3B,3,B,TAB:I,Steatite,None,]220-415+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+891.2,H-2195,Harappa,H97-3366Figure 15.15,Period 3B,3,B,TAB:I,Steatite,None,]000-220+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+902.2,H-2020,Harappa,H97-3381Figure 13.02,Period 3,3,-,TAB:B,Clay,Gavi,+690-590-032-220+,3,-2600,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+904.2,H-2019,Harappa,H97-3383Figure 13.01,Period 3B,3,B,TAB:B,Clay,Gavi,+690-590-032-220+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,harp_candidate
+913.1,H-1992,Harappa,H97-3406Figure 14.18,Period 3,3,-,TAB:B,Faience,Bull1,+520-220-415+,3,-2600,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+913.2,H-1992,Harappa,H97-3406Figure 14.18,Period 3,3,-,TAB:B,Faience,Bull1,+520-220-415+,3,-2600,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+920.1,H-1678,Harappa,H97-3433Figure 17.03,Period 3B/C,3,B/C,SEAL:S,Steatite,Bull1:W,+520-233-240-220-032+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+925.2,H-1838,Harappa,H98-3441Figure 25.02,-,3,A-C,TAB:B,Faience,None,+220-000-000-000+,UNASSIGNED,,,scheme_or_date_unverified,harp_candidate
+927.2,H-1941,Harappa,H98-3443Figure 25.08,Period 3,3,-,TAB:B,Faience,Bult,+400-236-220+,3,-2600,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+928.1,H-1837,Harappa,H98-3488Figure 24.04,Period 3C,3,C,TAB:B,Faience,None,+220-000-700[,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+937.1,H-2011,Harappa,H98-3500Figure 24.05,Period 3C,3,C,TAB:B,Clay,Bull1,+740-176-220-235+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+939.1,H-1705,Harappa,H98-3507Figure 24.13,Period 3C,3,C,SEAL:R,Steatite,None,+740-904-231-240-798-060-692+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+947.2,H-1805,Harappa,H98-3515Figure 24.09,Period 3C,3,C,TAB:B,Faience,None,]705-220-000[,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+984.1,-,Harappa,H98-8403-37Figure 26.10,Period 2,2,-,POT:T:g,Clay,None,+220+,2,-2800,-2600,label_crosswalk_only_not_object_verified,harp_candidate
+1017.1,H-1737,Harappa,H99-3959Figure 35.03,Period 3C,3,C,POT:T:s,Clay,None,+220-033+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+1019.2,H-2012,Harappa,H99-3966Figure 33.10,Period 3B/C,3,B/C,TAB:B,Clay,None,]235-220+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+1020.1,H-1657,Harappa,H99-4064Figure 32.07,Period 3C,3,C,SEAL:S,Steatite,Bull1:W,+740-405-590-032-900-003-806-235-220-032-002-690-921+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+1025.2,H-2178,Harappa,H99-4074Figure 33.04,Period 3B/C,3,B/C,TAB:I,Steatite,None,]220-415+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+1029.1,H-1738,Harappa,H99-4209Figure 35.01,Period 3C,3,C,POT:T:s,Clay,None,+220[,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+1032.1,H-1736,Harappa,H99-4212Figure 35.02,Period 3C,3,C,POT:T:s,Clay,None,+220-033+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,harp_candidate
+1065.1,H-4,Harappa,12751693,Period 3B/C,-,-,SEAL:S,Steatite,Bull1:W,+220-063-051+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1070.1,H-9,Harappa,115009,Period 3C-2,-,Stratum III,SEAL:S,Steatite,Bull1:W,+220-017+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1073.1,H-12,Harappa,116005,Period 3C-2,-,Stratum III,SEAL:S,Steatite,Bull1:W,+740-690-435-255-803-220-240-235-002-817+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1078.1,H-18,Harappa,10142071,Period 3C-2,-,Stratum III,SEAL:S,Steatite,Bull1:W,]000-220-032-002-820+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1080.1,H-20,Harappa,3170019,Period 3C-3,-,Stratum II,SEAL:S,Steatite,Bull1:W,+740-176-690-435-255-220-032-806-060-550+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1086.1,H-26,Harappa,145016,Period 3C-2,-,Stratum III,SEAL:S,Steatite,Bull1:W,+740-388-231-240-798-001-820+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1094.1,H-35,Harappa,14157,-,-,-,SEAL:S,-,Bull1:S,+679-220-240-803-000[,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1095.1,H-36,Harappa,J500113,Period 4,-,Stratum I,SEAL:S,Steatite,Bull1:S,+740-798-220-742-146+,4,-1900,-1800,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1098.1,H-39,Harappa,J273104,Period 3C-3,-,Stratum II,SEAL:S,Steatite,Bull1:W,+740-390-590-231-240-235-745-060-920+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1117.1,H-58,Harappa,A336105,Period 3C-2,-,Stratum III,SEAL:S,Steatite,Bull1:W,+158-806-468-740-752-231-235+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1127.1,H-68,Harappa,11849141,Period 3B/C,-,Stratum VI,SEAL:S,Steatite,Bull1:I,+090-740-220-003-002-390-072+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1139.1,H-82,Harappa,4042238,Period 3B/C,-,Stratum V,SEAL:S,Steatite,Gaur,+390-017-002-220-455-741+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1148.1,H-92,Harappa,10185b229,Period 3B/C,-,Stratum VI,SEAL:S,Steatite,Elep,+156-176-518-220-416-002-615+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1153.1,H-98,Harappa,10102256,Period 3B/C,-,Stratum VI,SEAL:S,Steatite,None,+861-920/520-220-016+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1159.1,H-1007,Harappa,H89-1420,-,-,-,POT:T:p,Clay,None,+220-000[,UNASSIGNED,,,scheme_or_date_unverified,harp_candidate
+1169.1,H-103,Harappa,2789254,-,-,-,SEAL:S,Steatite,None,+159-097/520-033-705/740-717-220-415-806+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1170.1,H-129,Harappa,Ab130269,Period 3C-3,-,Stratum II,SEAL:R,Steatite,None,+409-061-740-235-220-031-002-861-244-165+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1171.1,H-130,Harappa,12889,-,-,-,SEAL:R,-,None,+409-032-845-033-705-231-806-002-595-812-125-717+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1173.1,H-132,Harappa,12881,-,-,-,SEAL:R,-,None,+154-806-471-407-845-740-233-231-798+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1174.1,H-133,Harappa,8360261,Period 3C-4,-,Stratum I,SEAL:R,Steatite,None,+740-554-220-415-798-060-692+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1175.1,H-134,Harappa,5436264,Period 3C-2,-,Stratum III,SEAL:R,Steatite,None,+740-405-590-220-003-002-861+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1176.1,H-135,Harappa,114270,Period 3C-2,-,Stratum III,SEAL:R,Steatite,None,+740-773-231-806-002-861+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1190.1,H-149,Harappa,Ab922275,Period 3B/C,-,-,SEAL:R,Steatite,None,+405-061-033-706-794-630-220-002-820+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1206.1,H-171,Harappa,Af22312,Period 3B/C,-,-,TAB:B,Faience,Bull,+740-176-798-231+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1216.1,H-183,Harappa,12415a327,Period 3C-4,-,Stratum I,TAB:B,-,Phyt,+400-202-892-220-920+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1217.1,H-184,Harappa,3333602,Period 3C-4,-,Stratum I,TAB:B,Steatite,Phyt,+400-202-892-220-920+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1234.1,H-203,Harappa,1615,Period 3B/C,-,-,TAB:B,Faience,None,+400-740-220-415-798+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1258.1,H-231,Harappa,11381673,Period 3C-2,-,Stratum III,TAB:B,Faience,None,+520-220-240-002-820+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1293.1,H-268,Harappa,PIV-114020,Period 3C-2,-,Stratum IV,SEAL:S,Steatite,Bull1:W,+740-585-017-033-706-803-002-220-455-920+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1294.1,H-270,Harappa,7411014,Period 3C-4,-,Stratum II,SEAL:S,Steatite,Bull1:W,+740-482-055-220-415-798-803-742-617+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1300.1,H-278,Harappa,Af29,Period 3B/C,-,-,TAB:B,Steatite,Gavi,+740-407-590-690-436-255-920-318-220-415-803+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1301.1,H-279,Harappa,4261,Period 3C-4,-,Stratum I,TAB:B,Clay,Gavi,+740-407-590-690-436-255-920-318-220-415-803+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1302.1,H-280,Harappa,1201335,Period 3C-3,-,Stratum II,TAB:B,Clay,Gavi,+740-407-590-690-436-255-920-318-220-415-803+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1303.1,H-281,Harappa,4531336,Period 3C-2,-,Stratum III,TAB:B,Clay,Gavi,+740-407-590-690-436-255-920-318-220-415-803+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1304.1,H-282,Harappa,768,Period 3C-1,-,Stratum IV,TAB:B,-,Gavi,+740-407-590-690-436-255-920-318-220-415-803+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1305.1,H-283,Harappa,13429,-,-,-,TAB:B,-,Gavi,+740-407-590-690-436-255-920-318-220-415-803+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1306.1,H-284,Harappa,1123,Period 3C-3,-,Stratum II,TAB:B,Clay,Gavi,+740-407-590-690-436-255-920-318-220-415-803+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1324.1,H-302,Harappa,8650c864,Period 3C-1,-,Stratum IV,TAB:I,Steatite,None,+220-700-004+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1324.2,H-302,Harappa,8650c864,Period 3C-1,-,Stratum IV,TAB:I,Steatite,None,+400-760-740-220-416+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1332.1,H-310,Harappa,13280,-,-,-,SEAL:R,-,None,+740-231-003+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1341.1,H-319,Harappa,10060544,Period 3C-1,-,Stratum IV,TAB:I,Steatite,None,+520-220-415+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1351.1,H-329,Harappa,-,-,-,-,TAB:I,-,None,+520-220+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1364.1,H-344,Harappa,9014410,Period 3B/C,-,-,TAB:I,Steatite,None,+526-550-220+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1366.1,H-346,Harappa,11796412,Period 3B/C,-,Stratum VI,TAB:I,Steatite,None,+520-220-415+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1378.1,H-359,Harappa,12540580,Period 3B/C,-,Stratum V,TAB:I,Steatite,Bult,+526-550-220+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1383.1,H-364,Harappa,3897635,Period 3B/C,-,Stratum VI,TAB:I,Steatite,Fish,+520-220-415+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1394.1,H-375,Harappa,1898CII:012,-,-,-,POT:T:g,-,None,]000-220-002-000[,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1399.1,H-385,Harappa,2879045,Period 4,-,Stratum I,SEAL:S,Steatite,Bull1:W,+000-220-002-595-632-354-850+,4,-1900,-1800,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1401.1,H-388,Harappa,13563,-,-,-,SEAL:S,-,Bull1:W,+520-033-706-231-806-002-817+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1407.1,H-396,Harappa,Aa102027,Period 3C-3,-,Stratum II,SEAL:S,Steatite,Bull1:W,+832-904-220-415-806-000[,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1409.1,H-401,Harappa,7680168,Period 3C-1,-,Stratum IV,SEAL:S,Steatite,Bull1,+090-740-220-000[,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1416.1,H-412,Harappa,4079036,-,-,Stratum I,SEAL:S,Steatite,Bull1:I,+161-233-220-032-741-831+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1434.1,H-444,Harappa,13340,-,-,-,SEAL:S,-,Bull1:W,+241-220-032-002-861+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1449.1,H-459,Harappa,1199092,Period 3C-3,-,Stratum II,SEAL:S,Steatite,Bull1:T,+527-555-231-002-817+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1454.1,H-466,Harappa,11368111,Period 3C-2,-,Stratum III,SEAL:S,Steatite,Bull1:L,+740-390-590-233-231-741-000+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1480.1,H-502,Harappa,5634143,Period 3C-2,-,Stratum IV,SEAL:S,Steatite,Bull1:J,+090-740-220-032+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1491.1,H-514,Harappa,2463116,Period 3B/C,-,Stratum VI,SEAL:S,Steatite,Bull1:W,+151-220-016-002-820+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1500.1,H-525,Harappa,2726149,Period 3B/C,-,Stratum V,SEAL:S,Steatite,Bull1:I,+520-220[,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1519.1,H-566,Harappa,H604277,Period 5B,-,Stratum I,SEAL:S,Steatite,-,]220[,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1520.1,H-567,Harappa,-,-,-,-,SEAL,-,-,]220[,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1522.1,H-569,Harappa,5254263,Period 3C-1,-,Stratum IV,SEAL:S,Steatite,None,+740-032-840-240-220-032-000[,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1531.1,H-581,Harappa,J482,-,-,Stratum III,SEAL:S,Steatite,Bull2,+585-220-000[,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1536.1,H-592,Harappa,13987,-,-,-,SEAL:S,-,Gaur,+740-575-017-220-415-803+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1537.1,H-593,Harappa,12131250,Period 3B/C,-,Stratum VI,SEAL:S,Steatite,-,+740-760-235-240-002-220-000[,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1544.1,H-601,Harappa,10625044,Period 3C-3,-,Stratum II,SEAL:S,Clay,Bull1,+740-717-233-220-032+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1548.1,H-608,Harappa,2394225,Period 3B-1,-,Stratum VII,SEAL:S,Steatite,-,+140-220/530+,3B,-2450,-2200,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1549.1,H-609,Harappa,5551060,Period 3C-4,-,Stratum I,SEAL:S,Steatite,Bull1:W,]798-233-231-002-817-000+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1555.1,H-640,Harappa,H89-1477,-,-,-,SEAL:R,-,None,]220-032-002-817+,UNASSIGNED,,,scheme_or_date_unverified,harp_candidate
+1572.1,H-657,Harappa,398287,Period 3C-4,-,Stratum I,SEAL:R,Steatite,None,+407-061-231-235-000[,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1584.1,H-669,Harappa,PI-44289,-,-,-,SEAL:R,Steatite,None,+740-220-032+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1604.1,H-699,Harappa,13689,-,-,-,TAB:B,-,Zebu,+740-176-798-231+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1605.1,H-700,Harappa,H89-1416,-,-,-,TAB:B,-,Zebu,+740-176-798-231+,UNASSIGNED,,,scheme_or_date_unverified,harp_candidate
+1640.1,H-747,Harappa,11516656,Period 3C-1,-,Stratum IV,TAB:B,Faience,-,+400-740-220[,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1641.1,H-748,Harappa,4917654,Period 3C-1,-,Stratum IV,TAB:B,Faience,None,+400-740-220-415-798+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1653.2,H-761,Harappa,-,-,-,-,TAB:B,-,None,+400-154-440-220+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1659.1,H-767,Harappa,10058352,Period 3C-1,-,Stratum IV,TAB:B,Clay,None,+400-740-220-415-798+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1677.2,H-786,Harappa,13178,-,-,-,TAB:B,-,None,+520-220-415+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1680.1,H-789,Harappa,12549604,Period 3B/C,-,Stratum VI,TAB:B,Faience,None,+400-520-220-016+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1686.2,H-795,Harappa,13000,-,-,-,TAB:B,-,None,+442-000-220-000+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1695.2,H-806,Harappa,1646343,Period 3C-1,-,Stratum IV,TAB:B,Clay,None,+740-176-220-235+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1696.2,H-807,Harappa,1646,-,-,-,TAB:B,-,None,+740-176-220-235+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1697.2,H-808,Harappa,1646,-,-,-,TAB:B,-,None,+740-176-220-235+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1738.2,H-852,Harappa,11511596,Period 3C-3,-,Stratum II,TAB:B,Faience,Phyt,+740-760-268-233-220+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1739.1,H-853,Harappa,13556,-,-,-,TAB:B,-,Bult,+740-177-231+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1754.1,H-871,Harappa,1459,Period 3C-2,-,Stratum III,TAB:B,Clay,Gavi,+740-407-590-690-436-255-920-318-220-415-803+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1755.1,H-872,Harappa,1236,Period 3C-2,-,Stratum III,TAB:B,Clay,Gavi,+740-407-590-690-436-255-920-318-220-415-803+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1756.1,H-873,Harappa,Af168,Period 3B/C,-,-,TAB:B,Clay,Gavi,+740-407-590-690-436-255-920-318-220-415-803+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1767.1,H-884,Harappa,J256437,-,-,-,TAB:I,Steatite,None,+220+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1781.2,H-899,Harappa,J274471,-,-,Stratum II,TAB:I,Steatite,None,+400-520-231-240+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1793.1,H-912,Harappa,8650c448,Period 3C-1,-,Stratum IV,TAB:I,Steatite,None,+400-740-760-220-416+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1793.2,H-912,Harappa,8650c448,Period 3C-1,-,Stratum IV,TAB:I,Steatite,None,+220-700-004+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1806.1,H-926,Harappa,12461519,Period 3C-3,-,Stratum II,TAB:I,Steatite,None,+400-740-840-000-220+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1818.1,H-938,Harappa,8650b458,Period 3C-1,-,Stratum IV,TAB:I,Steatite,None,+520-220-415+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1819.2,H-939,Harappa,J402,-,-,Stratum IV,TAB:I,Steatite,None,+520-220-415+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+1820.1,H-940,Harappa,3484453,Period 3B/C,-,Stratum V,TAB:I,Steatite,None,+520-220-415+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1821.2,H-941,Harappa,2703464,Period 3B/C,-,Stratum V,TAB:I,Steatite,None,+520-220-415+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1822.1,H-942,Harappa,5152490,Period 3C-2,-,Stratum IV,TAB:I,Steatite,None,+520-220-016+,3C,-2200,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1830.1,H-950,Harappa,2431463,Period 3B/C,-,Stratum VI,TAB:I,Steatite,None,+710-455-220-032+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1849.1,H-972,Harappa,11793418,Period 3B/C,-,Stratum VI,TAB:I,Steatite,Bult,+000-220-415+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+1850.1,H-973,Harappa,3171411,Period 3B/C,-,Stratum VI,TAB:I,Steatite,None,+220+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+2919.2,H-2584,Harappa,-,-,-,-,TAG:R,Clay,None,+527-550-231-798[,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+3918.1,H-1024,Harappa,057,-,-,-,SEAL:S,-,Bull1:W,+740-443-388-231+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+3950.1,H-1084,Harappa,-781,-,-,-,POT:T:s,Clay,None,+220-032+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+3964.1,H-1103,Harappa,3333330,Period 3B/C,-,-,TAB:B,Steatite,Phyt,+400-202-000-220-000+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+3969.1,H-1124,Harappa,-451,-,-,-,TAB:B,-,None,+400-236-220+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+3970.2,H-1130,Harappa,1646304,-,-,-,TAB:B,-,None,+740-176-220-235+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+3971.2,H-1131,Harappa,1646305,-,-,-,TAB:B,-,None,+740-176-220-235+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+4056.1,H-1191,Harappa,8650c448,Period 3B/C,-,-,TAB:I,-,None,+400-740-760-220-416+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+4056.2,H-1191,Harappa,8650c448,Period 3B/C,-,-,TAB:I,-,None,+220-700-004+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+4069.1,H-1284,Harappa,-458,-,-,-,TAB:I,-,None,+520-220-415+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+4084.1,H-1342,Harappa,1665578,Period 3B/C,-,-,TAB:I,-,Gavi+Bult,+090-740-220+,3B/C,-2450,-1900,label_crosswalk_only_not_object_verified,other_scheme_unverified
+4108.1,H-1387,Harappa,H95789,-,-,-,POT:M,Clay,-,+220+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+4132.1,H-1486,Harappa,4305439,-,-,-,POT:T:g,Clay,None,]220+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified
+5397.1,-,Harappa,-,-,-,-,POT:T:g,Clay,-,]000-000-220+,UNASSIGNED,,,scheme_or_date_unverified,other_scheme_unverified

@@ -1,0 +1,22 @@
+[
+  {
+    "condition": "sweep_230_many2one",
+    "sign_ids": 239,
+    "text_types": 919,
+    "tokens": 3451,
+    "lexicon_forms": 1432,
+    "token_accuracy": 0.297305128948131,
+    "type_accuracy": 0.2875536480686695,
+    "freq_baseline": 0.005795421616922631,
+    "best_objective": -29504.464086224656,
+    "true_key_objective": -29965.75974931837,
+    "chain_objectives": [
+      -29504.464086224656,
+      -29686.16143432948
+    ],
+    "chain_accuracies": [
+      0.297305128948131,
+      0.20052158794552305
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+# Round15: remove known meanings from lexical retrieval
+
+Protocol written before outcomes. Include explicitly nonloan forms with nonempty Segments and Cognacy in the frozen round14 DravLex snapshot. For every ordered pair of different languages, use every source form as a query against **all** eligible forms in the target language. Neither concept nor cognacy enters ranking, filtering of candidates, or score selection.
+
+The fixed score is1 minus whitespace-token segment Levenshtein distance divided by the larger token length. All candidates tied at the maximum share one vote: top1 success equals the fraction of tied candidates having the correct evaluation label. Evaluation labels are revealed only after ranking: (a) same Parameter_ID; (b) same Parameter_ID and exact Cognacy string. Report micro and ordered-language-pair macro rates, query count, tie information and per-direction outcomes. Separately report queries for which at least one same-concept+cognacy target exists; this subset is evaluation-only and does not change retrieval.
+
+Uniform-candidate baselines are computed per query as the fraction of the entire target inventory with each correct label, then averaged with the same weights. Scores are retrieval success fractions, not round14 AUCs; the two tasks must not be numerically compared as if they were the same metric.
+
+Optional negative control:20 seeds, jointly shuffle concept/cognacy labels among forms within each target language and evaluate the already frozen ranks; keep query labels original. These artificial corruptions are not historical nulls; no inferential p-value. No tuning or learned sound correspondence. All languages remain Dravidian; segmentation and phonetic values are known. This experiment removes meaning labels from retrieval, not sounds, and makes no Indus inference.

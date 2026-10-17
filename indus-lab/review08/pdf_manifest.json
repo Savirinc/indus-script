@@ -1,0 +1,24 @@
+[
+  {
+    "path": "/tmp/indus-v2-original.pdf",
+    "size": 35870617,
+    "sha256": "727132579a485ee626e48a64c663148a85fbc0811fb523818fd615231f8a327d"
+  },
+  {
+    "path": "/tmp/indus-v2-text-intact.pdf",
+    "size": 9840321,
+    "sha256": "e79d3f92ba25fbd696d42d3a1b059b8927a55a40ce2285cae61f9d0b901b0704"
+  },
+  {
+    "retired_path": "raw/cisi-v2-searchable.pdf",
+    "retired_sha256": "cacc17fc0d3a0d1bd6d10a775d2881619dc11dc4e32195bb2d4bdc99089f2e24",
+    "retired_bytes": 1147904,
+    "status": "truncated/unusable for reliable image extraction; replaced by full upstream file"
+  },
+  {
+    "path": "/tmp/indus-cisi-v1.pdf",
+    "bytes": 31508998,
+    "sha256": "47a4da4227cfb7baa56d6a561e25797225499d0ec54f5a702a82c67ab4746d4d",
+    "source": "https://ignca.gov.in/Asi_data/76884.pdf"
+  }
+]

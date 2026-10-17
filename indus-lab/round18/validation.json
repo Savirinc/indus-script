@@ -1,0 +1,11 @@
+{
+  "source_hash_matches": true,
+  "faces": 10,
+  "objects": 5,
+  "all_faces_have_unique_ids": true,
+  "every_object_has_A_and_B": true,
+  "lossless_crop_pixel_checks_passed": 10,
+  "imported_assertion_rows": 2,
+  "photographically_verified_sign_sequences": 0,
+  "scope_note": "Integrity checks validate extraction and identifiers, not readability, meanings or archaeological independence."
+}

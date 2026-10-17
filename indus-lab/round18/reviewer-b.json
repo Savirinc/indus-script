@@ -1,0 +1,105 @@
+[
+  {
+    "face_id": "M-1543 A",
+    "visible_features": [
+      "Broad rectangular face with rounded corners and very dark, mottled surface reproduction.",
+      "Scattered pale speckles and faint irregular linear or curved traces; no securely separable complete row of marks."
+    ],
+    "full_sequence_readable": false,
+    "sequence": null,
+    "rationale": "Abstain. At the supplied native image resolution, surface texture and possible grooves cannot be reliably separated across the whole face. This is unknown content, not an observation of an empty face."
+  },
+  {
+    "face_id": "M-1543 B",
+    "visible_features": [
+      "Dark rectangular face with uneven tonal patches and faint approximately vertical and transverse traces.",
+      "A group of darker short marks is visible near the lower edge, but the image does not establish whether these are grooves or surface-applied markings."
+    ],
+    "full_sequence_readable": false,
+    "sequence": null,
+    "rationale": "Abstain. Neither the extent of an incised sequence nor the boundaries of its units are secure. Lower-edge contrast is insufficient to recover a full sequence."
+  },
+  {
+    "face_id": "M-1544 A",
+    "visible_features": [
+      "Rough, densely mottled surface with uneven edges and a projection along the right side.",
+      "Numerous small ridges, pits and irregular linear traces overlap visually."
+    ],
+    "full_sequence_readable": false,
+    "sequence": null,
+    "rationale": "Abstain. The surface is visible, but a complete set of intentional marks cannot be isolated from its irregular texture. No empty-sequence inference is warranted."
+  },
+  {
+    "face_id": "M-1544 B",
+    "visible_features": [
+      "Rough face with rounded depressions near its upper area, uneven patches and a strongly irregular left edge.",
+      "Short dark and light traces occur throughout, without a reliably traceable complete arrangement."
+    ],
+    "full_sequence_readable": false,
+    "sequence": null,
+    "rationale": "Abstain. Surface relief and image grain prevent dependable separation of deliberate grooves, damage and texture over the whole face."
+  },
+  {
+    "face_id": "M-1545 A",
+    "visible_features": [
+      "Dark, approximately rectangular fragment with an irregular upper-left outline.",
+      "A conspicuous pale irregular line runs near the right side from the upper area toward the bottom; branching or crossing irregular lines occur above the middle.",
+      "Fine transverse surface banding and other faint short traces are visible."
+    ],
+    "full_sequence_readable": false,
+    "sequence": null,
+    "rationale": "Abstain. The prominent irregular lines are compatible with cracks or damage and cannot safely be treated as a complete sequence of incisions. Other possible marks are insufficiently resolved."
+  },
+  {
+    "face_id": "M-1545 B",
+    "visible_features": [
+      "Fragment with uneven upper and right edges and a mottled dark surface.",
+      "Several fine curved or angular traces cross its upper and middle areas, with brighter irregular lines near the top."
+    ],
+    "full_sequence_readable": false,
+    "sequence": null,
+    "rationale": "Abstain. Some local traces can be followed briefly, but their junctions, endpoints and distinction from damage are uncertain. A full sequence is not recoverable from this view."
+  },
+  {
+    "face_id": "M-1546 A",
+    "visible_features": [
+      "Small dark fragment narrowing to an irregular lower point, with a notched left edge.",
+      "A few short pale curved or angular traces appear in the lower-middle region; the remaining surface is weakly differentiated."
+    ],
+    "full_sequence_readable": false,
+    "sequence": null,
+    "rationale": "Abstain. The fragment occupies few image pixels and its local traces do not define an unambiguous complete sequence. Missing or indistinct portions cannot be reconstructed."
+  },
+  {
+    "face_id": "M-1546 B",
+    "visible_features": [
+      "Small dark fragment with an irregular lower edge and an uneven right side.",
+      "A broad bright patch dominates the central-to-lower area, with surrounding speckled texture."
+    ],
+    "full_sequence_readable": false,
+    "sequence": null,
+    "rationale": "Abstain. The bright patch and dark surrounding surface do not resolve into a clearly bounded arrangement of incisions. The face cannot be classified as blank from this reproduction."
+  },
+  {
+    "face_id": "M-1547 A",
+    "visible_features": [
+      "Elongated rectangular face with a prominent dark irregular diagonal line descending from near the upper middle.",
+      "A shallow curved trace and several short approximately vertical traces appear around the lower-middle/right area.",
+      "An isolated short pale vertical trace appears farther left; a bright patch occurs at the upper-right corner."
+    ],
+    "full_sequence_readable": false,
+    "sequence": null,
+    "rationale": "Abstain. This face offers several more recognizable local traces, but their full boundaries and relationships remain uncertain. The diagonal discontinuity and low contrast prevent a confident complete sequence."
+  },
+  {
+    "face_id": "M-1547 B",
+    "visible_features": [
+      "Elongated rectangular face with a broad dark, roughly vertical irregular band near its center.",
+      "Narrow pale traces run beside the central band, and lighter irregular streaks occur toward the right.",
+      "Most of the surface remains finely mottled with low local contrast."
+    ],
+    "full_sequence_readable": false,
+    "sequence": null,
+    "rationale": "Abstain. The central discontinuity appears compatible with damage, while adjacent potential grooves are incomplete or poorly separated from surface texture. Full-sequence recovery is not defensible at this resolution."
+  }
+]

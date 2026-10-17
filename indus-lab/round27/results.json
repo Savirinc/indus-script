@@ -1,0 +1,377 @@
+{
+  "source_sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+  "conditions": [
+    {
+      "subset": "all",
+      "source": "Harappa",
+      "target": "Mohenjo-daro",
+      "train_types": 695,
+      "target_types_before_exclusion": 1022,
+      "shared_types_excluded": 44,
+      "test_types": 978,
+      "test_sign_tokens": 4806,
+      "unknown_test_sign_tokens": 336,
+      "actual": {
+        "all": {
+          "unigram_bits_per_token": 6.568864038160368,
+          "bigram_bits_per_token": 6.054338109128594,
+          "gain_bits_per_token": 0.5145259290317742,
+          "tokens": 5784
+        },
+        "first": {
+          "unigram_bits_per_token": 8.421854194863794,
+          "bigram_bits_per_token": 9.19572772461576,
+          "gain_bits_per_token": -0.7738735297519648,
+          "tokens": 978
+        },
+        "internal": {
+          "unigram_bits_per_token": 7.162941835293617,
+          "bigram_bits_per_token": 6.469256650060468,
+          "gain_bits_per_token": 0.6936851852331495,
+          "tokens": 3828
+        },
+        "end": {
+          "unigram_bits_per_token": 2.390587779793843,
+          "bigram_bits_per_token": 1.2889115052082831,
+          "gain_bits_per_token": 1.1016762745855595,
+          "tokens": 978
+        }
+      },
+      "reversed_source": {
+        "all": {
+          "unigram_bits_per_token": 6.568864038160368,
+          "bigram_bits_per_token": 8.219391214009526,
+          "gain_bits_per_token": -1.6505271758491578,
+          "tokens": 5784
+        },
+        "first": {
+          "unigram_bits_per_token": 8.421854194863794,
+          "bigram_bits_per_token": 11.740692081630092,
+          "gain_bits_per_token": -3.3188378867662975,
+          "tokens": 978
+        },
+        "internal": {
+          "unigram_bits_per_token": 7.162941835293617,
+          "bigram_bits_per_token": 8.572632149523562,
+          "gain_bits_per_token": -1.4096903142299444,
+          "tokens": 3828
+        },
+        "end": {
+          "unigram_bits_per_token": 2.390587779793843,
+          "bigram_bits_per_token": 3.3154663165854394,
+          "gain_bits_per_token": -0.9248785367915965,
+          "tokens": 978
+        }
+      },
+      "shuffle": {
+        "all": {
+          "mean": 7.1379708189300235,
+          "minimum": 7.022437046931087,
+          "maximum": 7.276468885406099,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        },
+        "first": {
+          "mean": 9.914669365058792,
+          "minimum": 9.643578738193865,
+          "maximum": 10.379907498504455,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        },
+        "internal": {
+          "mean": 7.717370371418968,
+          "minimum": 7.568470208455552,
+          "maximum": 7.895678339044112,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        },
+        "end": {
+          "mean": 2.0934384415867995,
+          "minimum": 1.9283167262429257,
+          "maximum": 2.2788900492243633,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        }
+      }
+    },
+    {
+      "subset": "all",
+      "source": "Mohenjo-daro",
+      "target": "Harappa",
+      "train_types": 1022,
+      "target_types_before_exclusion": 695,
+      "shared_types_excluded": 44,
+      "test_types": 651,
+      "test_sign_tokens": 2653,
+      "unknown_test_sign_tokens": 140,
+      "actual": {
+        "all": {
+          "unigram_bits_per_token": 6.467770423798622,
+          "bigram_bits_per_token": 6.257814521904117,
+          "gain_bits_per_token": 0.2099559018945043,
+          "tokens": 3304
+        },
+        "first": {
+          "unigram_bits_per_token": 8.331189246185826,
+          "bigram_bits_per_token": 9.645173865469486,
+          "gain_bits_per_token": -1.3139846192836597,
+          "tokens": 651
+        },
+        "internal": {
+          "unigram_bits_per_token": 7.121224230062681,
+          "bigram_bits_per_token": 6.665479109587184,
+          "gain_bits_per_token": 0.45574512047549615,
+          "tokens": 2002
+        },
+        "end": {
+          "unigram_bits_per_token": 2.594805487524337,
+          "bigram_bits_per_token": 1.6167769839584687,
+          "gain_bits_per_token": 0.9780285035658685,
+          "tokens": 651
+        }
+      },
+      "reversed_source": {
+        "all": {
+          "unigram_bits_per_token": 6.467770423798622,
+          "bigram_bits_per_token": 8.782875134505272,
+          "gain_bits_per_token": -2.3151047107066507,
+          "tokens": 3304
+        },
+        "first": {
+          "unigram_bits_per_token": 8.331189246185826,
+          "bigram_bits_per_token": 11.987982040056442,
+          "gain_bits_per_token": -3.656792793870617,
+          "tokens": 651
+        },
+        "internal": {
+          "unigram_bits_per_token": 7.121224230062681,
+          "bigram_bits_per_token": 9.11234684334154,
+          "gain_bits_per_token": -1.9911226132788598,
+          "tokens": 2002
+        },
+        "end": {
+          "unigram_bits_per_token": 2.594805487524337,
+          "bigram_bits_per_token": 4.564554156618639,
+          "gain_bits_per_token": -1.9697486690943022,
+          "tokens": 651
+        }
+      },
+      "shuffle": {
+        "all": {
+          "mean": 7.031983638064246,
+          "minimum": 6.905270539443075,
+          "maximum": 7.172447718115491,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        },
+        "first": {
+          "mean": 9.713208411840913,
+          "minimum": 9.386317959623447,
+          "maximum": 10.164369799843946,
+          "controls_at_least_as_good": 67,
+          "controls": 200
+        },
+        "internal": {
+          "mean": 7.707653335161061,
+          "minimum": 7.554844303081128,
+          "maximum": 7.840792459511903,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        },
+        "end": {
+          "mean": 2.27289291407591,
+          "minimum": 2.112699880343288,
+          "maximum": 2.5001147307043867,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        }
+      }
+    },
+    {
+      "subset": "SEAL:S",
+      "source": "Harappa",
+      "target": "Mohenjo-daro",
+      "train_types": 185,
+      "target_types_before_exclusion": 743,
+      "shared_types_excluded": 17,
+      "test_types": 726,
+      "test_sign_tokens": 3542,
+      "unknown_test_sign_tokens": 445,
+      "actual": {
+        "all": {
+          "unigram_bits_per_token": 6.3097829585702785,
+          "bigram_bits_per_token": 5.813773158949477,
+          "gain_bits_per_token": 0.49600979962080205,
+          "tokens": 4268
+        },
+        "first": {
+          "unigram_bits_per_token": 8.014449574102375,
+          "bigram_bits_per_token": 8.958704163353133,
+          "gain_bits_per_token": -0.9442545892507568,
+          "tokens": 726
+        },
+        "internal": {
+          "unigram_bits_per_token": 6.813141530548864,
+          "bigram_bits_per_token": 6.210600122343558,
+          "gain_bits_per_token": 0.6025414082053066,
+          "tokens": 2816
+        },
+        "end": {
+          "unigram_bits_per_token": 2.6526952153633827,
+          "bigram_bits_per_token": 1.1296345389563585,
+          "gain_bits_per_token": 1.5230606764070242,
+          "tokens": 726
+        }
+      },
+      "reversed_source": {
+        "all": {
+          "unigram_bits_per_token": 6.3097829585702785,
+          "bigram_bits_per_token": 8.118383778683892,
+          "gain_bits_per_token": -1.8086008201136123,
+          "tokens": 4268
+        },
+        "first": {
+          "unigram_bits_per_token": 8.014449574102375,
+          "bigram_bits_per_token": 11.858705802358887,
+          "gain_bits_per_token": -3.8442562282565125,
+          "tokens": 726
+        },
+        "internal": {
+          "unigram_bits_per_token": 6.813141530548864,
+          "bigram_bits_per_token": 8.124806787678194,
+          "gain_bits_per_token": -1.3116652571293292,
+          "tokens": 2816
+        },
+        "end": {
+          "unigram_bits_per_token": 2.6526952153633827,
+          "bigram_bits_per_token": 4.35314826557671,
+          "gain_bits_per_token": -1.7004530502133268,
+          "tokens": 726
+        }
+      },
+      "shuffle": {
+        "all": {
+          "mean": 6.940849287363222,
+          "minimum": 6.705986063519878,
+          "maximum": 7.1155484194602625,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        },
+        "first": {
+          "mean": 9.826242097174145,
+          "minimum": 9.314727807534842,
+          "maximum": 10.523668074137674,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        },
+        "internal": {
+          "mean": 7.374723773205865,
+          "minimum": 7.1791670952832245,
+          "maximum": 7.582145824636329,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        },
+        "end": {
+          "mean": 2.3725493809503293,
+          "minimum": 2.057268616225049,
+          "maximum": 2.8287153523939357,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        }
+      }
+    },
+    {
+      "subset": "SEAL:S",
+      "source": "Mohenjo-daro",
+      "target": "Harappa",
+      "train_types": 743,
+      "target_types_before_exclusion": 185,
+      "shared_types_excluded": 17,
+      "test_types": 168,
+      "test_sign_tokens": 834,
+      "unknown_test_sign_tokens": 50,
+      "actual": {
+        "all": {
+          "unigram_bits_per_token": 6.429246619774373,
+          "bigram_bits_per_token": 5.645040864486885,
+          "gain_bits_per_token": 0.7842057552874886,
+          "tokens": 1002
+        },
+        "first": {
+          "unigram_bits_per_token": 8.257947356614748,
+          "bigram_bits_per_token": 8.718133967598668,
+          "gain_bits_per_token": -0.46018661098391955,
+          "tokens": 168
+        },
+        "internal": {
+          "unigram_bits_per_token": 6.932618778766726,
+          "bigram_bits_per_token": 6.000931618144081,
+          "gain_bits_per_token": 0.9316871606226452,
+          "tokens": 666
+        },
+        "end": {
+          "unigram_bits_per_token": 2.605034824071428,
+          "bigram_bits_per_token": 1.1610951308055213,
+          "gain_bits_per_token": 1.4439396932659063,
+          "tokens": 168
+        }
+      },
+      "reversed_source": {
+        "all": {
+          "unigram_bits_per_token": 6.429246619774373,
+          "bigram_bits_per_token": 8.974455087590627,
+          "gain_bits_per_token": -2.545208467816254,
+          "tokens": 1002
+        },
+        "first": {
+          "unigram_bits_per_token": 8.257947356614748,
+          "bigram_bits_per_token": 12.260248855074023,
+          "gain_bits_per_token": -4.002301498459275,
+          "tokens": 168
+        },
+        "internal": {
+          "unigram_bits_per_token": 6.932618778766726,
+          "bigram_bits_per_token": 9.140078153129332,
+          "gain_bits_per_token": -2.2074593743626063,
+          "tokens": 666
+        },
+        "end": {
+          "unigram_bits_per_token": 2.605034824071428,
+          "bigram_bits_per_token": 5.032084167435972,
+          "gain_bits_per_token": -2.427049343364544,
+          "tokens": 168
+        }
+      },
+      "shuffle": {
+        "all": {
+          "mean": 6.950355630270239,
+          "minimum": 6.806013643231494,
+          "maximum": 7.14063210919225,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        },
+        "first": {
+          "mean": 9.66182240357518,
+          "minimum": 9.193591443216873,
+          "maximum": 10.10867134576856,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        },
+        "internal": {
+          "mean": 7.446478952672188,
+          "minimum": 7.223777197653839,
+          "maximum": 7.671973676126077,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        },
+        "end": {
+          "mean": 2.272114257443269,
+          "minimum": 2.0609876366598034,
+          "maximum": 2.4687844363067133,
+          "controls_at_least_as_good": 0,
+          "controls": 200
+        }
+      }
+    }
+  ]
+}

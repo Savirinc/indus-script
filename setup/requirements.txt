@@ -1,0 +1,4 @@
+# rounds 29-45
+numpy
+rapidfuzz
+# some earlier rounds (09-28) also use: scipy, Pillow, fonttools, PyMuPDF, scikit-learn — check each round's imports

@@ -1,0 +1,28 @@
+{
+  "primary": {
+    "S_real": 8,
+    "n_seals": 9,
+    "fake_dist": {
+      "9": 192,
+      "8": 8
+    },
+    "p": 1.0
+  },
+  "drop_5228": {
+    "S_real": 8,
+    "fake_dist": {
+      "8": 200
+    },
+    "p": 1.0
+  },
+  "drop_strokes": {
+    "S_real": 8,
+    "fake_dist": {
+      "8": 193,
+      "7": 7
+    },
+    "p": 0.965
+  },
+  "power": "0/40 (power_results.json)",
+  "decision": "NON-INFORMATIVE"
+}

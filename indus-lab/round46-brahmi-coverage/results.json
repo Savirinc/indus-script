@@ -1,0 +1,209 @@
+{
+  "records": 5445,
+  "mapping_rows": 716,
+  "usable_mapping_ids": 681,
+  "distinct_observed_codes": 679,
+  "tokens": 16531,
+  "assigned_tokens": 14172,
+  "all_tokens_assigned_records": 2857,
+  "strict_singleline_complete_records": 2477,
+  "strict_singleline_complete_all_assigned": 1927,
+  "table7_entries": 38,
+  "table7_distinct_drawings": 32,
+  "table7_unique_crosswalk_entries": 21,
+  "table7_unique_crosswalk_ids": 18,
+  "table7_unresolved_entries": 14,
+  "table7_ambiguous_entries": 3,
+  "table7_uniquely_crosswalked_token_count": 1010,
+  "table7_unique_crosswalk_complete_records": 24,
+  "unassigned_codes": [
+    {
+      "id": "000",
+      "count": 1460,
+      "mapping_present": true
+    },
+    {
+      "id": "240",
+      "count": 282,
+      "mapping_present": true
+    },
+    {
+      "id": "235",
+      "count": 223,
+      "mapping_present": true
+    },
+    {
+      "id": "233",
+      "count": 171,
+      "mapping_present": true
+    },
+    {
+      "id": "231",
+      "count": 82,
+      "mapping_present": true
+    },
+    {
+      "id": "226",
+      "count": 38,
+      "mapping_present": true
+    },
+    {
+      "id": "484",
+      "count": 12,
+      "mapping_present": true
+    },
+    {
+      "id": "243",
+      "count": 12,
+      "mapping_present": true
+    },
+    {
+      "id": "241",
+      "count": 11,
+      "mapping_present": true
+    },
+    {
+      "id": "999",
+      "count": 10,
+      "mapping_present": true
+    },
+    {
+      "id": "511",
+      "count": 10,
+      "mapping_present": true
+    },
+    {
+      "id": "232",
+      "count": 9,
+      "mapping_present": true
+    },
+    {
+      "id": "391",
+      "count": 8,
+      "mapping_present": true
+    },
+    {
+      "id": "234",
+      "count": 6,
+      "mapping_present": true
+    },
+    {
+      "id": "230",
+      "count": 2,
+      "mapping_present": true
+    },
+    {
+      "id": "227",
+      "count": 2,
+      "mapping_present": true
+    },
+    {
+      "id": "373",
+      "count": 2,
+      "mapping_present": true
+    },
+    {
+      "id": "092",
+      "count": 2,
+      "mapping_present": true
+    },
+    {
+      "id": "242",
+      "count": 2,
+      "mapping_present": true
+    },
+    {
+      "id": "351",
+      "count": 2,
+      "mapping_present": true
+    },
+    {
+      "id": "394",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "512",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "229",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "506",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "069",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "958",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "393",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "372",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "329",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "228",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "389",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "075",
+      "count": 1,
+      "mapping_present": true
+    },
+    {
+      "id": "376",
+      "count": 1,
+      "mapping_present": true
+    }
+  ],
+  "m304": [
+    {
+      "id": 2823,
+      "cisi": "M-304",
+      "site": "Mohenjo-daro",
+      "text_code": "+090-740-220-742-534-550-090+",
+      "direction": "R/L",
+      "order": "reading order",
+      "candidate_tokens": [
+        "a",
+        "as",
+        "as",
+        "an",
+        "m",
+        "an",
+        "a"
+      ],
+      "all_tokens_assigned": true,
+      "missing_ids": [],
+      "strict_singleline_complete": true,
+      "table7_unique_crosswalk_all": false
+    }
+  ]
+}

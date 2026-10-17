@@ -1,0 +1,702 @@
+[
+  {
+    "concept": "100_yellow",
+    "forms": 19,
+    "pairs": 169,
+    "positive_pairs": 30,
+    "auc": 0.9892086330935251
+  },
+  {
+    "concept": "10_blood",
+    "forms": 18,
+    "pairs": 153,
+    "positive_pairs": 69,
+    "auc": 0.9632505175983437
+  },
+  {
+    "concept": "11_bone",
+    "forms": 22,
+    "pairs": 227,
+    "positive_pairs": 53,
+    "auc": 0.929787464758187
+  },
+  {
+    "concept": "12_breast",
+    "forms": 25,
+    "pairs": 294,
+    "positive_pairs": 17,
+    "auc": 0.9966022510087067
+  },
+  {
+    "concept": "13_burn",
+    "forms": 21,
+    "pairs": 203,
+    "positive_pairs": 18,
+    "auc": 0.8402402402402402
+  },
+  {
+    "concept": "14_claw",
+    "forms": 19,
+    "pairs": 170,
+    "positive_pairs": 92,
+    "auc": 0.6737040133779264
+  },
+  {
+    "concept": "15_cloud",
+    "forms": 15,
+    "pairs": 103,
+    "positive_pairs": 18,
+    "auc": 0.996078431372549
+  },
+  {
+    "concept": "16_cold",
+    "forms": 21,
+    "pairs": 207,
+    "positive_pairs": 18,
+    "auc": 0.9501763668430335
+  },
+  {
+    "concept": "17_come",
+    "forms": 23,
+    "pairs": 247,
+    "positive_pairs": 247,
+    "auc": null
+  },
+  {
+    "concept": "18_die",
+    "forms": 17,
+    "pairs": 135,
+    "positive_pairs": 77,
+    "auc": 0.6390506045678459
+  },
+  {
+    "concept": "19_dog",
+    "forms": 19,
+    "pairs": 170,
+    "positive_pairs": 106,
+    "auc": 0.9522405660377359
+  },
+  {
+    "concept": "1_i",
+    "forms": 21,
+    "pairs": 209,
+    "positive_pairs": 209,
+    "auc": null
+  },
+  {
+    "concept": "20_drink",
+    "forms": 22,
+    "pairs": 228,
+    "positive_pairs": 78,
+    "auc": 0.8194871794871795
+  },
+  {
+    "concept": "21_dry",
+    "forms": 23,
+    "pairs": 246,
+    "positive_pairs": 35,
+    "auc": 0.7438050101557211
+  },
+  {
+    "concept": "22_ear",
+    "forms": 22,
+    "pairs": 229,
+    "positive_pairs": 171,
+    "auc": 0.7862472272635612
+  },
+  {
+    "concept": "23_earth",
+    "forms": 16,
+    "pairs": 119,
+    "positive_pairs": 23,
+    "auc": 0.967391304347826
+  },
+  {
+    "concept": "24_eat",
+    "forms": 21,
+    "pairs": 209,
+    "positive_pairs": 66,
+    "auc": 0.978491205763933
+  },
+  {
+    "concept": "25_egg",
+    "forms": 21,
+    "pairs": 208,
+    "positive_pairs": 30,
+    "auc": 0.9617977528089887
+  },
+  {
+    "concept": "26_eye",
+    "forms": 20,
+    "pairs": 190,
+    "positive_pairs": 171,
+    "auc": 0.7337642351492767
+  },
+  {
+    "concept": "27_fat",
+    "forms": 21,
+    "pairs": 207,
+    "positive_pairs": 52,
+    "auc": 0.9761786600496278
+  },
+  {
+    "concept": "28_feather",
+    "forms": 18,
+    "pairs": 152,
+    "positive_pairs": 10,
+    "auc": 0.956338028169014
+  },
+  {
+    "concept": "29_fire",
+    "forms": 23,
+    "pairs": 249,
+    "positive_pairs": 43,
+    "auc": 0.7654097990517047
+  },
+  {
+    "concept": "2_all",
+    "forms": 22,
+    "pairs": 226,
+    "positive_pairs": 17,
+    "auc": 0.9977483816493105
+  },
+  {
+    "concept": "30_fish",
+    "forms": 17,
+    "pairs": 136,
+    "positive_pairs": 81,
+    "auc": 0.9831649831649831
+  },
+  {
+    "concept": "31_fly",
+    "forms": 18,
+    "pairs": 152,
+    "positive_pairs": 55,
+    "auc": 0.9419868791002811
+  },
+  {
+    "concept": "32_foot",
+    "forms": 23,
+    "pairs": 248,
+    "positive_pairs": 36,
+    "auc": 0.983687106918239
+  },
+  {
+    "concept": "33_full",
+    "forms": 19,
+    "pairs": 170,
+    "positive_pairs": 35,
+    "auc": 0.9734391534391534
+  },
+  {
+    "concept": "34_give",
+    "forms": 23,
+    "pairs": 250,
+    "positive_pairs": 87,
+    "auc": 0.7474790212255835
+  },
+  {
+    "concept": "35_good",
+    "forms": 19,
+    "pairs": 170,
+    "positive_pairs": 14,
+    "auc": 0.9977106227106227
+  },
+  {
+    "concept": "36_green",
+    "forms": 22,
+    "pairs": 226,
+    "positive_pairs": 119,
+    "auc": 0.9149846854629702
+  },
+  {
+    "concept": "37_hair",
+    "forms": 23,
+    "pairs": 248,
+    "positive_pairs": 13,
+    "auc": 0.9882160392798691
+  },
+  {
+    "concept": "38_hand",
+    "forms": 20,
+    "pairs": 190,
+    "positive_pairs": 153,
+    "auc": 0.9148560325030913
+  },
+  {
+    "concept": "39_head",
+    "forms": 21,
+    "pairs": 209,
+    "positive_pairs": 81,
+    "auc": 0.9662422839506173
+  },
+  {
+    "concept": "3_ashes",
+    "forms": 20,
+    "pairs": 188,
+    "positive_pairs": 41,
+    "auc": 0.8807035009125601
+  },
+  {
+    "concept": "40_hear",
+    "forms": 19,
+    "pairs": 170,
+    "positive_pairs": 75,
+    "auc": 0.7895438596491228
+  },
+  {
+    "concept": "41_heart",
+    "forms": 12,
+    "pairs": 66,
+    "positive_pairs": 7,
+    "auc": 1.0
+  },
+  {
+    "concept": "42_horn",
+    "forms": 18,
+    "pairs": 152,
+    "positive_pairs": 59,
+    "auc": 0.9461454346637507
+  },
+  {
+    "concept": "43_kill",
+    "forms": 17,
+    "pairs": 136,
+    "positive_pairs": 13,
+    "auc": 0.9512195121951219
+  },
+  {
+    "concept": "44_knee",
+    "forms": 24,
+    "pairs": 270,
+    "positive_pairs": 53,
+    "auc": 0.887401095556908
+  },
+  {
+    "concept": "45_know",
+    "forms": 27,
+    "pairs": 340,
+    "positive_pairs": 39,
+    "auc": 0.8017292784734645
+  },
+  {
+    "concept": "46_leaf",
+    "forms": 19,
+    "pairs": 171,
+    "positive_pairs": 51,
+    "auc": 0.8429738562091503
+  },
+  {
+    "concept": "47_lie",
+    "forms": 21,
+    "pairs": 206,
+    "positive_pairs": 20,
+    "auc": 0.7182795698924731
+  },
+  {
+    "concept": "48_liver",
+    "forms": 19,
+    "pairs": 169,
+    "positive_pairs": 14,
+    "auc": 0.8944700460829493
+  },
+  {
+    "concept": "49_long",
+    "forms": 20,
+    "pairs": 186,
+    "positive_pairs": 31,
+    "auc": 0.9960457856399584
+  },
+  {
+    "concept": "4_bark",
+    "forms": 21,
+    "pairs": 205,
+    "positive_pairs": 13,
+    "auc": 0.999198717948718
+  },
+  {
+    "concept": "50_louse",
+    "forms": 18,
+    "pairs": 152,
+    "positive_pairs": 56,
+    "auc": 0.9933965773809523
+  },
+  {
+    "concept": "51_man",
+    "forms": 23,
+    "pairs": 246,
+    "positive_pairs": 9,
+    "auc": 0.9409282700421941
+  },
+  {
+    "concept": "52_many",
+    "forms": 23,
+    "pairs": 247,
+    "positive_pairs": 5,
+    "auc": 0.9888429752066116
+  },
+  {
+    "concept": "53_meat",
+    "forms": 18,
+    "pairs": 150,
+    "positive_pairs": 8,
+    "auc": 0.8736795774647887
+  },
+  {
+    "concept": "54_moon",
+    "forms": 14,
+    "pairs": 90,
+    "positive_pairs": 36,
+    "auc": 0.9179526748971193
+  },
+  {
+    "concept": "55_mountain",
+    "forms": 19,
+    "pairs": 170,
+    "positive_pairs": 11,
+    "auc": 0.9785591766723842
+  },
+  {
+    "concept": "56_mouth",
+    "forms": 21,
+    "pairs": 209,
+    "positive_pairs": 78,
+    "auc": 0.8866705813270699
+  },
+  {
+    "concept": "57_name",
+    "forms": 17,
+    "pairs": 136,
+    "positive_pairs": 136,
+    "auc": null
+  },
+  {
+    "concept": "58_neck",
+    "forms": 19,
+    "pairs": 170,
+    "positive_pairs": 11,
+    "auc": 0.8930817610062893
+  },
+  {
+    "concept": "59_new",
+    "forms": 20,
+    "pairs": 189,
+    "positive_pairs": 107,
+    "auc": 0.8587873261910189
+  },
+  {
+    "concept": "5_belly",
+    "forms": 25,
+    "pairs": 294,
+    "positive_pairs": 44,
+    "auc": 0.8386363636363636
+  },
+  {
+    "concept": "60_night",
+    "forms": 15,
+    "pairs": 104,
+    "positive_pairs": 7,
+    "auc": 0.572901325478645
+  },
+  {
+    "concept": "61_nose",
+    "forms": 20,
+    "pairs": 190,
+    "positive_pairs": 106,
+    "auc": 0.8053122192273136
+  },
+  {
+    "concept": "62_not",
+    "forms": 21,
+    "pairs": 206,
+    "positive_pairs": 40,
+    "auc": 0.8125
+  },
+  {
+    "concept": "63_one",
+    "forms": 20,
+    "pairs": 190,
+    "positive_pairs": 171,
+    "auc": 0.7159125884887658
+  },
+  {
+    "concept": "64_person",
+    "forms": 8,
+    "pairs": 27,
+    "positive_pairs": 2,
+    "auc": 0.92
+  },
+  {
+    "concept": "65_rain",
+    "forms": 18,
+    "pairs": 153,
+    "positive_pairs": 43,
+    "auc": 0.9727272727272728
+  },
+  {
+    "concept": "66_red",
+    "forms": 23,
+    "pairs": 248,
+    "positive_pairs": 98,
+    "auc": 0.6879931972789116
+  },
+  {
+    "concept": "67_road",
+    "forms": 18,
+    "pairs": 151,
+    "positive_pairs": 16,
+    "auc": 0.7238425925925925
+  },
+  {
+    "concept": "68_root",
+    "forms": 19,
+    "pairs": 171,
+    "positive_pairs": 91,
+    "auc": 0.8537087912087912
+  },
+  {
+    "concept": "69_round",
+    "forms": 15,
+    "pairs": 104,
+    "positive_pairs": 29,
+    "auc": 0.8963218390804598
+  },
+  {
+    "concept": "6_big",
+    "forms": 20,
+    "pairs": 189,
+    "positive_pairs": 31,
+    "auc": 0.7699060841159657
+  },
+  {
+    "concept": "70_sand",
+    "forms": 20,
+    "pairs": 189,
+    "positive_pairs": 47,
+    "auc": 0.9725801618219958
+  },
+  {
+    "concept": "71_say",
+    "forms": 18,
+    "pairs": 152,
+    "positive_pairs": 4,
+    "auc": 0.6233108108108109
+  },
+  {
+    "concept": "72_see",
+    "forms": 20,
+    "pairs": 188,
+    "positive_pairs": 31,
+    "auc": 0.9505855763303883
+  },
+  {
+    "concept": "73_seed",
+    "forms": 24,
+    "pairs": 268,
+    "positive_pairs": 135,
+    "auc": 0.7137287663603453
+  },
+  {
+    "concept": "74_sit",
+    "forms": 20,
+    "pairs": 187,
+    "positive_pairs": 14,
+    "auc": 0.9421965317919075
+  },
+  {
+    "concept": "75_skin",
+    "forms": 18,
+    "pairs": 153,
+    "positive_pairs": 105,
+    "auc": 0.9654761904761905
+  },
+  {
+    "concept": "76_sleep",
+    "forms": 20,
+    "pairs": 187,
+    "positive_pairs": 37,
+    "auc": 0.8316216216216217
+  },
+  {
+    "concept": "77_small",
+    "forms": 22,
+    "pairs": 228,
+    "positive_pairs": 43,
+    "auc": 0.8042740414833438
+  },
+  {
+    "concept": "78_smoke",
+    "forms": 19,
+    "pairs": 170,
+    "positive_pairs": 107,
+    "auc": 0.8498739059486723
+  },
+  {
+    "concept": "79_stand",
+    "forms": 22,
+    "pairs": 227,
+    "positive_pairs": 118,
+    "auc": 0.9179754315036541
+  },
+  {
+    "concept": "7_bird",
+    "forms": 11,
+    "pairs": 55,
+    "positive_pairs": 7,
+    "auc": 0.9910714285714286
+  },
+  {
+    "concept": "80_star",
+    "forms": 12,
+    "pairs": 66,
+    "positive_pairs": 21,
+    "auc": 0.9687830687830687
+  },
+  {
+    "concept": "81_stone",
+    "forms": 21,
+    "pairs": 209,
+    "positive_pairs": 91,
+    "auc": 0.9688955112683926
+  },
+  {
+    "concept": "82_sun",
+    "forms": 12,
+    "pairs": 66,
+    "positive_pairs": 17,
+    "auc": 0.9369747899159664
+  },
+  {
+    "concept": "83_swim",
+    "forms": 18,
+    "pairs": 152,
+    "positive_pairs": 37,
+    "auc": 0.7769682726204465
+  },
+  {
+    "concept": "84_tail",
+    "forms": 20,
+    "pairs": 189,
+    "positive_pairs": 56,
+    "auc": 0.8862110633727175
+  },
+  {
+    "concept": "85_that",
+    "forms": 25,
+    "pairs": 295,
+    "positive_pairs": 249,
+    "auc": 0.6607298760258425
+  },
+  {
+    "concept": "86_this",
+    "forms": 23,
+    "pairs": 250,
+    "positive_pairs": 207,
+    "auc": 0.7027300303336703
+  },
+  {
+    "concept": "87_thou",
+    "forms": 22,
+    "pairs": 229,
+    "positive_pairs": 229,
+    "auc": null
+  },
+  {
+    "concept": "88_tongue",
+    "forms": 20,
+    "pairs": 190,
+    "positive_pairs": 107,
+    "auc": 0.9544533273280036
+  },
+  {
+    "concept": "89_tooth",
+    "forms": 19,
+    "pairs": 171,
+    "positive_pairs": 153,
+    "auc": 0.9092229484386347
+  },
+  {
+    "concept": "8_bite",
+    "forms": 22,
+    "pairs": 228,
+    "positive_pairs": 53,
+    "auc": 0.8219946091644205
+  },
+  {
+    "concept": "90_tree",
+    "forms": 18,
+    "pairs": 153,
+    "positive_pairs": 105,
+    "auc": 0.8985119047619048
+  },
+  {
+    "concept": "91_two",
+    "forms": 22,
+    "pairs": 228,
+    "positive_pairs": 153,
+    "auc": 0.6646623093681917
+  },
+  {
+    "concept": "92_walk",
+    "forms": 18,
+    "pairs": 152,
+    "positive_pairs": 78,
+    "auc": 0.8912855162855163
+  },
+  {
+    "concept": "93_warm",
+    "forms": 20,
+    "pairs": 187,
+    "positive_pairs": 46,
+    "auc": 0.7886216466234968
+  },
+  {
+    "concept": "94_water",
+    "forms": 22,
+    "pairs": 229,
+    "positive_pairs": 120,
+    "auc": 0.9592125382262997
+  },
+  {
+    "concept": "95_we",
+    "forms": 25,
+    "pairs": 295,
+    "positive_pairs": 145,
+    "auc": 0.5628965517241379
+  },
+  {
+    "concept": "96_what",
+    "forms": 23,
+    "pairs": 249,
+    "positive_pairs": 249,
+    "auc": null
+  },
+  {
+    "concept": "97_white",
+    "forms": 23,
+    "pairs": 248,
+    "positive_pairs": 73,
+    "auc": 0.6954990215264187
+  },
+  {
+    "concept": "98_who",
+    "forms": 18,
+    "pairs": 153,
+    "positive_pairs": 105,
+    "auc": 0.560218253968254
+  },
+  {
+    "concept": "99_woman",
+    "forms": 23,
+    "pairs": 246,
+    "positive_pairs": 27,
+    "auc": 0.8081346186369017
+  },
+  {
+    "concept": "9_black",
+    "forms": 21,
+    "pairs": 207,
+    "positive_pairs": 69,
+    "auc": 0.8425750892669607
+  }
+]

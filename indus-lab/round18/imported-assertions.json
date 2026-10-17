@@ -1,0 +1,52 @@
+[
+  {
+    "object_id": "M-1547",
+    "source": "field-cady-derived CSV already used in lab",
+    "source_csv_sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+    "status": "imported assertions; not photo-verified",
+    "face_assignment": null,
+    "face_assignment_note": "decimal record suffix is not assumed equivalent to printed A/B",
+    "fields": {
+      "id": "3787.1",
+      "cisi": "M-1547",
+      "site": "Mohenjo-daro",
+      "excavation-idno": "-",
+      "material": "Copper",
+      "type": "TAB:C",
+      "preservation": "complete",
+      "condition": "Poor",
+      "sides": "2",
+      "dir.": "R/L",
+      "text length": "7",
+      "signs": "7",
+      "horizontal(mm)": "31",
+      "vertical(mm)": "15",
+      "text": "+407-321-407-845-033-705-235+"
+    }
+  },
+  {
+    "object_id": "M-1547",
+    "source": "field-cady-derived CSV already used in lab",
+    "source_csv_sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+    "status": "imported assertions; not photo-verified",
+    "face_assignment": null,
+    "face_assignment_note": "decimal record suffix is not assumed equivalent to printed A/B",
+    "fields": {
+      "id": "3787.2",
+      "cisi": "M-1547",
+      "site": "Mohenjo-daro",
+      "excavation-idno": "-",
+      "material": "Copper",
+      "type": "TAB:C",
+      "preservation": "complete",
+      "condition": "Poor",
+      "sides": "2",
+      "dir.": "NR",
+      "text length": "1",
+      "signs": "1",
+      "horizontal(mm)": "31",
+      "vertical(mm)": "15",
+      "text": "+753+"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "raw_forms": 2127,
+  "eligible_forms": 1986,
+  "concepts": 100,
+  "languages": 20,
+  "cognate_groups": 732,
+  "cross_language_groups": 253,
+  "source_sha256": "60e2f6db0c85625b980df75dc25beb7b845f7b661a6a5ac7c22a91dbc1e3a955",
+  "Tamil_p_to_Kannada": [
+    {
+      "target_initial": "h",
+      "support_excluding_tooth": [
+        "31_fly",
+        "36_green",
+        "50_louse",
+        "52_many",
+        "57_name",
+        "59_new",
+        "78_smoke",
+        "99_woman"
+      ]
+    },
+    {
+      "target_initial": "p",
+      "support_excluding_tooth": [
+        "32_foot"
+      ]
+    }
+  ],
+  "limitations": [
+    "Cognacy labels and loan flags supplied by dataset, not independently proved.",
+    "Initial correspondences are descriptive; no full alignment, sound-law direction, ancestral chronology, or Proto-Dravidian inference.",
+    "Tooth selected after inspecting examples: illustrative leave-one-concept-out check, not blinded prospective validation.",
+    "No Indus values or Meluhhan words assigned."
+  ]
+}

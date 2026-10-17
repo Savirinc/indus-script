@@ -1,0 +1,3310 @@
+[
+  {
+    "id": "198.1",
+    "cisi": "H-1138",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      603,
+      240,
+      60,
+      692
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "225.1",
+    "cisi": "-",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      804,
+      740,
+      219
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "249.1",
+    "cisi": "H-1133",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      892,
+      831
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1680.1",
+    "cisi": "H-789",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      520,
+      220,
+      16
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1759.1",
+    "cisi": "H-876",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      200,
+      705,
+      380
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "273.1",
+    "cisi": "H-1102",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      740,
+      382
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1602.1",
+    "cisi": "H-697",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      904,
+      240,
+      2,
+      817
+    ],
+    "symbol": "Bull2",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1300.1",
+    "cisi": "H-278",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 11,
+    "tokens": [
+      740,
+      407,
+      590,
+      690,
+      436,
+      255,
+      920,
+      318,
+      220,
+      415,
+      803
+    ],
+    "symbol": "Gavi",
+    "category": "Gavi_label"
+  },
+  {
+    "id": "297.1",
+    "cisi": "H-874",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      520,
+      233,
+      240
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1236.1",
+    "cisi": "H-205",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      48,
+      741,
+      850
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "313.1",
+    "cisi": "H-1123",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      525,
+      550,
+      220
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1672.2",
+    "cisi": "H-781",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      904,
+      240
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "317.1",
+    "cisi": "H-1321",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      226,
+      32
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1700.1",
+    "cisi": "H-811",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 8,
+    "tokens": [
+      317,
+      740,
+      335,
+      740,
+      176,
+      2,
+      920,
+      491
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "371.2",
+    "cisi": "H-1771",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      31,
+      1,
+      140
+    ],
+    "symbol": "Goat:4",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "373.2",
+    "cisi": "H-1924",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      550,
+      3,
+      435
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "374.2",
+    "cisi": "H-1893",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      390,
+      3,
+      60,
+      550
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "375.2",
+    "cisi": "H-1881",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      415,
+      700,
+      33,
+      171
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "378.1",
+    "cisi": "H-1776",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      390,
+      590,
+      60,
+      550
+    ],
+    "symbol": "Elep",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "382.2",
+    "cisi": "H-1894",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      61,
+      140
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "386.2",
+    "cisi": "H-1853",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      617,
+      829
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "394.2",
+    "cisi": "H-1987",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      390,
+      4,
+      455,
+      371,
+      741,
+      590
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "396.2",
+    "cisi": "H-1877",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      775,
+      516
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "402.2",
+    "cisi": "H-2015",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 7,
+    "tokens": [
+      520,
+      33,
+      705,
+      235,
+      832,
+      2,
+      817
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "403.1",
+    "cisi": "H-1920",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      515,
+      126
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1276.1",
+    "cisi": "H-251",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      100,
+      240
+    ],
+    "symbol": "Gaur",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "409.2",
+    "cisi": "H-1942",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      405,
+      35,
+      2,
+      861
+    ],
+    "symbol": "Bult",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "410.2",
+    "cisi": "H-1897",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      904,
+      240
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "414.2",
+    "cisi": "H-1915",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      32,
+      920,
+      491
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "415.2",
+    "cisi": "H-1832",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 7,
+    "tokens": [
+      400,
+      297,
+      352,
+      892,
+      590,
+      740,
+      176
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "419.2",
+    "cisi": "H-1898",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      368,
+      741
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "422.2",
+    "cisi": "H-1943",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      384,
+      31
+    ],
+    "symbol": "Bult",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "423.1",
+    "cisi": "H-1997",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      176,
+      235
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "1263.1",
+    "cisi": "H-237",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      642,
+      240,
+      60,
+      692
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1212.1",
+    "cisi": "H-178",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      740,
+      717
+    ],
+    "symbol": "Anth",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "448.1",
+    "cisi": "H-1967",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      382,
+      760,
+      382,
+      2,
+      820
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "453.2",
+    "cisi": "H-1909",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      817,
+      491
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "458.2",
+    "cisi": "H-1940",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      67,
+      100
+    ],
+    "symbol": "Bult",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "467.2",
+    "cisi": "H-1825",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      176,
+      220
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "480.2",
+    "cisi": "H-1850",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      760,
+      382
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "485.1",
+    "cisi": "H-1953",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      700,
+      32,
+      220
+    ],
+    "symbol": "Zebu",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1636.1",
+    "cisi": "H-742",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 5,
+    "tokens": [
+      400,
+      740,
+      100,
+      176,
+      175
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1206.1",
+    "cisi": "H-171",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      176,
+      798,
+      231
+    ],
+    "symbol": "Bull",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "499.1",
+    "cisi": "H-1862",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      700,
+      33,
+      368,
+      91
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "506.2",
+    "cisi": "H-1867",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      151,
+      740,
+      221
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "508.2",
+    "cisi": "H-1869",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      151,
+      740,
+      222
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "510.2",
+    "cisi": "H-1916",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      520,
+      70,
+      255,
+      832
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1268.1",
+    "cisi": "H-243",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      520,
+      233
+    ],
+    "symbol": "Pipal",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "548.2",
+    "cisi": "H-1931",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      176,
+      791
+    ],
+    "symbol": "Gavi",
+    "category": "Gavi_label"
+  },
+  {
+    "id": "550.2",
+    "cisi": "H-1822",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      176,
+      519
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "554.2",
+    "cisi": "H-1906",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 5,
+    "tokens": [
+      400,
+      90,
+      740,
+      400,
+      90
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "557.2",
+    "cisi": "H-1855",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      153,
+      118
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "560.2",
+    "cisi": "H-1873",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      236,
+      233
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "567.2",
+    "cisi": "H-1923",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      32,
+      840
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1273.1",
+    "cisi": "H-248",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 7,
+    "tokens": [
+      400,
+      740,
+      920,
+      320,
+      233,
+      240,
+      798
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "570.2",
+    "cisi": "H-1797",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      690,
+      435,
+      255,
+      55
+    ],
+    "symbol": "Bult",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "592.1",
+    "cisi": "H-1999",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      154,
+      806,
+      467
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "593.2",
+    "cisi": "H-1839",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      100,
+      175,
+      630,
+      705
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "594.1",
+    "cisi": "H-2022",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      32,
+      850,
+      31
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "599.2",
+    "cisi": "H-1864",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      142,
+      62,
+      2,
+      817
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "601.1",
+    "cisi": "H-2021",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      752,
+      70,
+      255,
+      832
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "624.2",
+    "cisi": "H-1817",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      525,
+      554
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "627.2",
+    "cisi": "H-1917",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      151,
+      97
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "631.2",
+    "cisi": "H-1842",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      740,
+      690,
+      435,
+      176,
+      233,
+      803
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "646.2",
+    "cisi": "H-1824",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      176,
+      31,
+      60,
+      201
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "649.2",
+    "cisi": "H-1823",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 6,
+    "tokens": [
+      400,
+      740,
+      798,
+      365,
+      415,
+      1
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "652.2",
+    "cisi": "H-1841",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      540,
+      204,
+      255
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "654.1",
+    "cisi": "H-1863",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      740,
+      388
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "662.1",
+    "cisi": "H-1951",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      617,
+      550,
+      3,
+      790
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "664.1",
+    "cisi": "H-1975",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      760,
+      61,
+      60,
+      692
+    ],
+    "symbol": "Scene",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "675.2",
+    "cisi": "H-1903",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      923,
+      235
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "677.1",
+    "cisi": "H-2024",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      90,
+      740,
+      176,
+      741,
+      347
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "1256.1",
+    "cisi": "H-229",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      892,
+      617
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1719.1",
+    "cisi": "H-833",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      526,
+      554,
+      2,
+      820
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1695.1",
+    "cisi": "H-806",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      482,
+      240,
+      2,
+      861
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1208.1",
+    "cisi": "H-174",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      17,
+      503
+    ],
+    "symbol": "Gavi",
+    "category": "Gavi_label"
+  },
+  {
+    "id": "1614.1",
+    "cisi": "H-709",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      16,
+      503
+    ],
+    "symbol": "Gavi",
+    "category": "Gavi_label"
+  },
+  {
+    "id": "745.1",
+    "cisi": "H-1980",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      158,
+      806,
+      475
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "3969.1",
+    "cisi": "H-1124",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      236,
+      220
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "765.2",
+    "cisi": "H-1936",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      511,
+      32,
+      142
+    ],
+    "symbol": "Bult",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "771.1",
+    "cisi": "H-1930",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      32,
+      700,
+      601
+    ],
+    "symbol": "Gavi",
+    "category": "Gavi_label"
+  },
+  {
+    "id": "1207.1",
+    "cisi": "H-172",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 5,
+    "tokens": [
+      712,
+      840,
+      400,
+      740,
+      440
+    ],
+    "symbol": "Gavi",
+    "category": "Gavi_label"
+  },
+  {
+    "id": "780.2",
+    "cisi": "H-1844",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      154,
+      690
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "784.2",
+    "cisi": "H-1871",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      151,
+      740,
+      235
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "787.1",
+    "cisi": "H-1983",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      405,
+      4,
+      13,
+      817
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "788.1",
+    "cisi": "H-1840",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      90,
+      740,
+      255,
+      705,
+      60,
+      550
+    ],
+    "symbol": "Bird",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "790.1",
+    "cisi": "H-1961",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      740,
+      440
+    ],
+    "symbol": "Gavi",
+    "category": "Gavi_label"
+  },
+  {
+    "id": "805.1",
+    "cisi": "H-1788",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      154,
+      806,
+      470,
+      2,
+      861
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "806.2",
+    "cisi": "H-2189",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      152,
+      240
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1221.1",
+    "cisi": "H-188",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 5,
+    "tokens": [
+      400,
+      90,
+      740,
+      100,
+      415
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "824.1",
+    "cisi": "H-1775",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      740,
+      100,
+      415,
+      176,
+      792,
+      102
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1244.1",
+    "cisi": "H-213",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      520,
+      400,
+      352
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "922.2",
+    "cisi": "H-1902",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      158,
+      3,
+      494
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "923.2",
+    "cisi": "H-1945",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 5,
+    "tokens": [
+      400,
+      740,
+      388,
+      717,
+      705
+    ],
+    "symbol": "Fish",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "930.2",
+    "cisi": "H-1883",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      790,
+      32
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1004.1",
+    "cisi": "H-1966",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      520,
+      233,
+      49,
+      2,
+      861
+    ],
+    "symbol": "Gaur",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1021.1",
+    "cisi": "H-1774",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 5,
+    "tokens": [
+      400,
+      740,
+      335,
+      482,
+      175
+    ],
+    "symbol": "Scene",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1023.1",
+    "cisi": "H-1793",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      752,
+      482,
+      240
+    ],
+    "symbol": "-",
+    "category": "missing"
+  },
+  {
+    "id": "1024.2",
+    "cisi": "H-1851",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      740,
+      803,
+      892,
+      31,
+      2,
+      861
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1034.1",
+    "cisi": "H-1979",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      158,
+      806,
+      467
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1057.1",
+    "cisi": "H-733",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      390,
+      590,
+      240
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1205.1",
+    "cisi": "H-170",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      511,
+      630,
+      336,
+      827
+    ],
+    "symbol": "Bull1",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1209.1",
+    "cisi": "H-175",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 7,
+    "tokens": [
+      167,
+      705,
+      368,
+      5,
+      741,
+      60,
+      920
+    ],
+    "symbol": "Anth",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1211.1",
+    "cisi": "H-177",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 7,
+    "tokens": [
+      700,
+      33,
+      151,
+      706,
+      31,
+      2,
+      817
+    ],
+    "symbol": "Scene",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1214.1",
+    "cisi": "H-180",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      151,
+      390,
+      590,
+      741,
+      330,
+      368
+    ],
+    "symbol": "Scene",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1216.1",
+    "cisi": "H-183",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 5,
+    "tokens": [
+      400,
+      202,
+      892,
+      220,
+      920
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1220.1",
+    "cisi": "H-187",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      463,
+      495
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1222.1",
+    "cisi": "H-189",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      158,
+      806,
+      470
+    ],
+    "symbol": "Othr",
+    "category": "Othr"
+  },
+  {
+    "id": "1223.1",
+    "cisi": "H-190",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      158,
+      806,
+      465
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1224.1",
+    "cisi": "H-191",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      798,
+      463,
+      354
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1227.1",
+    "cisi": "H-196",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      407,
+      590,
+      740,
+      72
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "1237.1",
+    "cisi": "H-206",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      740,
+      642,
+      240,
+      204,
+      705,
+      621
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1239.1",
+    "cisi": "H-208",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      158,
+      806,
+      472
+    ],
+    "symbol": "-",
+    "category": "missing"
+  },
+  {
+    "id": "1240.1",
+    "cisi": "H-209",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 6,
+    "tokens": [
+      400,
+      921,
+      690,
+      435,
+      255,
+      55
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1241.1",
+    "cisi": "H-210",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      100,
+      176,
+      101
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1242.1",
+    "cisi": "H-211",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      898,
+      617
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1243.1",
+    "cisi": "H-212",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      156,
+      118
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1245.1",
+    "cisi": "H-214",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      520,
+      400,
+      353
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1249.1",
+    "cisi": "H-218",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      336,
+      176
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1250.1",
+    "cisi": "H-219",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      415,
+      35,
+      171
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1253.1",
+    "cisi": "H-226",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      158,
+      904,
+      736
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "1257.1",
+    "cisi": "H-230",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      520,
+      72,
+      219
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1258.1",
+    "cisi": "H-231",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      520,
+      220,
+      240,
+      2,
+      820
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1259.1",
+    "cisi": "H-232",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      177,
+      519
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1264.1",
+    "cisi": "H-239",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      390,
+      60,
+      740,
+      500,
+      91
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1269.1",
+    "cisi": "H-244",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      104,
+      2,
+      820
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1270.1",
+    "cisi": "H-245",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      807,
+      740,
+      219
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1277.1",
+    "cisi": "H-252",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      520,
+      240,
+      2,
+      405,
+      501
+    ],
+    "symbol": "Bull1:I",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1599.1",
+    "cisi": "H-694",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      740,
+      390,
+      590,
+      235,
+      368,
+      806
+    ],
+    "symbol": "Bull1:S",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1607.1",
+    "cisi": "H-702",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      137,
+      2,
+      820
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "1611.1",
+    "cisi": "H-706",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      700,
+      33,
+      137,
+      2,
+      820
+    ],
+    "symbol": "Gavi",
+    "category": "Gavi_label"
+  },
+  {
+    "id": "1619.1",
+    "cisi": "H-715",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      526,
+      550,
+      60,
+      820
+    ],
+    "symbol": "T-A-T",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1621.1",
+    "cisi": "H-718",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      31,
+      480,
+      165,
+      900
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1622.1",
+    "cisi": "H-719",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      405,
+      4,
+      2,
+      861
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1630.1",
+    "cisi": "H-728",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      798,
+      460,
+      15
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1649.1",
+    "cisi": "H-756",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      407,
+      5,
+      741,
+      500,
+      561
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1650.1",
+    "cisi": "H-757",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      100,
+      440
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1656.2",
+    "cisi": "H-764",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      717,
+      790
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1662.1",
+    "cisi": "H-770",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      151,
+      840,
+      416
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1663.1",
+    "cisi": "H-771",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      32,
+      257,
+      840
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1667.1",
+    "cisi": "H-776",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      740,
+      803,
+      741,
+      31,
+      32,
+      716
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1668.2",
+    "cisi": "H-777",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      390,
+      4,
+      104
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1669.2",
+    "cisi": "H-778",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      390,
+      4,
+      817
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1681.1",
+    "cisi": "H-790",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      384,
+      33
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1683.1",
+    "cisi": "H-792",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      154,
+      896
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1685.1",
+    "cisi": "H-794",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      232,
+      235
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1690.1",
+    "cisi": "H-799",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      32,
+      820,
+      100,
+      415
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1691.1",
+    "cisi": "H-800",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      337,
+      692,
+      490
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1703.1",
+    "cisi": "H-814",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      820,
+      100,
+      415
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1706.1",
+    "cisi": "H-817",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      336,
+      18
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1707.1",
+    "cisi": "H-818",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      336,
+      18
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1710.2",
+    "cisi": "H-821",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      642,
+      240,
+      1,
+      692
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1717.1",
+    "cisi": "H-829",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      139,
+      2,
+      820
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1724.1",
+    "cisi": "H-838",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      615,
+      495,
+      2,
+      817
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1727.1",
+    "cisi": "H-841",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      740,
+      790
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1728.1",
+    "cisi": "H-842",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      740,
+      861
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1729.1",
+    "cisi": "H-843",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      527,
+      195
+    ],
+    "symbol": "Xhch",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1732.1",
+    "cisi": "H-846",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 5,
+    "tokens": [
+      400,
+      740,
+      100,
+      31,
+      705
+    ],
+    "symbol": "Gavi",
+    "category": "Gavi_label"
+  },
+  {
+    "id": "1738.2",
+    "cisi": "H-852",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      760,
+      268,
+      233,
+      220
+    ],
+    "symbol": "Phyt",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1739.1",
+    "cisi": "H-853",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      177,
+      231
+    ],
+    "symbol": "Bult",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1740.1",
+    "cisi": "H-854",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      335,
+      3
+    ],
+    "symbol": "Bult",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "1741.1",
+    "cisi": "H-857",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      390,
+      590,
+      235
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "1758.1",
+    "cisi": "H-875",
+    "site": "Harappa",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      840,
+      13
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "2380.1",
+    "cisi": "M-2026",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 7,
+    "tokens": [
+      90,
+      740,
+      240,
+      235,
+      590,
+      645,
+      104
+    ],
+    "symbol": "Cros",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "2432.1",
+    "cisi": "M-2014",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      32,
+      840,
+      220
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "2436.1",
+    "cisi": "M-2024",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      760,
+      335,
+      803
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "2925.1",
+    "cisi": "M-431",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      390,
+      590,
+      33,
+      705
+    ],
+    "symbol": "-",
+    "category": "missing"
+  },
+  {
+    "id": "2931.1",
+    "cisi": "M-445",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      176,
+      235
+    ],
+    "symbol": "Bull1",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "2938.1",
+    "cisi": "M-453",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      740,
+      32,
+      840,
+      220,
+      2,
+      861
+    ],
+    "symbol": "Scene",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "2955.2",
+    "cisi": "M-470",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      158,
+      806,
+      473
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "2956.1",
+    "cisi": "M-471",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      740,
+      100,
+      415,
+      191,
+      2,
+      817
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "2958.1",
+    "cisi": "M-473",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      740,
+      100,
+      220
+    ],
+    "symbol": "-",
+    "category": "missing"
+  },
+  {
+    "id": "2962.1",
+    "cisi": "M-478",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      97,
+      700,
+      4
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "2965.1",
+    "cisi": "M-481",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      103,
+      740,
+      803,
+      60,
+      540
+    ],
+    "symbol": "Anth",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "2966.1",
+    "cisi": "M-482",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      740,
+      803
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "2969.3",
+    "cisi": "M-486",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 3,
+    "tokens": [
+      90,
+      740,
+      615
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "2971.1",
+    "cisi": "M-488",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 7,
+    "tokens": [
+      615,
+      16,
+      435,
+      255,
+      400,
+      136,
+      140
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "2972.1",
+    "cisi": "M-490",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 6,
+    "tokens": [
+      850,
+      140,
+      803,
+      2,
+      840,
+      16
+    ],
+    "symbol": "Scene",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "2974.2",
+    "cisi": "M-492",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      90,
+      740,
+      585,
+      803,
+      240
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "2975.1",
+    "cisi": "M-494",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 7,
+    "tokens": [
+      390,
+      697,
+      151,
+      740,
+      176,
+      798,
+      838
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "3684.1",
+    "cisi": "M-1390",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 3,
+    "tokens": [
+      400,
+      525,
+      550
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "3688.1",
+    "cisi": "M-1396",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      520,
+      33,
+      705,
+      803,
+      853
+    ],
+    "symbol": "Bull1",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "3697.1",
+    "cisi": "M-1408",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      740,
+      33,
+      503
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "3705.2",
+    "cisi": "M-1418",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      100,
+      415,
+      240
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "3706.2",
+    "cisi": "M-1419",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 1,
+    "length": 4,
+    "tokens": [
+      400,
+      158,
+      806,
+      467
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "3709.1",
+    "cisi": "M-1424",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      875,
+      700,
+      384,
+      125
+    ],
+    "symbol": "Gaur",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "3711.1",
+    "cisi": "M-1426",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 8,
+    "tokens": [
+      740,
+      760,
+      36,
+      220,
+      415,
+      798,
+      2,
+      861
+    ],
+    "symbol": "None",
+    "category": "raw_None"
+  },
+  {
+    "id": "3713.1",
+    "cisi": "M-1429",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 7,
+    "tokens": [
+      90,
+      740,
+      792,
+      740,
+      220,
+      3,
+      803
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "4015.1",
+    "cisi": "M-2012",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      740,
+      900,
+      5,
+      2,
+      570
+    ],
+    "symbol": "Bull1",
+    "category": "other_specific_label"
+  },
+  {
+    "id": "4016.1",
+    "cisi": "M-2021",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      95,
+      31,
+      740,
+      927
+    ],
+    "symbol": "Mult",
+    "category": "Mult"
+  },
+  {
+    "id": "4020.1",
+    "cisi": "M-2030",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 4,
+    "tokens": [
+      740,
+      585,
+      803,
+      240
+    ],
+    "symbol": "-",
+    "category": "missing"
+  },
+  {
+    "id": "4022.1",
+    "cisi": "M-2033",
+    "site": "Mohenjo-daro",
+    "type": "TAB:B",
+    "tablet": 1,
+    "sign400": 0,
+    "length": 5,
+    "tokens": [
+      136,
+      140,
+      861,
+      455,
+      922
+    ],
+    "symbol": "Scene",
+    "category": "other_specific_label"
+  }
+]

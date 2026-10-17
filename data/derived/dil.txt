@@ -1,0 +1,232 @@
+P010078	3'. dilmun# [...]
+P010093	17. dilmunx(|SAL.HUB2|) AL
+P010442	1. lu2 dilmunx(|SAL.HUB2|)#
+P010558	3. dilmun
+P010566	13. {d}dilmun#?-ku3
+P010649	2. sum dilmun
+P010650	1. gal dilmun
+P010753	10. dilmun!
+P010824	2. AN-nu-me dilmun
+P010869	5. gal dilmun
+P010869	2. gal dilmun
+P010896	5. dilmun
+P010929	2'. dilmun mu-gar
+P010979	10. dilmun
+P011032	3. dilmun
+P011032	7. dilmun
+P011082	7. dilmun
+P011094	3. gal-dilmun
+P011100	1. gal-dilmun
+P011100	6. dumu gal-dilmun
+P020029	2. [1(asz@c)] zabar3 dili2 ma2 dilmun
+P020044	4. kur dilmun{ki}-ta
+P020052	5. kur dilmun-sze3
+P020204	5. kur dilmun{ki}-ta
+P020317	4. nin kur dilmun#{ki}-na-[ke4]
+P020599	15. 3(ban2@c) ama-dilmun#?
+P020600	6'. [n] ama-dilmunx(|SAL.HUB2|)
+P020600	23. 1(barig@c) ama-dilmun
+P107768	2. mu mar-tu masz-masz dilmun-ta e-ra-ne
+P108866	3. lu2-dilmun?-a lu2 gesz
+P128490	3. dilmun{ki}-ta
+P453367	7. mu mar-tu masz-masz dilmun-ta e-ra-ne-sze3
+P129692	1. 5(disz) ma-na SZIM dilmun
+P131537	4. 4(ban2) lu2-dilmun{ki}
+P131754	8. dilmun e-a la2-a
+P131754	20. dilmun e-a la2-a
+P135069	3. mu mar-tu masz-masz dilmun e-ra-ne-sze3
+P136994	3. kiszib3 na4 dilmun 1(disz)-a
+P137833	3. ma2-a gar-ra dilmun{ki}-sze3
+P200527	3. mu mar-tu masz-masz dilmun-ta e-ra-ne-sze3
+P449038	4. 3(N01@f)#? , dumu# dilmun#
+P212961	14. dilmun min-bi
+P213831	1. [...] ki ma2-dilmun
+P216090	9. 2(ban2@c) ama-dilmunx(|SAL.HUB2|)
+P216090	18. [...] nin#-kur-sze3-dilmunx(|SAL.HUB2|)#?-mah#
+P216090	6. 1(barig) 2(ban2) nin-dilmun-mah
+P216090	9'. [...] nin#-dilmun-mah
+P216090	18'. 1(barig@c) nin-dilmun-[mah]
+P216282	14. ma2#-dilmun# du8-ni ru-a
+P216294	3. ma2-lah6 dilmun
+P217071	10. kusz gu4 ma2 dilmun
+P217359	8. ma2 dilmun-e i3-gu7
+P217388	2. dilmun min-bi
+P217645	11. dilmun# enkux(ZAG)
+P218302	7. dilmun enkux(ZAG)
+P218312	3. gal dilmun
+P220701	4. 1(asz@c) zabar3 dili2 ma2 dilmun
+P220719	1. 1(asz@c) zabar3 dili2 ma2 dilmun
+P220719	6. 1(asz@c) zabar3 dili2 ma2 dilmun
+P220720	1. 1(asz@c) zabar3 dili2 ma2 dilmun-da
+P220722	1. 1(asz@c) zabar3 dili2 ma2 dilmun
+P220722	4. 1(asz@c) zabar3 dili2 ma2 dilmun
+P221168	3. kur dilmun{ki}-sze3
+P221367	2. 3(asz@c) sila3 szim dilmun
+P221420	4. zabar3 ma2 dilmun
+P221423	3. kur dilmun{ki}-ta
+P221520	1. 1(asz@c) {zabar3}dili2 ma2 dilmun
+P221534	4. 1(u@c) 8(asz@c) 2(barig@c) dilmun-mu
+P221752	6. kur dilmun{ki}-sze3
+P221752	1. kur dilmun{ki}-ta
+P222073	3. 6(asz@c) uruda zabar3 ma2 dilmun
+P222359	4. ma2 dilmun
+P222362	5. [ma2] dilmun#
+P222363	3. ma2 dilmun
+P222373	1. ma2 dilmun
+P222375	16. ma2 dilmun
+P222376	16. ma2 dilmun
+P222385	1'. ma2 dilmun
+P222389	1'. ma2 dilmun
+P225903	12'. dilmun# enkux(ZAG)
+P225932	17'. |NI.TUK|#
+P225937	3. dilmun#
+P227419	7'. _e2 dilmun_-sza
+P227509	14. _ma2 tilmun{ki}_
+P227509	16. _ma2_ dilmun{ki}
+P227509	2'. _ma2#_  [dilmun{ki}]
+P227657	16. zu2-lum dilmun-na
+P227685	4'. gesz nimbar-dilmun-na
+P227723	4'. [...] %syl en-ku3-dilmun-na
+P227731	15'. gesz nimbar-dilmun-na
+P227783	4. gesz nimbar-dilmun-na
+P227784	2'. gesz nimbar-dilmun#-[...]
+P227787	7. e2-tilmun-na
+P227897	11'. gesz# nimbar-dilmun#-na#
+P227996	6'. gesz nimbar-dilmun#-[...]
+P228226	6. gesz# ma2-dilmun-na
+P228297	2'. gesz nimbar-dilmun#-[...]
+P228426	7'. gesz ma2-dilmun{ki}
+P228531	5'. gesz nimbar-dilmun#-[...]
+P229161	9. [...] ma2-dilmun-[...]
+P229165	13'. gesz nimbar-dilmun-na
+P229175	10. gesz nimbar-dilmun-na
+P229180	11'. gesz ma2-dilmun-na
+P229216	6'. gesz nimbar-dilmun
+P229233	1. gesz nimbar-dilmun-na
+P229258	4. gesz nimbar-dilmun-na
+P229304	7'. zu2-lum dilmun#
+P229350	5'. zu2-lum dilmun
+P229782	6. gesz nimbar-dilmun
+P229810	18. gesz nimbar-dilmun
+P230170	7. gesz nimbar-dilmun
+P230184	5. gesz# nimbar-dilmun-na
+P230187	3'. [...] nimbar#-dilmun-[...]
+P230207	2'. [...]-dilmun#-na
+P230300	2'. gesz nimbar-dilmun#-na
+P230458	2'. [...]-dilmun
+P230898	4. [...] nimbar-dilmun-na
+P232277	10. kur dilmun{ki}
+P236673	2. ma2 dilmun{ki} gu-la ba-an-gar
+P243112	1'. _dilmun#-ku5_
+P247857	18. uruda DUN3@g dilmun{ki} = %a [...]-su-ga?  = %a szu#-pa-al-iu2
+P266239	13-15. geszimmar dilmun ku3-gin7 {d}nin-e2-gal-ke4 mu10 zi du10-ga-me-en3
+P269938	7. e2#-tilmun#-na#
+P272531	2. dilmun(|NI.TUK|){zabar}
+P272531	3. dilmun(|NI.TUK|)-ti{zabar}
+P272531	2. dilmun(|NI.TUK|){zabar}
+P272531	3. dilmun(|NI.TUK|)-ti{zabar}
+P272904	7. e2-tilmun-na
+P291388	7. e2-tilmun-na
+P304570	7. e2-tilmun-na
+P315280	3. lugal-dilmun
+P322687	5. dam-<gar3> dilmun#
+P323054	3. 1(asz@c) geme2-dilmun
+P332823	9'. masz2 szakanka dilmun-gin7
+P332823	14'. ganba dilmun-gin7
+P341944	4. NI.TUKU-gal
+P343004	32. urim2{ki}-ma e2-dilmun-na <ma-a-kam>
+P345597	6'. uri2{ki}-ma e2-dilmun#-na# mu-un-szub
+P346685	7'. GIN2#? dilmun#?-na sa10-sze3 si!?-ga#
+P357096	5a. dilmun{ki} kur-ra x [...] [en3?]-sze3# KA mu-na-ab-be2
+P390443	1. 2(u@c) su la2 dilmun? gur-ra
+P429779	34. {gesz}geszimmar dilmun ku3-gin7 {d}nin-e2-gal-ke4 mu10 zi du11-ga-me-en3
+P431035	4. ma2 dilmun
+P431038	10. [ma2] dilmun
+P431039	8'. ma2 dilmun
+P431051	31. ma2 dilmun
+P431054	31. ma2 dilmun
+P431056	16. ma2 dilmun
+P431057	16. ma2 dilmun
+P431060	1'. ma2 dilmun
+P304570	7. e2-tilmun-na
+P431886	60. kur dilmun{ki}
+P514511	110'. _e2 dilmun_-sza
+P448418	32. e2-tilmun-na
+P423961	5. [_disz_] i-na _egir#_ na-as,-ra-ap-tim me-eh-ri-it ni-ri-im zi-hu na-di _{gesz}ma2_ dilmun{ki} i-t,e-bu
+P461937	11. _ma2 tilmun{ki}_
+P461937	13. _ma2_ dilmun{ki}
+P461938	13'. _ma2_  [dilmun{ki}]
+P464241	3. lugal-dilmun
+P468903	13.b. uri2{ki}-ma e2-dilmun-na mu-un-szub kur-ra ba-e-a-e11
+P227510	6'. _ma2_ dilmun{ki}
+P469688	65. dilmun{ki}-gin7 kur ki nu-zu-na {gesz}ma2-bi ba-da-ab-su
+P449048	4'. dumu# dilmun
+P251861	3. kur dilmun{ki}-na iri{ki} mar-du-ta# GU PIRIG SU# za3 im-[mi]-dib#?
+P251861	4. _i-na# sza-du-u2 tilmun-[(x)]{ki#} ma-at a-mu-ri-im [(x)] ma-ar-gi-a-am u2-sze#-[ri]-dam#-ma_
+P478856	25. uri2{ki}-ma e2-dilmun-na ma-a-kam
+P212694	8. 3(disz) ama-dilmunx(|SAL.HUB2|)
+P478898	35. {gesz}geszimmar nam-mu2 kur dilmun{ki} na-nam
+P478898	39. {gesz}geszimmar nam-mu2 kur dilmun{ki} na-nam
+P478898	40d. kur dilmun{ki} na-nam
+P212558	5. dumu ama-dilmunx(|SAL.HUB2|)
+P212542	3. ma2 dilmun-sze3
+P481014	9. dilmun# enkux(ZAG)
+P481040	83. dilmun enkux(ZAG)
+P010264	7. dilmun#-tur
+P324928	1'. 1(bur3@c) 2(iku@c) x la dilmun
+P479857	4. a-ab-ba kur dilmun{ki}-na-ta
+P478963	39. zu2-lum dilmun-na ku7-ku7 zu2-lum sag kin-kin-e
+P469674	12. kur dilmun{ki} [...] x in-nu
+P469664	11. kur-bala kur dilmun-na ki {d}utu e3-sze3 mu-un-ti-esz
+P469514	1. iri{ki} ku3-ku3-ga-am3 e-ne ba-am3-me-en-ze2-en kur dilmun{ki} ku3-ga-am3
+P469514	2. ki-en-gi ku3-ga e-ne ba-am3-me-en-ze2-en kur dilmun{ki} ku3-ga-am3
+P469514	3. kur dilmun{ki} ku3-ga-am3 kur dilmun sikil-am3
+P469514	4. kur dilmun{ki} sikil-am3 kur dilmun{ki} dadag-ga-am3
+P469514	5. dili-ni-ne dilmun{ki}-a u3-bi2-in-nu2
+P469514	8. dili-ni-ne dilmun{ki}-a u3-bi2-in-nu2
+P469514	11. dilmun{ki}-a uga{muszen} gu3-gu3 nu-mu-ni-be2
+P469514	46. dilmun{ki} a he2-gal2-la hu-mu-ra-na8-na8
+P469514	49. dilmun{ki} e2-gun2 kar-ra kalam-ma-ka he2-a
+P469514	49r. dilmun{ki} ki-tusz-bi ki-tusz du10-ga-am3
+P469514	57. dilmun{ki} a he2-gal2-la im-ta-na8-na8
+P469514	61. dilmun{ki} e2-gun2 kar-ra kalam-ma-ka na-nam
+P469514	280. {d}en-sa6-ag en dilmun-na he2-a
+P469516	124. kur me-luh-ha{ki} ma2-gan{ki} dilmun{ki}-bi
+P469516	126. {gesz}ma2 dilmun{ki}-na gesz he2-en-du3
+P469516	238. kur dilmun{ki}-na mu-un-sikil mu-un-dadag
+P469519	120. zu2-lum dilmun-na gur-da dab5-ba an zu2-lum za-gin3-na
+P448729	34. iri-gu10 kur dilmun{ki} nu-me-a {gesz}geszimmar ba-mu2
+P448729	35. nibru{ki} kur dilmun{ki} nu-me-a {gesz}geszimmar ba-mu2
+P274787	8. amar#-dilmun-[na?]{ki}
+P274787	12. amar#-dilmun-na#?{ki}
+P285194	8. _zu2#-lum-ma dilmun{ki} naga si i3-udu ellag udu-nita2 {szim}gur2-gur2_ {gesz}x [...] _illu_ li x [...]
+P285152	30. [x x] _gazi#{sar}_ {u2}ur2-nu-u _zu2-lum-ma dilmun{ki} 1(u) 5(disz) u2-mesz#?_ [...]
+P285153	4. [...] x x-ma _dilmun{ki}_
+P285124	18'. _i3-udu {szim}gig zu2-lum-ma dilmun{ki} sze10 eme-dir_
+P285113	26. _[zu2-lum]-ma dilmun{ki} 6(disz) u2#-mesz szesz_ ina _kasz_ tara#-[bak ...]
+P218310	1'. dilmun# [...]
+P499147	41. dilmun
+P453272	3a. dilmun
+P499153	51. gal dilmun
+P278950	5'. _{gesz}geszimmar# dilmun{ki}_ = [til-mu-nu-u]
+P278950	6'. _{gesz}geszimmar# dilmun#{ki#}_ = [as-nu-u]
+P369126	16. _zu2-lum-ma dilmun{ki} mun pap_ 1(disz) szu-szi 3(disz) _u2-hi-a_ mar-ha-s,u
+P369126	36. _zu2-lum-ma dilmun{ki} naga si_ tur-ar2 _i3-udu ellag2 udu-nita2#_
+P252707	2. ma2# dilmun? a-la2
+P253274	4. maszkim ma2 dilmun
+P252822	10. 4(iku@c) 1/2(iku@c) lugal-sag-dilmun
+P504371	2. {gesz#}[geszimmar dilmun]-na gub-ba
+P386009	5. _nu-{gesz}kiri6_ sza _{gesz}geszimmar dilmun-na_
+P414940	13. [...] _{gesz#}ma2 dilmun-na{ki}_
+P365744	1. _DISZ na sag-ki gub3_–szu2 _gu7_–szu2–ma# _igi 2(gesz2) 3(u)_-szu2 nap-hat u _ir2 bal_-qi2 _zu2-lum-ma dilmun{ki}
+P346476	5'. uri2{ki} e2-dilmun-na{ki#} [...]
+P346477	5'. e2-dilmun{ki} [...]
+P346086	1. iri{ki} ku3-ku3-ga e-ne ba-me-en-ze2-en kur dilmun{ki} ku3-ga-am3
+P346086	2. ki-en-gi ku3-ga e-ne ba-me-en-ze2-en kur dilmun{ki} ku3-ga-am3
+P346086	3. kur dilmun{ki} ku3-ga kur dilmun{ki} szen-na
+P346086	4. kur dilmun{ki} ki sikil-la kur dilmun{ki} ku3-ga
+P346086	5. dili-gu10-ne dilmun{ki} u3-bi2-nu2
+P346086	8. dili-gu10-ne dilmun{ki} u3-bi2-nu2
+P346086	11. dilmun{ki} uga{muszen} KA-KA nu-mu-ni!?-be2
+P346086	17. dilmun{ki} ki-tusz-bi ki-tusz du10-ga# [...]
+P283686	4. kaskal dilmun{ki}-sze3

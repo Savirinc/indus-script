@@ -1,0 +1,47 @@
+{
+  "commit": "843165c369a9c35658b1a7656860e06abd7a5de3",
+  "files": [
+    {
+      "file": "PREDICTIONS.md",
+      "lines": 11600,
+      "bytes": 929305,
+      "sha256": "41f355178b8029b5afdc8cbe7b926b8bd0126ecf66dbe4a75a7ee5bd0e40dbb9",
+      "read_ranges_inclusive": [
+        [
+          1,
+          3900
+        ],
+        [
+          3901,
+          7800
+        ],
+        [
+          7801,
+          11600
+        ]
+      ],
+      "coverage": "full textual reading by team, without gaps; not independent experiment verification",
+      "reviews": [
+        "predictions-a.md",
+        "predictions-b.md",
+        "predictions-c.md"
+      ]
+    },
+    {
+      "file": "NOTES.md",
+      "lines": 3269,
+      "bytes": 245109,
+      "sha256": "06b12d6604670b3eee8ce4ed06ff45bfc7f2a46e1a622313564f63369f62936d",
+      "read_ranges_inclusive": [
+        [
+          1,
+          3269
+        ]
+      ],
+      "coverage": "full textual reading by team, without gaps; not independent experiment verification",
+      "reviews": [
+        "notes-audit.md"
+      ]
+    }
+  ]
+}

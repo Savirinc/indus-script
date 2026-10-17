@@ -1,0 +1,11 @@
+# Frozen Tamil-order engineering control
+
+Registered locally before this script's first fit. Reuse round15/cipher/solver_inputs.json unchanged: anonymous encrypted training words, disclosed 50-segment candidate inventory and full unaligned Tamil reference. Do not load evaluation_answers.json until all fits finish. Full Tamil reference deliberately includes held-out target words; this is the existing oracle-positive-control setting.
+
+Conditions: original Tamil plus five references created by independently permuting the segment positions inside each reference word, using NumPy RNG seeds 20001–20005. Keep every resulting word, including accidental duplicate strings, so each reference preserves the original per-word lengths and global segment counts exactly. Word boundaries and atomic segments remain known. No word or segment crosses a word boundary.
+
+Use the existing round15 solver without modifications: six chains per condition, 15,000 pair-swap proposals per chain, fixed .1/.3/.6 unigram/bigram/trigram mixture, .1 smoothing, temperature 2 to .02, one frequency initialisation plus five random starts, best training-reference likelihood retained. Use solver seed 15104 for every condition, the original Tamil-control seed. Total 540,000 proposals, estimated 10–30 seconds from the earlier 180,000-proposal run; conservative runtime cap 180 seconds. Stop if exceeded; do not adjust settings or select controls after seeing answers.
+
+After all fits return, open the separate evaluation answer file and report exact held-out words, correct held-out segment tokens, correct training-observed key entries and seen-type held-out accuracy. Also retain existing frequency and random-key baselines for each condition. Report each shuffle separately, not merely the best. Five shuffles provide coarse descriptive controls only: no inferential p-value, no population performance claim. Word-order disruption may change dictionary coverage and phonotactics simultaneously; this does not isolate a purely syntactic cause.
+
+This is a synthetic Tamil substitution engineering check. It neither tests an Indus sign-to-sound model nor identifies the Indus language. It extends an already completed benchmark and is not a novel decipherment method. No hyperparameter tuning, new split, new key or model selection from hidden answers.

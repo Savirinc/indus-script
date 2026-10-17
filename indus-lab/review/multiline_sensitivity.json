@@ -1,0 +1,45 @@
+{
+  "old_distinct_lines": 1856,
+  "alternative_distinct_lines": 1949,
+  "additional_distinct_lines": 93,
+  "removed_distinct_lines": 0,
+  "multiline_records": 118,
+  "complete_RL_multiline_records": 61,
+  "old_contributing_multiline_records": 0,
+  "alternative_contributing_multiline_records": 61,
+  "old_220_231_contexts": [
+    {
+      "left": "220 17 585 95 520 32 407",
+      "right": "231 17 585 95 520 32 407",
+      "position": 1
+    },
+    {
+      "left": "3 220 740",
+      "right": "3 231 740",
+      "position": 2
+    },
+    {
+      "left": "820 60 220 798 740",
+      "right": "820 60 231 798 740",
+      "position": 3
+    }
+  ],
+  "alternative_220_231_contexts": [
+    {
+      "left": "220 17 585 95 520 32 407",
+      "right": "231 17 585 95 520 32 407",
+      "position": 1
+    },
+    {
+      "left": "3 220 740",
+      "right": "3 231 740",
+      "position": 2
+    },
+    {
+      "left": "820 60 220 798 740",
+      "right": "820 60 231 798 740",
+      "position": 3
+    }
+  ],
+  "status": "Sensitivity run only; historical reports retained. Alternative parsing convention must be verified against source documentation and photographs before replacing canonical results."
+}

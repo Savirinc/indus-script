@@ -1,0 +1,86 @@
+{
+  "source": "/home/claude/j-luo93/neurodecipher/data/linear_b-greek.cog",
+  "source_sha256": "0e8099cd9f02c36fc14599d9bc12836489816c0b1d17f471e723b98c978b10fa",
+  "rule_exact_coverage": 0.4820457018498368,
+  "settings": {
+    "steps": 150000,
+    "chains": 4,
+    "T0": 3.0,
+    "T1": 0.05,
+    "k": 0.1
+  },
+  "results": [
+    {
+      "condition": "B",
+      "sign_ids": 70,
+      "text_types": 919,
+      "tokens": 3451,
+      "lexicon_forms": 1432,
+      "token_accuracy": 0.8342509417560128,
+      "type_accuracy": 0.71875,
+      "freq_baseline": 0.07505070993914807,
+      "best_objective": -14451.862055097867,
+      "true_key_objective": -15337.230108539086,
+      "chain_objectives": [
+        -14455.85509148028,
+        -14455.855091480113,
+        -14451.862055097867,
+        -14471.391170239714
+      ],
+      "chain_accuracies": [
+        0.8484497247174732,
+        0.8490292668791655,
+        0.8342509417560128,
+        0.812807881773399
+      ]
+    },
+    {
+      "condition": "B0",
+      "sign_ids": 70,
+      "text_types": 919,
+      "tokens": 3451,
+      "lexicon_forms": 1432,
+      "token_accuracy": 0.07128368588814836,
+      "type_accuracy": 0.03125,
+      "freq_baseline": 0.07505070993914807,
+      "best_objective": -16012.882000874924,
+      "true_key_objective": -17118.337366723885,
+      "chain_objectives": [
+        -16112.453487509545,
+        -16012.882000874924,
+        -16167.750998448375,
+        -16071.923685711556
+      ],
+      "chain_accuracies": [
+        0.05302810779484207,
+        0.07128368588814836,
+        0.07418139669660968,
+        0.03274413213561286
+      ]
+    },
+    {
+      "condition": "C",
+      "sign_ids": 373,
+      "text_types": 919,
+      "tokens": 3451,
+      "lexicon_forms": 1432,
+      "token_accuracy": 0.09040857722399305,
+      "type_accuracy": 0.08,
+      "freq_baseline": 0.00927267458707621,
+      "best_objective": -12065.331870548596,
+      "true_key_objective": -15337.230108539086,
+      "chain_objectives": [
+        -12178.721736147767,
+        -12065.331870548596,
+        -12317.615282718845,
+        -12612.263648149326
+      ],
+      "chain_accuracies": [
+        0.09649376992176181,
+        0.09040857722399305,
+        0.05013039698638076,
+        0.06693711967545639
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+concept	form	form_ipa_or_simplified	source	notes
+fish	sakana	sakana	lexibank/wold form Japanese-3-65-1	concepticon 227 (the fish); lang Japanese
+man	hito	hito	lexibank/wold form Japanese-2-1-1	concepticon 683 (the person); lang Japanese
+man	ningen	ningen	lexibank/wold form Japanese-2-1-2	concepticon 683 (the person); lang Japanese; flagged loan; alternative form
+man	otoko	otoko	lexibank/wold form Japanese-2-21-1	concepticon 1554 (the man); lang Japanese; alternative form
+man	dansei	dansei	lexibank/wold form Japanese-2-21-2	concepticon 1554 (the man); lang Japanese; flagged loan; alternative form
+woman	onna	onna	lexibank/wold form Japanese-2-22-1	concepticon 962 (the woman); lang Japanese
+woman	josei	josei	lexibank/wold form Japanese-2-22-2	concepticon 962 (the woman); lang Japanese; flagged loan; alternative form
+tree	ki	ki	lexibank/wold form Japanese-8-6-1	concepticon 906 (the tree); lang Japanese
+leaf	ha	ha	lexibank/wold form Japanese-8-56-1	concepticon 628 (the leaf); lang Japanese
+arrow	ya	ya	lexibank/wold form Japanese-20-25-1	concepticon 977 (the arrow); lang Japanese
+bow	yumi	yumi	lexibank/wold form Japanese-20-24-1	concepticon 994 (the bow); lang Japanese
+jar/pot	nabe	nabe	lexibank/wold form Japanese-5-26-1	concepticon 1462 (the pot); lang Japanese
+mountain	yama	yama	lexibank/wold form Japanese-1-22-1	concepticon 2118 (the mountain or hill); lang Japanese
+mountain	oka	oka	lexibank/wold form Japanese-1-22-2	concepticon 2118 (the mountain or hill); lang Japanese; alternative form
+sun	hi	hi	lexibank/wold form Japanese-1-52-1	concepticon 1343 (the sun); lang Japanese
+sun	taiyō	taiyoo	lexibank/wold form Japanese-1-52-2	concepticon 1343 (the sun); lang Japanese; flagged loan; alternative form
+moon	tsuki	tsuki	lexibank/wold form Japanese-1-53-1	concepticon 1313 (the moon); lang Japanese
+star	hoshi	hoshi	lexibank/wold form Japanese-1-54-1	concepticon 1430 (the star); lang Japanese
+water	mizu	mizu	lexibank/wold form Japanese-1-31-1	concepticon 948 (the water); lang Japanese
+river	kawa	kawa	lexibank/wold form Japanese-1-36-1	concepticon 3311 (the river or stream); lang Japanese
+fire	hi	hi	lexibank/wold form Japanese-1-81-1	concepticon 221 (the fire); lang Japanese
+house/roof	ie	ie	lexibank/wold form Japanese-7-12-1	concepticon 1252 (the house); lang Japanese; flagged loan
+house/roof	yane	yane	lexibank/wold form Japanese-7-51-1	concepticon 769 (the roof); lang Japanese; alternative form
+field	hatake	hatake	lexibank/wold form Japanese-8-12-1	concepticon 212 (the field); lang Japanese
+plough	suku	suku	lexibank/wold form Japanese-8-21-1	concepticon 1921 (to plough/plow); lang Japanese
+plough	tagayasu	tagayasu	lexibank/wold form Japanese-8-21-2	concepticon 1921 (to plough/plow); lang Japanese; alternative form
+boat	fune	fune	lexibank/wold form Japanese-10-83-1	concepticon 1844 (the boat); lang Japanese; flagged loan
+boat	bōto	booto	lexibank/wold form Japanese-10-83-2	concepticon 1844 (the boat); lang Japanese; flagged loan; alternative form
+comb	kushi	kushi	lexibank/wold form Japanese-6-91-1	concepticon 1475 (the comb); lang Japanese
+bird	tori	tori	lexibank/wold form Japanese-3-581-1	concepticon 937 (the bird); lang Japanese
+bull/ox	ushi	ushi	lexibank/wold form Japanese-3-2-1	concepticon 1153 (the cattle); lang Japanese
+bull/ox	oushi	oushi	lexibank/wold form Japanese-3-21-1	concepticon 1008 (the bull); lang Japanese; alternative form
+bull/ox	kyoseigyū	kyoseigyuu	lexibank/wold form Japanese-3-22-1	concepticon 1169 (the ox); lang Japanese; flagged loan; alternative form
+cow	meushi	meushi	lexibank/wold form Japanese-3-23-1	concepticon 1007 (the cow); lang Japanese
+goat	yagi	yagi	lexibank/wold form Japanese-3-36-1	concepticon 1502 (the goat); lang Japanese
+dog	inu	inu	lexibank/wold form Japanese-3-61-1	concepticon 2009 (the dog); lang Japanese
+elephant	zō	zoo	lexibank/wold form Japanese-3-77-1	concepticon 1290 (the elephant); lang Japanese; flagged loan
+snake	hebi	hebi	lexibank/wold form Japanese-3-85-1	concepticon 730 (the snake); lang Japanese
+scorpion	sasori	sasori	lexibank/wold form Japanese-3-815-1	concepticon 1538 (the scorpion); lang Japanese
+frog	kaeru	kaeru	lexibank/wold form Japanese-3-95-1	concepticon 503 (the frog); lang Japanese
+turtle	kame	kame	lexibank/wold form Japanese-3-98-1	concepticon 112 (the turtle); lang Japanese
+knife	hōchō	hoochoo	lexibank/wold form Japanese-9-23-1	concepticon 1352 (the knife(2)); lang Japanese; flagged loan
+knife	naifu	naifu	lexibank/wold form Japanese-9-23-2	concepticon 1352 (the knife(2)); lang Japanese; flagged loan; alternative form
+rope	nawa	nawa	lexibank/wold form Japanese-9-19-1	concepticon 1218 (the rope); lang Japanese
+rope	tsuna	tsuna	lexibank/wold form Japanese-9-19-2	concepticon 1218 (the rope); lang Japanese; alternative form
+rope	rōpu	roopu	lexibank/wold form Japanese-9-19-3	concepticon 1218 (the rope); lang Japanese; flagged loan; alternative form
+wheel	wa	wa	lexibank/wold form Japanese-10-76-1	concepticon 710 (the wheel); lang Japanese
+wheel	sharin	sharin	lexibank/wold form Japanese-10-76-2	concepticon 710 (the wheel); lang Japanese; flagged loan; alternative form
+eye	me	me	lexibank/wold form Japanese-4-21-1	concepticon 1248 (the eye); lang Japanese
+hand	te	te	lexibank/wold form Japanese-4-33-1	concepticon 1277 (the hand); lang Japanese
+foot	ashi	ashi	lexibank/wold form Japanese-4-37-1	concepticon 1301 (the foot); lang Japanese
+head	atama	atama	lexibank/wold form Japanese-4-2-1	concepticon 1256 (the head); lang Japanese
+horn	tsuno	tsuno	lexibank/wold form Japanese-4-17-1	concepticon 1393 (the horn); lang Japanese
+mouth	kuchi	kuchi	lexibank/wold form Japanese-4-24-1	concepticon 674 (the mouth); lang Japanese
+tooth	ha	ha	lexibank/wold form Japanese-4-27-1	concepticon 1380 (the tooth); lang Japanese
+bone	hone	hone	lexibank/wold form Japanese-4-16-1	concepticon 1394 (the bone); lang Japanese
+egg	tamago	tamago	lexibank/wold form Japanese-5-97-1	concepticon 744 (the egg); lang Japanese
+grain/seed	tane	tane	lexibank/wold form Japanese-8-311-1	concepticon 714 (the seed); lang Japanese
+grain/seed	shushi	shushi	lexibank/wold form Japanese-8-311-2	concepticon 714 (the seed); lang Japanese; flagged loan; alternative form
+grain/seed	kokumotsu	kokumotsu	lexibank/wold form Japanese-8-42-1	concepticon 605 (the grain); lang Japanese; flagged loan; alternative form
+plant	shokubutsu	shokubutsu	lexibank/wold form Japanese-8-53-1	concepticon 653 (the plant); lang Japanese; flagged loan
+flower	hana	hana	lexibank/wold form Japanese-8-57-1	concepticon 239 (the flower); lang Japanese
+fig tree	ichijiku	ichijiku	lexibank/wold form Japanese-5-75-1	concepticon 322 (the fig); lang Japanese; flagged loan
+fig tree	gajumaru	gajumaru	lexibank/wold form Japanese-8-85-1	concepticon 346 (the banyan); lang Japanese; flagged loan; alternative form
+honey	mitsu	mitsu	lexibank/wold form Japanese-5-84-1	concepticon 942 (the honey); lang Japanese; flagged loan
+rain	ame	ame	lexibank/wold form Japanese-1-75-1	concepticon 658 (the rain); lang Japanese
+stone	ishi	ishi	lexibank/wold form Japanese-1-44-1	concepticon 2125 (the stone or rock); lang Japanese
+stone	iwa	iwa	lexibank/wold form Japanese-1-44-2	concepticon 2125 (the stone or rock); lang Japanese; alternative form
+gold	kin	kin	lexibank/wold form Japanese-9-64-1	concepticon 1369 (the gold); lang Japanese; flagged loan
+gold	ōgon	oogon	lexibank/wold form Japanese-9-64-2	concepticon 1369 (the gold); lang Japanese; flagged loan; alternative form
+net	gyomō	gyomoo	lexibank/wold form Japanese-20-54-1	concepticon 388 (the fishnet); lang Japanese; flagged loan
+net	nageami	nageami	lexibank/wold form Japanese-20-54-2	concepticon 388 (the fishnet); lang Japanese; alternative form
+drum	taiko	taiko	lexibank/wold form Japanese-18-72-1	concepticon 908 (the drum); lang Japanese
+drum	doramu	doramu	lexibank/wold form Japanese-18-72-2	concepticon 908 (the drum); lang Japanese; flagged loan; alternative form
+one	hitotsu	hitotsu	lexibank/wold form Japanese-13-01-1	concepticon 1493 (one); lang Japanese
+one	ichi	ichi	lexibank/wold form Japanese-13-01-2	concepticon 1493 (one); lang Japanese; flagged loan; alternative form
+two	futatsu	futatsu	lexibank/wold form Japanese-13-02-1	concepticon 1498 (two); lang Japanese
+two	ni	ni	lexibank/wold form Japanese-13-02-2	concepticon 1498 (two); lang Japanese; flagged loan; alternative form
+three	mittsu	mittsu	lexibank/wold form Japanese-13-03-1	concepticon 492 (three); lang Japanese
+three	san	san	lexibank/wold form Japanese-13-03-2	concepticon 492 (three); lang Japanese; flagged loan; alternative form
+four	yottsu	yottsu	lexibank/wold form Japanese-13-04-1	concepticon 1500 (four); lang Japanese
+four	yon	yon	lexibank/wold form Japanese-13-04-2	concepticon 1500 (four); lang Japanese; alternative form
+four	shi	shi	lexibank/wold form Japanese-13-04-3	concepticon 1500 (four); lang Japanese; flagged loan; alternative form
+five	itsutsu	itsutsu	lexibank/wold form Japanese-13-05-1	concepticon 493 (five); lang Japanese
+five	go	go	lexibank/wold form Japanese-13-05-2	concepticon 493 (five); lang Japanese; flagged loan; alternative form
+six	muttsu	muttsu	lexibank/wold form Japanese-13-06-1	concepticon 1703 (six); lang Japanese
+six	roku	roku	lexibank/wold form Japanese-13-06-2	concepticon 1703 (six); lang Japanese; flagged loan; alternative form
+seven	nanatsu	nanatsu	lexibank/wold form Japanese-13-07-1	concepticon 1704 (seven); lang Japanese
+seven	nana	nana	lexibank/wold form Japanese-13-07-2	concepticon 1704 (seven); lang Japanese; alternative form
+seven	shichi	shichi	lexibank/wold form Japanese-13-07-3	concepticon 1704 (seven); lang Japanese; flagged loan; alternative form
+eight	yattsu	yattsu	lexibank/wold form Japanese-13-08-1	concepticon 1705 (eight); lang Japanese
+eight	hachi	hachi	lexibank/wold form Japanese-13-08-2	concepticon 1705 (eight); lang Japanese; flagged loan; alternative form
+nine	kokonotsu	kokonotsu	lexibank/wold form Japanese-13-09-1	concepticon 1483 (nine); lang Japanese
+nine	kyū	kyuu	lexibank/wold form Japanese-13-09-2	concepticon 1483 (nine); lang Japanese; flagged loan; alternative form
+ten	tō	too	lexibank/wold form Japanese-13-1-1	concepticon 1515 (ten); lang Japanese
+ten	jū	juu	lexibank/wold form Japanese-13-1-2	concepticon 1515 (ten); lang Japanese; flagged loan; alternative form

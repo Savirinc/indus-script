@@ -1,0 +1,20 @@
+{
+  "source": "https://github.com/lexibank/dravlex",
+  "commit": "37578075e5ccb09c43022f7f1282125e748de84d",
+  "files": {
+    "LICENSE": "945fbcb37deca05bccd7c3ca0e261679f1f5373515504fdbad68f6f3cf6f49b9",
+    "README.md": "f2cac6362a4def0c8bf7c0f940c76c880d8848cf364b3eabf840828c236c81b4",
+    "cldf/lingpy-rcParams.json": "edf4962f12560d0230a19e8380ca35ed2b45262834c692c5775fcd46bec93c74",
+    "cldf/languages.csv": "e1ed487b4d330612338b9f96c79abc3399268b904643ff9d5b9d241cb8a1e07c",
+    "cldf/parameters.csv": "dcf49e6300dbf05899d877570549fdc290c53594c8ad15513a4524d2531ca721",
+    "cldf/cldf-metadata.json": "efb124cabded73d010ba8f409f6c891083789613985bb8f28fabce8627979da3",
+    "cldf/requirements.txt": "9ed50141c1e2a1dddd10fa8a708f48d01868e103d110da45f8de5ed853d89f47",
+    "cldf/sources.bib": "6b42dbfb9c437d240f518ead736a31b84349a21a357de3164cfd130c945f1edf",
+    "cldf/.gitattributes": "9ebfe081d56a414fc1008021d455e31c22068e671f88938c3c3f90fbbe80227b",
+    "cldf/cognates.csv": "3c5d64117f6e532ebfb1b71947f817bab53c1d06b348c0336f51da4ecc60a37d",
+    "cldf/README.md": "ed3833bd9a2ea2d7ee801c1299b0a0717c42235cbe501485bc56ce2d6541a38b",
+    "cldf/forms.csv": "60e2f6db0c85625b980df75dc25beb7b845f7b661a6a5ac7c22a91dbc1e3a955",
+    "cldf/.transcription-report.json": "5565e33c9b1bdbd032f7c820910d1db2f366fdc8e615aef51fa50bde149d5e33"
+  },
+  "status": "comparative lexical observations, not ProtoDravidian inscriptions or Indus evidence"
+}

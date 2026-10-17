@@ -1,0 +1,62 @@
+{
+  "source": "/home/claude/j-luo93/neurodecipher/data/linear_b-greek.cog",
+  "source_sha256": "0e8099cd9f02c36fc14599d9bc12836489816c0b1d17f471e723b98c978b10fa",
+  "rule_exact_coverage": 0.4820457018498368,
+  "settings": {
+    "steps": 150000,
+    "chains": 4,
+    "T0": 3.0,
+    "T1": 0.05,
+    "k": 0.1
+  },
+  "results": [
+    {
+      "condition": "B",
+      "sign_ids": 70,
+      "text_types": 919,
+      "tokens": 3451,
+      "lexicon_forms": 1432,
+      "token_accuracy": 0.8342509417560128,
+      "type_accuracy": 0.71875,
+      "freq_baseline": 0.07505070993914807,
+      "best_objective": -29080.391695877017,
+      "true_key_objective": -29965.759749318368,
+      "chain_objectives": [
+        -29084.38473225943,
+        -29084.384732259525,
+        -29080.391695877017,
+        -29099.920811018757
+      ],
+      "chain_accuracies": [
+        0.8490292668791655,
+        0.8484497247174732,
+        0.8342509417560128,
+        0.8186033033903216
+      ]
+    },
+    {
+      "condition": "C",
+      "sign_ids": 373,
+      "text_types": 919,
+      "tokens": 3451,
+      "lexicon_forms": 1432,
+      "token_accuracy": 0.08026658939437845,
+      "type_accuracy": 0.07142857142857142,
+      "freq_baseline": 0.00927267458707621,
+      "best_objective": -29721.05647668121,
+      "true_key_objective": -29965.759749318368,
+      "chain_objectives": [
+        -29907.150774637,
+        -29721.05647668121,
+        -29816.591005072554,
+        -29983.536235756183
+      ],
+      "chain_accuracies": [
+        0.09417560127499276,
+        0.08026658939437845,
+        0.0698348304839177,
+        0.05244856563314981
+      ]
+    }
+  ]
+}

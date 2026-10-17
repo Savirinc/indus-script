@@ -1,0 +1,338 @@
+{
+  "Harappa": {
+    "definition": "All same-length records that can be reduced to this unordered core by deleting one sign occurrence. Test each nontransitive family containing >=2 sign400 tablets. Wider formula families remain untested.",
+    "tested_families": 14,
+    "results": [
+      {
+        "core": [
+          400,
+          740
+        ],
+        "removed_ids": [
+          "273.1",
+          "1212.1",
+          "654.1",
+          "790.1",
+          "1727.1",
+          "1728.1"
+        ],
+        "removed_cisi": [
+          "H-1102",
+          "H-178",
+          "H-1863",
+          "H-1961",
+          "H-841",
+          "H-842"
+        ],
+        "exact_two_sided_p": 2.1119130122988612e-10,
+        "observed_tablets_with_sign": 58,
+        "null_expected_tablets_with_sign": 38.75740241086308,
+        "mantel_haenszel_odds_ratio": 15.79274689664901,
+        "informative_strata": 5,
+        "informative_groups": 285
+      },
+      {
+        "core": [
+          240,
+          400,
+          740
+        ],
+        "removed_ids": [
+          "1276.1",
+          "410.2",
+          "806.2"
+        ],
+        "removed_cisi": [
+          "H-251",
+          "H-1897",
+          "H-2189"
+        ],
+        "exact_two_sided_p": 2.0520974183382363e-10,
+        "observed_tablets_with_sign": 61,
+        "null_expected_tablets_with_sign": 41.11407853701396,
+        "mantel_haenszel_odds_ratio": 16.00943753734933,
+        "informative_strata": 5,
+        "informative_groups": 288
+      },
+      {
+        "core": [
+          176,
+          400,
+          740
+        ],
+        "removed_ids": [
+          "423.1",
+          "548.2",
+          "550.2"
+        ],
+        "removed_cisi": [
+          "H-1997",
+          "H-1931",
+          "H-1822"
+        ],
+        "exact_two_sided_p": 2.0520974183382363e-10,
+        "observed_tablets_with_sign": 61,
+        "null_expected_tablets_with_sign": 41.11407853701396,
+        "mantel_haenszel_odds_ratio": 16.00943753734933,
+        "informative_strata": 5,
+        "informative_groups": 288
+      },
+      {
+        "core": [
+          158,
+          400,
+          806
+        ],
+        "removed_ids": [
+          "745.1",
+          "1222.1",
+          "1239.1"
+        ],
+        "removed_cisi": [
+          "H-1980",
+          "H-189",
+          "H-208"
+        ],
+        "exact_two_sided_p": 2.0520974183382363e-10,
+        "observed_tablets_with_sign": 61,
+        "null_expected_tablets_with_sign": 41.11407853701396,
+        "mantel_haenszel_odds_ratio": 16.00943753734933,
+        "informative_strata": 5,
+        "informative_groups": 288
+      },
+      {
+        "core": [
+          100,
+          400,
+          740
+        ],
+        "removed_ids": [
+          "1276.1",
+          "458.2"
+        ],
+        "removed_cisi": [
+          "H-251",
+          "H-1940"
+        ],
+        "exact_two_sided_p": 5.4867111308560566e-11,
+        "observed_tablets_with_sign": 62,
+        "null_expected_tablets_with_sign": 41.90838233448232,
+        "mantel_haenszel_odds_ratio": 16.259456454823553,
+        "informative_strata": 5,
+        "informative_groups": 289
+      },
+      {
+        "core": [
+          400,
+          519,
+          740
+        ],
+        "removed_ids": [
+          "550.2",
+          "1259.1"
+        ],
+        "removed_cisi": [
+          "H-1822",
+          "H-232"
+        ],
+        "exact_two_sided_p": 5.4867111308560566e-11,
+        "observed_tablets_with_sign": 62,
+        "null_expected_tablets_with_sign": 41.90838233448232,
+        "mantel_haenszel_odds_ratio": 16.259456454823553,
+        "informative_strata": 5,
+        "informative_groups": 289
+      },
+      {
+        "core": [
+          400,
+          740,
+          840
+        ],
+        "removed_ids": [
+          "567.2",
+          "1758.1"
+        ],
+        "removed_cisi": [
+          "H-1923",
+          "H-875"
+        ],
+        "exact_two_sided_p": 5.4867111308560566e-11,
+        "observed_tablets_with_sign": 62,
+        "null_expected_tablets_with_sign": 41.90838233448232,
+        "mantel_haenszel_odds_ratio": 16.259456454823553,
+        "informative_strata": 5,
+        "informative_groups": 289
+      },
+      {
+        "core": [
+          400,
+          617,
+          740
+        ],
+        "removed_ids": [
+          "1256.1",
+          "1242.1"
+        ],
+        "removed_cisi": [
+          "H-229",
+          "H-211"
+        ],
+        "exact_two_sided_p": 5.4867111308560566e-11,
+        "observed_tablets_with_sign": 62,
+        "null_expected_tablets_with_sign": 41.90838233448232,
+        "mantel_haenszel_odds_ratio": 16.259456454823553,
+        "informative_strata": 5,
+        "informative_groups": 289
+      },
+      {
+        "core": [
+          400,
+          503,
+          740
+        ],
+        "removed_ids": [
+          "1208.1",
+          "1614.1"
+        ],
+        "removed_cisi": [
+          "H-174",
+          "H-709"
+        ],
+        "exact_two_sided_p": 5.4867111308560566e-11,
+        "observed_tablets_with_sign": 62,
+        "null_expected_tablets_with_sign": 41.90838233448232,
+        "mantel_haenszel_odds_ratio": 16.259456454823553,
+        "informative_strata": 5,
+        "informative_groups": 289
+      },
+      {
+        "core": [
+          400,
+          400,
+          520
+        ],
+        "removed_ids": [
+          "1244.1",
+          "1245.1"
+        ],
+        "removed_cisi": [
+          "H-213",
+          "H-214"
+        ],
+        "exact_two_sided_p": 5.4867111308560566e-11,
+        "observed_tablets_with_sign": 62,
+        "null_expected_tablets_with_sign": 41.90838233448232,
+        "mantel_haenszel_odds_ratio": 16.259456454823553,
+        "informative_strata": 5,
+        "informative_groups": 289
+      },
+      {
+        "core": [
+          233,
+          400
+        ],
+        "removed_ids": [
+          "1268.1",
+          "560.2"
+        ],
+        "removed_cisi": [
+          "H-243",
+          "H-1873"
+        ],
+        "exact_two_sided_p": 4.790418634128644e-11,
+        "observed_tablets_with_sign": 62,
+        "null_expected_tablets_with_sign": 41.90559668234502,
+        "mantel_haenszel_odds_ratio": 16.447572550447266,
+        "informative_strata": 5,
+        "informative_groups": 289
+      },
+      {
+        "core": [
+          118,
+          400
+        ],
+        "removed_ids": [
+          "557.2",
+          "1243.1"
+        ],
+        "removed_cisi": [
+          "H-1855",
+          "H-212"
+        ],
+        "exact_two_sided_p": 4.790418634128644e-11,
+        "observed_tablets_with_sign": 62,
+        "null_expected_tablets_with_sign": 41.90559668234502,
+        "mantel_haenszel_odds_ratio": 16.447572550447266,
+        "informative_strata": 5,
+        "informative_groups": 289
+      },
+      {
+        "core": [
+          236,
+          400
+        ],
+        "removed_ids": [
+          "560.2",
+          "3969.1"
+        ],
+        "removed_cisi": [
+          "H-1873",
+          "H-1124"
+        ],
+        "exact_two_sided_p": 4.790418634128644e-11,
+        "observed_tablets_with_sign": 62,
+        "null_expected_tablets_with_sign": 41.90559668234502,
+        "mantel_haenszel_odds_ratio": 16.447572550447266,
+        "informative_strata": 5,
+        "informative_groups": 289
+      },
+      {
+        "core": [
+          154,
+          400
+        ],
+        "removed_ids": [
+          "780.2",
+          "1683.1"
+        ],
+        "removed_cisi": [
+          "H-1844",
+          "H-792"
+        ],
+        "exact_two_sided_p": 4.790418634128644e-11,
+        "observed_tablets_with_sign": 62,
+        "null_expected_tablets_with_sign": 41.90559668234502,
+        "mantel_haenszel_odds_ratio": 16.447572550447266,
+        "informative_strata": 5,
+        "informative_groups": 289
+      }
+    ]
+  },
+  "Mohenjo-daro": {
+    "definition": "All same-length records that can be reduced to this unordered core by deleting one sign occurrence. Test each nontransitive family containing >=2 sign400 tablets. Wider formula families remain untested.",
+    "tested_families": 1,
+    "results": [
+      {
+        "core": [
+          158,
+          400,
+          806
+        ],
+        "removed_ids": [
+          "2955.2",
+          "3706.2"
+        ],
+        "removed_cisi": [
+          "M-470",
+          "M-1419"
+        ],
+        "exact_two_sided_p": 0.024140946252863716,
+        "observed_tablets_with_sign": 5,
+        "null_expected_tablets_with_sign": 1.766428265786416,
+        "mantel_haenszel_odds_ratio": 3.8816647827093584,
+        "informative_strata": 5,
+        "informative_groups": 615
+      }
+    ]
+  }
+}

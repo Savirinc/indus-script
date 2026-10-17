@@ -1,0 +1,13 @@
+# Working corpora — provenance
+
+| file | from | upstream licence | pinned at | SHA-256 |
+|---|---|---|---|---|
+| `indus_website_real_corpus.csv` | `joyboseroy/indus_decipher` `data/indus_website_real_corpus.csv`, itself derived from a database dump of `yajnadevam/indus-website` | GPL-3.0 (`yajnadevam/indus-website`); MIT (`joyboseroy/indus_decipher`) | `30bdd94f861a39826b27bbcb485c404ca819fd9f` (byte-identical) | `7258075509684e008aea3d9726417de86a135c1a4325e2e633e0cb98598392c8` |
+| `cisi_real_corpus.csv`, `cisi_real_corpus_allograph.csv`, `cisi_real_corpus_hierarchical.csv` | `mayig/indus-valley-script-corpus` `corpus/`, converted with `joyboseroy/indus_decipher`'s converter at three allograph granularities | MIT | `ad2f1e2` (mayig) | — |
+
+`indus_website_real_corpus.csv`: 2,543 inscriptions, 11,280 tokens, 592 sign types.
+Only the sign sequences are used. The upstream maintainer is also the author of an
+independently disputed decipherment claim; no part of that claim is relied on or
+evaluated here.
+
+`verify.py` prints the corpus SHA-256 on every run; compare it with the value above.

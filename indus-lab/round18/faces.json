@@ -1,0 +1,302 @@
+[
+  {
+    "face_id": "M-1543-A",
+    "object_id": "M-1543",
+    "catalogue_face_label": "A",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1543-A.png",
+    "bbox_xyxy_native_pixels": [
+      75,
+      120,
+      351,
+      324
+    ],
+    "pixel_dimensions": [
+      276,
+      204
+    ],
+    "crop_sha256": "8061b2786df323beb365ad30998b2f48fe375c5ae091c60c90cd9bcad06a1d6d",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false
+  },
+  {
+    "face_id": "M-1543-B",
+    "object_id": "M-1543",
+    "catalogue_face_label": "B",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1543-B.png",
+    "bbox_xyxy_native_pixels": [
+      451,
+      119,
+      724,
+      326
+    ],
+    "pixel_dimensions": [
+      273,
+      207
+    ],
+    "crop_sha256": "39c6141324a5a58f1ce37e3f4f1767183e4398fb73ac9afea122b234a00ee6fc",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false
+  },
+  {
+    "face_id": "M-1544-A",
+    "object_id": "M-1544",
+    "catalogue_face_label": "A",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1544-A.png",
+    "bbox_xyxy_native_pixels": [
+      74,
+      388,
+      371,
+      636
+    ],
+    "pixel_dimensions": [
+      297,
+      248
+    ],
+    "crop_sha256": "884523897cdab515316226b44e4f2a2252dfe9013db5ea10a84bbac58687b88a",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false
+  },
+  {
+    "face_id": "M-1544-B",
+    "object_id": "M-1544",
+    "catalogue_face_label": "B",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1544-B.png",
+    "bbox_xyxy_native_pixels": [
+      436,
+      388,
+      729,
+      636
+    ],
+    "pixel_dimensions": [
+      293,
+      248
+    ],
+    "crop_sha256": "b2cebc677926a54306556936ac95d00404ad175e6218eb7f1778b42a2f4da37b",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false
+  },
+  {
+    "face_id": "M-1545-A",
+    "object_id": "M-1545",
+    "catalogue_face_label": "A",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1545-A.png",
+    "bbox_xyxy_native_pixels": [
+      39,
+      695,
+      223,
+      844
+    ],
+    "pixel_dimensions": [
+      184,
+      149
+    ],
+    "crop_sha256": "34df110e8f612ded2b08914479668f18497858f9ab42ad9faedfabab5fa0b190",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false
+  },
+  {
+    "face_id": "M-1545-B",
+    "object_id": "M-1545",
+    "catalogue_face_label": "B",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1545-B.png",
+    "bbox_xyxy_native_pixels": [
+      277,
+      691,
+      459,
+      844
+    ],
+    "pixel_dimensions": [
+      182,
+      153
+    ],
+    "crop_sha256": "b326176db83fd5dd88c14b3cac1d4a9f724243dfa52e43a73830a63502d14260",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false
+  },
+  {
+    "face_id": "M-1546-A",
+    "object_id": "M-1546",
+    "catalogue_face_label": "A",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1546-A.png",
+    "bbox_xyxy_native_pixels": [
+      508,
+      697,
+      614,
+      823
+    ],
+    "pixel_dimensions": [
+      106,
+      126
+    ],
+    "crop_sha256": "3ba463cfd5e5ace65863bf1a761b000278ca74973a342e4bfc61d8dc5c2e9b85",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false
+  },
+  {
+    "face_id": "M-1546-B",
+    "object_id": "M-1546",
+    "catalogue_face_label": "B",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1546-B.png",
+    "bbox_xyxy_native_pixels": [
+      656,
+      697,
+      768,
+      823
+    ],
+    "pixel_dimensions": [
+      112,
+      126
+    ],
+    "crop_sha256": "e5d2d889e7b231d8d774cdefedbc9f4a4f2925c3df7ab8f6e6d04d128fb4ff37",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false
+  },
+  {
+    "face_id": "M-1547-A",
+    "object_id": "M-1547",
+    "catalogue_face_label": "A",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1547-A.png",
+    "bbox_xyxy_native_pixels": [
+      93,
+      909,
+      355,
+      1046
+    ],
+    "pixel_dimensions": [
+      262,
+      137
+    ],
+    "crop_sha256": "a5ac922e03bebde739617893b34c3f9c6532d2c9719e31598f22aec061646833",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false
+  },
+  {
+    "face_id": "M-1547-B",
+    "object_id": "M-1547",
+    "catalogue_face_label": "B",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1547-B.png",
+    "bbox_xyxy_native_pixels": [
+      436,
+      909,
+      699,
+      1050
+    ],
+    "pixel_dimensions": [
+      263,
+      141
+    ],
+    "crop_sha256": "d99e6c6a068b880348c9709973bb65b000cd001e60809b439cc9bce1389e17a1",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false
+  }
+]

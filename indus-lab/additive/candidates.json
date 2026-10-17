@@ -1,0 +1,696 @@
+[
+  {
+    "base": "220",
+    "extended": "231",
+    "base_parts": 1,
+    "matching_contexts": 3,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 17 585 95 520 32 407",
+        "right": "231 17 585 95 520 32 407",
+        "left_records": [
+          {
+            "id": "2284.2",
+            "cisi": "M-2053",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "3019.1",
+            "cisi": "M-547",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Othr"
+          },
+          {
+            "id": "3020.1",
+            "cisi": "M-548",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Goat:8"
+          },
+          {
+            "id": "3021.1",
+            "cisi": "M-549",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "-"
+          },
+          {
+            "id": "3791.1",
+            "cisi": "M-1555",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          },
+          {
+            "id": "3792.1",
+            "cisi": "M-1556",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          },
+          {
+            "id": "3793.1",
+            "cisi": "M-1557",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          },
+          {
+            "id": "3794.1",
+            "cisi": "M-1558",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "None"
+          },
+          {
+            "id": "5587.1",
+            "cisi": "-",
+            "site": "Mohenjo-daro",
+            "type": "TAB:C",
+            "symbol": "Buff"
+          }
+        ],
+        "same_site_type_record_pairs": 8,
+        "pairs_with_two_recorded_motifs": 0,
+        "pairs_same_broad_motif": 0
+      },
+      {
+        "position": 2,
+        "left": "3 220 740",
+        "right": "3 231 740",
+        "left_records": [
+          {
+            "id": "2814.1",
+            "cisi": "M-294",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Scene"
+          },
+          {
+            "id": "3720.1",
+            "cisi": "M-1439",
+            "site": "Mohenjo-daro",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "3722.1",
+            "cisi": "M-1441",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:R",
+            "symbol": "None"
+          },
+          {
+            "id": "3723.1",
+            "cisi": "M-1442",
+            "site": "Mohenjo-daro",
+            "type": "TAB:B",
+            "symbol": "None"
+          },
+          {
+            "id": "3724.1",
+            "cisi": "M-1443",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:R",
+            "symbol": "None"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "1332.1",
+            "cisi": "H-310",
+            "site": "Harappa",
+            "type": "SEAL:R",
+            "symbol": "None"
+          }
+        ],
+        "same_site_type_record_pairs": 0,
+        "pairs_with_two_recorded_motifs": 0,
+        "pairs_same_broad_motif": 0
+      },
+      {
+        "position": 3,
+        "left": "820 60 220 798 740",
+        "right": "820 60 231 798 740",
+        "left_records": [
+          {
+            "id": "2427.1",
+            "cisi": "M-1768",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:W"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "2345.1",
+            "cisi": "M-1804",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:J"
+          }
+        ],
+        "same_site_type_record_pairs": 1,
+        "pairs_with_two_recorded_motifs": 1,
+        "pairs_same_broad_motif": 1
+      }
+    ]
+  },
+  {
+    "base": "15",
+    "extended": "16",
+    "base_parts": 5,
+    "matching_contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 15 390",
+        "right": "861 2 16 390",
+        "left_records": [
+          {
+            "id": "2509.1",
+            "cisi": "M-1833",
+            "site": "Mohenjo-daro",
+            "type": "SEAL:S",
+            "symbol": "Bull1:S"
+          }
+        ],
+        "right_records": [
+          {
+            "id": "136.1",
+            "cisi": "-",
+            "site": "Dholavira",
+            "type": "SEAL:R",
+            "symbol": "None"
+          },
+          {
+            "id": "4260.1",
+            "cisi": "-",
+            "site": "Dholavira",
+            "type": "SEAL:R",
+            "symbol": "None"
+          }
+        ],
+        "same_site_type_record_pairs": 0,
+        "pairs_with_two_recorded_motifs": 0,
+        "pairs_same_broad_motif": 0
+      }
+    ]
+  },
+  {
+    "base": "13",
+    "extended": "145",
+    "base_parts": 3,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "13",
+    "extended": "703",
+    "base_parts": 3,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "13",
+    "extended": "745",
+    "base_parts": 3,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "15",
+    "extended": "26",
+    "base_parts": 5,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "15",
+    "extended": "232",
+    "base_parts": 5,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "15",
+    "extended": "471",
+    "base_parts": 5,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "15",
+    "extended": "931",
+    "base_parts": 5,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "17",
+    "extended": "18",
+    "base_parts": 7,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "17",
+    "extended": "42",
+    "base_parts": 7,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "17",
+    "extended": "926",
+    "base_parts": 7,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "18",
+    "extended": "19",
+    "base_parts": 8,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "18",
+    "extended": "393",
+    "base_parts": 8,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "18",
+    "extended": "466",
+    "base_parts": 8,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "18",
+    "extended": "680",
+    "base_parts": 8,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "18",
+    "extended": "689",
+    "base_parts": 8,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "18",
+    "extended": "895",
+    "base_parts": 8,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "19",
+    "extended": "51",
+    "base_parts": 9,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "26",
+    "extended": "17",
+    "base_parts": 6,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "26",
+    "extended": "27",
+    "base_parts": 6,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "27",
+    "extended": "18",
+    "base_parts": 7,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "27",
+    "extended": "42",
+    "base_parts": 7,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "27",
+    "extended": "926",
+    "base_parts": 7,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "31",
+    "extended": "32",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "32",
+    "extended": "33",
+    "base_parts": 2,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "32",
+    "extended": "45",
+    "base_parts": 2,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "32",
+    "extended": "46",
+    "base_parts": 2,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "32",
+    "extended": "58",
+    "base_parts": 2,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "32",
+    "extended": "97",
+    "base_parts": 2,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "32",
+    "extended": "412",
+    "base_parts": 2,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "32",
+    "extended": "418",
+    "base_parts": 2,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "32",
+    "extended": "599",
+    "base_parts": 2,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "33",
+    "extended": "34",
+    "base_parts": 3,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "34",
+    "extended": "35",
+    "base_parts": 4,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "34",
+    "extended": "225",
+    "base_parts": 4,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "34",
+    "extended": "577",
+    "base_parts": 4,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "34",
+    "extended": "822",
+    "base_parts": 4,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "34",
+    "extended": "843",
+    "base_parts": 4,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "34",
+    "extended": "855",
+    "base_parts": 4,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "35",
+    "extended": "36",
+    "base_parts": 5,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "36",
+    "extended": "37",
+    "base_parts": 6,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "70",
+    "extended": "69",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "111",
+    "extended": "112",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "111",
+    "extended": "115",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "190",
+    "extended": "191",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "220",
+    "extended": "219",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "220",
+    "extended": "221",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "260",
+    "extended": "261",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "400",
+    "extended": "401",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "440",
+    "extended": "441",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "480",
+    "extended": "479",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "550",
+    "extended": "552",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "551",
+    "extended": "552",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "595",
+    "extended": "596",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "597",
+    "extended": "596",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "599",
+    "extended": "34",
+    "base_parts": 3,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "600",
+    "extended": "32",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "604",
+    "extended": "620",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "615",
+    "extended": "617",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "630",
+    "extended": "629",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "632",
+    "extended": "629",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "698",
+    "extended": "697",
+    "base_parts": 2,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "700",
+    "extended": "698",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "790",
+    "extended": "791",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "797",
+    "extended": "799",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "798",
+    "extended": "799",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "820",
+    "extended": "821",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "892",
+    "extended": "893",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "898",
+    "extended": "126",
+    "base_parts": 1,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "914",
+    "extended": "908",
+    "base_parts": 4,
+    "matching_contexts": 0,
+    "examples": []
+  },
+  {
+    "base": "919",
+    "extended": "918",
+    "base_parts": 2,
+    "matching_contexts": 0,
+    "examples": []
+  }
+]

@@ -1,0 +1,630 @@
+{
+  "generated": "2026-10-17",
+  "purpose": "Files deliberately left out of the public repository. Hashes let anyone verify a locally regenerated copy matches what the analyses used.",
+  "count": 77,
+  "total_bytes": 46191972,
+  "files": [
+    {
+      "path": "indus-lab/raw/sk_indus_script-webfont.ttf",
+      "bytes": 503676,
+      "sha256": "2fccc124e03b8c3644e601e35e5d62af57c71d2b66396c21c15813a4a932c478",
+      "what": "Indus sign webfont from yajnadevam/lipi; no licence stated upstream",
+      "provenance": "indus-lab/raw/README.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/review08/photos/A.jpg",
+      "bytes": 96693,
+      "sha256": "5be7784462870152e9c53bb4ee230039bf498dd0d75d26ca3f2f6d6b1ab9bd82",
+      "what": "harappa.com slide photographs (A,B,C) and CISI vol.1/2 page renders",
+      "provenance": "indus-lab/review08/photos/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/review08/photos/B.jpg",
+      "bytes": 140385,
+      "sha256": "cb34e00a54a1734dda50df30bf3763ec2eb49073b69572e8f862855e2fed05e2",
+      "what": "harappa.com slide photographs (A,B,C) and CISI vol.1/2 page renders",
+      "provenance": "indus-lab/review08/photos/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/review08/photos/C.jpg",
+      "bytes": 172716,
+      "sha256": "72ea7171adb5e2daa54d2c8f2d8064ef8862c1683220ec5c10c54e03eb0fdc01",
+      "what": "harappa.com slide photographs (A,B,C) and CISI vol.1/2 page renders",
+      "provenance": "indus-lab/review08/photos/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/review08/photos/v1-page259.png",
+      "bytes": 1535863,
+      "sha256": "ffa60cecc35b8609c6b4b083874a45d3823e802dd34d4b8527691713194e3f76",
+      "what": "harappa.com slide photographs (A,B,C) and CISI vol.1/2 page renders",
+      "provenance": "indus-lab/review08/photos/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/review08/photos/v1-page260.png",
+      "bytes": 1725671,
+      "sha256": "3e61de9db131b8112d0e30f5fd9070f64367e22c446d41537ce6b6f582d33d04",
+      "what": "harappa.com slide photographs (A,B,C) and CISI vol.1/2 page renders",
+      "provenance": "indus-lab/review08/photos/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/review08/photos/v1-page261.png",
+      "bytes": 1962521,
+      "sha256": "c74187a9454ced3f6eeced14f94710d0c7d2b16dc3b13fd20ba14d2ac12ba2d0",
+      "what": "harappa.com slide photographs (A,B,C) and CISI vol.1/2 page renders",
+      "provenance": "indus-lab/review08/photos/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/review08/photos/v2-page233.png",
+      "bytes": 1119799,
+      "sha256": "f4f6c3635b2e2c2a8ddd320864c7a91211094f672644d40a4c0777c10c463e12",
+      "what": "harappa.com slide photographs (A,B,C) and CISI vol.1/2 page renders",
+      "provenance": "indus-lab/review08/photos/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/review08/photos/v2-page263.png",
+      "bytes": 2104733,
+      "sha256": "2ab9af7882f094d664beda3b2d95e0e361e8c3de925657011a0a836224b483e3",
+      "what": "harappa.com slide photographs (A,B,C) and CISI vol.1/2 page renders",
+      "provenance": "indus-lab/review08/photos/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi1-page149.png",
+      "bytes": 812446,
+      "sha256": "39654bb296c0a62d8ac3e8136ed1836c4b784ae456f64d22bb936642ac60be9f",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi1-page150.png",
+      "bytes": 933840,
+      "sha256": "888b59409cb9aed6dbcf5c8980f1d23e7d2348d9f81fdaba63b23fd29ff2bf41",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi1-page151.png",
+      "bytes": 1017319,
+      "sha256": "68a1a4953e6a46121861184eaf52ee34a56b163c305148a9d5cb2d83ae6f2ed4",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi1-page152.png",
+      "bytes": 809672,
+      "sha256": "6f60cb385a4a965acfb4f0f9408a23647bf9d835bbd0b1f0097630bc8f6b159a",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi1-page153.png",
+      "bytes": 515796,
+      "sha256": "cedea7b6ecdbfd65d8b607334f0f4f02f456520750cf9ce19122ff0bd3e651a8",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi1-page154.png",
+      "bytes": 769327,
+      "sha256": "eadb7e27dd4c8960e4d7d59ca2b1e8acd212baef624cd84c96888b953c129887",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi1-page155.png",
+      "bytes": 979273,
+      "sha256": "851c5b9a56f7caffb9f245733974ff64e6115c669fb450294b58dbdcadfd15f9",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi1-page243.png",
+      "bytes": 827520,
+      "sha256": "13bdc3bab2ee28d6d996915d7762a2537843eb745b6ab1b2bcc1ec4e4737c387",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi2-original-page219.png",
+      "bytes": 1205426,
+      "sha256": "ac9a53b91c63757c3d63b1c4350b1e4bc79cf898a1f0d883b4ff516a89d2b2e1",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi2-original-page224.png",
+      "bytes": 985931,
+      "sha256": "b83905a095a70be86cd5f375009baa2e033c83a8c0eea494e4ff1fb5141cee22",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi2-original-page226.png",
+      "bytes": 1180675,
+      "sha256": "906cba2dd8a328344f6eb5e2dfe9d2146adbb0c84804c623ed2541901002ebf4",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi2-page219.png",
+      "bytes": 1211532,
+      "sha256": "568c2f843d661a0e23dac466c4ab0c4b1e0cf969595489f4b1f024b5993b78fe",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi2-page224.png",
+      "bytes": 958544,
+      "sha256": "d4c08d27e8a65001b38e10d0987aa94013696a34e9edc8612764582140ae1eda",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/cisi2-page226.png",
+      "bytes": 1051166,
+      "sha256": "236bcfa415a317f7c248511ca71f30103fa87c27a1522d95a3b5bd4d1194bab4",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/parpola2011-index35.png",
+      "bytes": 414791,
+      "sha256": "7e010c099962fbbe0566be34f50fbca5ced98afde39fa83f216d74c67b0d4389",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/parpola2011-index36.png",
+      "bytes": 392619,
+      "sha256": "1c5fc6622211e7450749b410bffb77a34c8aca8a0595518efb57956d3172ed51",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round10/photos/parpola2011-index41.png",
+      "bytes": 579739,
+      "sha256": "7dbab73303cc8ac0691e4671801889e35d64fd1049772c815195786c8ba15d60",
+      "what": "CISI vol.1/2 page renders; Parpola 2011 index pages",
+      "provenance": "indus-lab/round10/ (see REPORT/notes in that round)",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round11/cisi1-page261.png",
+      "bytes": 1162841,
+      "sha256": "7b99811d0df41eb8f91d4af557ec4770302070f633f7976dd8a8f8e1e39423fe",
+      "what": "CISI vol.1 page renders",
+      "provenance": "indus-lab/round11/",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round11/cisi1-page262.png",
+      "bytes": 1370883,
+      "sha256": "ff3b152b559d27c52151232a40b5d1cd24d72a09ef8cdab42db9dab4c9d14a98",
+      "what": "CISI vol.1 page renders",
+      "provenance": "indus-lab/round11/",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round11/cisi1-page263.png",
+      "bytes": 886357,
+      "sha256": "dc7e4e2e26cc141e9d7c3ff24ff6f44d97bbc6844f05b5d84363dd683a29de99",
+      "what": "CISI vol.1 page renders",
+      "provenance": "indus-lab/round11/",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round13/cisi1-page269.png",
+      "bytes": 1077332,
+      "sha256": "f8196be1f9be7fbd093309e6a5c968d308427f192ffd948c026a9d11081204ad",
+      "what": "CISI vol.1 page renders",
+      "provenance": "indus-lab/round13/",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round13/cisi1-page270.png",
+      "bytes": 1011460,
+      "sha256": "ca4cfe9f5303b9178bffab03b20e5ca9e679060d6aeb560889daa79fb3baade4",
+      "what": "CISI vol.1 page renders",
+      "provenance": "indus-lab/round13/",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/cisi1-170.png",
+      "bytes": 1337272,
+      "sha256": "0b5824e9ea1b0a03e1a342a47fa96d126fe1d47d7aba7fa1f9ee99ce41f2a29a",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/cisi1-171.png",
+      "bytes": 1401105,
+      "sha256": "fbae8d6f846a7b75a8deb050c40dcf9bea63b2e3852b48c3ae5897d644f98347",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/cisi1-172.jpg",
+      "bytes": 268035,
+      "sha256": "ced71bc093be4798f47f4491f1558b6631b0f3a69db181986df50ba4412136cf",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/cisi1-172.png",
+      "bytes": 1589248,
+      "sha256": "c83128065d969a300b33b52fe7acbc26f94d387cf761d9d31e87f514155d61e4",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/cisi1-185.png",
+      "bytes": 1461678,
+      "sha256": "e8ef7135cd937ef1d8547ffa01914e42f3f07827c2fae10e53bfea3de57cdc28",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/cisi1-186.jpg",
+      "bytes": 314003,
+      "sha256": "ad68d6d0714bf2af829c46e2e16365883e0cbd4079e679fb1e52d58cb22c2861",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/cisi1-400.jpg",
+      "bytes": 180894,
+      "sha256": "28e21f7bf9dbc7b5c170a34af9d03b1d676f5eaa73d08741a056d0ed6ec920c8",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/cisi1-page164.png",
+      "bytes": 986104,
+      "sha256": "d561a99fc0fafb71894f90d432ad5ca415fddb669c6bfff2b144cca0fc80f004",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/cisi2-original-261.jpg",
+      "bytes": 415384,
+      "sha256": "60e33923be057e7dc8d24ec03223fb726ee2154e8045d9814f6448d920722110",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/cisi2-page261.jpg",
+      "bytes": 196563,
+      "sha256": "a74b193d5e174bbc7238a602c36b1fa48d7745bbc37d7f007eeee8f9a4354975",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/cisi2-page261.png",
+      "bytes": 630784,
+      "sha256": "49a017d242efa25ac467c04e0a58ceb5ab7ad95ec33627cf63a4a4d6da6087d4",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/parpola1994-129.png",
+      "bytes": 157263,
+      "sha256": "1823b4bd39a5f22594e17449150202b2fb16f3a7e14d0da27a93d9ae6a2ef109",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round17/photos/parpola1994-130.png",
+      "bytes": 161686,
+      "sha256": "f7a4dba07d6b1c91f0f29635541072e4f531760e37438e0cf6b13bece17a0724",
+      "what": "CISI vol.1/2 page renders and crops; Parpola 1994 pp.129-130",
+      "provenance": "indus-lab/round17/source-coverage.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round18/images/M-1543-A.png",
+      "bytes": 64627,
+      "sha256": "8061b2786df323beb365ad30998b2f48fe375c5ae091c60c90cd9bcad06a1d6d",
+      "what": "CISI vol.2 page and crops of M-1543..M-1547",
+      "provenance": "indus-lab/round18/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round18/images/M-1543-B.png",
+      "bytes": 58565,
+      "sha256": "39c6141324a5a58f1ce37e3f4f1767183e4398fb73ac9afea122b234a00ee6fc",
+      "what": "CISI vol.2 page and crops of M-1543..M-1547",
+      "provenance": "indus-lab/round18/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round18/images/M-1544-A.png",
+      "bytes": 92139,
+      "sha256": "884523897cdab515316226b44e4f2a2252dfe9013db5ea10a84bbac58687b88a",
+      "what": "CISI vol.2 page and crops of M-1543..M-1547",
+      "provenance": "indus-lab/round18/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round18/images/M-1544-B.png",
+      "bytes": 88957,
+      "sha256": "b2cebc677926a54306556936ac95d00404ad175e6218eb7f1778b42a2f4da37b",
+      "what": "CISI vol.2 page and crops of M-1543..M-1547",
+      "provenance": "indus-lab/round18/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round18/images/M-1545-A.png",
+      "bytes": 39780,
+      "sha256": "34df110e8f612ded2b08914479668f18497858f9ab42ad9faedfabab5fa0b190",
+      "what": "CISI vol.2 page and crops of M-1543..M-1547",
+      "provenance": "indus-lab/round18/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round18/images/M-1545-B.png",
+      "bytes": 37982,
+      "sha256": "b326176db83fd5dd88c14b3cac1d4a9f724243dfa52e43a73830a63502d14260",
+      "what": "CISI vol.2 page and crops of M-1543..M-1547",
+      "provenance": "indus-lab/round18/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round18/images/M-1546-A.png",
+      "bytes": 16459,
+      "sha256": "3ba463cfd5e5ace65863bf1a761b000278ca74973a342e4bfc61d8dc5c2e9b85",
+      "what": "CISI vol.2 page and crops of M-1543..M-1547",
+      "provenance": "indus-lab/round18/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round18/images/M-1546-B.png",
+      "bytes": 17145,
+      "sha256": "e5d2d889e7b231d8d774cdefedbc9f4a4f2925c3df7ab8f6e6d04d128fb4ff37",
+      "what": "CISI vol.2 page and crops of M-1543..M-1547",
+      "provenance": "indus-lab/round18/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round18/images/M-1547-A.png",
+      "bytes": 48667,
+      "sha256": "a5ac922e03bebde739617893b34c3f9c6532d2c9719e31598f22aec061646833",
+      "what": "CISI vol.2 page and crops of M-1543..M-1547",
+      "provenance": "indus-lab/round18/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round18/images/M-1547-B.png",
+      "bytes": 47372,
+      "sha256": "d99e6c6a068b880348c9709973bb65b000cd001e60809b439cc9bce1389e17a1",
+      "what": "CISI vol.2 page and crops of M-1543..M-1547",
+      "provenance": "indus-lab/round18/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round18/images/cisi2-pdf261-original.jpg",
+      "bytes": 65736,
+      "sha256": "281e87c0d6e3e010c75c22ceb9fee655c50e2973b0ffc3ea5ba2baca71b9a2ca",
+      "what": "CISI vol.2 page and crops of M-1543..M-1547",
+      "provenance": "indus-lab/round18/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round24/plates/cisi1-p142.png",
+      "bytes": 467761,
+      "sha256": "84230a10f076b6313c172cae3eb414d4ed8df042f085488304fcc7b3804345a9",
+      "what": "CISI vol.1 p.142, vol.2 p.217 renders",
+      "provenance": "indus-lab/round24/plate_provenance.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round24/plates/cisi2-p217.png",
+      "bytes": 477643,
+      "sha256": "b67fba666fc4801ec7176bb1c8fdbeedf53797405e62d463d3bda738380d71e1",
+      "what": "CISI vol.1 p.142, vol.2 p.217 renders",
+      "provenance": "indus-lab/round24/plate_provenance.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round25/plates/v1-pdf168.png",
+      "bytes": 460976,
+      "sha256": "3f23afbddcd24e4b2c6914ec825910ed34bd2d57ae54e430d5bf31b19093e649",
+      "what": "CISI vol.1 pp.168-169, vol.2 pp.242-244 renders",
+      "provenance": "indus-lab/round25/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round25/plates/v1-pdf169.png",
+      "bytes": 423207,
+      "sha256": "04e3cd1a4487b46c4fd53dd35bec0a3b17b61c18659e3f2ff00030032363aa84",
+      "what": "CISI vol.1 pp.168-169, vol.2 pp.242-244 renders",
+      "provenance": "indus-lab/round25/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round25/plates/v2-original-pdf242.png",
+      "bytes": 455010,
+      "sha256": "0a7c3776a929d7be9f9176626581a83d8bbbfb3b4779b0727090d72fa0ea6cea",
+      "what": "CISI vol.1 pp.168-169, vol.2 pp.242-244 renders",
+      "provenance": "indus-lab/round25/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round25/plates/v2-original-pdf243.png",
+      "bytes": 412204,
+      "sha256": "60c868868a33778f6fc58852d5a8ecdfb9d1479d0f85b82e61af4375a7485e4a",
+      "what": "CISI vol.1 pp.168-169, vol.2 pp.242-244 renders",
+      "provenance": "indus-lab/round25/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round25/plates/v2-original-pdf244.png",
+      "bytes": 355699,
+      "sha256": "66703b948449e5b5017685e64784657107c792921e823047d085a0b894fc1ca4",
+      "what": "CISI vol.1 pp.168-169, vol.2 pp.242-244 renders",
+      "provenance": "indus-lab/round25/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round25/plates/v2-pdf242.png",
+      "bytes": 489746,
+      "sha256": "2521eccd5f4479826bd1e57055e0dcebb0e1d4750d7c4c5bbf631f9c128e364a",
+      "what": "CISI vol.1 pp.168-169, vol.2 pp.242-244 renders",
+      "provenance": "indus-lab/round25/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round25/plates/v2-pdf243.png",
+      "bytes": 448454,
+      "sha256": "0dbf9300ce395b88f80d43188fb5e11073837076ece97c1591c91fb8ce7fbb9d",
+      "what": "CISI vol.1 pp.168-169, vol.2 pp.242-244 renders",
+      "provenance": "indus-lab/round25/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round25/plates/v2-pdf244.png",
+      "bytes": 381558,
+      "sha256": "e5026bbdd87b6f342c4148d623af9587d3cabc33b8adf61752d37ecc77eff30c",
+      "what": "CISI vol.1 pp.168-169, vol.2 pp.242-244 renders",
+      "provenance": "indus-lab/round25/sources.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round26/images/M-1486_A_bis.jpg",
+      "bytes": 53856,
+      "sha256": "07f65e586251b26a0708bb0e3134acaf9238d15125a94cbe51ebf707396af3b9",
+      "what": "seal crops from pinned lipi/public/seal_images (published CISI images)",
+      "provenance": "indus-lab/round26/provenance.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round26/images/M-527_A.jpg",
+      "bytes": 46564,
+      "sha256": "1d8de5896ac31bd4e29925e986b45b59744685f25879c30baad2afef6bfb0153",
+      "what": "seal crops from pinned lipi/public/seal_images (published CISI images)",
+      "provenance": "indus-lab/round26/provenance.json",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round31/images/gadd1932_no16_U17649_impression.png",
+      "bytes": 20583,
+      "sha256": "015065a8fcc74322ab6c3704138f63fe98a000d8f2a5c6e801942316aa70c452",
+      "what": "Gadd 1932 impression figures; Mahadevan 1977 crops",
+      "provenance": "indus-lab/round31/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round31/images/gadd1932_no2_impression.png",
+      "bytes": 19065,
+      "sha256": "600b1fa32505728de8fa485c921dd8957843d029069aa25c03869ac06487670e",
+      "what": "Gadd 1932 impression figures; Mahadevan 1977 crops",
+      "provenance": "indus-lab/round31/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round31/images/mahadevan1977_9832.png",
+      "bytes": 8600,
+      "sha256": "491b6ae9751d682f7712a7957d4fea18f2a9dfa0003dba6574359a1ab7a6b823",
+      "what": "Gadd 1932 impression figures; Mahadevan 1977 crops",
+      "provenance": "indus-lab/round31/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round31/images/mahadevan1977_9846.png",
+      "bytes": 7203,
+      "sha256": "c6ea639c09661f5f730577b19d1b49f49e462cc09f56d04aff230bcbbf6eb066",
+      "what": "Gadd 1932 impression figures; Mahadevan 1977 crops",
+      "provenance": "indus-lab/round31/REPORT.md",
+      "reason": "copyrighted scan/photo or unlicensed font; excluded from public repo"
+    },
+    {
+      "path": "indus-lab/round46-brahmi-coverage/app.js",
+      "bytes": 83102,
+      "sha256": "b997c452c935cae4b5c0e5ff09e508950ef9b935663c85eed895b2c783cc49ce",
+      "what": "third-party application source, tejesh-raut/indus-valley-script, retrieved 2026-10-17 (no licence stated upstream)",
+      "provenance": "indus-lab/round46-brahmi-coverage/REPORT.md",
+      "source_url": "https://tejesh-raut.github.io/indus-valley-script/app.js",
+      "reason": "third-party source code without a licence; excluded, restorable with fetch_sources.sh"
+    },
+    {
+      "path": "indus-lab/round46-brahmi-coverage/explorer.html",
+      "bytes": 29079,
+      "sha256": "60d433b59d6ae564257381a04262c8e867985ff5a1d5547bd4a2d12f2c9acd4f",
+      "what": "third-party application source, tejesh-raut/indus-valley-script, retrieved 2026-10-17 (no licence stated upstream)",
+      "provenance": "indus-lab/round46-brahmi-coverage/REPORT.md",
+      "source_url": "https://tejesh-raut.github.io/indus-valley-script/",
+      "reason": "third-party source code without a licence; excluded, restorable with fetch_sources.sh"
+    },
+    {
+      "path": "indus-lab/round46-brahmi-coverage/icit.js",
+      "bytes": 52792,
+      "sha256": "b14ebdc7e7e746f2e8985b80296c6417701fe7d656614ede9c580179d5e1769a",
+      "what": "third-party application source, tejesh-raut/indus-valley-script, retrieved 2026-10-17 (no licence stated upstream)",
+      "provenance": "indus-lab/round46-brahmi-coverage/REPORT.md",
+      "source_url": "https://tejesh-raut.github.io/indus-valley-script/data/icit.js",
+      "reason": "third-party source code without a licence; excluded, restorable with fetch_sources.sh"
+    },
+    {
+      "path": "indus-lab/round46-brahmi-coverage/signs.js",
+      "bytes": 2797,
+      "sha256": "1c789802c3fb9c11371b7a848e01645f2a47164f795440912dbbf352feecea21",
+      "what": "third-party application source, tejesh-raut/indus-valley-script, retrieved 2026-10-17 (no licence stated upstream)",
+      "provenance": "indus-lab/round46-brahmi-coverage/REPORT.md",
+      "source_url": "https://tejesh-raut.github.io/indus-valley-script/data/signs.js",
+      "reason": "third-party source code without a licence; excluded, restorable with fetch_sources.sh"
+    },
+    {
+      "path": "indus-lab/round46-brahmi-coverage/tree.json",
+      "bytes": 2226128,
+      "sha256": "6cbc70b86e660648497314d3f5b751d76f179265fb73a4e5844624ffef9fff9b",
+      "what": "third-party application source, tejesh-raut/indus-valley-script, retrieved 2026-10-17 (no licence stated upstream)",
+      "provenance": "indus-lab/round46-brahmi-coverage/REPORT.md",
+      "source_url": "https://tejesh-raut.github.io/indus-valley-script/data/tree.json",
+      "reason": "third-party source code without a licence; excluded, restorable with fetch_sources.sh"
+    },
+    {
+      "path": "indus-lab/round46-brahmi-coverage/lipi-index.vue",
+      "bytes": 75951,
+      "sha256": "b36c72fa61134b6ca86d1ac3937d728d84176d9d8dc7c1619c90eac797650e35",
+      "what": "third-party application source, yajnadevam/lipi, retrieved 2026-10-17 (no licence stated upstream)",
+      "provenance": "indus-lab/round46-brahmi-coverage/REPORT.md",
+      "source_url": "https://github.com/yajnadevam/lipi/tree/fc8813a52e183d19c441631dc26c33a4dccbea39",
+      "reason": "third-party source code without a licence; excluded, restorable with fetch_sources.sh"
+    }
+  ]
+}

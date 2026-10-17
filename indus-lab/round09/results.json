@@ -1,0 +1,310 @@
+{
+  "protocol_sha256": "2e539b0c0169ece009b4ccac78d70255b794f5a36a45099190539473411d0f4c",
+  "raw_sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+  "eligible_rows": 2173,
+  "components": 1578,
+  "group_disposition": {
+    "multiple_sites": 15,
+    "retained": 1541,
+    "conflicting_labels": 22
+  },
+  "site_class_counts": {
+    "Allahdino: seal": 5,
+    "Bala-kot: seal": 3,
+    "Banawali: seal": 3,
+    "Bhirrana: seal": 3,
+    "Chanhu-daro: tablet": 1,
+    "Chanhu-daro: seal": 32,
+    "Desalpur: seal": 2,
+    "Dholavira: seal": 49,
+    "Gharo Bhiro: seal": 1,
+    "Gola Dhoro (Bagasra): seal": 4,
+    "Harappa: tablet": 249,
+    "Harappa: seal": 198,
+    "Unknown: seal": 14,
+    "Jhukar: seal": 1,
+    "Kalibangan: seal": 26,
+    "Kalibangan: tablet": 2,
+    "Khirsara: seal": 3,
+    "Kish: seal": 1,
+    "Lohumjo-daro: seal": 1,
+    "Lothal: seal": 37,
+    "Lothal: tablet": 1,
+    "Luristan: seal": 1,
+    "Mohenjo-daro: seal": 791,
+    "Mohenjo-daro: tablet": 75,
+    "Nausharo: seal": 12,
+    "Nindowari-damb: seal": 2,
+    "Qala'at al-Bahrain: seal": 1,
+    "Rakhigarhi: seal": 1,
+    "Rupar: tablet": 1,
+    "Surkotada: seal": 2,
+    "Susa: seal": 1,
+    "Unknown: tablet": 2,
+    "Ur: seal": 2,
+    "Gonur Depe: seal": 1,
+    "Dholavira: tablet": 3,
+    "Salut: seal": 1,
+    "Karzakan: seal": 2,
+    "Saar: seal": 1,
+    "Janabiyah: seal": 1,
+    "Lakhanjo-daro: seal": 2,
+    "Lakhanjo-daro: tablet": 1,
+    "Nuhato: seal": 1,
+    "Shikarpur: seal": 1
+  },
+  "transfers": [
+    {
+      "train": "Harappa",
+      "test": "Mohenjo-daro",
+      "train_groups": 447,
+      "test_groups": 866,
+      "models": {
+        "length_only": {
+          "balanced_accuracy": 0.5543868520859672,
+          "auc": 0.544306784660767,
+          "confusion_seal_tablet": [
+            [
+              529,
+              262
+            ],
+            [
+              42,
+              33
+            ]
+          ]
+        },
+        "signs_and_length": {
+          "balanced_accuracy": 0.5228318584070797,
+          "auc": 0.5429245680573115,
+          "confusion_seal_tablet": [
+            [
+              574,
+              217
+            ],
+            [
+              51,
+              24
+            ]
+          ],
+          "exploratory_coefficients": {
+            "tablet": [
+              [
+                "400",
+                2.3350422889202056
+              ],
+              [
+                "705",
+                1.1578247051567112
+              ],
+              [
+                "151",
+                1.0404328369993163
+              ],
+              [
+                "642",
+                1.0001615615722124
+              ],
+              [
+                "480",
+                0.9578020401292411
+              ],
+              [
+                "550",
+                0.9491620356610492
+              ],
+              [
+                "176",
+                0.9058854785470523
+              ],
+              [
+                "700",
+                0.8683785863185651
+              ],
+              [
+                "803",
+                0.8526031187670597
+              ],
+              [
+                "255",
+                0.8323802255015537
+              ]
+            ],
+            "seal": [
+              [
+                "595",
+                -1.2099659669496434
+              ],
+              [
+                "503",
+                -1.0971131661215736
+              ],
+              [
+                "125",
+                -1.0005940470021808
+              ],
+              [
+                "900",
+                -0.9855012550747343
+              ],
+              [
+                "350",
+                -0.9834181996793686
+              ],
+              [
+                "742",
+                -0.9831173853374839
+              ],
+              [
+                "440",
+                -0.8459430599365535
+              ],
+              [
+                "405",
+                -0.831934203819717
+              ],
+              [
+                "63",
+                -0.821787069022742
+              ],
+              [
+                "153",
+                -0.758052061178224
+              ]
+            ]
+          }
+        }
+      },
+      "paired_gain_95pct": [
+        -0.08862347239780866,
+        0.025349136114622757
+      ]
+    },
+    {
+      "train": "Mohenjo-daro",
+      "test": "Harappa",
+      "train_groups": 866,
+      "test_groups": 447,
+      "models": {
+        "length_only": {
+          "balanced_accuracy": 0.6815443592552026,
+          "auc": 0.7473124822522413,
+          "confusion_seal_tablet": [
+            [
+              87,
+              111
+            ],
+            [
+              19,
+              230
+            ]
+          ]
+        },
+        "signs_and_length": {
+          "balanced_accuracy": 0.5959595959595959,
+          "auc": 0.6853677335605046,
+          "confusion_seal_tablet": [
+            [
+              170,
+              28
+            ],
+            [
+              166,
+              83
+            ]
+          ],
+          "exploratory_coefficients": {
+            "tablet": [
+              [
+                "95",
+                2.3818408961986104
+              ],
+              [
+                "191",
+                2.1922537907414776
+              ],
+              [
+                "407",
+                2.120880146022026
+              ],
+              [
+                "222",
+                2.091990911222611
+              ],
+              [
+                "36",
+                1.9196644354495593
+              ],
+              [
+                "570",
+                1.7727133976145708
+              ],
+              [
+                "326",
+                1.7132311777961298
+              ],
+              [
+                "700",
+                1.687945867378126
+              ],
+              [
+                "525",
+                1.6466545388535623
+              ],
+              [
+                "585",
+                1.553506274939326
+              ]
+            ],
+            "seal": [
+              [
+                "741",
+                -2.183846925600825
+              ],
+              [
+                "820",
+                -2.043825281606871
+              ],
+              [
+                "2",
+                -1.274477523457843
+              ],
+              [
+                "31",
+                -1.2644139037495334
+              ],
+              [
+                "55",
+                -1.2259787746207078
+              ],
+              [
+                "692",
+                -1.1879016691076854
+              ],
+              [
+                "520",
+                -1.1652816828392525
+              ],
+              [
+                "920",
+                -1.124461082023369
+              ],
+              [
+                "742",
+                -1.093508208368863
+              ],
+              [
+                "60",
+                -1.0695127436729424
+              ]
+            ]
+          }
+        }
+      },
+      "paired_gain_95pct": [
+        -0.1384325179505902,
+        -0.0311146099549714
+      ]
+    }
+  ]
+}

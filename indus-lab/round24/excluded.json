@@ -1,0 +1,498 @@
+[
+  {
+    "object": "-",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "H-2249",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "H-2250",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "H-2251",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "H-2252",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "H-2254",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "K-158",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1448",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1449",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1450",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1452",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1453",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1454",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1458",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1461",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1465",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1472",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-1474",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-1477",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-1478",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-1479",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1480",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1487",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1497",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1498",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1499",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1503",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1504",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1505",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1506",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1507",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1508",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1509",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1512",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1513",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1514",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1515",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1516",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1520",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1524",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1528",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1530",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1531",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1532",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1534",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1547",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1548",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1549",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1550",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1555",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1556",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1557",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1558",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1561",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1563",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1566",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1568",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-1569",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-2045",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-2047",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-2048",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-2049",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-2053",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-2054",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-2055",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-436",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-502",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-503",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-504",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-505",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-509",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-510",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-511",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-512",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-513",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-514",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-515",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-516",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-517",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-521",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-531",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-546",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-547",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-549",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-551",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-552",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-553",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-554",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-555",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-556",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-557",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-558",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-559",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-560",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-561",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-562",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-563",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-564",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-565",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-569",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-572",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-573",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-574",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-575",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-576",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-577",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-580",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-581",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-584",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-592",
+    "reason": "no clean directed text"
+  },
+  {
+    "object": "M-593",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-594",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-596",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-597",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-598",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-599",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-600",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-602",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-603",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-604",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-605",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-606",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-607",
+    "reason": "ambiguous/unspecified motif"
+  },
+  {
+    "object": "M-608",
+    "reason": "ambiguous/unspecified motif"
+  }
+]

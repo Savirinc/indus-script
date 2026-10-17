@@ -1,0 +1,41 @@
+{
+  "source": "CISI vol. 1, IGNCA scan",
+  "review_type": "visual inspection of published photographs; no independent sign transcription",
+  "views": [
+    {
+      "id": "M-516 A",
+      "pdf_page": 165,
+      "printed_page": 129
+    },
+    {
+      "id": "M-516 B",
+      "pdf_page": 165,
+      "printed_page": 129
+    },
+    {
+      "id": "M-516 B bis",
+      "pdf_page": 165,
+      "printed_page": 129
+    },
+    {
+      "id": "M-517 A",
+      "pdf_page": 166,
+      "printed_page": 130
+    },
+    {
+      "id": "M-517 B",
+      "pdf_page": 166,
+      "printed_page": 130
+    }
+  ],
+  "observations": [
+    "M-516 has two published views of side B; do not count B bis as a third side or another object.",
+    "M-516 B and M-517 B show broadly similar complex incised forms, but this is not yet an independent sign-identity decision.",
+    "M-517 A has visibly poorer legibility than M-516 A; do not fill damaged strokes by copying the latter.",
+    "The catalogue places M-516 under no iconography. It does not provide a rhinoceros photograph on this page. The proposed rhinoceros equation requires linking a different object/group."
+  ],
+  "pending": [
+    "Locate independent B5-group objects and their opposite-side inscriptions.",
+    "Review catalogue convention for bis and highlighted grooves before treating photographic lines as untouched surface detail."
+  ]
+}

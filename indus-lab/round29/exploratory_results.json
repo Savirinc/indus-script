@@ -1,0 +1,130 @@
+[
+  {
+    "cond": "all:Harappa",
+    "n": 717,
+    "mean": {
+      "U": 7.997,
+      "POS3": 7.524,
+      "BIG": 5.741,
+      "POS3BIG": 7.263
+    },
+    "U_minus_BIG": [
+      2.256,
+      [
+        1.853,
+        2.652
+      ]
+    ],
+    "U_minus_POS3": [
+      0.473,
+      [
+        0.151,
+        0.766
+      ]
+    ],
+    "POS3_minus_POS3BIG": [
+      0.262,
+      [
+        -0.108,
+        0.618
+      ]
+    ],
+    "frac_true_order_top": null
+  },
+  {
+    "cond": "all:Mohenjo-daro",
+    "n": 420,
+    "mean": {
+      "U": 6.042,
+      "POS3": 7.05,
+      "BIG": 6.326,
+      "POS3BIG": 9.136
+    },
+    "U_minus_BIG": [
+      -0.284,
+      [
+        -1.082,
+        0.479
+      ]
+    ],
+    "U_minus_POS3": [
+      -1.008,
+      [
+        -1.525,
+        -0.505
+      ]
+    ],
+    "POS3_minus_POS3BIG": [
+      -2.086,
+      [
+        -2.83,
+        -1.374
+      ]
+    ],
+    "frac_true_order_top": null
+  },
+  {
+    "cond": "SEAL:S:Harappa",
+    "n": 598,
+    "mean": {
+      "U": 7.4,
+      "POS3": 6.278,
+      "BIG": 4.748,
+      "POS3BIG": 6.021
+    },
+    "U_minus_BIG": [
+      2.652,
+      [
+        2.279,
+        3.032
+      ]
+    ],
+    "U_minus_POS3": [
+      1.122,
+      [
+        0.802,
+        1.412
+      ]
+    ],
+    "POS3_minus_POS3BIG": [
+      0.257,
+      [
+        -0.078,
+        0.583
+      ]
+    ],
+    "frac_true_order_top": null
+  },
+  {
+    "cond": "SEAL:S:Mohenjo-daro",
+    "n": 118,
+    "mean": {
+      "U": 8.069,
+      "POS3": 6.619,
+      "BIG": 4.886,
+      "POS3BIG": 5.802
+    },
+    "U_minus_BIG": [
+      3.183,
+      [
+        2.09,
+        4.287
+      ]
+    ],
+    "U_minus_POS3": [
+      1.45,
+      [
+        0.811,
+        2.003
+      ]
+    ],
+    "POS3_minus_POS3BIG": [
+      0.817,
+      [
+        -0.095,
+        1.688
+      ]
+    ],
+    "frac_true_order_top": null
+  }
+]

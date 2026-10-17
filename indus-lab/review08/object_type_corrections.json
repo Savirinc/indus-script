@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1332.1",
+    "cisi": "H-310",
+    "raw_type": "SEAL:R",
+    "published_group": "TABLETS incised",
+    "source": "CISI1 printed225 PDF261",
+    "resolution": "use tablet in reviewed analyses; preserve source raw type; inspect catalogue metadata if granular subtype needed"
+  },
+  {
+    "id": "3722.1",
+    "cisi": "M-1441",
+    "raw_type": "SEAL:R",
+    "published_group": "TABLETS incised",
+    "source": "CISI2 printed198 PDF233",
+    "resolution": "use tablet in reviewed analyses; preserve source raw type; inspect catalogue metadata if granular subtype needed"
+  },
+  {
+    "id": "3724.1",
+    "cisi": "M-1443",
+    "raw_type": "SEAL:R",
+    "published_group": "TABLETS incised",
+    "source": "CISI2 printed198 PDF233",
+    "resolution": "use tablet in reviewed analyses; preserve source raw type; inspect catalogue metadata if granular subtype needed"
+  }
+]

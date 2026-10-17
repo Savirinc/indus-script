@@ -1,0 +1,59 @@
+# Current evidence and experiment map
+
+Rounds 09–45 were produced in the original lab; the Brahmi coverage audit is round 46 (see note in its row). Round 44 has a protocol but was never run, by the round 45 verdict.
+
+These are handoff summaries; inspect supplied reports and results before relying on numerical claims.
+
+| Stage | Work | Result and limitation |
+|---|---|---|
+| Initial–19 | Corpus assembly, source/code audits, iconography, chronology and CISI pilots | Built infrastructure and exposed missing context/legibility. Neither a comprehensive image corpus nor automatic palaeographic recognition was completed. |
+| 20 | Tamil repetition-pattern matching; reproduction of fish/star test | 2,065/2,276 pattern matches versus shuffled mean 2,073.6: no discriminatory support for Tamil. Known-Tamil positive control success does not validate an Indus reading. Fish/star reproduction also null. |
+| 21 | Comparative Dravidian ledger and external elephant-word audit | Preserves attested forms and published cognacy; does not reconstruct a complete ancestral language or establish Meluhhan vocabulary. |
+| 22 | Concept-held-out initial correspondence prediction | 632/782 versus copying 576/782; conditional on known cognacy and filtered cases, only word initials. Not an Indus experiment. |
+| 23 | Whole-word correspondence prediction | 105/825 exact versus copy 100/825. Weak improvement. No reliable reverse-Tamil decoder. |
+| 24 | Copper-tablet text–motif association | 45/46 object-leaveout predictions correct among 61 eligible objects, but only 15/26 family-heldout predictions correct. Repeated text families inflate easy validation. Composite-animal photos undermine a simple tiger-versus-gaur contrast. |
+| 25–26 | Elephant-tablet extra-stroke and source-lineage audit | Two stored text families differ by sign 001, but photos do not securely establish the extra-mark contrast. Copies of the same transcription are not independent verification. Parked as a phonetic anchor. |
+| 27 | Sign-order transfer between Harappa and Mohenjo-daro | Internal-sign loss improves 3.1–11.2% over unigram after exact/one-edit exclusions. Positive structural prediction, not sound/meaning. First-sign prediction is worse. |
+| 28 | Joint composition-and-position-preserving controls | Inconclusive: swaps change only about 0.4–1.6% of cells. No adequate mixing/uniformity evidence. Does not refute either linguistic writing or the combined nonlinguistic explanation. |
+| 29 | Exact conditional-order test (independent audit) | Pre-registered verdict MIXED because the exact-length slot model failed. Exploratory: with sign composition fixed, a bigram model from the other city recovers true order 2.3–3.2 bits better than chance on seals; tested position models transfer weakly. Structural only. |
+| 30 | Foreign-context test of Gulf-type round seals | Pre-registered SUPPORT: 8 round seals from Ur/Bahrain/Luristan sit at mean percentile 0.916 in bigram surprisal vs matched Indus-valley seals (p<5e-5). Survives independent critic; worst case 0.764, p=0.004. Square seals abroad not anomalous (n=5, underpowered). 'Twins' sign 091 prefix concentrated there (post hoc). Cannot distinguish foreign language/names from pseudo-script. |
+| 31 | Transcription check of the 8 round seals (Gadd 1932, Mahadevan 1977, Laursen 2010 text) | Round 30 holds in every scenario: dropping the likely pseudo-inscription (5228.1 = Laursen 11) gives 0.943; keeping only the 4 seals with independent support gives 0.926, p=5e-4. U.17649 sign count disputed (4/5/6). Qala'at twins-vs-090 and Luristan conflicts unresolved. No seal photo-verified sign by sign. |
+| 32 | Decipherability benchmark on Linear B degraded to Indus conditions | Pre-registered verdict INFEASIBLE. With a related-language lexicon: 83% recovery at 70 signs and still 83% at 173 sign IDs (20 tokens/sign), but collapse at 239 IDs (14 tokens/sign) and below, where wrong keys outscore the true key. Indus corpus = 15 tokens/sign. Exploratory: ~40 anchored signs lift Indus-density recovery to 72%. Statistical fit cannot discriminate Indus language hypotheses at current corpus size. |
+| 33 | Audit of Bourdeau's cyphersolver Indus resource | allographs.py byte-identical; gulf.py reproduces on our CSV (his export has an extra Dilmun round seal 415-803-001-717-354 sharing its opening with Ur U.17649). His results independently match round 32 (fitted keys read ~93% in any language). Corrections: round 30 is not first (Rao 2009); Meluhha-name pool is only Nanaza/Samar; allograph merging gives ~20% fewer signs. His 'firm' copper equations conflict with our earlier audit. Dravidian Database v1.1 downloaded (CC BY 4.0). |
+| 34 | Full review of Bourdeau's targets/indus (notes, 3,073-prediction ledger, 430 scripts) | No sound value established. 116 scripts reproduce identically on our data, 89 with small export-driven differences (2 of 773 verdicts flip); 62 need missing inputs. Weaknesses: no multiple-testing correction (~150 'holds' expected by chance); copper equations are inputs, withdrawn by his own set 32; M77 holdout leaks 41%; picture-vault gain is ~+7, not +41, over a majority baseline. Strongest: grammar replicated held-out (139/170); every published phonetic key rejected; Linear B gate. 415-803-1 on Ur and Dilmun seals noted but never tested. |
+| 35 | Gulf round seals vs 27 attested Dilmun/Magan/Meluhha names | Pre-registered NON-INFORMATIVE: real names read 8/9 seals, fake names 9/9 (p=1.0); planted-name power 0/40. Dilmunites bear Amorite/Akkadian names; native items only god names Inzak, Panipa, Tamb, plus Meluhhans Nanaza and Samar. Name route parked. |
+| 36 | Rebus tournament (each language assigns picture-sign sounds; homophones should share contexts) | Pre-registered Chinese validation FAILED: true Middle Chinese key ranked 14th/16 (full) and 10th/15 (Indus-sized). Usage statistics carry meaning, not sound. Method rejected; Indus not run. Blind tags: only 7 clear object pictographs + 17 numerals among the top 250 signs. |
+| 37 | Substrate fingerprint: which family do Kuiper's 386 Rigvedic foreign words sound like? | Pre-registered positive control FAILED: known Dravidian loans were attributed to Finnish (P=0.68) over Proto-Dravidian (0.32). The classifier learned 'un-Sanskrit-like', not donor identity. Uninterpretable. Descriptively PDr leads among South Asian candidates, not evidence. Next design: word-level matching with the same control. |
+| 38 | Word-level look-alike matching of Kuiper's foreign words vs each family (length-matched Vedic baseline) | Pre-registered control FAILED again: known Dravidian loans attributed to Finnish (0.62) over PDr (0.33), because CV-shaped short words chance-match any CV-rich language when meaning is ignored. Kuiper words leaned Munda (0.88), uninterpretable. Next valid design needs meaning-constrained matching plus a shape-matched baseline. |
+| 39 | Sound+meaning attribution of Kuiper's foreign Rigvedic words (shape-matched baseline) | Gate PASSED (Dravidian loans → PDr, P=0.99). Kuiper (124 glossed): NO FAMILY ATTRIBUTABLE at the pre-set bar; PDr leads (A=+0.064, CI>0, P(rank1)=0.80, beats controls 0.82); Munda ≈ chance. Caveat: dictionary sizes unequal (PDr 6,088 vs Munda 712). Next: size-equalised rerun. |
+| 40 | Size-equalised rerun of round 39 (all dictionaries cut to 712) | PREMISE HOLDS: PDr > Munda in 100/100 subsamples, > both controls 94/100; control 97/100. Dravidian lead is not a dictionary-size artefact. |
+| 41 | Dravidian rebus anchors (17 signs: fish, man, arrow, numerals) predicting held-out inscriptions vs shuffled anchors | Linear B control PASSED (1/16). Indus: real anchors rank 3rd of 16 (p=3/16), WEAK SUPPORT by rule, statistically not convincing; copper-tablet step not triggered. Next: more anchors (standard DEDR forms for jar, leaf, four, bird) and more permutations, pre-registered. |
+| 42 | 24 Dravidian anchors (adds jar *agal, leaf *elay, bird *piṭṭ-, four *nāl) vs 100 shuffles | Linear B control PASS (1/31). Indus: real beats 95/100 shuffles, p=0.059: SUGGESTIVE, just above the 0.05 bar; copper-tablet step not triggered. Next: pre-registered replication on fresh train/test splits. |
+| 43 | Replication of round 42 on 10 fresh splits, 60 shared shuffles (pooled test) | Linear B control PASS (1/21, 10/10 splits). Indus: Dravidian values above the null median on 10/10 splits (beating 55–60 of 60 each), but pooled p=0.066: SUGGESTIVE again. The 3 better shuffles are genuinely wrong keys. A stable weak lean; the design is at its ceiling. Round 44 (copper tablets) pre-registered, not triggered. |
+| 45 | Bias check: the same test with Finnish and Basque words (impossible languages) | Finnish beat its shuffles MORE strongly than Dravidian (pooled p=0.016 vs 0.066; Basque 0.72). Pre-registered verdict: ARTEFACT. Rounds 41–43 are not evidence for Dravidian; anchor-rebus branch parked; round 44 not run. |
+| 46 | Coverage audit of Yajnadevam's Indus→Brahmi/Sanskrit mapping (Table 7, 38 entries; full lipi map, 714 codes) on Tejesh Raut's 5,445-record explorer snapshot | Executable and complete: after the author's canonical substitutions every sign in all 2,477 complete single-line directed records receives a value. Direct fields alone covered 1,927/2,477. Table 7: 21 of 38 entries resolve uniquely to catalogue IDs, 3 ambiguous, 14 unresolved. **Coverage, not correctness**; no linguistic validation or controls run. Was labelled "Round 29" in its own handover; renumbered 46 here. |
+
+## Round27 detailed benchmark
+
+| Train → test | Subset | Test text types | Unigram bits/internal sign | Bigram bits/internal sign |
+|---|---|---:|---:|---:|
+| Harappa → Mohenjo-daro | all | 741 | 7.263215 | 6.667896 |
+| Mohenjo-daro → Harappa | all | 428 | 7.296804 | 7.070839 |
+| Harappa → Mohenjo-daro | SEAL:S | 615 | 6.868772 | 6.332303 |
+| Mohenjo-daro → Harappa | SEAL:S | 123 | 7.010129 | 6.227569 |
+
+The conditions overlap. Scores are token weighted; lengths, unknown-sign bucket and transcription conventions matter. Separate position-only and composition-only controls do not jointly eliminate both explanations. A bijection replacing IDs with phonetic labels leaves these statistics unchanged: this score alone cannot choose sound values.
+
+## Corrections that must persist
+- 218 was a COUNT of sign IDs occurring once in an earlier analysis, not catalogue sign 218.
+- Sign IDs such as 809 or 958 are identifiers, not phonetic values or arithmetic decompositions.
+- Proposed copper sign=image equations are not seven established translations. Earlier strong language was not justified; source-project notes themselves retract semantic anchors.
+- Physical damage, transcription completeness and meaningful writing are separate fields.
+- Animal pictures do not automatically name the adjacent text, and different animals may be composite creatures.
+- A seal and its modern impression are not two independent ancient texts. Exact repeated text does not prove two records are one object.
+- Modern Tamil cannot simply be rewound computationally into the unknown language of the Indus civilization. Dravidian remains a hypothesis to compare fairly with alternatives.
+- Bourdeau's page and notes are valuable research hypotheses and analyses, not authoritative translations. The full page/local prose was previously audited; not every cited external source or script was read/run.
+- The main export count is 5,679 here; the website reports 5,680. The discrepancy and clean-text filtering differences have not been reconciled.
+
+## What is missing
+A demonstrated connection between a sign sequence and independently known linguistic content; comprehensive reliable object-to-photo mappings; adequate chronology; independent transcription checks; valid controls that distinguish language hypotheses rather than merely label structure.

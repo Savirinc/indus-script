@@ -1,0 +1,3322 @@
+[
+  {
+    "source": "Harappa",
+    "target": "Mohenjo-daro",
+    "subset": "all",
+    "train_types": 695,
+    "test_types": 741,
+    "source_cells": 2776,
+    "observed_loss": 6.667896473051532,
+    "control_loss_mean": 6.669132477808948,
+    "control_loss_min": 6.660707702943539,
+    "control_loss_max": 6.6808186985726685,
+    "controls_at_least_as_good": 46,
+    "controls": 100,
+    "mean_changed_cell_fraction": 0.016113112391930837,
+    "mean_changed_row_fraction": 0.031712230215827336,
+    "accepted_moves_final_each_chain": [
+      26,
+      24,
+      15,
+      28,
+      25,
+      23,
+      25,
+      17,
+      23,
+      18
+    ],
+    "samples": [
+      {
+        "chain": 0,
+        "proposals": 22000,
+        "accepted": 19,
+        "changed_cells": 52,
+        "changed_rows": 26,
+        "internal_loss": 6.671140120224448
+      },
+      {
+        "chain": 0,
+        "proposals": 24000,
+        "accepted": 20,
+        "changed_cells": 56,
+        "changed_rows": 28,
+        "internal_loss": 6.673539549882601
+      },
+      {
+        "chain": 0,
+        "proposals": 26000,
+        "accepted": 21,
+        "changed_cells": 60,
+        "changed_rows": 30,
+        "internal_loss": 6.6735639718758435
+      },
+      {
+        "chain": 0,
+        "proposals": 28000,
+        "accepted": 21,
+        "changed_cells": 60,
+        "changed_rows": 30,
+        "internal_loss": 6.6735639718758435
+      },
+      {
+        "chain": 0,
+        "proposals": 30000,
+        "accepted": 22,
+        "changed_cells": 56,
+        "changed_rows": 28,
+        "internal_loss": 6.6735639718758435
+      },
+      {
+        "chain": 0,
+        "proposals": 32000,
+        "accepted": 24,
+        "changed_cells": 52,
+        "changed_rows": 26,
+        "internal_loss": 6.669616686436511
+      },
+      {
+        "chain": 0,
+        "proposals": 34000,
+        "accepted": 26,
+        "changed_cells": 56,
+        "changed_rows": 28,
+        "internal_loss": 6.673003628217024
+      },
+      {
+        "chain": 0,
+        "proposals": 36000,
+        "accepted": 26,
+        "changed_cells": 56,
+        "changed_rows": 28,
+        "internal_loss": 6.673003628217024
+      },
+      {
+        "chain": 0,
+        "proposals": 38000,
+        "accepted": 26,
+        "changed_cells": 56,
+        "changed_rows": 28,
+        "internal_loss": 6.673003628217024
+      },
+      {
+        "chain": 0,
+        "proposals": 40000,
+        "accepted": 26,
+        "changed_cells": 56,
+        "changed_rows": 28,
+        "internal_loss": 6.673003628217024
+      },
+      {
+        "chain": 1,
+        "proposals": 22000,
+        "accepted": 16,
+        "changed_cells": 44,
+        "changed_rows": 22,
+        "internal_loss": 6.6739115526207415
+      },
+      {
+        "chain": 1,
+        "proposals": 24000,
+        "accepted": 19,
+        "changed_cells": 44,
+        "changed_rows": 22,
+        "internal_loss": 6.667385167582305
+      },
+      {
+        "chain": 1,
+        "proposals": 26000,
+        "accepted": 19,
+        "changed_cells": 44,
+        "changed_rows": 22,
+        "internal_loss": 6.667385167582305
+      },
+      {
+        "chain": 1,
+        "proposals": 28000,
+        "accepted": 20,
+        "changed_cells": 48,
+        "changed_rows": 24,
+        "internal_loss": 6.666579246240996
+      },
+      {
+        "chain": 1,
+        "proposals": 30000,
+        "accepted": 20,
+        "changed_cells": 48,
+        "changed_rows": 24,
+        "internal_loss": 6.666579246240996
+      },
+      {
+        "chain": 1,
+        "proposals": 32000,
+        "accepted": 20,
+        "changed_cells": 48,
+        "changed_rows": 24,
+        "internal_loss": 6.666579246240996
+      },
+      {
+        "chain": 1,
+        "proposals": 34000,
+        "accepted": 23,
+        "changed_cells": 60,
+        "changed_rows": 30,
+        "internal_loss": 6.668910930938655
+      },
+      {
+        "chain": 1,
+        "proposals": 36000,
+        "accepted": 24,
+        "changed_cells": 60,
+        "changed_rows": 30,
+        "internal_loss": 6.668656618000502
+      },
+      {
+        "chain": 1,
+        "proposals": 38000,
+        "accepted": 24,
+        "changed_cells": 60,
+        "changed_rows": 30,
+        "internal_loss": 6.668656618000502
+      },
+      {
+        "chain": 1,
+        "proposals": 40000,
+        "accepted": 24,
+        "changed_cells": 60,
+        "changed_rows": 30,
+        "internal_loss": 6.668656618000502
+      },
+      {
+        "chain": 2,
+        "proposals": 22000,
+        "accepted": 8,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 6.666946777764487
+      },
+      {
+        "chain": 2,
+        "proposals": 24000,
+        "accepted": 9,
+        "changed_cells": 28,
+        "changed_rows": 14,
+        "internal_loss": 6.666412160730057
+      },
+      {
+        "chain": 2,
+        "proposals": 26000,
+        "accepted": 13,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 6.663852564114516
+      },
+      {
+        "chain": 2,
+        "proposals": 28000,
+        "accepted": 14,
+        "changed_cells": 32,
+        "changed_rows": 16,
+        "internal_loss": 6.664387181148946
+      },
+      {
+        "chain": 2,
+        "proposals": 30000,
+        "accepted": 14,
+        "changed_cells": 32,
+        "changed_rows": 16,
+        "internal_loss": 6.664387181148946
+      },
+      {
+        "chain": 2,
+        "proposals": 32000,
+        "accepted": 14,
+        "changed_cells": 32,
+        "changed_rows": 16,
+        "internal_loss": 6.664387181148946
+      },
+      {
+        "chain": 2,
+        "proposals": 34000,
+        "accepted": 14,
+        "changed_cells": 32,
+        "changed_rows": 16,
+        "internal_loss": 6.664387181148946
+      },
+      {
+        "chain": 2,
+        "proposals": 36000,
+        "accepted": 14,
+        "changed_cells": 32,
+        "changed_rows": 16,
+        "internal_loss": 6.664387181148946
+      },
+      {
+        "chain": 2,
+        "proposals": 38000,
+        "accepted": 15,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 6.666036732471959
+      },
+      {
+        "chain": 2,
+        "proposals": 40000,
+        "accepted": 15,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 6.666036732471959
+      },
+      {
+        "chain": 3,
+        "proposals": 22000,
+        "accepted": 20,
+        "changed_cells": 40,
+        "changed_rows": 20,
+        "internal_loss": 6.6682719400552255
+      },
+      {
+        "chain": 3,
+        "proposals": 24000,
+        "accepted": 21,
+        "changed_cells": 44,
+        "changed_rows": 22,
+        "internal_loss": 6.6682719400552255
+      },
+      {
+        "chain": 3,
+        "proposals": 26000,
+        "accepted": 22,
+        "changed_cells": 48,
+        "changed_rows": 24,
+        "internal_loss": 6.665525820533237
+      },
+      {
+        "chain": 3,
+        "proposals": 28000,
+        "accepted": 23,
+        "changed_cells": 44,
+        "changed_rows": 22,
+        "internal_loss": 6.663876269210222
+      },
+      {
+        "chain": 3,
+        "proposals": 30000,
+        "accepted": 24,
+        "changed_cells": 48,
+        "changed_rows": 24,
+        "internal_loss": 6.663876269210222
+      },
+      {
+        "chain": 3,
+        "proposals": 32000,
+        "accepted": 25,
+        "changed_cells": 52,
+        "changed_rows": 26,
+        "internal_loss": 6.665525820533237
+      },
+      {
+        "chain": 3,
+        "proposals": 34000,
+        "accepted": 27,
+        "changed_cells": 52,
+        "changed_rows": 26,
+        "internal_loss": 6.664688995153704
+      },
+      {
+        "chain": 3,
+        "proposals": 36000,
+        "accepted": 27,
+        "changed_cells": 52,
+        "changed_rows": 26,
+        "internal_loss": 6.664688995153704
+      },
+      {
+        "chain": 3,
+        "proposals": 38000,
+        "accepted": 27,
+        "changed_cells": 52,
+        "changed_rows": 26,
+        "internal_loss": 6.664688995153704
+      },
+      {
+        "chain": 3,
+        "proposals": 40000,
+        "accepted": 28,
+        "changed_cells": 52,
+        "changed_rows": 26,
+        "internal_loss": 6.664440862773926
+      },
+      {
+        "chain": 4,
+        "proposals": 22000,
+        "accepted": 14,
+        "changed_cells": 44,
+        "changed_rows": 21,
+        "internal_loss": 6.6661849427323405
+      },
+      {
+        "chain": 4,
+        "proposals": 24000,
+        "accepted": 14,
+        "changed_cells": 44,
+        "changed_rows": 21,
+        "internal_loss": 6.6661849427323405
+      },
+      {
+        "chain": 4,
+        "proposals": 26000,
+        "accepted": 15,
+        "changed_cells": 40,
+        "changed_rows": 19,
+        "internal_loss": 6.6661849427323405
+      },
+      {
+        "chain": 4,
+        "proposals": 28000,
+        "accepted": 18,
+        "changed_cells": 44,
+        "changed_rows": 21,
+        "internal_loss": 6.663438823210351
+      },
+      {
+        "chain": 4,
+        "proposals": 30000,
+        "accepted": 21,
+        "changed_cells": 56,
+        "changed_rows": 27,
+        "internal_loss": 6.663673508151104
+      },
+      {
+        "chain": 4,
+        "proposals": 32000,
+        "accepted": 21,
+        "changed_cells": 56,
+        "changed_rows": 27,
+        "internal_loss": 6.663673508151104
+      },
+      {
+        "chain": 4,
+        "proposals": 34000,
+        "accepted": 23,
+        "changed_cells": 60,
+        "changed_rows": 28,
+        "internal_loss": 6.66489074949409
+      },
+      {
+        "chain": 4,
+        "proposals": 36000,
+        "accepted": 24,
+        "changed_cells": 56,
+        "changed_rows": 26,
+        "internal_loss": 6.662524454758882
+      },
+      {
+        "chain": 4,
+        "proposals": 38000,
+        "accepted": 24,
+        "changed_cells": 56,
+        "changed_rows": 26,
+        "internal_loss": 6.662524454758882
+      },
+      {
+        "chain": 4,
+        "proposals": 40000,
+        "accepted": 25,
+        "changed_cells": 59,
+        "changed_rows": 27,
+        "internal_loss": 6.662524454758882
+      },
+      {
+        "chain": 5,
+        "proposals": 22000,
+        "accepted": 11,
+        "changed_cells": 35,
+        "changed_rows": 17,
+        "internal_loss": 6.6808186985726685
+      },
+      {
+        "chain": 5,
+        "proposals": 24000,
+        "accepted": 12,
+        "changed_cells": 39,
+        "changed_rows": 19,
+        "internal_loss": 6.6808186985726685
+      },
+      {
+        "chain": 5,
+        "proposals": 26000,
+        "accepted": 12,
+        "changed_cells": 39,
+        "changed_rows": 19,
+        "internal_loss": 6.6808186985726685
+      },
+      {
+        "chain": 5,
+        "proposals": 28000,
+        "accepted": 14,
+        "changed_cells": 47,
+        "changed_rows": 23,
+        "internal_loss": 6.67827327725671
+      },
+      {
+        "chain": 5,
+        "proposals": 30000,
+        "accepted": 16,
+        "changed_cells": 55,
+        "changed_rows": 27,
+        "internal_loss": 6.678340079345456
+      },
+      {
+        "chain": 5,
+        "proposals": 32000,
+        "accepted": 18,
+        "changed_cells": 63,
+        "changed_rows": 31,
+        "internal_loss": 6.680053324494242
+      },
+      {
+        "chain": 5,
+        "proposals": 34000,
+        "accepted": 20,
+        "changed_cells": 59,
+        "changed_rows": 29,
+        "internal_loss": 6.67775317817407
+      },
+      {
+        "chain": 5,
+        "proposals": 36000,
+        "accepted": 20,
+        "changed_cells": 59,
+        "changed_rows": 29,
+        "internal_loss": 6.67775317817407
+      },
+      {
+        "chain": 5,
+        "proposals": 38000,
+        "accepted": 20,
+        "changed_cells": 59,
+        "changed_rows": 29,
+        "internal_loss": 6.67775317817407
+      },
+      {
+        "chain": 5,
+        "proposals": 40000,
+        "accepted": 23,
+        "changed_cells": 59,
+        "changed_rows": 29,
+        "internal_loss": 6.678403773171229
+      },
+      {
+        "chain": 6,
+        "proposals": 22000,
+        "accepted": 16,
+        "changed_cells": 56,
+        "changed_rows": 27,
+        "internal_loss": 6.673015843834528
+      },
+      {
+        "chain": 6,
+        "proposals": 24000,
+        "accepted": 17,
+        "changed_cells": 60,
+        "changed_rows": 29,
+        "internal_loss": 6.673015843834528
+      },
+      {
+        "chain": 6,
+        "proposals": 26000,
+        "accepted": 18,
+        "changed_cells": 64,
+        "changed_rows": 31,
+        "internal_loss": 6.673720716577907
+      },
+      {
+        "chain": 6,
+        "proposals": 28000,
+        "accepted": 19,
+        "changed_cells": 60,
+        "changed_rows": 29,
+        "internal_loss": 6.673720716577907
+      },
+      {
+        "chain": 6,
+        "proposals": 30000,
+        "accepted": 19,
+        "changed_cells": 60,
+        "changed_rows": 29,
+        "internal_loss": 6.673720716577907
+      },
+      {
+        "chain": 6,
+        "proposals": 32000,
+        "accepted": 21,
+        "changed_cells": 68,
+        "changed_rows": 33,
+        "internal_loss": 6.673720716577907
+      },
+      {
+        "chain": 6,
+        "proposals": 34000,
+        "accepted": 22,
+        "changed_cells": 64,
+        "changed_rows": 31,
+        "internal_loss": 6.673776759584077
+      },
+      {
+        "chain": 6,
+        "proposals": 36000,
+        "accepted": 25,
+        "changed_cells": 68,
+        "changed_rows": 33,
+        "internal_loss": 6.669926454671891
+      },
+      {
+        "chain": 6,
+        "proposals": 38000,
+        "accepted": 25,
+        "changed_cells": 68,
+        "changed_rows": 33,
+        "internal_loss": 6.669926454671891
+      },
+      {
+        "chain": 6,
+        "proposals": 40000,
+        "accepted": 25,
+        "changed_cells": 68,
+        "changed_rows": 33,
+        "internal_loss": 6.669926454671891
+      },
+      {
+        "chain": 7,
+        "proposals": 22000,
+        "accepted": 7,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.669528885387694
+      },
+      {
+        "chain": 7,
+        "proposals": 24000,
+        "accepted": 7,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.669528885387694
+      },
+      {
+        "chain": 7,
+        "proposals": 26000,
+        "accepted": 7,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.669528885387694
+      },
+      {
+        "chain": 7,
+        "proposals": 28000,
+        "accepted": 10,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 6.666975681499097
+      },
+      {
+        "chain": 7,
+        "proposals": 30000,
+        "accepted": 11,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 6.667055134334012
+      },
+      {
+        "chain": 7,
+        "proposals": 32000,
+        "accepted": 12,
+        "changed_cells": 28,
+        "changed_rows": 14,
+        "internal_loss": 6.667055134334012
+      },
+      {
+        "chain": 7,
+        "proposals": 34000,
+        "accepted": 13,
+        "changed_cells": 32,
+        "changed_rows": 16,
+        "internal_loss": 6.668704685657026
+      },
+      {
+        "chain": 7,
+        "proposals": 36000,
+        "accepted": 15,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 6.66869492680724
+      },
+      {
+        "chain": 7,
+        "proposals": 38000,
+        "accepted": 16,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 6.668584812658237
+      },
+      {
+        "chain": 7,
+        "proposals": 40000,
+        "accepted": 17,
+        "changed_cells": 40,
+        "changed_rows": 20,
+        "internal_loss": 6.666980913870887
+      },
+      {
+        "chain": 8,
+        "proposals": 22000,
+        "accepted": 15,
+        "changed_cells": 32,
+        "changed_rows": 16,
+        "internal_loss": 6.6724894861445305
+      },
+      {
+        "chain": 8,
+        "proposals": 24000,
+        "accepted": 15,
+        "changed_cells": 32,
+        "changed_rows": 16,
+        "internal_loss": 6.6724894861445305
+      },
+      {
+        "chain": 8,
+        "proposals": 26000,
+        "accepted": 16,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 6.6724894861445305
+      },
+      {
+        "chain": 8,
+        "proposals": 28000,
+        "accepted": 16,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 6.6724894861445305
+      },
+      {
+        "chain": 8,
+        "proposals": 30000,
+        "accepted": 17,
+        "changed_cells": 40,
+        "changed_rows": 20,
+        "internal_loss": 6.674172172390488
+      },
+      {
+        "chain": 8,
+        "proposals": 32000,
+        "accepted": 18,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 6.6724894861445305
+      },
+      {
+        "chain": 8,
+        "proposals": 34000,
+        "accepted": 19,
+        "changed_cells": 32,
+        "changed_rows": 16,
+        "internal_loss": 6.6724894861445305
+      },
+      {
+        "chain": 8,
+        "proposals": 36000,
+        "accepted": 21,
+        "changed_cells": 40,
+        "changed_rows": 20,
+        "internal_loss": 6.674172172390488
+      },
+      {
+        "chain": 8,
+        "proposals": 38000,
+        "accepted": 22,
+        "changed_cells": 44,
+        "changed_rows": 22,
+        "internal_loss": 6.674172172390488
+      },
+      {
+        "chain": 8,
+        "proposals": 40000,
+        "accepted": 23,
+        "changed_cells": 40,
+        "changed_rows": 20,
+        "internal_loss": 6.6733580804639026
+      },
+      {
+        "chain": 9,
+        "proposals": 22000,
+        "accepted": 4,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.668808563148759
+      },
+      {
+        "chain": 9,
+        "proposals": 24000,
+        "accepted": 5,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 6.66518025667307
+      },
+      {
+        "chain": 9,
+        "proposals": 26000,
+        "accepted": 8,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 6.66225952825268
+      },
+      {
+        "chain": 9,
+        "proposals": 28000,
+        "accepted": 8,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 6.66225952825268
+      },
+      {
+        "chain": 9,
+        "proposals": 30000,
+        "accepted": 11,
+        "changed_cells": 28,
+        "changed_rows": 14,
+        "internal_loss": 6.6641043543737215
+      },
+      {
+        "chain": 9,
+        "proposals": 32000,
+        "accepted": 15,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 6.66099741185055
+      },
+      {
+        "chain": 9,
+        "proposals": 34000,
+        "accepted": 15,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 6.66099741185055
+      },
+      {
+        "chain": 9,
+        "proposals": 36000,
+        "accepted": 16,
+        "changed_cells": 40,
+        "changed_rows": 19,
+        "internal_loss": 6.660707702943539
+      },
+      {
+        "chain": 9,
+        "proposals": 38000,
+        "accepted": 17,
+        "changed_cells": 40,
+        "changed_rows": 19,
+        "internal_loss": 6.661021021268347
+      },
+      {
+        "chain": 9,
+        "proposals": 40000,
+        "accepted": 18,
+        "changed_cells": 44,
+        "changed_rows": 21,
+        "internal_loss": 6.661021021268347
+      }
+    ]
+  },
+  {
+    "source": "Mohenjo-daro",
+    "target": "Harappa",
+    "subset": "all",
+    "train_types": 1022,
+    "test_types": 428,
+    "source_cells": 4929,
+    "observed_loss": 7.070839206563075,
+    "control_loss_mean": 7.07750609885494,
+    "control_loss_min": 7.066067598562637,
+    "control_loss_max": 7.098680102916964,
+    "controls_at_least_as_good": 29,
+    "controls": 100,
+    "mean_changed_cell_fraction": 0.004347737877865693,
+    "mean_changed_row_fraction": 0.010205479452054795,
+    "accepted_moves_final_each_chain": [
+      10,
+      6,
+      11,
+      10,
+      16,
+      10,
+      4,
+      8,
+      10,
+      13
+    ],
+    "samples": [
+      {
+        "chain": 0,
+        "proposals": 22000,
+        "accepted": 5,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 7.071955106281968
+      },
+      {
+        "chain": 0,
+        "proposals": 24000,
+        "accepted": 5,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 7.071955106281968
+      },
+      {
+        "chain": 0,
+        "proposals": 26000,
+        "accepted": 5,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 7.071955106281968
+      },
+      {
+        "chain": 0,
+        "proposals": 28000,
+        "accepted": 6,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 7.071626923693558
+      },
+      {
+        "chain": 0,
+        "proposals": 30000,
+        "accepted": 6,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 7.071626923693558
+      },
+      {
+        "chain": 0,
+        "proposals": 32000,
+        "accepted": 7,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.072773882428251
+      },
+      {
+        "chain": 0,
+        "proposals": 34000,
+        "accepted": 7,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.072773882428251
+      },
+      {
+        "chain": 0,
+        "proposals": 36000,
+        "accepted": 7,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.072773882428251
+      },
+      {
+        "chain": 0,
+        "proposals": 38000,
+        "accepted": 9,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 7.074992143609051
+      },
+      {
+        "chain": 0,
+        "proposals": 40000,
+        "accepted": 10,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 7.074317555410063
+      },
+      {
+        "chain": 1,
+        "proposals": 22000,
+        "accepted": 4,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 7.0686545304154516
+      },
+      {
+        "chain": 1,
+        "proposals": 24000,
+        "accepted": 4,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 7.0686545304154516
+      },
+      {
+        "chain": 1,
+        "proposals": 26000,
+        "accepted": 4,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 7.0686545304154516
+      },
+      {
+        "chain": 1,
+        "proposals": 28000,
+        "accepted": 6,
+        "changed_cells": 15,
+        "changed_rows": 7,
+        "internal_loss": 7.068703949440248
+      },
+      {
+        "chain": 1,
+        "proposals": 30000,
+        "accepted": 6,
+        "changed_cells": 15,
+        "changed_rows": 7,
+        "internal_loss": 7.068703949440248
+      },
+      {
+        "chain": 1,
+        "proposals": 32000,
+        "accepted": 6,
+        "changed_cells": 15,
+        "changed_rows": 7,
+        "internal_loss": 7.068703949440248
+      },
+      {
+        "chain": 1,
+        "proposals": 34000,
+        "accepted": 6,
+        "changed_cells": 15,
+        "changed_rows": 7,
+        "internal_loss": 7.068703949440248
+      },
+      {
+        "chain": 1,
+        "proposals": 36000,
+        "accepted": 6,
+        "changed_cells": 15,
+        "changed_rows": 7,
+        "internal_loss": 7.068703949440248
+      },
+      {
+        "chain": 1,
+        "proposals": 38000,
+        "accepted": 6,
+        "changed_cells": 15,
+        "changed_rows": 7,
+        "internal_loss": 7.068703949440248
+      },
+      {
+        "chain": 1,
+        "proposals": 40000,
+        "accepted": 6,
+        "changed_cells": 15,
+        "changed_rows": 7,
+        "internal_loss": 7.068703949440248
+      },
+      {
+        "chain": 2,
+        "proposals": 22000,
+        "accepted": 4,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 7.066067598562637
+      },
+      {
+        "chain": 2,
+        "proposals": 24000,
+        "accepted": 4,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 7.066067598562637
+      },
+      {
+        "chain": 2,
+        "proposals": 26000,
+        "accepted": 4,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 7.066067598562637
+      },
+      {
+        "chain": 2,
+        "proposals": 28000,
+        "accepted": 5,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 7.066652656987131
+      },
+      {
+        "chain": 2,
+        "proposals": 30000,
+        "accepted": 6,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 7.066652656987131
+      },
+      {
+        "chain": 2,
+        "proposals": 32000,
+        "accepted": 6,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 7.066652656987131
+      },
+      {
+        "chain": 2,
+        "proposals": 34000,
+        "accepted": 6,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 7.066652656987131
+      },
+      {
+        "chain": 2,
+        "proposals": 36000,
+        "accepted": 8,
+        "changed_cells": 32,
+        "changed_rows": 16,
+        "internal_loss": 7.066536016449191
+      },
+      {
+        "chain": 2,
+        "proposals": 38000,
+        "accepted": 9,
+        "changed_cells": 35,
+        "changed_rows": 17,
+        "internal_loss": 7.068204977890222
+      },
+      {
+        "chain": 2,
+        "proposals": 40000,
+        "accepted": 11,
+        "changed_cells": 28,
+        "changed_rows": 14,
+        "internal_loss": 7.066536016449191
+      },
+      {
+        "chain": 3,
+        "proposals": 22000,
+        "accepted": 5,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 7.0730932149560095
+      },
+      {
+        "chain": 3,
+        "proposals": 24000,
+        "accepted": 5,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 7.0730932149560095
+      },
+      {
+        "chain": 3,
+        "proposals": 26000,
+        "accepted": 7,
+        "changed_cells": 27,
+        "changed_rows": 13,
+        "internal_loss": 7.069232061697902
+      },
+      {
+        "chain": 3,
+        "proposals": 28000,
+        "accepted": 8,
+        "changed_cells": 31,
+        "changed_rows": 15,
+        "internal_loss": 7.085176942367408
+      },
+      {
+        "chain": 3,
+        "proposals": 30000,
+        "accepted": 8,
+        "changed_cells": 31,
+        "changed_rows": 15,
+        "internal_loss": 7.085176942367408
+      },
+      {
+        "chain": 3,
+        "proposals": 32000,
+        "accepted": 8,
+        "changed_cells": 31,
+        "changed_rows": 15,
+        "internal_loss": 7.085176942367408
+      },
+      {
+        "chain": 3,
+        "proposals": 34000,
+        "accepted": 9,
+        "changed_cells": 35,
+        "changed_rows": 17,
+        "internal_loss": 7.0809759363056255
+      },
+      {
+        "chain": 3,
+        "proposals": 36000,
+        "accepted": 9,
+        "changed_cells": 35,
+        "changed_rows": 17,
+        "internal_loss": 7.0809759363056255
+      },
+      {
+        "chain": 3,
+        "proposals": 38000,
+        "accepted": 10,
+        "changed_cells": 39,
+        "changed_rows": 19,
+        "internal_loss": 7.084067116757144
+      },
+      {
+        "chain": 3,
+        "proposals": 40000,
+        "accepted": 10,
+        "changed_cells": 39,
+        "changed_rows": 19,
+        "internal_loss": 7.084067116757144
+      },
+      {
+        "chain": 4,
+        "proposals": 22000,
+        "accepted": 9,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 7.074330175182148
+      },
+      {
+        "chain": 4,
+        "proposals": 24000,
+        "accepted": 9,
+        "changed_cells": 36,
+        "changed_rows": 18,
+        "internal_loss": 7.074330175182148
+      },
+      {
+        "chain": 4,
+        "proposals": 26000,
+        "accepted": 11,
+        "changed_cells": 39,
+        "changed_rows": 19,
+        "internal_loss": 7.076687588807585
+      },
+      {
+        "chain": 4,
+        "proposals": 28000,
+        "accepted": 12,
+        "changed_cells": 39,
+        "changed_rows": 19,
+        "internal_loss": 7.075977253396459
+      },
+      {
+        "chain": 4,
+        "proposals": 30000,
+        "accepted": 13,
+        "changed_cells": 43,
+        "changed_rows": 21,
+        "internal_loss": 7.0793221447023305
+      },
+      {
+        "chain": 4,
+        "proposals": 32000,
+        "accepted": 14,
+        "changed_cells": 39,
+        "changed_rows": 19,
+        "internal_loss": 7.081427092989008
+      },
+      {
+        "chain": 4,
+        "proposals": 34000,
+        "accepted": 14,
+        "changed_cells": 39,
+        "changed_rows": 19,
+        "internal_loss": 7.081427092989008
+      },
+      {
+        "chain": 4,
+        "proposals": 36000,
+        "accepted": 15,
+        "changed_cells": 35,
+        "changed_rows": 17,
+        "internal_loss": 7.081427092989008
+      },
+      {
+        "chain": 4,
+        "proposals": 38000,
+        "accepted": 15,
+        "changed_cells": 35,
+        "changed_rows": 17,
+        "internal_loss": 7.081427092989008
+      },
+      {
+        "chain": 4,
+        "proposals": 40000,
+        "accepted": 16,
+        "changed_cells": 35,
+        "changed_rows": 17,
+        "internal_loss": 7.082101681187997
+      },
+      {
+        "chain": 5,
+        "proposals": 22000,
+        "accepted": 5,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 7.08931187554837
+      },
+      {
+        "chain": 5,
+        "proposals": 24000,
+        "accepted": 5,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 7.08931187554837
+      },
+      {
+        "chain": 5,
+        "proposals": 26000,
+        "accepted": 5,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 7.08931187554837
+      },
+      {
+        "chain": 5,
+        "proposals": 28000,
+        "accepted": 6,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 7.090951789297686
+      },
+      {
+        "chain": 5,
+        "proposals": 30000,
+        "accepted": 7,
+        "changed_cells": 23,
+        "changed_rows": 11,
+        "internal_loss": 7.097526045697097
+      },
+      {
+        "chain": 5,
+        "proposals": 32000,
+        "accepted": 7,
+        "changed_cells": 23,
+        "changed_rows": 11,
+        "internal_loss": 7.097526045697097
+      },
+      {
+        "chain": 5,
+        "proposals": 34000,
+        "accepted": 8,
+        "changed_cells": 27,
+        "changed_rows": 13,
+        "internal_loss": 7.098680102916964
+      },
+      {
+        "chain": 5,
+        "proposals": 36000,
+        "accepted": 9,
+        "changed_cells": 31,
+        "changed_rows": 15,
+        "internal_loss": 7.098680102916964
+      },
+      {
+        "chain": 5,
+        "proposals": 38000,
+        "accepted": 9,
+        "changed_cells": 31,
+        "changed_rows": 15,
+        "internal_loss": 7.098680102916964
+      },
+      {
+        "chain": 5,
+        "proposals": 40000,
+        "accepted": 10,
+        "changed_cells": 35,
+        "changed_rows": 17,
+        "internal_loss": 7.098680102916964
+      },
+      {
+        "chain": 6,
+        "proposals": 22000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.087404892869209
+      },
+      {
+        "chain": 6,
+        "proposals": 24000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.087404892869209
+      },
+      {
+        "chain": 6,
+        "proposals": 26000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.087404892869209
+      },
+      {
+        "chain": 6,
+        "proposals": 28000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.087404892869209
+      },
+      {
+        "chain": 6,
+        "proposals": 30000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.087404892869209
+      },
+      {
+        "chain": 6,
+        "proposals": 32000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.087404892869209
+      },
+      {
+        "chain": 6,
+        "proposals": 34000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.087404892869209
+      },
+      {
+        "chain": 6,
+        "proposals": 36000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.087404892869209
+      },
+      {
+        "chain": 6,
+        "proposals": 38000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.087404892869209
+      },
+      {
+        "chain": 6,
+        "proposals": 40000,
+        "accepted": 4,
+        "changed_cells": 15,
+        "changed_rows": 7,
+        "internal_loss": 7.089038095625515
+      },
+      {
+        "chain": 7,
+        "proposals": 22000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.071130766348191
+      },
+      {
+        "chain": 7,
+        "proposals": 24000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.071130766348191
+      },
+      {
+        "chain": 7,
+        "proposals": 26000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.071130766348191
+      },
+      {
+        "chain": 7,
+        "proposals": 28000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.071130766348191
+      },
+      {
+        "chain": 7,
+        "proposals": 30000,
+        "accepted": 3,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 7.071130766348191
+      },
+      {
+        "chain": 7,
+        "proposals": 32000,
+        "accepted": 4,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 7.07175157198482
+      },
+      {
+        "chain": 7,
+        "proposals": 34000,
+        "accepted": 5,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 7.071041236573695
+      },
+      {
+        "chain": 7,
+        "proposals": 36000,
+        "accepted": 6,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 7.072674439330002
+      },
+      {
+        "chain": 7,
+        "proposals": 38000,
+        "accepted": 7,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 7.071041236573695
+      },
+      {
+        "chain": 7,
+        "proposals": 40000,
+        "accepted": 8,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 7.072674439330002
+      },
+      {
+        "chain": 8,
+        "proposals": 22000,
+        "accepted": 6,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 7.071349181434178
+      },
+      {
+        "chain": 8,
+        "proposals": 24000,
+        "accepted": 6,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 7.071349181434178
+      },
+      {
+        "chain": 8,
+        "proposals": 26000,
+        "accepted": 8,
+        "changed_cells": 30,
+        "changed_rows": 14,
+        "internal_loss": 7.0687372867169405
+      },
+      {
+        "chain": 8,
+        "proposals": 28000,
+        "accepted": 8,
+        "changed_cells": 30,
+        "changed_rows": 14,
+        "internal_loss": 7.0687372867169405
+      },
+      {
+        "chain": 8,
+        "proposals": 30000,
+        "accepted": 8,
+        "changed_cells": 30,
+        "changed_rows": 14,
+        "internal_loss": 7.0687372867169405
+      },
+      {
+        "chain": 8,
+        "proposals": 32000,
+        "accepted": 8,
+        "changed_cells": 30,
+        "changed_rows": 14,
+        "internal_loss": 7.0687372867169405
+      },
+      {
+        "chain": 8,
+        "proposals": 34000,
+        "accepted": 9,
+        "changed_cells": 26,
+        "changed_rows": 12,
+        "internal_loss": 7.0687372867169405
+      },
+      {
+        "chain": 8,
+        "proposals": 36000,
+        "accepted": 9,
+        "changed_cells": 26,
+        "changed_rows": 12,
+        "internal_loss": 7.0687372867169405
+      },
+      {
+        "chain": 8,
+        "proposals": 38000,
+        "accepted": 9,
+        "changed_cells": 26,
+        "changed_rows": 12,
+        "internal_loss": 7.0687372867169405
+      },
+      {
+        "chain": 8,
+        "proposals": 40000,
+        "accepted": 10,
+        "changed_cells": 26,
+        "changed_rows": 12,
+        "internal_loss": 7.068993789215323
+      },
+      {
+        "chain": 9,
+        "proposals": 22000,
+        "accepted": 6,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 7.087563796426849
+      },
+      {
+        "chain": 9,
+        "proposals": 24000,
+        "accepted": 6,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 7.087563796426849
+      },
+      {
+        "chain": 9,
+        "proposals": 26000,
+        "accepted": 7,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 7.089237067774083
+      },
+      {
+        "chain": 9,
+        "proposals": 28000,
+        "accepted": 8,
+        "changed_cells": 23,
+        "changed_rows": 11,
+        "internal_loss": 7.0858806276672
+      },
+      {
+        "chain": 9,
+        "proposals": 30000,
+        "accepted": 8,
+        "changed_cells": 23,
+        "changed_rows": 11,
+        "internal_loss": 7.0858806276672
+      },
+      {
+        "chain": 9,
+        "proposals": 32000,
+        "accepted": 11,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 7.084369400064837
+      },
+      {
+        "chain": 9,
+        "proposals": 34000,
+        "accepted": 11,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 7.084369400064837
+      },
+      {
+        "chain": 9,
+        "proposals": 36000,
+        "accepted": 12,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 7.084369400064837
+      },
+      {
+        "chain": 9,
+        "proposals": 38000,
+        "accepted": 13,
+        "changed_cells": 28,
+        "changed_rows": 14,
+        "internal_loss": 7.080059402353095
+      },
+      {
+        "chain": 9,
+        "proposals": 40000,
+        "accepted": 13,
+        "changed_cells": 28,
+        "changed_rows": 14,
+        "internal_loss": 7.080059402353095
+      }
+    ]
+  },
+  {
+    "source": "Harappa",
+    "target": "Mohenjo-daro",
+    "subset": "SEAL:S",
+    "train_types": 185,
+    "test_types": 615,
+    "source_cells": 881,
+    "observed_loss": 6.332303299335172,
+    "control_loss_mean": 6.3304012074385865,
+    "control_loss_min": 6.324335269661941,
+    "control_loss_max": 6.332303299335172,
+    "controls_at_least_as_good": 100,
+    "controls": 100,
+    "mean_changed_cell_fraction": 0.004267877412031782,
+    "mean_changed_row_fraction": 0.010162162162162163,
+    "accepted_moves_final_each_chain": [
+      13,
+      10,
+      10,
+      11,
+      11,
+      7,
+      13,
+      13,
+      12,
+      11
+    ],
+    "samples": [
+      {
+        "chain": 0,
+        "proposals": 22000,
+        "accepted": 7,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 0,
+        "proposals": 24000,
+        "accepted": 7,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 0,
+        "proposals": 26000,
+        "accepted": 8,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 0,
+        "proposals": 28000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 0,
+        "proposals": 30000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 0,
+        "proposals": 32000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 0,
+        "proposals": 34000,
+        "accepted": 11,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 0,
+        "proposals": 36000,
+        "accepted": 12,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 0,
+        "proposals": 38000,
+        "accepted": 12,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 0,
+        "proposals": 40000,
+        "accepted": 13,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 1,
+        "proposals": 22000,
+        "accepted": 3,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.3271444401702714
+      },
+      {
+        "chain": 1,
+        "proposals": 24000,
+        "accepted": 4,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.3271444401702714
+      },
+      {
+        "chain": 1,
+        "proposals": 26000,
+        "accepted": 5,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 1,
+        "proposals": 28000,
+        "accepted": 8,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 1,
+        "proposals": 30000,
+        "accepted": 8,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 1,
+        "proposals": 32000,
+        "accepted": 8,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 1,
+        "proposals": 34000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 1,
+        "proposals": 36000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 1,
+        "proposals": 38000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 1,
+        "proposals": 40000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 2,
+        "proposals": 22000,
+        "accepted": 7,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 6.324335269661941
+      },
+      {
+        "chain": 2,
+        "proposals": 24000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 2,
+        "proposals": 26000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 2,
+        "proposals": 28000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 2,
+        "proposals": 30000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 2,
+        "proposals": 32000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 2,
+        "proposals": 34000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 2,
+        "proposals": 36000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 2,
+        "proposals": 38000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 2,
+        "proposals": 40000,
+        "accepted": 10,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 3,
+        "proposals": 22000,
+        "accepted": 8,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 3,
+        "proposals": 24000,
+        "accepted": 8,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 3,
+        "proposals": 26000,
+        "accepted": 8,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 3,
+        "proposals": 28000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 3,
+        "proposals": 30000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 3,
+        "proposals": 32000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 3,
+        "proposals": 34000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 3,
+        "proposals": 36000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 3,
+        "proposals": 38000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 3,
+        "proposals": 40000,
+        "accepted": 11,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 4,
+        "proposals": 22000,
+        "accepted": 8,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.3271444401702714
+      },
+      {
+        "chain": 4,
+        "proposals": 24000,
+        "accepted": 8,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.3271444401702714
+      },
+      {
+        "chain": 4,
+        "proposals": 26000,
+        "accepted": 8,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.3271444401702714
+      },
+      {
+        "chain": 4,
+        "proposals": 28000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 4,
+        "proposals": 30000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 4,
+        "proposals": 32000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 4,
+        "proposals": 34000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 4,
+        "proposals": 36000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 4,
+        "proposals": 38000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 4,
+        "proposals": 40000,
+        "accepted": 11,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 5,
+        "proposals": 22000,
+        "accepted": 3,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.3271444401702714
+      },
+      {
+        "chain": 5,
+        "proposals": 24000,
+        "accepted": 3,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.3271444401702714
+      },
+      {
+        "chain": 5,
+        "proposals": 26000,
+        "accepted": 3,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.3271444401702714
+      },
+      {
+        "chain": 5,
+        "proposals": 28000,
+        "accepted": 3,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.3271444401702714
+      },
+      {
+        "chain": 5,
+        "proposals": 30000,
+        "accepted": 4,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 5,
+        "proposals": 32000,
+        "accepted": 4,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 5,
+        "proposals": 34000,
+        "accepted": 6,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 5,
+        "proposals": 36000,
+        "accepted": 6,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 5,
+        "proposals": 38000,
+        "accepted": 6,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 5,
+        "proposals": 40000,
+        "accepted": 7,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 6,
+        "proposals": 22000,
+        "accepted": 8,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 6,
+        "proposals": 24000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 6,
+        "proposals": 26000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 6,
+        "proposals": 28000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 6,
+        "proposals": 30000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 6,
+        "proposals": 32000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 6,
+        "proposals": 34000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 6,
+        "proposals": 36000,
+        "accepted": 10,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 6,
+        "proposals": 38000,
+        "accepted": 12,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 6,
+        "proposals": 40000,
+        "accepted": 13,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 7,
+        "proposals": 22000,
+        "accepted": 8,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.3271444401702714
+      },
+      {
+        "chain": 7,
+        "proposals": 24000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 7,
+        "proposals": 26000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 7,
+        "proposals": 28000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 7,
+        "proposals": 30000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 7,
+        "proposals": 32000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 7,
+        "proposals": 34000,
+        "accepted": 10,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 7,
+        "proposals": 36000,
+        "accepted": 11,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 7,
+        "proposals": 38000,
+        "accepted": 11,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 7,
+        "proposals": 40000,
+        "accepted": 13,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 8,
+        "proposals": 22000,
+        "accepted": 8,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 8,
+        "proposals": 24000,
+        "accepted": 8,
+        "changed_cells": 0,
+        "changed_rows": 0,
+        "internal_loss": 6.332303299335172
+      },
+      {
+        "chain": 8,
+        "proposals": 26000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 8,
+        "proposals": 28000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 8,
+        "proposals": 30000,
+        "accepted": 10,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 8,
+        "proposals": 32000,
+        "accepted": 11,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 8,
+        "proposals": 34000,
+        "accepted": 11,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 8,
+        "proposals": 36000,
+        "accepted": 12,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.324335269661941
+      },
+      {
+        "chain": 8,
+        "proposals": 38000,
+        "accepted": 12,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.324335269661941
+      },
+      {
+        "chain": 8,
+        "proposals": 40000,
+        "accepted": 12,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.324335269661941
+      },
+      {
+        "chain": 9,
+        "proposals": 22000,
+        "accepted": 6,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 9,
+        "proposals": 24000,
+        "accepted": 6,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 9,
+        "proposals": 26000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 9,
+        "proposals": 28000,
+        "accepted": 9,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 9,
+        "proposals": 30000,
+        "accepted": 10,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 9,
+        "proposals": 32000,
+        "accepted": 10,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 9,
+        "proposals": 34000,
+        "accepted": 10,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 9,
+        "proposals": 36000,
+        "accepted": 10,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 9,
+        "proposals": 38000,
+        "accepted": 11,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      },
+      {
+        "chain": 9,
+        "proposals": 40000,
+        "accepted": 11,
+        "changed_cells": 4,
+        "changed_rows": 2,
+        "internal_loss": 6.32949412882684
+      }
+    ]
+  },
+  {
+    "source": "Mohenjo-daro",
+    "target": "Harappa",
+    "subset": "SEAL:S",
+    "train_types": 743,
+    "test_types": 123,
+    "source_cells": 3589,
+    "observed_loss": 6.2275694471437575,
+    "control_loss_mean": 6.228535024415707,
+    "control_loss_min": 6.21678653999228,
+    "control_loss_max": 6.2452118036188455,
+    "controls_at_least_as_good": 51,
+    "controls": 100,
+    "mean_changed_cell_fraction": 0.00513792142658122,
+    "mean_changed_row_fraction": 0.011951547779273217,
+    "accepted_moves_final_each_chain": [
+      12,
+      11,
+      13,
+      17,
+      20,
+      16,
+      17,
+      11,
+      13,
+      10
+    ],
+    "samples": [
+      {
+        "chain": 0,
+        "proposals": 22000,
+        "accepted": 5,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 6.227628045696548
+      },
+      {
+        "chain": 0,
+        "proposals": 24000,
+        "accepted": 6,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.227022199637032
+      },
+      {
+        "chain": 0,
+        "proposals": 26000,
+        "accepted": 6,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.227022199637032
+      },
+      {
+        "chain": 0,
+        "proposals": 28000,
+        "accepted": 6,
+        "changed_cells": 8,
+        "changed_rows": 4,
+        "internal_loss": 6.227022199637032
+      },
+      {
+        "chain": 0,
+        "proposals": 30000,
+        "accepted": 7,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 6.22782122005427
+      },
+      {
+        "chain": 0,
+        "proposals": 32000,
+        "accepted": 7,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 6.22782122005427
+      },
+      {
+        "chain": 0,
+        "proposals": 34000,
+        "accepted": 8,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.22627674096977
+      },
+      {
+        "chain": 0,
+        "proposals": 36000,
+        "accepted": 11,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 6.226541489517151
+      },
+      {
+        "chain": 0,
+        "proposals": 38000,
+        "accepted": 11,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 6.226541489517151
+      },
+      {
+        "chain": 0,
+        "proposals": 40000,
+        "accepted": 12,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.227147335576668
+      },
+      {
+        "chain": 1,
+        "proposals": 22000,
+        "accepted": 9,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 6.224740832770015
+      },
+      {
+        "chain": 1,
+        "proposals": 24000,
+        "accepted": 9,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 6.224740832770015
+      },
+      {
+        "chain": 1,
+        "proposals": 26000,
+        "accepted": 9,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 6.224740832770015
+      },
+      {
+        "chain": 1,
+        "proposals": 28000,
+        "accepted": 10,
+        "changed_cells": 18,
+        "changed_rows": 8,
+        "internal_loss": 6.22554998930459
+      },
+      {
+        "chain": 1,
+        "proposals": 30000,
+        "accepted": 11,
+        "changed_cells": 14,
+        "changed_rows": 6,
+        "internal_loss": 6.22554998930459
+      },
+      {
+        "chain": 1,
+        "proposals": 32000,
+        "accepted": 11,
+        "changed_cells": 14,
+        "changed_rows": 6,
+        "internal_loss": 6.22554998930459
+      },
+      {
+        "chain": 1,
+        "proposals": 34000,
+        "accepted": 11,
+        "changed_cells": 14,
+        "changed_rows": 6,
+        "internal_loss": 6.22554998930459
+      },
+      {
+        "chain": 1,
+        "proposals": 36000,
+        "accepted": 11,
+        "changed_cells": 14,
+        "changed_rows": 6,
+        "internal_loss": 6.22554998930459
+      },
+      {
+        "chain": 1,
+        "proposals": 38000,
+        "accepted": 11,
+        "changed_cells": 14,
+        "changed_rows": 6,
+        "internal_loss": 6.22554998930459
+      },
+      {
+        "chain": 1,
+        "proposals": 40000,
+        "accepted": 11,
+        "changed_cells": 14,
+        "changed_rows": 6,
+        "internal_loss": 6.22554998930459
+      },
+      {
+        "chain": 2,
+        "proposals": 22000,
+        "accepted": 5,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 6.229930189873184
+      },
+      {
+        "chain": 2,
+        "proposals": 24000,
+        "accepted": 7,
+        "changed_cells": 18,
+        "changed_rows": 8,
+        "internal_loss": 6.233450648419925
+      },
+      {
+        "chain": 2,
+        "proposals": 26000,
+        "accepted": 7,
+        "changed_cells": 18,
+        "changed_rows": 8,
+        "internal_loss": 6.233450648419925
+      },
+      {
+        "chain": 2,
+        "proposals": 28000,
+        "accepted": 9,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 6.244260477313746
+      },
+      {
+        "chain": 2,
+        "proposals": 30000,
+        "accepted": 9,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 6.244260477313746
+      },
+      {
+        "chain": 2,
+        "proposals": 32000,
+        "accepted": 9,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 6.244260477313746
+      },
+      {
+        "chain": 2,
+        "proposals": 34000,
+        "accepted": 9,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 6.244260477313746
+      },
+      {
+        "chain": 2,
+        "proposals": 36000,
+        "accepted": 10,
+        "changed_cells": 23,
+        "changed_rows": 11,
+        "internal_loss": 6.244260477313746
+      },
+      {
+        "chain": 2,
+        "proposals": 38000,
+        "accepted": 12,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 6.2420818819388435
+      },
+      {
+        "chain": 2,
+        "proposals": 40000,
+        "accepted": 13,
+        "changed_cells": 27,
+        "changed_rows": 13,
+        "internal_loss": 6.245059497730984
+      },
+      {
+        "chain": 3,
+        "proposals": 22000,
+        "accepted": 9,
+        "changed_cells": 26,
+        "changed_rows": 12,
+        "internal_loss": 6.2358557881621675
+      },
+      {
+        "chain": 3,
+        "proposals": 24000,
+        "accepted": 10,
+        "changed_cells": 23,
+        "changed_rows": 11,
+        "internal_loss": 6.232907041837925
+      },
+      {
+        "chain": 3,
+        "proposals": 26000,
+        "accepted": 11,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.232364199083324
+      },
+      {
+        "chain": 3,
+        "proposals": 28000,
+        "accepted": 15,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.234106800271851
+      },
+      {
+        "chain": 3,
+        "proposals": 30000,
+        "accepted": 15,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.234106800271851
+      },
+      {
+        "chain": 3,
+        "proposals": 32000,
+        "accepted": 15,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.234106800271851
+      },
+      {
+        "chain": 3,
+        "proposals": 34000,
+        "accepted": 15,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.234106800271851
+      },
+      {
+        "chain": 3,
+        "proposals": 36000,
+        "accepted": 16,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.229049165228102
+      },
+      {
+        "chain": 3,
+        "proposals": 38000,
+        "accepted": 17,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.227504686143603
+      },
+      {
+        "chain": 3,
+        "proposals": 40000,
+        "accepted": 17,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.227504686143603
+      },
+      {
+        "chain": 4,
+        "proposals": 22000,
+        "accepted": 10,
+        "changed_cells": 22,
+        "changed_rows": 10,
+        "internal_loss": 6.234002806272888
+      },
+      {
+        "chain": 4,
+        "proposals": 24000,
+        "accepted": 12,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.230511217194044
+      },
+      {
+        "chain": 4,
+        "proposals": 26000,
+        "accepted": 14,
+        "changed_cells": 22,
+        "changed_rows": 10,
+        "internal_loss": 6.234002806272888
+      },
+      {
+        "chain": 4,
+        "proposals": 28000,
+        "accepted": 14,
+        "changed_cells": 22,
+        "changed_rows": 10,
+        "internal_loss": 6.234002806272888
+      },
+      {
+        "chain": 4,
+        "proposals": 30000,
+        "accepted": 15,
+        "changed_cells": 26,
+        "changed_rows": 12,
+        "internal_loss": 6.235037319919317
+      },
+      {
+        "chain": 4,
+        "proposals": 32000,
+        "accepted": 18,
+        "changed_cells": 24,
+        "changed_rows": 12,
+        "internal_loss": 6.229034768763657
+      },
+      {
+        "chain": 4,
+        "proposals": 34000,
+        "accepted": 19,
+        "changed_cells": 27,
+        "changed_rows": 13,
+        "internal_loss": 6.231983515087899
+      },
+      {
+        "chain": 4,
+        "proposals": 36000,
+        "accepted": 19,
+        "changed_cells": 27,
+        "changed_rows": 13,
+        "internal_loss": 6.231983515087899
+      },
+      {
+        "chain": 4,
+        "proposals": 38000,
+        "accepted": 20,
+        "changed_cells": 30,
+        "changed_rows": 14,
+        "internal_loss": 6.2325263578425005
+      },
+      {
+        "chain": 4,
+        "proposals": 40000,
+        "accepted": 20,
+        "changed_cells": 30,
+        "changed_rows": 14,
+        "internal_loss": 6.2325263578425005
+      },
+      {
+        "chain": 5,
+        "proposals": 22000,
+        "accepted": 6,
+        "changed_cells": 22,
+        "changed_rows": 10,
+        "internal_loss": 6.220278129071125
+      },
+      {
+        "chain": 5,
+        "proposals": 24000,
+        "accepted": 7,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 6.2197352863165225
+      },
+      {
+        "chain": 5,
+        "proposals": 26000,
+        "accepted": 8,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.21678653999228
+      },
+      {
+        "chain": 5,
+        "proposals": 28000,
+        "accepted": 12,
+        "changed_cells": 15,
+        "changed_rows": 7,
+        "internal_loss": 6.217329382746882
+      },
+      {
+        "chain": 5,
+        "proposals": 30000,
+        "accepted": 13,
+        "changed_cells": 14,
+        "changed_rows": 6,
+        "internal_loss": 6.218138539281457
+      },
+      {
+        "chain": 5,
+        "proposals": 32000,
+        "accepted": 14,
+        "changed_cells": 18,
+        "changed_rows": 8,
+        "internal_loss": 6.2210009117984955
+      },
+      {
+        "chain": 5,
+        "proposals": 34000,
+        "accepted": 15,
+        "changed_cells": 22,
+        "changed_rows": 10,
+        "internal_loss": 6.221205343768714
+      },
+      {
+        "chain": 5,
+        "proposals": 36000,
+        "accepted": 15,
+        "changed_cells": 22,
+        "changed_rows": 10,
+        "internal_loss": 6.221205343768714
+      },
+      {
+        "chain": 5,
+        "proposals": 38000,
+        "accepted": 16,
+        "changed_cells": 26,
+        "changed_rows": 12,
+        "internal_loss": 6.226059271233926
+      },
+      {
+        "chain": 5,
+        "proposals": 40000,
+        "accepted": 16,
+        "changed_cells": 26,
+        "changed_rows": 12,
+        "internal_loss": 6.226059271233926
+      },
+      {
+        "chain": 6,
+        "proposals": 22000,
+        "accepted": 12,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.225477720552532
+      },
+      {
+        "chain": 6,
+        "proposals": 24000,
+        "accepted": 13,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 6.227022199637032
+      },
+      {
+        "chain": 6,
+        "proposals": 26000,
+        "accepted": 14,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.227628045696548
+      },
+      {
+        "chain": 6,
+        "proposals": 28000,
+        "accepted": 14,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.227628045696548
+      },
+      {
+        "chain": 6,
+        "proposals": 30000,
+        "accepted": 14,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.227628045696548
+      },
+      {
+        "chain": 6,
+        "proposals": 32000,
+        "accepted": 14,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.227628045696548
+      },
+      {
+        "chain": 6,
+        "proposals": 34000,
+        "accepted": 14,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.227628045696548
+      },
+      {
+        "chain": 6,
+        "proposals": 36000,
+        "accepted": 14,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.227628045696548
+      },
+      {
+        "chain": 6,
+        "proposals": 38000,
+        "accepted": 15,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.23898071734497
+      },
+      {
+        "chain": 6,
+        "proposals": 40000,
+        "accepted": 17,
+        "changed_cells": 28,
+        "changed_rows": 14,
+        "internal_loss": 6.2452118036188455
+      },
+      {
+        "chain": 7,
+        "proposals": 22000,
+        "accepted": 6,
+        "changed_cells": 18,
+        "changed_rows": 8,
+        "internal_loss": 6.2304374619695
+      },
+      {
+        "chain": 7,
+        "proposals": 24000,
+        "accepted": 6,
+        "changed_cells": 18,
+        "changed_rows": 8,
+        "internal_loss": 6.2304374619695
+      },
+      {
+        "chain": 7,
+        "proposals": 26000,
+        "accepted": 7,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 6.229628305434924
+      },
+      {
+        "chain": 7,
+        "proposals": 28000,
+        "accepted": 7,
+        "changed_cells": 19,
+        "changed_rows": 9,
+        "internal_loss": 6.229628305434924
+      },
+      {
+        "chain": 7,
+        "proposals": 30000,
+        "accepted": 8,
+        "changed_cells": 23,
+        "changed_rows": 11,
+        "internal_loss": 6.231195708235639
+      },
+      {
+        "chain": 7,
+        "proposals": 32000,
+        "accepted": 8,
+        "changed_cells": 23,
+        "changed_rows": 11,
+        "internal_loss": 6.231195708235639
+      },
+      {
+        "chain": 7,
+        "proposals": 34000,
+        "accepted": 11,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.230652865481037
+      },
+      {
+        "chain": 7,
+        "proposals": 36000,
+        "accepted": 11,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.230652865481037
+      },
+      {
+        "chain": 7,
+        "proposals": 38000,
+        "accepted": 11,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.230652865481037
+      },
+      {
+        "chain": 7,
+        "proposals": 40000,
+        "accepted": 11,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.230652865481037
+      },
+      {
+        "chain": 8,
+        "proposals": 22000,
+        "accepted": 8,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.227114175059752
+      },
+      {
+        "chain": 8,
+        "proposals": 24000,
+        "accepted": 10,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.227114175059752
+      },
+      {
+        "chain": 8,
+        "proposals": 26000,
+        "accepted": 10,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.227114175059752
+      },
+      {
+        "chain": 8,
+        "proposals": 28000,
+        "accepted": 11,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.225569695975252
+      },
+      {
+        "chain": 8,
+        "proposals": 30000,
+        "accepted": 11,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.225569695975252
+      },
+      {
+        "chain": 8,
+        "proposals": 32000,
+        "accepted": 11,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.225569695975252
+      },
+      {
+        "chain": 8,
+        "proposals": 34000,
+        "accepted": 11,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.225569695975252
+      },
+      {
+        "chain": 8,
+        "proposals": 36000,
+        "accepted": 13,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.227114175059752
+      },
+      {
+        "chain": 8,
+        "proposals": 38000,
+        "accepted": 13,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.227114175059752
+      },
+      {
+        "chain": 8,
+        "proposals": 40000,
+        "accepted": 13,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.227114175059752
+      },
+      {
+        "chain": 9,
+        "proposals": 22000,
+        "accepted": 4,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.2200633910830865
+      },
+      {
+        "chain": 9,
+        "proposals": 24000,
+        "accepted": 4,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.2200633910830865
+      },
+      {
+        "chain": 9,
+        "proposals": 26000,
+        "accepted": 4,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.2200633910830865
+      },
+      {
+        "chain": 9,
+        "proposals": 28000,
+        "accepted": 5,
+        "changed_cells": 12,
+        "changed_rows": 6,
+        "internal_loss": 6.219771027573429
+      },
+      {
+        "chain": 9,
+        "proposals": 30000,
+        "accepted": 7,
+        "changed_cells": 20,
+        "changed_rows": 10,
+        "internal_loss": 6.21791306593907
+      },
+      {
+        "chain": 9,
+        "proposals": 32000,
+        "accepted": 8,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.219771027573429
+      },
+      {
+        "chain": 9,
+        "proposals": 34000,
+        "accepted": 10,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.219771027573429
+      },
+      {
+        "chain": 9,
+        "proposals": 36000,
+        "accepted": 10,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.219771027573429
+      },
+      {
+        "chain": 9,
+        "proposals": 38000,
+        "accepted": 10,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.219771027573429
+      },
+      {
+        "chain": 9,
+        "proposals": 40000,
+        "accepted": 10,
+        "changed_cells": 16,
+        "changed_rows": 8,
+        "internal_loss": 6.219771027573429
+      }
+    ]
+  }
+]

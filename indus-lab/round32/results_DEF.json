@@ -1,0 +1,87 @@
+{
+  "source": "/home/claude/j-luo93/neurodecipher/data/linear_b-greek.cog",
+  "source_sha256": "0e8099cd9f02c36fc14599d9bc12836489816c0b1d17f471e723b98c978b10fa",
+  "rule_exact_coverage": 0.4820457018498368,
+  "settings": {
+    "steps": 150000,
+    "chains": 4,
+    "T0": 3.0,
+    "T1": 0.05,
+    "k": 0.1
+  },
+  "results": [
+    {
+      "condition": "D",
+      "sign_ids": 373,
+      "text_types": 451,
+      "tokens": 3451,
+      "lexicon_forms": 1432,
+      "token_accuracy": 0.05766444508838018,
+      "type_accuracy": 0.05714285714285714,
+      "freq_baseline": 0.00927267458707621,
+      "best_objective": -11637.922091894157,
+      "true_key_objective": -15091.264460153709,
+      "chain_objectives": [
+        -11897.759129626324,
+        -11857.794223084109,
+        -11637.922091894157,
+        -11743.438539640902
+      ],
+      "chain_accuracies": [
+        0.04027818023761229,
+        0.06490872210953347,
+        0.05766444508838018,
+        0.07707910750507099
+      ]
+    },
+    {
+      "condition": "E",
+      "sign_ids": 70,
+      "text_types": 459,
+      "tokens": 1733,
+      "lexicon_forms": 734,
+      "token_accuracy": 0.5452971725331794,
+      "type_accuracy": 0.423728813559322,
+      "freq_baseline": 0.0,
+      "best_objective": -7948.6558893317415,
+      "true_key_objective": -8440.187837357596,
+      "chain_objectives": [
+        -8154.332125402925,
+        -7948.6558893317415,
+        -8041.3743124991315,
+        -8009.536212351943
+      ],
+      "chain_accuracies": [
+        0.15464512406231967,
+        0.5452971725331794,
+        0.29486439699942296,
+        0.16330063473744952
+      ]
+    },
+    {
+      "condition": "F",
+      "sign_ids": 368,
+      "text_types": 227,
+      "tokens": 1733,
+      "lexicon_forms": 734,
+      "token_accuracy": 0.06578188113098672,
+      "type_accuracy": 0.07650273224043716,
+      "freq_baseline": 0.008655510675129832,
+      "best_objective": -6149.296697227171,
+      "true_key_objective": -8271.882109201826,
+      "chain_objectives": [
+        -6149.296697227171,
+        -6172.340393506262,
+        -6231.422996992799,
+        -6269.037488826343
+      ],
+      "chain_accuracies": [
+        0.06578188113098672,
+        0.0363531448355453,
+        0.03693017888055395,
+        0.031159838430467397
+      ]
+    }
+  ],
+  "verdict": "INFEASIBLE"
+}

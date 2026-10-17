@@ -1,0 +1,431 @@
+script	status	note
+align_m77.py	NOT RUNNABLE	M77 concordance csv
+allographs.py	ran: reproduced	IDENTICAL
+anchors.py	ran: reproduced	IDENTICAL
+anchors_bench.py	NOT RUNNABLE	Monier-Williams mw.txt (+ePSD2 sux_gloss.tsv)
+anchors_full.py	ran: differs	DIFFERS (4 lines differ of 6)
+bench.py	NOT RUNNABLE	Monier-Williams mw.txt (+ePSD2 sux_gloss.tsv)
+build_corpus.py	ran: reproduced	IDENTICAL (data/corpus.tsv, glyphs.tsv; CRLF only)
+build_fairservis.py	not run (writes keys/; bundled input only)	
+cisi.py	NOT RUNNABLE (rebuilds bundled data)	mayig CISI repo; with a bad path it OVERWRITES data/cisi_*.tsv with empty files
+copper.py	ran: reproduced	identical up to line order
+damaged.py	module/helper (runs, no .md)	ran (no published .md)
+descfam.py	module/helper (runs, no .md)	ran (no published .md)
+describe18.py	ran: reproduced	IDENTICAL
+elamite.py	NOT RUNNABLE	Proto-Elamite ATF corpus; runs silently on empty input and writes zeros
+elamite_control.py	NOT RUNNABLE	Elamicon + Hallock + MW + ePSD2
+equation_rebus.py	NOT RUNNABLE	Monier-Williams mw.txt (+ePSD2 sux_gloss.tsv)
+export_bench.py	NOT RUNNABLE	Monier-Williams mw.txt (+ePSD2 sux_gloss.tsv)
+famlm.py	module/helper (runs, no .md)	ran (no published .md)
+fish_star_world.py	NOT RUNNABLE	CLICS4
+fit_holdout.py	NOT RUNNABLE	Monier-Williams mw.txt (+ePSD2 sux_gloss.tsv)
+graffiti.py	module/helper (runs, no .md)	ran (no published .md)
+grammar.py	module/helper (runs, no .md)	ran (no published .md)
+grammar_model.py	ran: differs	DIFFERS (10 lines differ of 14)
+gulf.py	ran: differs	DIFFERS (12 lines differ of 19)
+icit_full.py	module/helper (runs, no .md)	ran (no published .md)
+keyfit.py	module/helper (runs, no .md)	ran (no published .md)
+lang_control.py	NOT RUNNABLE	Monier-Williams mw.txt (+ePSD2 sux_gloss.tsv)
+lang_names.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+lbench.py	module/helper (runs, no .md)	ran (no published .md)
+leads.py	ran: differs	DIFFERS (2 lines differ of 49)
+linb_control.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+lmkey.py	module/helper (runs, no .md)	ran (no published .md)
+m77_checks.py	NOT RUNNABLE	M77 concordance csv
+m77_gaps.py	NOT RUNNABLE	M77 concordance csv
+matched_holdout.py	NOT RUNNABLE	Monier-Williams mw.txt (+ePSD2 sux_gloss.tsv)
+meluhha.py	ran: reproduced	IDENTICAL
+meluhha_oracc.py	NOT RUNNABLE	ORACC Meluhha csv
+merge_m77.py	NOT RUNNABLE	M77 concordance csv
+motif_checks.py	ran: reproduced	IDENTICAL
+name_classes.py	ran: reproduced	IDENTICAL
+nnlm.py	NOT RUNNABLE	PyTorch
+noun_class.py	ran: reproduced	IDENTICAL
+numerals.py	ran: reproduced	IDENTICAL
+parpola_checks.py	ran: reproduced	IDENTICAL
+pe_formula.py	NOT RUNNABLE	Proto-Elamite ATF corpus (CDLI)
+periods.py	ran: reproduced	IDENTICAL
+predict_test.py	ran: reproduced	identical up to line order
+predict_test10.py	ran: differs	DIFFERS (6 lines differ of 16)
+predict_test100.py	runnable (inputs load; not finished in budget)	timeout(60s)
+predict_test101.py	ran: differs	DIFFERS (10 lines differ of 88)
+predict_test102.py	runnable (inputs load; not finished in budget)	timeout(60s)
+predict_test103.py	ran: differs	DIFFERS (4 lines differ of 88)
+predict_test104.py	ran: differs	DIFFERS (8 lines differ of 88)
+predict_test105.py	ran: differs	DIFFERS (4 lines differ of 88)
+predict_test106.py	ran: differs	DIFFERS (10 lines differ of 88)
+predict_test107.py	ran: differs	DIFFERS (20 lines differ of 88)
+predict_test108.py	runnable (inputs load; not finished in budget)	timeout(60s)
+predict_test109.py	ran: reproduced	IDENTICAL
+predict_test11.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test110.py	ran: differs	DIFFERS (12 lines differ of 88)
+predict_test111.py	ran: differs	DIFFERS (4 lines differ of 88)
+predict_test112.py	ran: differs	DIFFERS (2 lines differ of 88)
+predict_test113.py	ran: differs	DIFFERS (26 lines differ of 88)
+predict_test114.py	ran: differs	DIFFERS (6 lines differ of 88)
+predict_test115.py	ran: differs	DIFFERS (10 lines differ of 88)
+predict_test116.py	ran: differs	DIFFERS (14 lines differ of 88)
+predict_test117.py	ran: differs	DIFFERS (6 lines differ of 69)
+predict_test118.py	ran: reproduced	IDENTICAL
+predict_test119.py	ran: reproduced	IDENTICAL
+predict_test12.py	ran: differs	DIFFERS (8 lines differ of 16)
+predict_test120.py	ran: reproduced	IDENTICAL
+predict_test121.py	ran: reproduced	IDENTICAL
+predict_test122.py	ran: differs	DIFFERS (2 lines differ of 68)
+predict_test123.py	ran: differs	DIFFERS (4 lines differ of 56)
+predict_test124.py	ran: differs	DIFFERS (2 lines differ of 48)
+predict_test125.py	ran: differs	DIFFERS (4 lines differ of 48)
+predict_test126.py	ran: differs	DIFFERS (4 lines differ of 44)
+predict_test127.py	runnable (inputs load; not finished in budget)	timeout(60s)
+predict_test128.py	runnable (inputs load; not finished in budget)	timeout(60s)
+predict_test129.py	ran: reproduced	IDENTICAL
+predict_test13.py	runnable (inputs load; not finished in budget)	timeout(60s)
+predict_test130.py	runnable (inputs load; not finished in budget)	timeout(60s)
+predict_test131.py	runnable (inputs load; not finished in budget)	timeout(60s)
+predict_test132.py	ran: reproduced	IDENTICAL
+predict_test133.py	ran: reproduced	IDENTICAL
+predict_test134.py	ran: differs	DIFFERS (6 lines differ of 46)
+predict_test135.py	ran: differs	DIFFERS (14 lines differ of 48)
+predict_test136.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test137.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test138.py	ran: differs	DIFFERS (2 lines differ of 48)
+predict_test139.py	ran: reproduced	IDENTICAL
+predict_test14.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test140.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test141.py	ran: reproduced	IDENTICAL
+predict_test142.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test143.py	ran: reproduced	IDENTICAL
+predict_test144.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test145.py	ran: differs	DIFFERS (2 lines differ of 40)
+predict_test146.py	runnable (inputs load; not finished in budget)	timeout(100s)
+predict_test147.py	ran: reproduced	IDENTICAL
+predict_test148.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test149.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test15.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test150.py	ran: reproduced	IDENTICAL
+predict_test151.py	ran: reproduced	IDENTICAL
+predict_test152.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test153.py	ran: reproduced	IDENTICAL
+predict_test154.py	ran: reproduced	IDENTICAL
+predict_test155.py	ran: reproduced	IDENTICAL
+predict_test156.py	ran: differs	DIFFERS (2 lines differ of 22)
+predict_test157.py	ran: differs	DIFFERS (4 lines differ of 41)
+predict_test158.py	ran: reproduced	IDENTICAL
+predict_test159.py	ran: reproduced	IDENTICAL
+predict_test16.py	NOT RUNNABLE	Linear B (DAMOS) 3rd arg
+predict_test160.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test161.py	ran: differs	DIFFERS (2 lines differ of 49)
+predict_test162.py	ran: reproduced	IDENTICAL
+predict_test163.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test164.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test165.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test166.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test167.py	ran: differs	DIFFERS (10 lines differ of 46)
+predict_test168.py	NOT RUNNABLE	M77 concordance csv
+predict_test169.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test17.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test170.py	ran: differs	DIFFERS (4 lines differ of 46)
+predict_test171.py	NOT RUNNABLE	LANG_DATA (MW/ePSD2/ORACC/name lists)
+predict_test172.py	NOT RUNNABLE	LANG_DATA (MW/ePSD2/ORACC/name lists)
+predict_test173.py	NOT RUNNABLE	LANG_DATA (MW/ePSD2/ORACC/name lists)
+predict_test174.py	NOT RUNNABLE	LANG_DATA name lists (DHARMA)
+predict_test175.py	NOT RUNNABLE	LANG_DATA (MW/ePSD2/ORACC/name lists)
+predict_test176.py	ran: differs	DIFFERS (2 lines differ of 40)
+predict_test177.py	ran: differs	DIFFERS (2 lines differ of 38)
+predict_test178.py	ran: reproduced	IDENTICAL
+predict_test179.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test18.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test180.py	NOT RUNNABLE	LANG_DATA (MW/ePSD2/ORACC/name lists)
+predict_test181.py	NOT RUNNABLE	CLICS4
+predict_test182.py	ran: reproduced	IDENTICAL
+predict_test183.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test184.py	ran: reproduced	IDENTICAL
+predict_test185.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test186.py	ran: reproduced	IDENTICAL
+predict_test187.py	ran: reproduced	IDENTICAL
+predict_test188.py	NOT RUNNABLE	none - code rot (progress.MODEL now has trik)
+predict_test189.py	ran: reproduced	IDENTICAL
+predict_test19.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test190.py	ran: reproduced	IDENTICAL
+predict_test191.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test192.py	ran: differs	DIFFERS (4 lines differ of 37)
+predict_test193.py	ran: differs	DIFFERS (4 lines differ of 32)
+predict_test194.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test195.py	ran: reproduced	IDENTICAL
+predict_test196.py	ran: differs	DIFFERS (2 lines differ of 41)
+predict_test197.py	NOT RUNNABLE	LANG_DATA (MW/ePSD2/ORACC/name lists)
+predict_test198.py	NOT RUNNABLE	Monier-Williams mw.txt (+ePSD2 sux_gloss.tsv)
+predict_test199.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test2.py	ran: differs	DIFFERS (6 lines differ of 16)
+predict_test20.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test200.py	ran: differs	DIFFERS (2 lines differ of 34)
+predict_test201.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test202.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test203.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test204.py	NOT RUNNABLE	LANG_DATA (MW/ePSD2/ORACC/name lists)
+predict_test205.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test206.py	NOT RUNNABLE	Monier-Williams mw.txt (+ePSD2 sux_gloss.tsv)
+predict_test207.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test208.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test209.py	ran: reproduced	IDENTICAL
+predict_test21.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test210.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test211.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test212.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test213.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test214.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test215.py	ran: reproduced	IDENTICAL
+predict_test216.py	ran: differs	DIFFERS (2 lines differ of 24)
+predict_test217.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test218.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test219.py	ran: reproduced	IDENTICAL
+predict_test22.py	NOT RUNNABLE	Linear B (DAMOS) 3rd arg
+predict_test220.py	ran: reproduced	IDENTICAL
+predict_test221.py	ran: differs	DIFFERS (2 lines differ of 24)
+predict_test222.py	ran: differs	DIFFERS (2 lines differ of 24)
+predict_test223.py	ran: reproduced	IDENTICAL
+predict_test224.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test225.py	ran: differs	DIFFERS (6 lines differ of 20)
+predict_test226.py	ran: reproduced	IDENTICAL
+predict_test227.py	ran: differs	DIFFERS (14 lines differ of 28)
+predict_test228.py	ran: differs	DIFFERS (6 lines differ of 26)
+predict_test229.py	ran: reproduced	IDENTICAL
+predict_test23.py	ran: reproduced	IDENTICAL
+predict_test230.py	ran: reproduced	IDENTICAL
+predict_test231.py	ran: differs	DIFFERS (2 lines differ of 18)
+predict_test232.py	ran: reproduced	IDENTICAL
+predict_test233.py	ran: reproduced	IDENTICAL
+predict_test234.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test235.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test236.py	ran: reproduced	IDENTICAL
+predict_test237.py	ran: differs	DIFFERS (4 lines differ of 24)
+predict_test238.py	ran: reproduced	IDENTICAL
+predict_test239.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test24.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test240.py	ran: differs	DIFFERS (4 lines differ of 18)
+predict_test241.py	ran: differs	DIFFERS (4 lines differ of 22)
+predict_test242.py	ran: differs	DIFFERS (4 lines differ of 18)
+predict_test243.py	ran: differs	DIFFERS (4 lines differ of 20)
+predict_test244.py	ran: differs	DIFFERS (2 lines differ of 18)
+predict_test245.py	ran: differs	DIFFERS (2 lines differ of 14)
+predict_test246.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test247.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test248.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test249.py	ran: reproduced	IDENTICAL
+predict_test25.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test250.py	ran: differs	DIFFERS (2 lines differ of 18)
+predict_test251.py	ran: differs	DIFFERS (2 lines differ of 18)
+predict_test252.py	ran: reproduced	IDENTICAL
+predict_test253.py	ran: differs	DIFFERS (8 lines differ of 32)
+predict_test254.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test255.py	ran: reproduced	IDENTICAL
+predict_test256.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test257.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test258.py	ran: reproduced	IDENTICAL
+predict_test259.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test26.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test260.py	ran: reproduced	IDENTICAL
+predict_test261.py	ran: reproduced	IDENTICAL
+predict_test262.py	ran: differs	DIFFERS (2 lines differ of 24)
+predict_test263.py	ran: reproduced	IDENTICAL
+predict_test264.py	ran: reproduced	IDENTICAL
+predict_test265.py	ran: reproduced	IDENTICAL
+predict_test266.py	ran: reproduced	IDENTICAL
+predict_test267.py	ran: reproduced	IDENTICAL
+predict_test268.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test269.py	ran: reproduced	IDENTICAL
+predict_test27.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test270.py	ran: reproduced	IDENTICAL
+predict_test271.py	ran: reproduced	IDENTICAL
+predict_test272.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test273.py	ran: reproduced	IDENTICAL
+predict_test274.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test275.py	ran: reproduced	IDENTICAL
+predict_test276.py	ran: reproduced	IDENTICAL
+predict_test277.py	ran: reproduced	IDENTICAL
+predict_test278.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test279.py	ran: reproduced	IDENTICAL
+predict_test28.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test280.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test281.py	ran: reproduced	IDENTICAL
+predict_test282.py	ran: differs	DIFFERS (7 lines differ of 47)
+predict_test283.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test284.py	NOT RUNNABLE	M77 concordance csv
+predict_test285.py	ran: reproduced	IDENTICAL
+predict_test286.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test287.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test288.py	ran: reproduced	IDENTICAL
+predict_test289.py	ran: reproduced	IDENTICAL
+predict_test29.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test290.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test291.py	ran: differs	DIFFERS (10 lines differ of 25)
+predict_test292.py	ran: reproduced	IDENTICAL
+predict_test293.py	ran: reproduced	IDENTICAL
+predict_test294.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test295.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test296.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test297.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test298.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test299.py	ran: differs	DIFFERS (7 lines differ of 30)
+predict_test3.py	ran: differs	DIFFERS (4 lines differ of 12)
+predict_test30.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test300.py	ran: reproduced	IDENTICAL
+predict_test301.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test302.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test303.py	ran: reproduced	IDENTICAL
+predict_test304.py	ran: reproduced	IDENTICAL
+predict_test305.py	ran: reproduced	IDENTICAL
+predict_test306.py	ran: reproduced	IDENTICAL
+predict_test307.py	ran: reproduced	IDENTICAL
+predict_test308.py	ran: reproduced	IDENTICAL
+predict_test309.py	ran: reproduced	IDENTICAL
+predict_test31.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test310.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+predict_test311.py	ran: differs	DIFFERS (8 lines differ of 22)
+predict_test312.py	ran: reproduced	IDENTICAL
+predict_test313.py	ran: reproduced	IDENTICAL
+predict_test314.py	NOT RUNNABLE	M77 concordance csv
+predict_test315.py	ran: reproduced	identical up to line order
+predict_test316.py	ran: differs	DIFFERS (5 lines differ of 28)
+predict_test317.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test318.py	ran: reproduced	IDENTICAL
+predict_test319.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test32.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test320.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test321.py	ran: reproduced	IDENTICAL
+predict_test322.py	ran: reproduced	IDENTICAL
+predict_test323.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test324.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test325.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test326.py	ran: reproduced	IDENTICAL
+predict_test327.py	ran: reproduced	IDENTICAL
+predict_test328.py	ran: reproduced	IDENTICAL
+predict_test329.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test33.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test330.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test331.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test332.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test333.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test334.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test335.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test336.py	ran: reproduced	IDENTICAL
+predict_test337.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test338.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test339.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test34.py	ran: reproduced	IDENTICAL
+predict_test340.py	ran: differs	DIFFERS (4 lines differ of 20)
+predict_test341.py	ran: reproduced	IDENTICAL
+predict_test342.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test343.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test344.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test345.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test346.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test347.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test348.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test349.py	ran: differs	DIFFERS (4 lines differ of 20)
+predict_test35.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test350.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test36.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test37.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test38.py	ran: differs	DIFFERS (6 lines differ of 48)
+predict_test39.py	ran: reproduced	IDENTICAL
+predict_test4.py	ran: reproduced	IDENTICAL
+predict_test40.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test41.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test42.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test43.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test44.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test45.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test46.py	ran: differs	DIFFERS (10 lines differ of 48)
+predict_test47.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test48.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test49.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test5.py	ran: reproduced	IDENTICAL
+predict_test50.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test51.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test52.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test53.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test54.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test55.py	ran: reproduced	IDENTICAL
+predict_test56.py	ran: differs	DIFFERS (10 lines differ of 48)
+predict_test57.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test58.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test59.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test6.py	ran: reproduced	IDENTICAL
+predict_test60.py	ran: differs	DIFFERS (2 lines differ of 48)
+predict_test61.py	ran: reproduced	IDENTICAL
+predict_test62.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test63.py	ran: reproduced	IDENTICAL
+predict_test64.py	ran: differs	DIFFERS (6 lines differ of 48)
+predict_test65.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test66.py	ran: differs	DIFFERS (2 lines differ of 46)
+predict_test67.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test68.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test69.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test7.py	ran: differs	DIFFERS (2 lines differ of 30)
+predict_test70.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test71.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test72.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test73.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test74.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test75.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test76.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test77.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test78.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test79.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test8.py	ran: differs	DIFFERS (9 lines differ of 34)
+predict_test80.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test81.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test82.py	ran: differs	DIFFERS (6 lines differ of 88)
+predict_test83.py	ran: differs	DIFFERS (10 lines differ of 88)
+predict_test84.py	ran: reproduced	IDENTICAL
+predict_test85.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test86.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test87.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test88.py	ran: differs	DIFFERS (6 lines differ of 88)
+predict_test89.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test9.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test90.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test91.py	ran: differs	DIFFERS (2 lines differ of 88)
+predict_test92.py	ran: reproduced	IDENTICAL
+predict_test93.py	ran: differs	DIFFERS (6 lines differ of 88)
+predict_test94.py	ran: differs	DIFFERS (6 lines differ of 88)
+predict_test95.py	ran: differs	DIFFERS (6 lines differ of 88)
+predict_test96.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test97.py	runnable (inputs load; not finished in budget)	timeout(12s)
+predict_test98.py	ran: differs	DIFFERS (6 lines differ of 88)
+predict_test99.py	runnable (inputs load; not finished in budget)	timeout(12s)
+prizebench.py	module/helper (runs, no .md)	ran (no published .md)
+progress.py	runnable (inputs load; not finished in budget)	timeout(12s)
+readable.py	ran: differs	DIFFERS (14 lines differ of 27)
+rebus_checks.py	NOT RUNNABLE	M77 concordance csv
+referents.py	module/helper (runs, no .md)	ran (no published .md)
+render_glyphs.py	NOT RUNNABLE	arial.ttf (Windows font)
+render_texts.py	NOT RUNNABLE	arial.ttf (Windows font)
+replicate_full.py	ran: differs	DIFFERS (14 lines differ of 25)
+replicate_m77.py	NOT RUNNABLE	Monier-Williams mw.txt (+ePSD2 sux_gloss.tsv)
+restore.py	runnable (inputs load; not finished in budget)	timeout(12s)
+robust13.py	ran: differs	DIFFERS (4 lines differ of 12)
+robust15.py	ran: reproduced	IDENTICAL
+robust16.py	ran: reproduced	IDENTICAL
+robust17.py	ran: differs	DIFFERS (4 lines differ of 10)
+robust20.py	ran: reproduced	IDENTICAL
+rtools.py	module/helper (runs, no .md)	ran (no published .md)
+sanskrit_key_test.py	NOT RUNNABLE	Yajnadevam xlits.csv
+segment.py	runnable (inputs load; not finished in budget)	timeout(12s)
+seventh.py	runnable (inputs load; not finished in budget)	timeout(12s)
+sign_list.py	ran: differs	DIFFERS (2 lines differ of 16)
+signs.py	module/helper (runs, no .md)	ran (no published .md)
+sixth.py	ran: reproduced	IDENTICAL
+slots.py	ran: reproduced	IDENTICAL
+sound_shortlist.py	NOT RUNNABLE	Linear B DAMOS/Tiripode
+sound_tests.py	ran: reproduced	IDENTICAL
+structure.py	ran: reproduced	IDENTICAL
+substrate.py	NOT RUNNABLE	Monier-Williams mw.txt (+ePSD2 sux_gloss.tsv)
+tablets.py	ran: differs	DIFFERS (4 lines differ of 36)
+tamil_brahmi.py	NOT RUNNABLE	Tamil-Brahmi ete.txt
+tamil_stars.py	runnable (inputs load; not finished in budget)	timeout(12s)
+typology.py	ran: reproduced	IDENTICAL
+ur3_seals.py	NOT RUNNABLE	ORACC epsd2-admin-ur3.zip
+weights.py	NOT RUNNABLE	Marshall/Mackay/Vats weight CSVs
+wells_test.py	NOT RUNNABLE	M77 concordance csv

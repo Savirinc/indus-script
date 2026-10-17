@@ -1,0 +1,7963 @@
+[
+  {
+    "sign_a": "817",
+    "sign_b": "861",
+    "contexts": 10,
+    "examples": [
+      {
+        "position": 1,
+        "left": "817 2 3 390",
+        "right": "861 2 3 390"
+      },
+      {
+        "position": 1,
+        "left": "817 2 176 740",
+        "right": "861 2 176 740"
+      },
+      {
+        "position": 1,
+        "left": "817 2 235 840 32 740",
+        "right": "861 2 235 840 32 740"
+      },
+      {
+        "position": 1,
+        "left": "817 2 240 415 100 740 90",
+        "right": "861 2 240 415 100 740 90"
+      },
+      {
+        "position": 1,
+        "left": "817 2 255 435 690 740",
+        "right": "861 2 255 435 690 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "817",
+    "sign_b": "820",
+    "contexts": 8,
+    "examples": [
+      {
+        "position": 1,
+        "left": "817 2 3 390",
+        "right": "820 2 3 390"
+      },
+      {
+        "position": 1,
+        "left": "817 2 17 585 740",
+        "right": "820 2 17 585 740"
+      },
+      {
+        "position": 1,
+        "left": "817 2 222 740",
+        "right": "820 2 222 740"
+      },
+      {
+        "position": 1,
+        "left": "817 2 231 520",
+        "right": "820 2 231 520"
+      },
+      {
+        "position": 1,
+        "left": "817 2 4 390",
+        "right": "820 2 4 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "233",
+    "sign_b": "235",
+    "contexts": 7,
+    "examples": [
+      {
+        "position": 1,
+        "left": "233 176 740",
+        "right": "235 176 740"
+      },
+      {
+        "position": 1,
+        "left": "233 32 877 740",
+        "right": "235 32 877 740"
+      },
+      {
+        "position": 1,
+        "left": "233 550 527",
+        "right": "235 550 527"
+      },
+      {
+        "position": 1,
+        "left": "233 798 740",
+        "right": "235 798 740"
+      },
+      {
+        "position": 1,
+        "left": "233 803 740",
+        "right": "235 803 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "390",
+    "sign_b": "405",
+    "contexts": 6,
+    "examples": [
+      {
+        "position": 3,
+        "left": "104 4 390",
+        "right": "104 4 405"
+      },
+      {
+        "position": 3,
+        "left": "235 590 390 740",
+        "right": "235 590 405 740"
+      },
+      {
+        "position": 4,
+        "left": "3 220 590 390 740",
+        "right": "3 220 590 405 740"
+      },
+      {
+        "position": 2,
+        "left": "590 390 740",
+        "right": "590 405 740"
+      },
+      {
+        "position": 4,
+        "left": "861 2 16 390",
+        "right": "861 2 16 405"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "240",
+    "contexts": 6,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 176 740 400",
+        "right": "240 176 740 400"
+      },
+      {
+        "position": 1,
+        "left": "235 415 220 520",
+        "right": "240 415 220 520"
+      },
+      {
+        "position": 1,
+        "left": "235 590 390 740",
+        "right": "240 590 390 740"
+      },
+      {
+        "position": 1,
+        "left": "235 772 740",
+        "right": "240 772 740"
+      },
+      {
+        "position": 2,
+        "left": "806 235 520",
+        "right": "806 240 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "820",
+    "sign_b": "861",
+    "contexts": 6,
+    "examples": [
+      {
+        "position": 1,
+        "left": "820 2 3 390",
+        "right": "861 2 3 390"
+      },
+      {
+        "position": 1,
+        "left": "820 2 4 390",
+        "right": "861 2 4 390"
+      },
+      {
+        "position": 1,
+        "left": "820 2 415 100 740",
+        "right": "861 2 415 100 740"
+      },
+      {
+        "position": 1,
+        "left": "820 2 590 390 740",
+        "right": "861 2 590 390 740"
+      },
+      {
+        "position": 1,
+        "left": "820 2 236",
+        "right": "861 2 236"
+      }
+    ]
+  },
+  {
+    "sign_a": "705",
+    "sign_b": "706",
+    "contexts": 5,
+    "examples": [
+      {
+        "position": 2,
+        "left": "31 705 33 520",
+        "right": "31 706 33 520"
+      },
+      {
+        "position": 1,
+        "left": "705 33 520",
+        "right": "706 33 520"
+      },
+      {
+        "position": 2,
+        "left": "590 705 868",
+        "right": "590 706 868"
+      },
+      {
+        "position": 1,
+        "left": "705 33 923 740 1",
+        "right": "706 33 923 740 1"
+      },
+      {
+        "position": 1,
+        "left": "705 717 388 154",
+        "right": "706 717 388 154"
+      }
+    ]
+  },
+  {
+    "sign_a": "151",
+    "sign_b": "740",
+    "contexts": 4,
+    "examples": [
+      {
+        "position": 3,
+        "left": "220 100 151",
+        "right": "220 100 740"
+      },
+      {
+        "position": 3,
+        "left": "416 840 151",
+        "right": "416 840 740"
+      },
+      {
+        "position": 3,
+        "left": "590 390 151",
+        "right": "590 390 740"
+      },
+      {
+        "position": 4,
+        "left": "861 2 176 151",
+        "right": "861 2 176 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "923",
+    "contexts": 4,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 176 740",
+        "right": "233 923 740"
+      },
+      {
+        "position": 2,
+        "left": "235 176 740",
+        "right": "235 923 740"
+      },
+      {
+        "position": 3,
+        "left": "32 220 176 740",
+        "right": "32 220 923 740"
+      },
+      {
+        "position": 4,
+        "left": "817 2 240 176 740",
+        "right": "817 2 240 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "4",
+    "contexts": 4,
+    "examples": [
+      {
+        "position": 2,
+        "left": "491 3 390",
+        "right": "491 4 390"
+      },
+      {
+        "position": 3,
+        "left": "817 2 3 390",
+        "right": "817 2 4 390"
+      },
+      {
+        "position": 3,
+        "left": "820 2 3 390",
+        "right": "820 2 4 390"
+      },
+      {
+        "position": 3,
+        "left": "861 2 3 390",
+        "right": "861 2 4 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "176",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 2,
+        "left": "140 176 740 400",
+        "right": "140 61 740 400"
+      },
+      {
+        "position": 3,
+        "left": "817 2 176 740",
+        "right": "817 2 61 740"
+      },
+      {
+        "position": 3,
+        "left": "861 2 176 151",
+        "right": "861 2 61 151"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "803",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "803 740 400"
+      },
+      {
+        "position": 2,
+        "left": "233 176 740",
+        "right": "233 803 740"
+      },
+      {
+        "position": 2,
+        "left": "235 176 740",
+        "right": "235 803 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "415",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 100 740",
+        "right": "415 100 740"
+      },
+      {
+        "position": 2,
+        "left": "235 240 220 520",
+        "right": "235 415 220 520"
+      },
+      {
+        "position": 1,
+        "left": "240 100 740 400",
+        "right": "415 100 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "231",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 17 585 95 520 32 407",
+        "right": "231 17 585 95 520 32 407"
+      },
+      {
+        "position": 2,
+        "left": "3 220 740",
+        "right": "3 231 740"
+      },
+      {
+        "position": 3,
+        "left": "820 60 220 798 740",
+        "right": "820 60 231 798 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "235",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 240 740 90",
+        "right": "31 240 740 90"
+      },
+      {
+        "position": 1,
+        "left": "235 176 740",
+        "right": "31 176 740"
+      },
+      {
+        "position": 1,
+        "left": "235 388 740",
+        "right": "31 388 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "772",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 176 740",
+        "right": "235 772 740"
+      },
+      {
+        "position": 3,
+        "left": "817 2 176 740",
+        "right": "817 2 772 740"
+      },
+      {
+        "position": 3,
+        "left": "861 2 176 740",
+        "right": "861 2 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "904",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 4,
+        "left": "235 705 33 176 740",
+        "right": "235 705 33 904 740"
+      },
+      {
+        "position": 2,
+        "left": "240 176 740 400",
+        "right": "240 904 740 400"
+      },
+      {
+        "position": 4,
+        "left": "817 2 240 176 740",
+        "right": "817 2 240 904 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "390",
+    "sign_b": "407",
+    "contexts": 3,
+    "examples": [
+      {
+        "position": 2,
+        "left": "590 390 740",
+        "right": "590 407 740"
+      },
+      {
+        "position": 4,
+        "left": "820 2 4 390",
+        "right": "820 2 4 407"
+      },
+      {
+        "position": 4,
+        "left": "861 2 4 390",
+        "right": "861 2 4 407"
+      }
+    ]
+  },
+  {
+    "sign_a": "25",
+    "sign_b": "28",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "25 32 740 400",
+        "right": "28 32 740 400"
+      },
+      {
+        "position": 1,
+        "left": "25 32 740",
+        "right": "28 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "25",
+    "sign_b": "59",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "25 32 740 400",
+        "right": "59 32 740 400"
+      },
+      {
+        "position": 1,
+        "left": "25 32 740",
+        "right": "59 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "25",
+    "sign_b": "840",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "25 32 740 400",
+        "right": "840 32 740 400"
+      },
+      {
+        "position": 1,
+        "left": "25 32 740",
+        "right": "840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "28",
+    "sign_b": "59",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "28 32 740 400",
+        "right": "59 32 740 400"
+      },
+      {
+        "position": 1,
+        "left": "28 32 740",
+        "right": "59 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "28",
+    "sign_b": "840",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "28 32 740 400",
+        "right": "840 32 740 400"
+      },
+      {
+        "position": 1,
+        "left": "28 32 740",
+        "right": "840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "59",
+    "sign_b": "840",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "59 32 740 400",
+        "right": "840 32 740 400"
+      },
+      {
+        "position": 1,
+        "left": "59 32 740",
+        "right": "840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "220",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "220 740 400"
+      },
+      {
+        "position": 1,
+        "left": "176 100 740",
+        "right": "220 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "440",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "440 740 400"
+      },
+      {
+        "position": 1,
+        "left": "176 100 740",
+        "right": "440 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "637",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "637 740 400"
+      },
+      {
+        "position": 2,
+        "left": "240 176 740 400",
+        "right": "240 637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "717",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "717 740 400"
+      },
+      {
+        "position": 1,
+        "left": "176 100 740",
+        "right": "717 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "440",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "440 740 400"
+      },
+      {
+        "position": 1,
+        "left": "220 100 740",
+        "right": "440 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "717",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "717 740 400"
+      },
+      {
+        "position": 1,
+        "left": "220 100 740",
+        "right": "717 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "803",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "803 740 400"
+      },
+      {
+        "position": 1,
+        "left": "220 840 32 740",
+        "right": "803 840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "382",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 740 400",
+        "right": "382 740 400"
+      },
+      {
+        "position": 1,
+        "left": "32 760 740",
+        "right": "382 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "440",
+    "sign_b": "717",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "440 740 400",
+        "right": "717 740 400"
+      },
+      {
+        "position": 1,
+        "left": "440 100 740",
+        "right": "717 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "440",
+    "sign_b": "803",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "440 740 400",
+        "right": "803 740 400"
+      },
+      {
+        "position": 4,
+        "left": "692 60 231 440 740",
+        "right": "692 60 231 803 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "803",
+    "sign_b": "861",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "803 740 400",
+        "right": "861 740 400"
+      },
+      {
+        "position": 1,
+        "left": "803 2 3 390",
+        "right": "861 2 3 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "575",
+    "sign_b": "585",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "17 575 740",
+        "right": "17 585 740"
+      },
+      {
+        "position": 4,
+        "left": "820 2 17 575 740",
+        "right": "820 2 17 585 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "240",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 100 740",
+        "right": "240 100 740"
+      },
+      {
+        "position": 1,
+        "left": "176 705 33 520",
+        "right": "240 705 33 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "176",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 100 740",
+        "right": "31 100 740"
+      },
+      {
+        "position": 1,
+        "left": "176 705 33 520",
+        "right": "31 705 33 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "240",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 100 740",
+        "right": "240 100 740"
+      },
+      {
+        "position": 1,
+        "left": "220 705 33 550 525 400",
+        "right": "240 705 33 550 525 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "220",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 100 740",
+        "right": "31 100 740"
+      },
+      {
+        "position": 1,
+        "left": "220 240 740 90",
+        "right": "31 240 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "240",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 100 740",
+        "right": "31 100 740"
+      },
+      {
+        "position": 1,
+        "left": "240 705 33 520",
+        "right": "31 705 33 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "803",
+    "sign_b": "820",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "803 840 32 740",
+        "right": "820 840 32 740"
+      },
+      {
+        "position": 1,
+        "left": "803 2 3 390",
+        "right": "820 2 3 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "233",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 236 400",
+        "right": "233 236 400"
+      },
+      {
+        "position": 2,
+        "left": "235 220 222 740",
+        "right": "235 233 222 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "235",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 240 740 90",
+        "right": "235 240 740 90"
+      },
+      {
+        "position": 3,
+        "left": "861 2 220 840 32 740",
+        "right": "861 2 235 840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "231",
+    "sign_b": "233",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "231 255 435 690 740",
+        "right": "233 255 435 690 740"
+      },
+      {
+        "position": 2,
+        "left": "806 231 176 740",
+        "right": "806 233 176 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "233",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "233 176 740",
+        "right": "31 176 740"
+      },
+      {
+        "position": 1,
+        "left": "233 706 33 520",
+        "right": "31 706 33 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "798",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 176 740",
+        "right": "233 798 740"
+      },
+      {
+        "position": 2,
+        "left": "235 176 740",
+        "right": "235 798 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "798",
+    "sign_b": "803",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 798 740",
+        "right": "233 803 740"
+      },
+      {
+        "position": 2,
+        "left": "235 798 740",
+        "right": "235 803 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "798",
+    "sign_b": "923",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 798 740",
+        "right": "233 923 740"
+      },
+      {
+        "position": 2,
+        "left": "235 798 740",
+        "right": "235 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "803",
+    "sign_b": "923",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 803 740",
+        "right": "233 923 740"
+      },
+      {
+        "position": 2,
+        "left": "235 803 740",
+        "right": "235 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "233",
+    "sign_b": "806",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "233 706 33 520",
+        "right": "806 706 33 520"
+      },
+      {
+        "position": 1,
+        "left": "233 923 740",
+        "right": "806 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "806",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 923 740",
+        "right": "806 923 740"
+      },
+      {
+        "position": 1,
+        "left": "235 240 520",
+        "right": "806 240 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "838",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 923 740",
+        "right": "838 923 740"
+      },
+      {
+        "position": 1,
+        "left": "235 482 740",
+        "right": "838 482 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "803",
+    "sign_b": "806",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "803 923 740",
+        "right": "806 923 740"
+      },
+      {
+        "position": 1,
+        "left": "803 233 176 740",
+        "right": "806 233 176 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "388",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 176 740",
+        "right": "235 388 740"
+      },
+      {
+        "position": 2,
+        "left": "31 176 740",
+        "right": "31 388 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "388",
+    "sign_b": "482",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 388 740",
+        "right": "235 482 740"
+      },
+      {
+        "position": 3,
+        "left": "820 2 388 740",
+        "right": "820 2 482 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "482",
+    "sign_b": "923",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 482 740",
+        "right": "235 923 740"
+      },
+      {
+        "position": 2,
+        "left": "838 482 740",
+        "right": "838 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "222",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 3,
+        "left": "235 220 176 740",
+        "right": "235 220 222 740"
+      },
+      {
+        "position": 3,
+        "left": "817 2 176 740",
+        "right": "817 2 222 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "526",
+    "sign_b": "527",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 3,
+        "left": "235 555 526",
+        "right": "235 555 527"
+      },
+      {
+        "position": 5,
+        "left": "861 2 235 555 526",
+        "right": "861 2 235 555 527"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "636",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 100 740",
+        "right": "240 636 740"
+      },
+      {
+        "position": 2,
+        "left": "240 100 740 400",
+        "right": "240 636 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "904",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 100 740",
+        "right": "240 904 740"
+      },
+      {
+        "position": 2,
+        "left": "240 100 740 400",
+        "right": "240 904 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "636",
+    "sign_b": "904",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 636 740",
+        "right": "240 904 740"
+      },
+      {
+        "position": 2,
+        "left": "240 636 740 400",
+        "right": "240 904 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "760",
+    "sign_b": "772",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 760 740",
+        "right": "240 772 740"
+      },
+      {
+        "position": 3,
+        "left": "817 2 760 740",
+        "right": "817 2 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "176",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 100 740 400",
+        "right": "240 176 740 400"
+      },
+      {
+        "position": 2,
+        "left": "31 100 740",
+        "right": "31 176 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "384",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "31 176 740",
+        "right": "31 384 740"
+      },
+      {
+        "position": 3,
+        "left": "806 233 176 740",
+        "right": "806 233 384 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "4",
+    "sign_b": "5",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 1,
+        "left": "4 900 740",
+        "right": "5 900 740"
+      },
+      {
+        "position": 3,
+        "left": "817 2 4 390",
+        "right": "817 2 5 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "154",
+    "sign_b": "158",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 3,
+        "left": "467 806 154 400",
+        "right": "467 806 158 400"
+      },
+      {
+        "position": 2,
+        "left": "690 154 400",
+        "right": "690 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "7",
+    "sign_b": "460",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 460 740",
+        "right": "503 7 740"
+      },
+      {
+        "position": 4,
+        "left": "817 2 503 460 740",
+        "right": "817 2 503 7 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "16",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 3,
+        "left": "550 60 16 390",
+        "right": "550 60 3 390"
+      },
+      {
+        "position": 3,
+        "left": "861 2 16 390",
+        "right": "861 2 3 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "740",
+    "sign_b": "820",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 3,
+        "left": "590 390 740",
+        "right": "590 390 820"
+      },
+      {
+        "position": 5,
+        "left": "861 2 590 390 740",
+        "right": "861 2 590 390 820"
+      }
+    ]
+  },
+  {
+    "sign_a": "405",
+    "sign_b": "407",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 2,
+        "left": "590 405 740",
+        "right": "590 407 740"
+      },
+      {
+        "position": 4,
+        "left": "861 2 4 405",
+        "right": "861 2 4 407"
+      }
+    ]
+  },
+  {
+    "sign_a": "440",
+    "sign_b": "927",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 4,
+        "left": "692 60 231 440 740",
+        "right": "692 60 231 927 740"
+      },
+      {
+        "position": 4,
+        "left": "920 60 741 440 740",
+        "right": "920 60 741 927 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "222",
+    "sign_b": "540",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 222 740",
+        "right": "817 2 540 740"
+      },
+      {
+        "position": 3,
+        "left": "820 2 222 740",
+        "right": "820 2 540 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "4",
+    "sign_b": "16",
+    "contexts": 2,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 16 390",
+        "right": "861 2 4 390"
+      },
+      {
+        "position": 3,
+        "left": "861 2 16 405",
+        "right": "861 2 4 405"
+      }
+    ]
+  },
+  {
+    "sign_a": "104",
+    "sign_b": "260",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "104 4 390",
+        "right": "260 4 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "104",
+    "sign_b": "491",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "104 4 390",
+        "right": "491 4 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "104",
+    "sign_b": "817",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "104 4 390",
+        "right": "817 4 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "260",
+    "sign_b": "491",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "260 4 390",
+        "right": "491 4 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "260",
+    "sign_b": "817",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "260 4 390",
+        "right": "817 4 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "491",
+    "sign_b": "817",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "491 4 390",
+        "right": "817 4 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "153",
+    "sign_b": "156",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "118 153 400",
+        "right": "118 156 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "125",
+    "sign_b": "877",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "125 861 740",
+        "right": "877 861 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "13",
+    "sign_b": "416",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "13 840 740",
+        "right": "416 840 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "13",
+    "sign_b": "799",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "13 840 760 740",
+        "right": "799 840 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "14",
+    "sign_b": "15",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "14 32 740 400",
+        "right": "15 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "14",
+    "sign_b": "25",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "14 32 740 400",
+        "right": "25 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "14",
+    "sign_b": "27",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "14 32 740 400",
+        "right": "27 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "14",
+    "sign_b": "28",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "14 32 740 400",
+        "right": "28 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "14",
+    "sign_b": "59",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "14 32 740 400",
+        "right": "59 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "14",
+    "sign_b": "840",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "14 32 740 400",
+        "right": "840 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "15",
+    "sign_b": "25",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "15 32 740 400",
+        "right": "25 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "15",
+    "sign_b": "27",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "15 32 740 400",
+        "right": "27 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "15",
+    "sign_b": "28",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "15 32 740 400",
+        "right": "28 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "15",
+    "sign_b": "59",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "15 32 740 400",
+        "right": "59 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "15",
+    "sign_b": "840",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "15 32 740 400",
+        "right": "840 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "25",
+    "sign_b": "27",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "25 32 740 400",
+        "right": "27 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "27",
+    "sign_b": "28",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "27 32 740 400",
+        "right": "28 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "27",
+    "sign_b": "59",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "27 32 740 400",
+        "right": "59 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "27",
+    "sign_b": "840",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "27 32 740 400",
+        "right": "840 32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "140",
+    "sign_b": "235",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "140 176 740 400",
+        "right": "235 176 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "140",
+    "sign_b": "240",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "140 176 740 400",
+        "right": "240 176 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "140",
+    "sign_b": "791",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "140 176 740 400",
+        "right": "791 176 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "791",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 176 740 400",
+        "right": "791 176 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "791",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 176 740 400",
+        "right": "791 176 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "176",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "176 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "220",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "220 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "263",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "263 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "141",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "337",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "337 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "382",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "382 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "440",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "440 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "455",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "455 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "681",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "681 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "717",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "717 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "803 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "141",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "141 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "263",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "263 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "176",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "337",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "337 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "382",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "382 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "455",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "455 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "681",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "681 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "263",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "263 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "220",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "337",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "337 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "382",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "382 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "455",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "455 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "681",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "681 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "263",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "263",
+    "sign_b": "337",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "337 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "263",
+    "sign_b": "382",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "382 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "263",
+    "sign_b": "440",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "440 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "263",
+    "sign_b": "455",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "455 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "263",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "263",
+    "sign_b": "681",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "681 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "263",
+    "sign_b": "717",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "717 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "263",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "263",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "803 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "263",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "263",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "263 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "337",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 740 400",
+        "right": "337 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "440",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 740 400",
+        "right": "440 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "455",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 740 400",
+        "right": "455 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 740 400",
+        "right": "637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "681",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 740 400",
+        "right": "681 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "717",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 740 400",
+        "right": "717 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 740 400",
+        "right": "803 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "337",
+    "sign_b": "382",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "337 740 400",
+        "right": "382 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "337",
+    "sign_b": "440",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "337 740 400",
+        "right": "440 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "337",
+    "sign_b": "455",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "337 740 400",
+        "right": "455 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "337",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "337 740 400",
+        "right": "637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "337",
+    "sign_b": "681",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "337 740 400",
+        "right": "681 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "337",
+    "sign_b": "717",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "337 740 400",
+        "right": "717 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "337",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "337 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "337",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "337 740 400",
+        "right": "803 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "337",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "337 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "337",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "337 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "440",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 740 400",
+        "right": "440 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "455",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 740 400",
+        "right": "455 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 740 400",
+        "right": "637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "681",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 740 400",
+        "right": "681 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "717",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 740 400",
+        "right": "717 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 740 400",
+        "right": "803 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "440",
+    "sign_b": "455",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "440 740 400",
+        "right": "455 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "440",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "440 740 400",
+        "right": "637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "440",
+    "sign_b": "681",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "440 740 400",
+        "right": "681 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "440",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "440 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "440",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "440 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "440",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "440 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "455",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "455 740 400",
+        "right": "637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "455",
+    "sign_b": "681",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "455 740 400",
+        "right": "681 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "455",
+    "sign_b": "717",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "455 740 400",
+        "right": "717 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "455",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "455 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "455",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "455 740 400",
+        "right": "803 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "455",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "455 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "455",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "455 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "637",
+    "sign_b": "681",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "637 740 400",
+        "right": "681 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "637",
+    "sign_b": "717",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "637 740 400",
+        "right": "717 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "637",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "637 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "637",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "637 740 400",
+        "right": "803 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "637",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "637 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "637",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "637 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "681",
+    "sign_b": "717",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "681 740 400",
+        "right": "717 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "681",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "681 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "681",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "681 740 400",
+        "right": "803 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "681",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "681 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "681",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "681 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "717",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "717 740 400",
+        "right": "790 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "717",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "717 740 400",
+        "right": "803 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "717",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "717 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "717",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "717 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "790",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "790 740 400",
+        "right": "803 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "790",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "790 740 400",
+        "right": "861 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "790",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "790 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "803",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "803 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "861",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "861 740 400",
+        "right": "920 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "142",
+    "sign_b": "229",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "142 151 400",
+        "right": "229 151 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "97",
+    "sign_b": "142",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "142 151 400",
+        "right": "97 151 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "97",
+    "sign_b": "229",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "229 151 400",
+        "right": "97 151 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "142",
+    "sign_b": "158",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "142 171 35",
+        "right": "158 171 35"
+      }
+    ]
+  },
+  {
+    "sign_a": "575",
+    "sign_b": "590",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "17 575 740",
+        "right": "17 590 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "585",
+    "sign_b": "590",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "17 585 740",
+        "right": "17 590 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "741",
+    "sign_b": "742",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "175 741 233 798 740",
+        "right": "175 742 233 798 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "175",
+    "sign_b": "276",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "175 817 740 400",
+        "right": "276 817 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "175",
+    "sign_b": "491",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "175 817 740 400",
+        "right": "491 817 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "276",
+    "sign_b": "491",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "276 817 740 400",
+        "right": "491 817 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "415",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 100 740",
+        "right": "415 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "415",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 100 740",
+        "right": "415 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "440",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 100 740",
+        "right": "440 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "717",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 100 740",
+        "right": "717 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "415",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "31 100 740",
+        "right": "415 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "440",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "31 100 740",
+        "right": "440 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "717",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "31 100 740",
+        "right": "717 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "415",
+    "sign_b": "440",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "415 100 740",
+        "right": "440 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "415",
+    "sign_b": "717",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "415 100 740",
+        "right": "717 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "336",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "176 100 740",
+        "right": "176 336 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "337",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "176 100 740",
+        "right": "176 337 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "336",
+    "sign_b": "337",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "176 336 740",
+        "right": "176 337 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "18",
+    "sign_b": "176",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 336 740 400",
+        "right": "18 336 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "484",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "176 337 740",
+        "right": "484 337 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "400",
+    "sign_b": "436",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "176 740 400",
+        "right": "176 740 436"
+      }
+    ]
+  },
+  {
+    "sign_a": "2",
+    "sign_b": "220",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "2 840 32 740",
+        "right": "220 840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "2",
+    "sign_b": "679",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "2 840 32 740",
+        "right": "679 840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "2",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "2 840 32 740",
+        "right": "803 840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "2",
+    "sign_b": "820",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "2 840 32 740",
+        "right": "820 840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "679",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 840 32 740",
+        "right": "679 840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "820",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 840 32 740",
+        "right": "820 840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "679",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "679 840 32 740",
+        "right": "803 840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "679",
+    "sign_b": "820",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "679 840 32 740",
+        "right": "820 840 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "219",
+    "sign_b": "921",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "219 72 520",
+        "right": "921 72 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "235",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "220 100 740",
+        "right": "220 235 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "236",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "220 236 400",
+        "right": "220 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "590",
+    "sign_b": "700",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "220 32 590",
+        "right": "220 32 700"
+      }
+    ]
+  },
+  {
+    "sign_a": "90",
+    "sign_b": "400",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "220 740 400",
+        "right": "220 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "327",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 90",
+        "right": "327 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "362",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 90",
+        "right": "362 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "615",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 90",
+        "right": "615 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "792",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "220 740 90",
+        "right": "792 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "327",
+    "sign_b": "362",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "327 740 90",
+        "right": "362 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "327",
+    "sign_b": "615",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "327 740 90",
+        "right": "615 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "327",
+    "sign_b": "792",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "327 740 90",
+        "right": "792 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "362",
+    "sign_b": "615",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "362 740 90",
+        "right": "615 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "362",
+    "sign_b": "792",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "362 740 90",
+        "right": "792 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "615",
+    "sign_b": "792",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "615 740 90",
+        "right": "792 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "221",
+    "sign_b": "222",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "221 740 151",
+        "right": "222 740 151"
+      }
+    ]
+  },
+  {
+    "sign_a": "221",
+    "sign_b": "231",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "221 740 151",
+        "right": "231 740 151"
+      }
+    ]
+  },
+  {
+    "sign_a": "221",
+    "sign_b": "235",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "221 740 151",
+        "right": "235 740 151"
+      }
+    ]
+  },
+  {
+    "sign_a": "222",
+    "sign_b": "231",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "222 740 151",
+        "right": "231 740 151"
+      }
+    ]
+  },
+  {
+    "sign_a": "222",
+    "sign_b": "235",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "222 740 151",
+        "right": "235 740 151"
+      }
+    ]
+  },
+  {
+    "sign_a": "231",
+    "sign_b": "235",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "231 740 151",
+        "right": "235 740 151"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "879",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 176 740",
+        "right": "233 879 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "798",
+    "sign_b": "879",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 798 740",
+        "right": "233 879 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "803",
+    "sign_b": "879",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 803 740",
+        "right": "233 879 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "879",
+    "sign_b": "923",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 879 740",
+        "right": "233 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "236",
+    "sign_b": "520",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 236 400",
+        "right": "233 520 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "236",
+    "sign_b": "804",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 236 400",
+        "right": "233 804 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "520",
+    "sign_b": "804",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 520 400",
+        "right": "233 804 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "388",
+    "sign_b": "550",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "233 388 527",
+        "right": "233 550 527"
+      }
+    ]
+  },
+  {
+    "sign_a": "233",
+    "sign_b": "897",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "233 520 400",
+        "right": "897 520 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "806",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "31 706 33 520",
+        "right": "806 706 33 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "233",
+    "sign_b": "700",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "233 798 740",
+        "right": "700 798 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "233",
+    "sign_b": "820",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "233 798 740",
+        "right": "820 798 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "700",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 798 740",
+        "right": "700 798 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "820",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 798 740",
+        "right": "820 798 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "700",
+    "sign_b": "820",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "700 798 740",
+        "right": "820 798 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "233",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "233 923 740",
+        "right": "803 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "233",
+    "sign_b": "838",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "233 923 740",
+        "right": "838 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 923 740",
+        "right": "803 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "803",
+    "sign_b": "838",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "803 923 740",
+        "right": "838 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "806",
+    "sign_b": "838",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "806 923 740",
+        "right": "838 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "482",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 176 740",
+        "right": "235 482 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "388",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 388 740",
+        "right": "235 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "388",
+    "sign_b": "798",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 388 740",
+        "right": "235 798 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "388",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 388 740",
+        "right": "235 803 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "388",
+    "sign_b": "923",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 388 740",
+        "right": "235 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "482",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 482 740",
+        "right": "235 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "482",
+    "sign_b": "798",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 482 740",
+        "right": "235 798 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "482",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 482 740",
+        "right": "235 803 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "772",
+    "sign_b": "798",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 772 740",
+        "right": "235 798 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "772",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 772 740",
+        "right": "235 803 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "772",
+    "sign_b": "923",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 772 740",
+        "right": "235 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "235",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 220 176 740",
+        "right": "32 220 176 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "231",
+    "sign_b": "240",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 231 520",
+        "right": "235 240 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "455",
+    "sign_b": "904",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "235 240 455 740",
+        "right": "235 240 904 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "519",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 415 220 520",
+        "right": "519 415 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "798",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 415 220 520",
+        "right": "798 415 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "519",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 415 220 520",
+        "right": "519 415 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "798",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 415 220 520",
+        "right": "798 415 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "519",
+    "sign_b": "798",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "519 415 220 520",
+        "right": "798 415 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "550",
+    "sign_b": "555",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "235 550 527",
+        "right": "235 555 527"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "235 590 405 740",
+        "right": "790 590 405 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "151",
+    "sign_b": "565",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "235 740 151",
+        "right": "235 740 565"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "643",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 100 740",
+        "right": "240 643 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 100 740",
+        "right": "240 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 100 740",
+        "right": "240 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "636",
+    "sign_b": "643",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 636 740",
+        "right": "240 643 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "636",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 636 740",
+        "right": "240 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "636",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 636 740",
+        "right": "240 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "643",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 643 740",
+        "right": "240 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "643",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 643 740",
+        "right": "240 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "643",
+    "sign_b": "904",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 643 740",
+        "right": "240 904 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "760",
+    "sign_b": "904",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 760 740",
+        "right": "240 904 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "772",
+    "sign_b": "904",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 772 740",
+        "right": "240 904 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "151",
+    "sign_b": "400",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "240 100 740 151",
+        "right": "240 100 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "152",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 100 740 400",
+        "right": "240 152 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 100 740 400",
+        "right": "240 637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "152",
+    "sign_b": "176",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 152 740 400",
+        "right": "240 176 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "152",
+    "sign_b": "636",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 152 740 400",
+        "right": "240 636 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "152",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 152 740 400",
+        "right": "240 637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "152",
+    "sign_b": "904",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 152 740 400",
+        "right": "240 904 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "636",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 176 740 400",
+        "right": "240 636 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "636",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 636 740 400",
+        "right": "240 637 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "637",
+    "sign_b": "904",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 637 740 400",
+        "right": "240 904 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "503",
+    "sign_b": "520",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "240 233 503",
+        "right": "240 233 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "503",
+    "sign_b": "921",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "240 503 70 520",
+        "right": "240 921 70 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "315",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 760 740",
+        "right": "315 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "240",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 760 740",
+        "right": "32 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "382",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 760 740",
+        "right": "382 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "445",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 760 740",
+        "right": "445 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "605",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 760 740",
+        "right": "605 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "742",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 760 740",
+        "right": "742 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "797",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 760 740",
+        "right": "797 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "315",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "315 760 740",
+        "right": "32 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "315",
+    "sign_b": "382",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "315 760 740",
+        "right": "382 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "315",
+    "sign_b": "445",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "315 760 740",
+        "right": "445 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "315",
+    "sign_b": "605",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "315 760 740",
+        "right": "605 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "315",
+    "sign_b": "742",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "315 760 740",
+        "right": "742 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "315",
+    "sign_b": "797",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "315 760 740",
+        "right": "797 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "445",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 760 740",
+        "right": "445 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "605",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 760 740",
+        "right": "605 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "742",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 760 740",
+        "right": "742 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "797",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 760 740",
+        "right": "797 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "445",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 760 740",
+        "right": "445 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "605",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 760 740",
+        "right": "605 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "742",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 760 740",
+        "right": "742 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "382",
+    "sign_b": "797",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "382 760 740",
+        "right": "797 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "445",
+    "sign_b": "605",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "445 760 740",
+        "right": "605 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "445",
+    "sign_b": "742",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "445 760 740",
+        "right": "742 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "445",
+    "sign_b": "797",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "445 760 740",
+        "right": "797 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "605",
+    "sign_b": "742",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "605 760 740",
+        "right": "742 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "605",
+    "sign_b": "797",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "605 760 740",
+        "right": "797 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "742",
+    "sign_b": "797",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "742 760 740",
+        "right": "797 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "240",
+    "sign_b": "690",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "240 904 740",
+        "right": "690 904 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "690",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "25 32 690",
+        "right": "25 32 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "154",
+    "sign_b": "156",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "255 435 154",
+        "right": "255 435 156"
+      }
+    ]
+  },
+  {
+    "sign_a": "435",
+    "sign_b": "436",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "255 435 690 740",
+        "right": "255 436 690 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "423",
+    "sign_b": "424",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 8,
+        "left": "255 435 690 740 900 1 3 423",
+        "right": "255 435 690 740 900 1 3 424"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "31",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "3 1 435",
+        "right": "31 1 435"
+      }
+    ]
+  },
+  {
+    "sign_a": "122",
+    "sign_b": "550",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "3 122 617",
+        "right": "3 550 617"
+      }
+    ]
+  },
+  {
+    "sign_a": "122",
+    "sign_b": "798",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "3 122 617",
+        "right": "3 798 617"
+      }
+    ]
+  },
+  {
+    "sign_a": "550",
+    "sign_b": "798",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "3 550 617",
+        "right": "3 798 617"
+      }
+    ]
+  },
+  {
+    "sign_a": "140",
+    "sign_b": "233",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "3 140 100 740",
+        "right": "3 233 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "592",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "3 158 400",
+        "right": "592 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "690",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "3 158 400",
+        "right": "690 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "592",
+    "sign_b": "690",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "592 158 400",
+        "right": "690 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "34",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "3 220 520",
+        "right": "34 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "415",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "3 220 520",
+        "right": "415 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "6",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "3 220 520",
+        "right": "6 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "34",
+    "sign_b": "415",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "34 220 520",
+        "right": "415 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "6",
+    "sign_b": "34",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "34 220 520",
+        "right": "6 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "6",
+    "sign_b": "415",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "415 220 520",
+        "right": "6 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "520",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "3 220 520",
+        "right": "3 220 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "32",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "3 220 740",
+        "right": "32 220 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "33",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "3 550 617",
+        "right": "33 550 617"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "384",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "31 100 740",
+        "right": "31 384 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "388",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "31 100 740",
+        "right": "31 388 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "384",
+    "sign_b": "388",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "31 384 740",
+        "right": "31 388 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "853",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "31 101 740 90",
+        "right": "853 101 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "101",
+    "sign_b": "240",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "31 101 740 90",
+        "right": "31 240 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "927",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "31 240 100 740",
+        "right": "31 240 927 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "545",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "31 3 156",
+        "right": "545 3 156"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "877",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "31 3 156",
+        "right": "877 3 156"
+      }
+    ]
+  },
+  {
+    "sign_a": "545",
+    "sign_b": "877",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "545 3 156",
+        "right": "877 3 156"
+      }
+    ]
+  },
+  {
+    "sign_a": "156",
+    "sign_b": "480",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "31 3 156",
+        "right": "31 3 480"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "495",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "31 460 520",
+        "right": "495 460 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "416",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 8,
+        "left": "31 502 2 806 240 520 1 3",
+        "right": "31 502 2 806 240 520 1 416"
+      }
+    ]
+  },
+  {
+    "sign_a": "153",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "32 220 153",
+        "right": "32 220 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "773",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "32 220 176 740",
+        "right": "32 220 773 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "773",
+    "sign_b": "923",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "32 220 773 740",
+        "right": "32 220 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "255",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "32 220 740",
+        "right": "32 255 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "32 220 740",
+        "right": "32 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "220",
+    "sign_b": "877",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "32 220 740",
+        "right": "32 877 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "255",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "32 255 740",
+        "right": "32 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "255",
+    "sign_b": "877",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "32 255 740",
+        "right": "32 877 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "760",
+    "sign_b": "877",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "32 760 740",
+        "right": "32 877 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "415",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 226 400",
+        "right": "415 226 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "226",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "32 226 400",
+        "right": "32 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "226",
+    "sign_b": "854",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "32 226 400",
+        "right": "32 854 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "740",
+    "sign_b": "854",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "32 740 400",
+        "right": "32 854 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "61",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 255 740",
+        "right": "61 255 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "705",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "32 255 740",
+        "right": "705 255 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "705",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "61 255 740",
+        "right": "705 255 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "71",
+    "sign_b": "790",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "32 71 407",
+        "right": "32 790 407"
+      }
+    ]
+  },
+  {
+    "sign_a": "468",
+    "sign_b": "469",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 5,
+        "left": "32 877 740 1 468 806 154",
+        "right": "32 877 740 1 469 806 154"
+      }
+    ]
+  },
+  {
+    "sign_a": "320",
+    "sign_b": "323",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "320 920 740",
+        "right": "323 920 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "390",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "323 920 390",
+        "right": "323 920 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "33",
+    "sign_b": "705",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "33 33 520",
+        "right": "705 33 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "33",
+    "sign_b": "706",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "33 33 520",
+        "right": "706 33 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "33",
+    "sign_b": "877",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "33 5 900 740",
+        "right": "877 5 900 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "351",
+    "sign_b": "767",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "351 368 1",
+        "right": "767 368 1"
+      }
+    ]
+  },
+  {
+    "sign_a": "4",
+    "sign_b": "844",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "4 390 400",
+        "right": "844 390 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "4",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "4 900 740",
+        "right": "803 900 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "5",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "5 900 740",
+        "right": "803 900 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "700",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 6,
+        "left": "413 575 335 711 33 700",
+        "right": "413 575 335 711 33 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "760",
+    "sign_b": "767",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "416 220 760 740 400",
+        "right": "416 220 767 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "416",
+    "sign_b": "698",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "416 861 2",
+        "right": "698 861 2"
+      }
+    ]
+  },
+  {
+    "sign_a": "467",
+    "sign_b": "468",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "467 806 154 400",
+        "right": "468 806 154 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "467",
+    "sign_b": "470",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "467 806 158 400",
+        "right": "470 806 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "467",
+    "sign_b": "472",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "467 806 158 400",
+        "right": "472 806 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "467",
+    "sign_b": "473",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "467 806 158 400",
+        "right": "473 806 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "467",
+    "sign_b": "475",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "467 806 158 400",
+        "right": "475 806 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "470",
+    "sign_b": "472",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "470 806 158 400",
+        "right": "472 806 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "470",
+    "sign_b": "473",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "470 806 158 400",
+        "right": "473 806 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "470",
+    "sign_b": "475",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "470 806 158 400",
+        "right": "475 806 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "472",
+    "sign_b": "473",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "472 806 158 400",
+        "right": "473 806 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "472",
+    "sign_b": "475",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "472 806 158 400",
+        "right": "475 806 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "473",
+    "sign_b": "475",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "473 806 158 400",
+        "right": "475 806 158 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "400",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "467 806 158 400",
+        "right": "467 806 158 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "154",
+    "sign_b": "155",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "468 806 154",
+        "right": "468 806 155"
+      }
+    ]
+  },
+  {
+    "sign_a": "66",
+    "sign_b": "480",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "480 142 740",
+        "right": "66 142 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "390",
+    "sign_b": "423",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "491 3 390",
+        "right": "491 3 423"
+      }
+    ]
+  },
+  {
+    "sign_a": "491",
+    "sign_b": "556",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "491 817 740",
+        "right": "556 817 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "491",
+    "sign_b": "493",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "491 850 2 803 241",
+        "right": "493 850 2 803 241"
+      }
+    ]
+  },
+  {
+    "sign_a": "33",
+    "sign_b": "615",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "495 33 740",
+        "right": "495 615 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "463",
+    "sign_b": "776",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "495 463 740 400",
+        "right": "495 776 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "495",
+    "sign_b": "503",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "495 615 740",
+        "right": "503 615 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "495",
+    "sign_b": "703",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "495 615 740",
+        "right": "703 615 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "503",
+    "sign_b": "703",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "503 615 740",
+        "right": "703 615 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "16",
+    "sign_b": "17",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 16 740 400",
+        "right": "503 17 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "16",
+    "sign_b": "33",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 16 740 400",
+        "right": "503 33 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "17",
+    "sign_b": "33",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 17 740 400",
+        "right": "503 33 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "17",
+    "sign_b": "460",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 17 740",
+        "right": "503 460 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "17",
+    "sign_b": "463",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 17 740",
+        "right": "503 463 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "17",
+    "sign_b": "615",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 17 740",
+        "right": "503 615 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "7",
+    "sign_b": "17",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 17 740",
+        "right": "503 7 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "460",
+    "sign_b": "463",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 460 740",
+        "right": "503 463 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "460",
+    "sign_b": "615",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 460 740",
+        "right": "503 615 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "463",
+    "sign_b": "615",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 463 740",
+        "right": "503 615 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "7",
+    "sign_b": "463",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 463 740",
+        "right": "503 7 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "7",
+    "sign_b": "615",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "503 615 740",
+        "right": "503 7 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "503",
+    "sign_b": "510",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "503 460 740",
+        "right": "510 460 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "154",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "503 615 154",
+        "right": "503 615 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "503",
+    "sign_b": "575",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "503 861 368",
+        "right": "575 861 368"
+      }
+    ]
+  },
+  {
+    "sign_a": "503",
+    "sign_b": "903",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "503 861 368",
+        "right": "903 861 368"
+      }
+    ]
+  },
+  {
+    "sign_a": "575",
+    "sign_b": "903",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "575 861 368",
+        "right": "903 861 368"
+      }
+    ]
+  },
+  {
+    "sign_a": "156",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "510 460 156",
+        "right": "510 460 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "55",
+    "sign_b": "741",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "55 368 400",
+        "right": "741 368 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "550",
+    "sign_b": "554",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "550 525 400",
+        "right": "554 525 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "550",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "550 60 3 390",
+        "right": "920 60 3 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "556",
+    "sign_b": "679",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "550 60 556",
+        "right": "550 60 679"
+      }
+    ]
+  },
+  {
+    "sign_a": "550",
+    "sign_b": "795",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "550 60 590 390 740",
+        "right": "795 60 590 390 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "690",
+    "sign_b": "803",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "550 60 690 740",
+        "right": "550 60 803 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "570",
+    "sign_b": "820",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "570 2 5 900 740",
+        "right": "820 2 5 900 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "740",
+    "sign_b": "741",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "575 590 740 240 520",
+        "right": "575 590 741 240 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "151",
+    "sign_b": "820",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "590 390 151",
+        "right": "590 390 820"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "880",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "61 142 400 740",
+        "right": "880 142 400 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "892",
+    "sign_b": "898",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "617 892 740 400",
+        "right": "617 898 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "690",
+    "sign_b": "896",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "690 154 400",
+        "right": "896 154 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "531",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "692 60 176 740",
+        "right": "692 60 531 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "803",
+    "sign_b": "927",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "692 60 231 803 740",
+        "right": "692 60 231 927 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "603",
+    "sign_b": "636",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "692 60 240 603 740",
+        "right": "692 60 240 636 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "603",
+    "sign_b": "642",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "692 60 240 603 740",
+        "right": "692 60 240 642 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "636",
+    "sign_b": "642",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "692 60 240 636 740",
+        "right": "692 60 240 642 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "90",
+    "sign_b": "615",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "703 615 740",
+        "right": "703 90 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "50",
+    "sign_b": "255",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "705 255 740",
+        "right": "705 50 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "710",
+    "sign_b": "831",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "710 390 368",
+        "right": "831 390 368"
+      }
+    ]
+  },
+  {
+    "sign_a": "740",
+    "sign_b": "921",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 10,
+        "left": "741 904 740 820 32 17 904 415 100 740",
+        "right": "741 904 740 820 32 17 904 415 100 921"
+      }
+    ]
+  },
+  {
+    "sign_a": "798",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "798 17 575 740 400",
+        "right": "920 17 575 740 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "400",
+    "sign_b": "679",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 5,
+        "left": "798 17 575 740 400",
+        "right": "798 17 575 740 679"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "63",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "798 240 845 61 407",
+        "right": "798 240 845 63 407"
+      }
+    ]
+  },
+  {
+    "sign_a": "714",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "799 840 714 740",
+        "right": "799 840 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "803",
+    "sign_b": "817",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "803 2 3 390",
+        "right": "817 2 3 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "803",
+    "sign_b": "831",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "803 233 176 740",
+        "right": "831 233 176 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "806",
+    "sign_b": "831",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "806 233 176 740",
+        "right": "831 233 176 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "900",
+    "sign_b": "923",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "803 900 740",
+        "right": "803 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "55",
+    "sign_b": "923",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "806 55 740",
+        "right": "806 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "104",
+    "sign_b": "495",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 104 615 740",
+        "right": "817 2 495 615 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "354",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 176 740",
+        "right": "817 2 354 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "48",
+    "sign_b": "176",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 176 740",
+        "right": "817 2 48 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "540",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 176 740",
+        "right": "817 2 540 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 176 740",
+        "right": "817 2 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "222",
+    "sign_b": "354",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 222 740",
+        "right": "817 2 354 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "48",
+    "sign_b": "222",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 222 740",
+        "right": "817 2 48 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "222",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 222 740",
+        "right": "817 2 61 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "222",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 222 740",
+        "right": "817 2 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "222",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 222 740",
+        "right": "817 2 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "48",
+    "sign_b": "354",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 354 740",
+        "right": "817 2 48 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "354",
+    "sign_b": "540",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 354 740",
+        "right": "817 2 540 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "354",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 354 740",
+        "right": "817 2 61 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "354",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 354 740",
+        "right": "817 2 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "354",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 354 740",
+        "right": "817 2 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "48",
+    "sign_b": "540",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 48 740",
+        "right": "817 2 540 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "48",
+    "sign_b": "61",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 48 740",
+        "right": "817 2 61 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "48",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 48 740",
+        "right": "817 2 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "48",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 48 740",
+        "right": "817 2 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "540",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 540 740",
+        "right": "817 2 61 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "540",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 540 740",
+        "right": "817 2 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "540",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 540 740",
+        "right": "817 2 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 61 740",
+        "right": "817 2 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 61 740",
+        "right": "817 2 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "19",
+    "sign_b": "32",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 19 760 740",
+        "right": "817 2 32 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "19",
+    "sign_b": "49",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 19 760 740",
+        "right": "817 2 49 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "49",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 32 760 740",
+        "right": "817 2 49 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "191",
+    "sign_b": "240",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 191 415 100 740",
+        "right": "817 2 240 415 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "219",
+    "sign_b": "231",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 219 520",
+        "right": "817 2 231 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "233",
+    "sign_b": "792",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 233 740 90",
+        "right": "817 2 792 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "415",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 235 100 740",
+        "right": "817 2 415 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "380",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "817 2 235 100 740",
+        "right": "817 2 235 380 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "100",
+    "sign_b": "770",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "817 2 235 100 740",
+        "right": "817 2 235 770 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "380",
+    "sign_b": "770",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "817 2 235 380 740",
+        "right": "817 2 235 770 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "904",
+    "sign_b": "923",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "817 2 240 904 740",
+        "right": "817 2 240 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "2",
+    "sign_b": "368",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "817 2 3 390",
+        "right": "817 368 3 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "5",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 3 390",
+        "right": "817 2 5 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "384",
+    "sign_b": "760",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "817 2 32 384 740",
+        "right": "817 2 32 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "350",
+    "sign_b": "354",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 350 400 520",
+        "right": "817 2 354 400 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "48",
+    "sign_b": "506",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 48",
+        "right": "817 2 506"
+      }
+    ]
+  },
+  {
+    "sign_a": "817",
+    "sign_b": "825",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "817 2 495 615 740",
+        "right": "825 2 495 615 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "817",
+    "sign_b": "880",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "817 2 503 460 740",
+        "right": "880 2 503 460 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "460",
+    "sign_b": "776",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "817 2 503 460 740",
+        "right": "817 2 503 776 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "7",
+    "sign_b": "776",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "817 2 503 7 740",
+        "right": "817 2 503 776 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "62",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "817 2 61 142 740",
+        "right": "817 2 62 142 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "142",
+    "sign_b": "702",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "817 2 61 142 740",
+        "right": "817 2 61 702 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "407",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "817 2 61 407",
+        "right": "817 2 61 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "365",
+    "sign_b": "368",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "817 365 690",
+        "right": "817 368 690"
+      }
+    ]
+  },
+  {
+    "sign_a": "32",
+    "sign_b": "34",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "817 368 690 32 700",
+        "right": "817 368 690 34 700"
+      }
+    ]
+  },
+  {
+    "sign_a": "104",
+    "sign_b": "236",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 104",
+        "right": "820 2 236"
+      }
+    ]
+  },
+  {
+    "sign_a": "14",
+    "sign_b": "16",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 14 220 740 90",
+        "right": "820 2 16 220 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "222",
+    "sign_b": "388",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 222 740",
+        "right": "820 2 388 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "42",
+    "sign_b": "222",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 222 740",
+        "right": "820 2 42 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "222",
+    "sign_b": "482",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 222 740",
+        "right": "820 2 482 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "222",
+    "sign_b": "904",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 222 740",
+        "right": "820 2 904 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "42",
+    "sign_b": "388",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 388 740",
+        "right": "820 2 42 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "388",
+    "sign_b": "540",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 388 740",
+        "right": "820 2 540 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "388",
+    "sign_b": "904",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 388 740",
+        "right": "820 2 904 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "42",
+    "sign_b": "482",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 42 740",
+        "right": "820 2 482 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "42",
+    "sign_b": "540",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 42 740",
+        "right": "820 2 540 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "42",
+    "sign_b": "904",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 42 740",
+        "right": "820 2 904 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "482",
+    "sign_b": "540",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 482 740",
+        "right": "820 2 540 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "482",
+    "sign_b": "904",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 482 740",
+        "right": "820 2 904 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "540",
+    "sign_b": "904",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 540 740",
+        "right": "820 2 904 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "531",
+    "sign_b": "844",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 2 531 390 621",
+        "right": "820 2 844 390 621"
+      }
+    ]
+  },
+  {
+    "sign_a": "820",
+    "sign_b": "880",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "820 2 554 526",
+        "right": "880 2 554 526"
+      }
+    ]
+  },
+  {
+    "sign_a": "820",
+    "sign_b": "905",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "820 32 130",
+        "right": "905 32 130"
+      }
+    ]
+  },
+  {
+    "sign_a": "455",
+    "sign_b": "923",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 5,
+        "left": "820 60 235 240 455 740",
+        "right": "820 60 235 240 923 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "820",
+    "sign_b": "920",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "820 60 415 220 520",
+        "right": "920 60 415 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "564",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 60 564 740",
+        "right": "820 60 61 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "564",
+    "sign_b": "773",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 60 564 740",
+        "right": "820 60 773 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "773",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "820 60 61 740",
+        "right": "820 60 773 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "824",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "824 2 16 390",
+        "right": "861 2 16 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "617",
+    "sign_b": "892",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "829 617 400",
+        "right": "829 892 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "829",
+    "sign_b": "831",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "829 892 400",
+        "right": "831 892 400"
+      }
+    ]
+  },
+  {
+    "sign_a": "850",
+    "sign_b": "851",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "850 741 48 740",
+        "right": "851 741 48 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "103",
+    "sign_b": "176",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 103 740 90",
+        "right": "861 2 176 740 90"
+      }
+    ]
+  },
+  {
+    "sign_a": "125",
+    "sign_b": "136",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 125",
+        "right": "861 2 136"
+      }
+    ]
+  },
+  {
+    "sign_a": "125",
+    "sign_b": "226",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 125",
+        "right": "861 2 226"
+      }
+    ]
+  },
+  {
+    "sign_a": "125",
+    "sign_b": "236",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 125",
+        "right": "861 2 236"
+      }
+    ]
+  },
+  {
+    "sign_a": "136",
+    "sign_b": "226",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 136",
+        "right": "861 2 226"
+      }
+    ]
+  },
+  {
+    "sign_a": "136",
+    "sign_b": "236",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 136",
+        "right": "861 2 236"
+      }
+    ]
+  },
+  {
+    "sign_a": "226",
+    "sign_b": "236",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 226",
+        "right": "861 2 236"
+      }
+    ]
+  },
+  {
+    "sign_a": "15",
+    "sign_b": "16",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 15 390",
+        "right": "861 2 16 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "15",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 15 390",
+        "right": "861 2 3 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "4",
+    "sign_b": "15",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 15 390",
+        "right": "861 2 4 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "15",
+    "sign_b": "869",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 15 390",
+        "right": "861 2 869 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "16",
+    "sign_b": "869",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 16 390",
+        "right": "861 2 869 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "3",
+    "sign_b": "869",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 3 390",
+        "right": "861 2 869 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "4",
+    "sign_b": "869",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 4 390",
+        "right": "861 2 869 390"
+      }
+    ]
+  },
+  {
+    "sign_a": "16",
+    "sign_b": "35",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 16 405",
+        "right": "861 2 35 405"
+      }
+    ]
+  },
+  {
+    "sign_a": "4",
+    "sign_b": "35",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 35 405",
+        "right": "861 2 4 405"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "416",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 176 740",
+        "right": "861 2 416 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "176",
+    "sign_b": "519",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 176 740",
+        "right": "861 2 519 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "416",
+    "sign_b": "519",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 416 740",
+        "right": "861 2 519 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "416",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 416 740",
+        "right": "861 2 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "519",
+    "sign_b": "772",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 519 740",
+        "right": "861 2 772 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "33",
+    "sign_b": "220",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 220 520",
+        "right": "861 2 33 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "235",
+    "sign_b": "605",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 235 760 740",
+        "right": "861 2 605 760 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "482",
+    "sign_b": "637",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "861 2 240 482 740",
+        "right": "861 2 240 637 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "482",
+    "sign_b": "643",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "861 2 240 482 740",
+        "right": "861 2 240 643 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "637",
+    "sign_b": "643",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "861 2 240 637 740",
+        "right": "861 2 240 643 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "31",
+    "sign_b": "49",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "861 2 31 233 520",
+        "right": "861 2 49 233 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "241",
+    "sign_b": "520",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 5,
+        "left": "861 2 32 220 241",
+        "right": "861 2 32 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "861",
+    "sign_b": "933",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "861 2 4 405",
+        "right": "933 2 4 405"
+      }
+    ]
+  },
+  {
+    "sign_a": "161",
+    "sign_b": "740",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 5,
+        "left": "861 2 590 390 161",
+        "right": "861 2 590 390 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "161",
+    "sign_b": "820",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 5,
+        "left": "861 2 590 390 161",
+        "right": "861 2 590 390 820"
+      }
+    ]
+  },
+  {
+    "sign_a": "61",
+    "sign_b": "861",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "877 61 740",
+        "right": "877 861 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "904",
+    "sign_b": "905",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 1,
+        "left": "904 32 597 142 617",
+        "right": "905 32 597 142 617"
+      }
+    ]
+  },
+  {
+    "sign_a": "415",
+    "sign_b": "742",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "920 60 415 220 520",
+        "right": "920 60 742 220 520"
+      }
+    ]
+  },
+  {
+    "sign_a": "741",
+    "sign_b": "745",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 3,
+        "left": "920 60 741 415 100 740",
+        "right": "920 60 745 415 100 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "42",
+    "sign_b": "416",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 416 740",
+        "right": "920 60 741 42 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "416",
+    "sign_b": "440",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 416 740",
+        "right": "920 60 741 440 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "416",
+    "sign_b": "460",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 416 740",
+        "right": "920 60 741 460 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "416",
+    "sign_b": "821",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 416 740",
+        "right": "920 60 741 821 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "416",
+    "sign_b": "927",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 416 740",
+        "right": "920 60 741 927 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "42",
+    "sign_b": "440",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 42 740",
+        "right": "920 60 741 440 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "42",
+    "sign_b": "460",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 42 740",
+        "right": "920 60 741 460 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "42",
+    "sign_b": "821",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 42 740",
+        "right": "920 60 741 821 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "42",
+    "sign_b": "927",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 42 740",
+        "right": "920 60 741 927 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "440",
+    "sign_b": "460",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 440 740",
+        "right": "920 60 741 460 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "440",
+    "sign_b": "821",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 440 740",
+        "right": "920 60 741 821 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "460",
+    "sign_b": "821",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 460 740",
+        "right": "920 60 741 821 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "460",
+    "sign_b": "927",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 460 740",
+        "right": "920 60 741 927 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "821",
+    "sign_b": "927",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 4,
+        "left": "920 60 741 821 740",
+        "right": "920 60 741 927 740"
+      }
+    ]
+  },
+  {
+    "sign_a": "72",
+    "sign_b": "515",
+    "contexts": 1,
+    "examples": [
+      {
+        "position": 2,
+        "left": "921 515 520",
+        "right": "921 72 520"
+      }
+    ]
+  }
+]

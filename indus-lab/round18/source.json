@@ -1,0 +1,21 @@
+{
+  "source_id": "CISI2-1991-scan",
+  "url": "https://archive.org/download/corpus-vol-2_202409/CorpusVol2.pdf",
+  "pdf_sha256": "727132579a485ee626e48a64c663148a85fbc0811fb523818fd615231f8a327d",
+  "pdf_pages": 486,
+  "embedded_image_xref": 780,
+  "embedded_image_sha256": "281e87c0d6e3e010c75c22ceb9fee655c50e2973b0ffc3ea5ba2baca71b9a2ca",
+  "pixel_dimensions": [
+    805,
+    1132
+  ],
+  "pdf_page_1based": 261,
+  "printed_page": 226,
+  "ppi": [
+    100.04,
+    100.06
+  ],
+  "scope": "One targeted page only",
+  "operations": "Exact embedded JPEG extraction; lossless rectangular crops of decoded RGB pixels; no enhancement",
+  "rights": "Published catalogue imagery; public access does not establish an open licence. No whole book redistributed."
+}

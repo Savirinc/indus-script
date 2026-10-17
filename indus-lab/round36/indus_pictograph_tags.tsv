@@ -1,0 +1,27 @@
+# Blind tags: assigned 12 Oct 2026 by viewing ICIT font renders of the 250 commonest signs (rebus_tag/sheet1-5.png),
+# BEFORE any candidate-language word form was examined (only coverage counts had been seen). Conservative: only clear objects.
+# sign	concept	confidence
+740	jar/pot	clear
+220	fish	clear
+090	man	clear
+520	arrow	clear
+269	bird	clear
+803	leaf	probable
+806	leaf	probable
+001	one	numeral
+002	two	numeral
+003	three	numeral
+004	four	numeral
+005	five	numeral
+013	three	numeral
+014	four	numeral
+015	five	numeral
+016	six	numeral
+017	seven	numeral
+018	eight	numeral
+031	one	numeral
+032	two	numeral
+033	three	numeral
+034	four	numeral
+035	five	numeral
+036	six	numeral

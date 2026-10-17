@@ -1,0 +1,133 @@
+concept	form	form_ipa_or_simplified	source	notes
+fish	ha:i	haai	JAMBU data/munda/forms.csv [BMED[p64]] m101	"gloss ""fish"" (exact-segment gloss match)"
+fish	hai	hai	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 77, item 1226, set V64]] m101	"gloss ""fish"" (exact-segment gloss match); alternative"
+fish	haku	haku	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 77, item 1226-2, set V64]] m101	"gloss ""fish"" (exact-segment gloss match); alternative"
+fish	hai	hai	lexibank/asjp form MUNDARI-19-1	concepticon 227 (*fish); lang MUNDARI; ASJP supplement
+man	horro	horro	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 153, item 1526-4, set V311]] 	"gloss ""man"" (exact-segment gloss match)"
+man	hɔɽɔ	hoRo	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 153, item 1526-3, set V311]] 	"gloss ""a man, a Munda"" (exact-segment gloss match); alternative"
+man	hɔɽɔ	hoRo	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 153, item 1526-5, set V311]] 	"gloss ""man"" (exact-segment gloss match); alternative"
+man	hɔɽ	hoR	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 153, item 1526-5, set V311]] 	"gloss ""man"" (exact-segment gloss match); alternative"
+man	kora	kora	lexibank/asjp form MUNDARI-17-1	concepticon 1554 (man); lang MUNDARI; ASJP supplement
+man	horo	horo	lexibank/asjp form MUNDARI-18-1	concepticon 683 (*person); lang MUNDARI; alternative form; ASJP supplement
+woman	kuri	kuri	lexibank/asjp form MUNDARI-16-1	concepticon 962 (woman); lang MUNDARI; ASJP supplement
+tree	siŋ	sing	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 131, item 1474-4, set V274]] 	"gloss ""a tree"" (exact-segment gloss match)"
+tree	daru	daru	lexibank/asjp form MUNDARI-23-1	concepticon 906 (*tree); lang MUNDARI; ASJP supplement
+leaf	pa:lha:o	paalhaao	JAMBU data/munda/forms.csv [BMED[p142]] m35	"gloss ""leaf"" (exact-segment gloss match)"
+leaf	sakam	sakam	lexibank/asjp form MUNDARI-25-1	concepticon 628 (*leaf); lang MUNDARI; ASJP supplement
+bow	aʔ	a?	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 70, item 1168, set V6]] 	"gloss ""bow"" (exact-segment gloss match)"
+mountain	buru	buru	JAMBU data/munda/forms.csv [BMED[p26]] m114	"gloss ""hill"" (exact-segment gloss match)"
+mountain	buru	buru	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 141, item 1483, set V278]] m114	"gloss ""hill, mountain"" (exact-segment gloss match); alternative"
+mountain	buru	buru	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 166, item 1587, set V356a]] 	"gloss ""hill, mountain"" (exact-segment gloss match); alternative"
+mountain	buru	buru	lexibank/asjp form MUNDARI-86-1	concepticon 639 (*mountain); lang MUNDARI; ASJP supplement
+sun	siŋi	singi	JAMBU data/munda/forms.csv [BMED[p174]] m75	"gloss ""sun"" (exact-segment gloss match)"
+sun	siNgi	singgi	lexibank/asjp form MUNDARI-72-1	concepticon 1343 (*sun); lang MUNDARI; ASJP supplement
+moon	Cand~u7	tshandu?	lexibank/asjp form MUNDARI-73-1	concepticon 1313 (moon); lang MUNDARI; ASJP supplement
+star	ipil	ipil	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 155, item 1533, set V316]] 	"gloss ""star"" (exact-segment gloss match)"
+star	ipil	ipil	lexibank/asjp form MUNDARI-74-1	concepticon 1430 (*star); lang MUNDARI; ASJP supplement
+water	da:	daa	JAMBU data/munda/forms.csv [BMED[p31]] m1	"gloss ""water"" (exact-segment gloss match)"
+water	daʔ	da?	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 69, item 1164, set V2]] m1	"gloss ""water"" (exact-segment gloss match); alternative"
+water	da7	da?	lexibank/asjp form MUNDARI-75-1	concepticon 948 (*water); lang MUNDARI; ASJP supplement
+river	ɡarra	garra	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 351, item 913-3, set K498]] 	"gloss ""river, stream"" (exact-segment gloss match)"
+fire	seŋɡel	senggel	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 126, item 1439-2, set V252]] m21	"gloss ""fire"" (exact-segment gloss match)"
+fire	sɛŋɡɛl	senggel	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 126, item 1439, set V252]] m21	"gloss ""fire"" (exact-segment gloss match); alternative"
+fire	seNgel	senggel	lexibank/asjp form MUNDARI-82-1	concepticon 221 (*fire); lang MUNDARI; ASJP supplement
+house/roof	oraː	oraa	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 110, item 1376-2, set V200]] 	"gloss ""a house, a building"" (exact-segment gloss match)"
+house/roof	oɽaʔ	oRa?	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 110, item 1376, set V200]] 	"gloss ""a house, a building"" (exact-segment gloss match); alternative"
+plough	siu	siu	JAMBU data/munda/forms.csv [BMED[p175]] m42	"gloss ""plough (v)"" (exact-segment gloss match)"
+plough	si	si	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 87, item 1265, set V99]] m42	"gloss ""to plow"" (exact-segment gloss match); alternative"
+plough	siu	siu	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 87, item 1265, set V99]] m42	"gloss ""to plow"" (exact-segment gloss match); alternative"
+bird	cɛ̃ɽ̃ɛ̃	ceRe	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 103, item 1340, set V167]] 	"gloss ""bird"" (exact-segment gloss match)"
+bird	pio (cɛ̃ɽ̃ɛ̃)	pio	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 87, item 1266, set V100]] 	"gloss ""a bird, the Golden Oriole ({Sci.name} Oriolus mela"" (exact-segment gloss match); alternative"
+bird	Cene	tshene	lexibank/asjp form MUNDARI-20-1	concepticon 937 (bird); lang MUNDARI; ASJP supplement
+bull/ox	uriˀɟ	uri?j	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 163, item 1572, set V345]] 	"gloss ""bullock, cattle in general"" (exact-segment gloss match)"
+goat	mɛrɔm	merom	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 104, item 1353, set V177]] 	"gloss ""goat ({Sci.name} Capra hircus)"" (exact-segment gloss match)"
+dog	seta	seta	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 242, item 297, set K243]] 	"gloss ""dog"" (exact-segment gloss match)"
+dog	seta	seta	lexibank/asjp form MUNDARI-21-1	concepticon 2009 (*dog); lang MUNDARI; ASJP supplement
+tiger	kula:	kulaa	JAMBU data/munda/forms.csv [BMED[p98]] m4	"gloss ""tiger"" (exact-segment gloss match)"
+tiger	kula	kula	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 142, item 1486, set V281]] m4	"gloss ""tiger ({Sci.name} Felis tigris)"" (exact-segment gloss match); alternative"
+snake	biŋ	bing	JAMBU data/munda/forms.csv [BMED[p23]] m41	"gloss ""snake"" (exact-segment gloss match)"
+snake	biŋ	bing	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 165, item 1583, set V353]] m41	"gloss ""snake, serpent"" (exact-segment gloss match); alternative"
+crab	kaʈkɔm	kaTkom	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 225, item 256, set K214]] 	"gloss ""crab"" (exact-segment gloss match)"
+crab	kaɽkɔm	kaRkom	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 225, item 256, set K214]] 	"gloss ""crab"" (exact-segment gloss match); alternative"
+turtle	ˈhɔrɔ	horo	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 171, item 1603, set V368]] 	"gloss ""tortoise"" (exact-segment gloss match)"
+knife	katu	katu	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 159, item 1558, set V334a]] 	"gloss ""a knife"" (exact-segment gloss match)"
+rope	bahɛr	baher	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 392, item 1117, set K530]] 	"gloss ""rope"" (exact-segment gloss match)"
+eye	med'	med	JAMBU data/munda/forms.csv [BMED[p117]] m12	"gloss ""eye"" (exact-segment gloss match)"
+eye	met (mɛˀɖ)	met	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 126, item 1437-2, set V250]] m12	"gloss ""eye"" (exact-segment gloss match); alternative"
+eye	mɛˀd	me?d	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 126, item 1437, set V250]] m12	"gloss ""eye"" (exact-segment gloss match); alternative"
+eye	mɛ̃ˀd	me?d	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 126, item 1437, set V250]] m12	"gloss ""eye"" (exact-segment gloss match); alternative"
+eye	med	med	lexibank/asjp form MUNDARI-40-1	concepticon 1248 (*eye); lang MUNDARI; ASJP supplement
+hand	ti	ti	JAMBU data/munda/forms.csv [BMED[p186]] m8	"gloss ""hand"" (exact-segment gloss match)"
+hand	tihi	tihi	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 84, item 1237-3, set V75]] m8	"gloss ""hand"" (exact-segment gloss match); alternative"
+hand	tiʔ	ti?	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 84, item 1237-2, set V75]] m8	"gloss ""hand"" (exact-segment gloss match); alternative"
+hand	tiʔ	ti?	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 84, item 1237, set V75]] m8	"gloss ""hand"" (exact-segment gloss match); alternative"
+hand	ti	ti	lexibank/asjp form MUNDARI-48-1	concepticon 1277 (*hand); lang MUNDARI; ASJP supplement
+foot	jaŋga	jangga	JAMBU data/munda/forms.csv [HLKS[182]] m10	"gloss ""foot"" (exact-segment gloss match)"
+foot	kaʈa	kaTa	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 72, item 1181, set V19]] 	"gloss ""foot, leg"" (exact-segment gloss match); alternative"
+foot	ɟaŋɡa	jangga	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 169, item 1600, set V365]] m10	"gloss ""foot"" (exact-segment gloss match); alternative"
+foot	kata	kata	lexibank/asjp form MUNDARI-46-1	concepticon 1301 (foot); lang MUNDARI; ASJP supplement
+head	bo	bo	JAMBU data/munda/forms.csv [BMED[p24]] m11	"gloss ""head"" (exact-segment gloss match)"
+head	buho	buho	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 112, item 1382-3, set V206]] m11	"gloss ""head"" (exact-segment gloss match); alternative"
+head	bɔhɔʔ	boho?	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 112, item 1382, set V206]] m11	"gloss ""head"" (exact-segment gloss match); alternative"
+head	bɔːʔ	boo?	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 112, item 1382-2, set V206]] m11	"gloss ""head"" (exact-segment gloss match); alternative"
+head	bo7	bo?	lexibank/asjp form MUNDARI-38-1	concepticon 1256 (head); lang MUNDARI; ASJP supplement
+horn	diriŋ	diring	JAMBU data/munda/forms.csv [BMED[p49]] m7	"gloss ""horn"" (exact-segment gloss match)"
+horn	diriŋ	diring	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 164, item 1575, set V347]] m7	"gloss ""horn"" (exact-segment gloss match); alternative"
+horn	diriN	diring	lexibank/asjp form MUNDARI-34-1	concepticon 1393 (*horn); lang MUNDARI; ASJP supplement
+mouth	moca	moca	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 371, set K509]] 	"gloss ""mouth"" (exact-segment gloss match)"
+mouth	moCa	motsha	lexibank/asjp form MUNDARI-42-1	concepticon 674 (mouth); lang MUNDARI; ASJP supplement
+tooth	data	data	lexibank/asjp form MUNDARI-43-1	concepticon 1380 (*tooth); lang MUNDARI; ASJP supplement
+bone	ja:ŋ	jaang	JAMBU data/munda/forms.csv [BMED[p80]] m2	"gloss ""bone"" (exact-segment gloss match)"
+bone	ɟaŋ	jang	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 70, item 1169, set V7]] m2	"gloss ""bone, seed, kernel"" (exact-segment gloss match); alternative"
+bone	ZaN	zhang	lexibank/asjp form MUNDARI-31-1	concepticon 1394 (*bone); lang MUNDARI; ASJP supplement
+egg	Zarom	zharom	lexibank/asjp form MUNDARI-33-1	concepticon 744 (egg); lang MUNDARI; ASJP supplement
+grain/seed	hita	hita	lexibank/asjp form MUNDARI-24-1	concepticon 714 (seed); lang MUNDARI; ASJP supplement
+flower	baha	baha	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 72, item 1183-2, set V21]] 	"gloss ""flower, blossom, to flower"" (exact-segment gloss match)"
+flower	baː	baa	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 72, item 1183, set V21]] 	"gloss ""flower, blossom, to flower"" (exact-segment gloss match); alternative"
+fig tree	loa	loa	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 75, item 1209, set V47]] 	"gloss ""fig"" (exact-segment gloss match)"
+fig tree	loa-daru	loadaru	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 75, item 1209-1, set V47]] 	"gloss ""fig tree"" (exact-segment gloss match); alternative"
+rain	ga:ma:	gaamaa	JAMBU data/munda/forms.csv [BMED[p58]] m108	"gloss ""rain (n/vi)"" (exact-segment gloss match)"
+rain	ɡama	gama	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 142, item 1487, set V282]] m108	"gloss ""rain, to rain"" (exact-segment gloss match); alternative"
+rain	gama	gama	lexibank/asjp form MUNDARI-76-1	concepticon 2108 (rain); lang MUNDARI; ASJP supplement
+stone	sereŋ	sereng	JAMBU data/munda/forms.csv [BMED[p172]] m20	"gloss ""stone"" (exact-segment gloss match)"
+stone	diri	diri	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 85, item 1246, set V84]] 	"gloss ""stone"" (exact-segment gloss match); alternative"
+stone	diri	diri	lexibank/asjp form MUNDARI-77-1	concepticon 857 (*stone); lang MUNDARI; ASJP supplement
+one	mijaˀd	mija?d	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 264, item 460, set K338]] 	"gloss ""one, one single"" (exact-segment gloss match)"
+one	miaˀd	mia?d	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 264, item 460, set K338]] 	"gloss ""one, one single"" (exact-segment gloss match); alternative"
+one	mɔjaˀd	moja?d	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 264, item 460, set K338]] 	"gloss ""one, one single"" (exact-segment gloss match); alternative"
+one	mɔɟɔˀd	mojo?d	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 264, item 460, set K338]] 	"gloss ""one, one single"" (exact-segment gloss match); alternative"
+one	miyod	mijod	lexibank/asjp form MUNDARI-11-1	concepticon 1493 (*one); lang MUNDARI; ASJP supplement
+two	baria	baria	JAMBU data/munda/forms.csv [BMED[p20]] m78	"gloss ""two"" (exact-segment gloss match)"
+two	bar	bar	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 75, item 1211-3, set V49]] m78	"gloss ""two"" (exact-segment gloss match); alternative"
+two	bar-ea	barea	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 75, item 1211-3, set V49]] m78	"gloss ""two"" (exact-segment gloss match); alternative"
+two	bar	bar	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 75, item 1211, set V49]] m78	"gloss ""two"" (exact-segment gloss match); alternative"
+two	bar	bar	lexibank/asjp form MUNDARI-12-1	concepticon 1498 (*two); lang MUNDARI; ASJP supplement
+three	api	api	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 164, item 1577, set V348]] 	"gloss ""three"" (exact-segment gloss match)"
+three	apia	apia	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 164, item 1577, set V348]] 	"gloss ""three"" (exact-segment gloss match); alternative"
+three	apia	apia	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 164, item 1577-2, set V348]] 	"gloss ""three"" (exact-segment gloss match); alternative"
+three	pɛ	pe	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 164, item 1577-3, set V348]] 	"gloss ""three"" (exact-segment gloss match); alternative"
+four	pon	pon	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 180, item 1640, set V397]] 	"gloss ""four"" (exact-segment gloss match)"
+four	ponea	ponea	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 180, item 1640, set V397]] 	"gloss ""four"" (exact-segment gloss match); alternative"
+four	upunia	upunia	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 180, item 1640-3, set V397]] 	"gloss ""four"" (exact-segment gloss match); alternative"
+four	upunia	upunia	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 180, item 1640-2, set V397]] 	"gloss ""four"" (exact-segment gloss match); alternative"
+five	monaja	monaja	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 177, item 1632-3, set V391]] 	"gloss ""five"" (exact-segment gloss match)"
+five	mɔ̃ɽ̃ɔ̃ĕa	moRoea	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 177, item 1632-2, set V391]] 	"gloss ""five"" (exact-segment gloss match); alternative"
+five	mɔ̃ɽ̃ɛ̃	moRe	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 177, item 1632, set V391]] 	"gloss ""five"" (exact-segment gloss match); alternative"
+five	mɔ̃ɽ̃ɔ̃e	moRoe	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 177, item 1632, set V391]] 	"gloss ""five"" (exact-segment gloss match); alternative"
+six	tur(u)ia:	turiaa	JAMBU data/munda/forms.csv [BMED[p190]] m118	"gloss ""six"" (exact-segment gloss match)"
+six	turui	turui	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 97, item 1320, set V148]] m118	"gloss ""six"" (exact-segment gloss match); alternative"
+six	turuja	turuja	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 97, item 1320, set V148]] m118	"gloss ""six"" (exact-segment gloss match); alternative"
+six	turuɟa	turuja	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 97, item 1320-2, set V148]] m118	"gloss ""six"" (exact-segment gloss match); alternative"
+seven	(e(a:))		JAMBU data/munda/forms.csv [BMED[p53]] m119	"gloss ""seven"" (exact-segment gloss match)"
+seven	e	e	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 269, item 494, set K360]] 	"gloss ""seven"" (exact-segment gloss match); alternative"
+seven	ea	ea	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 269, item 494, set K360]] 	"gloss ""seven"" (exact-segment gloss match); alternative"
+seven	eja	eja	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 269, item 494, set K360]] 	"gloss ""seven"" (exact-segment gloss match); alternative"
+eight	iralia	iralia	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 86, item 1254, set V92]] 	"gloss ""eight"" (exact-segment gloss match)"
+eight	irelia	irelia	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 86, item 1254, set V92]] 	"gloss ""eight"" (exact-segment gloss match); alternative"
+eight	irilia	irilia	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 86, item 1254, set V92]] 	"gloss ""eight"" (exact-segment gloss match); alternative"
+nine	area	area	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 76, item 1216, set V54]] 	"gloss ""nine"" (exact-segment gloss match)"
+nine	aria	aria	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 76, item 1216, set V54]] 	"gloss ""nine"" (exact-segment gloss match); alternative"
+ten	gel(ea)	gel	JAMBU data/munda/forms.csv [BMED[p59]] m122	"gloss ""ten"" (exact-segment gloss match)"
+ten	ɡɛl	gel	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 126, item 1436, set V249]] m122	"gloss ""ten"" (exact-segment gloss match); alternative"
+ten	ɡɛlea	gelea	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 126, item 1436, set V249]] m122	"gloss ""ten"" (exact-segment gloss match); alternative"
+ten	ɡelea	gelea	JAMBU data/other/forms/20260828-pinnow-munda.csv [pinnow1959versuch[p. 126, item 1436, set V249]] m122	"gloss ""ten"" (exact-segment gloss match); alternative"

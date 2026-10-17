@@ -1,0 +1,237 @@
+{
+  "links": [
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/index.html",
+      "text": "972Unsolved Historical Ciphers"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/esterhazy1744.html",
+      "text": "not solvedEsterh\u00e1zy box 636, 17441744"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/geertruidenberg.html",
+      "text": "not solvedTorcy and Villars 17101710"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/sieniawski1708.html",
+      "text": "ciphertext-only break \u00b7 partialVienna to Schenck 1706; Sieniawski letters1706\u20131714"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/hesse1672.html",
+      "text": "external key matched \u00b7 partialHamburg despatch to Kassel 16721672"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/rupert.html",
+      "text": "known key applied \u00b7 partialRupert and Digby-coach ciphers 1645\u2013461645\u201346"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/ferdinand3.html",
+      "text": "key from adjacent plaintext \u00b7 partialFerdinand III and the Cardinal-Infante1634\u201340"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/writeups.html#kind=ct",
+      "text": "30Ciphertext-only break"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/writeups.html#kind=extpt",
+      "text": "12Key from external plaintext"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/writeups.html#kind=adjpt",
+      "text": "41Key from adjacent plaintext"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/writeups.html#kind=extkey",
+      "text": "17External key matched"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/writeups.html#kind=known",
+      "text": "75Known key applied"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/writeups.html#kind=deciph",
+      "text": "32Existing decipherment"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/writeups.html#kind=notsolved",
+      "text": "38Not solved"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/writeups.html#kind=na",
+      "text": "14Not applicable"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/writeups.html#kind=survey",
+      "text": "2Surveys"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/writeups.html",
+      "text": "All 261 write-ups, with filters \u2192"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/writeups.html#src=notes",
+      "text": "Results only in the notes"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/highlights.html",
+      "text": "HighlightsThirty favourites: the funny, the historic, the ingenious"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/glossary.html",
+      "text": "GlossaryHow each cipher was solved, and the terms used"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/famous.html",
+      "text": "The famous onesWhy Voynich, Kryptos, Beale and Dorabella resist"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/atlas.html",
+      "text": "AtlasEvery letter drawn on the map, five centuries of it"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/keys.html",
+      "text": "Key webWhich key read which letter"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/secret.html",
+      "text": "Secret letterSeal a message in a real historical cipher"
+    },
+    {
+      "url": "https://github.com/dbourdeau/cyphersolver",
+      "text": "The code and the working notes on GitHub \u2197"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/catalogue.html",
+      "text": "Catalogue"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/glossary.html#notsolved",
+      "text": "not solved"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#corpora",
+      "text": "The corpora and the signs"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#claims",
+      "text": "The lecture\u2019s claims, checked"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#readings",
+      "text": "The 1994 readings and the Tamil check"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#tablets",
+      "text": "The copper tablets: seven sign = image equations"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#language",
+      "text": "Which language? Sanskrit and Sumerian as control"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#method",
+      "text": "How the rest was done: hypotheses registered bef"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#grammar",
+      "text": "The grammar a reading must fit"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#independent",
+      "text": "A second transcription, and other people\u2019s claim"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#names",
+      "text": "What kind of names?"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#place",
+      "text": "Place and time"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#type",
+      "text": "The language, as far as order shows it"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#prize",
+      "text": "Against the prize: a bench"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#open",
+      "text": "What remains open"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#withdrawn",
+      "text": "What was withdrawn along the way"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#sources",
+      "text": "Sources"
+    },
+    {
+      "url": "https://old.harappa.com/script/indusscript.pdf",
+      "text": "harappa.com"
+    },
+    {
+      "url": "https://github.com/mayig/indus-valley-script-corpus",
+      "text": "mayig/indus-valley-script-corpus"
+    },
+    {
+      "url": "https://github.com/erc-dharma/tfb-eiad-epigraphy",
+      "text": "Early Inscriptions of \u0100ndhrade\u015ba"
+    },
+    {
+      "url": "https://github.com/erc-dharma",
+      "text": "erc-dharma"
+    },
+    {
+      "url": "https://archaeologymag.com/2025/01/prize-offered-to-decipher-indus-valley-script/",
+      "text": "Archaeology Magazine"
+    },
+    {
+      "url": "https://tamildigitallibrary.in/",
+      "text": "Tamil Digital Library"
+    },
+    {
+      "url": "https://github.com/dbourdeau/cyphersolver/tree/main/targets/indus",
+      "text": "targets/indus/"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/index.html",
+      "text": "Overview"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/lineara.html",
+      "text": "Linear A c. 1800\u20131450 BC \u2192"
+    },
+    {
+      "url": "https://github.com/dbourdeau/cyphersolver",
+      "text": "Code \u2197"
+    },
+    {
+      "url": "mailto:dnbourdeau@gmail.com",
+      "text": "Contact \u2709"
+    },
+    {
+      "url": "https://dbourdeau.github.io/cyphersolver/indus.html#top",
+      "text": "Top \u2191"
+    }
+  ],
+  "images": [
+    {
+      "src": "indus_signs.jpg",
+      "alt": "The signs discussed on this page with their ICIT numbers",
+      "loading": "lazy"
+    },
+    {
+      "src": "indus_m414.jpg",
+      "alt": "Impression of the bar seal M-414 from Mohenjo-daro",
+      "loading": "lazy"
+    },
+    {
+      "src": "indus_tablets.jpg",
+      "alt": "The commonest copper-tablet inscriptions with their counts and images",
+      "loading": "lazy"
+    }
+  ]
+}

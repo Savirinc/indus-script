@@ -1,0 +1,323 @@
+{
+  "source_sha256": "cdf76bb0205c25d09a25943d471249f82f90f8dbccc6fbcd7a097aaa761dc616",
+  "folds": 5,
+  "shuffle_replicates": 100,
+  "records": 782,
+  "languages": [
+    {
+      "language": "Badga",
+      "n": 51,
+      "ambiguous_excluded": 3,
+      "correct": 42,
+      "copy_correct": 39,
+      "majority_correct": 7,
+      "unseen_source": 7,
+      "accuracy": 0.8235294117647058,
+      "copy_accuracy": 0.7647058823529411,
+      "shuffle_correct_mean": 16.95,
+      "shuffle_correct_range": [
+        8,
+        29
+      ]
+    },
+    {
+      "language": "Betta_Kurumba",
+      "n": 51,
+      "ambiguous_excluded": 2,
+      "correct": 43,
+      "copy_correct": 38,
+      "majority_correct": 7,
+      "unseen_source": 6,
+      "accuracy": 0.8431372549019608,
+      "copy_accuracy": 0.7450980392156863,
+      "shuffle_correct_mean": 14.23,
+      "shuffle_correct_range": [
+        4,
+        29
+      ]
+    },
+    {
+      "language": "Brahui",
+      "n": 21,
+      "ambiguous_excluded": 2,
+      "correct": 11,
+      "copy_correct": 8,
+      "majority_correct": 2,
+      "unseen_source": 8,
+      "accuracy": 0.5238095238095238,
+      "copy_accuracy": 0.38095238095238093,
+      "shuffle_correct_mean": 4.81,
+      "shuffle_correct_range": [
+        3,
+        8
+      ]
+    },
+    {
+      "language": "Gondi",
+      "n": 33,
+      "ambiguous_excluded": 1,
+      "correct": 27,
+      "copy_correct": 28,
+      "majority_correct": 2,
+      "unseen_source": 8,
+      "accuracy": 0.8181818181818182,
+      "copy_accuracy": 0.8484848484848485,
+      "shuffle_correct_mean": 11.46,
+      "shuffle_correct_range": [
+        5,
+        20
+      ]
+    },
+    {
+      "language": "Kannada",
+      "n": 56,
+      "ambiguous_excluded": 4,
+      "correct": 51,
+      "copy_correct": 34,
+      "majority_correct": 8,
+      "unseen_source": 7,
+      "accuracy": 0.9107142857142857,
+      "copy_accuracy": 0.6071428571428571,
+      "shuffle_correct_mean": 16.46,
+      "shuffle_correct_range": [
+        7,
+        28
+      ]
+    },
+    {
+      "language": "Kodava",
+      "n": 59,
+      "ambiguous_excluded": 2,
+      "correct": 49,
+      "copy_correct": 45,
+      "majority_correct": 6,
+      "unseen_source": 9,
+      "accuracy": 0.8305084745762712,
+      "copy_accuracy": 0.7627118644067796,
+      "shuffle_correct_mean": 17.85,
+      "shuffle_correct_range": [
+        10,
+        32
+      ]
+    },
+    {
+      "language": "Kolami",
+      "n": 30,
+      "ambiguous_excluded": 0,
+      "correct": 26,
+      "copy_correct": 26,
+      "majority_correct": 6,
+      "unseen_source": 5,
+      "accuracy": 0.8666666666666667,
+      "copy_accuracy": 0.8666666666666667,
+      "shuffle_correct_mean": 9.23,
+      "shuffle_correct_range": [
+        5,
+        15
+      ]
+    },
+    {
+      "language": "Kota",
+      "n": 55,
+      "ambiguous_excluded": 1,
+      "correct": 44,
+      "copy_correct": 45,
+      "majority_correct": 5,
+      "unseen_source": 6,
+      "accuracy": 0.8,
+      "copy_accuracy": 0.8181818181818182,
+      "shuffle_correct_mean": 13.91,
+      "shuffle_correct_range": [
+        4,
+        28
+      ]
+    },
+    {
+      "language": "Koya",
+      "n": 35,
+      "ambiguous_excluded": 0,
+      "correct": 30,
+      "copy_correct": 30,
+      "majority_correct": 5,
+      "unseen_source": 4,
+      "accuracy": 0.8571428571428571,
+      "copy_accuracy": 0.8571428571428571,
+      "shuffle_correct_mean": 10.74,
+      "shuffle_correct_range": [
+        4,
+        17
+      ]
+    },
+    {
+      "language": "Kurukh",
+      "n": 25,
+      "ambiguous_excluded": 2,
+      "correct": 15,
+      "copy_correct": 9,
+      "majority_correct": 2,
+      "unseen_source": 7,
+      "accuracy": 0.6,
+      "copy_accuracy": 0.36,
+      "shuffle_correct_mean": 3.43,
+      "shuffle_correct_range": [
+        0,
+        7
+      ]
+    },
+    {
+      "language": "Kuwi",
+      "n": 19,
+      "ambiguous_excluded": 1,
+      "correct": 11,
+      "copy_correct": 12,
+      "majority_correct": 1,
+      "unseen_source": 6,
+      "accuracy": 0.5789473684210527,
+      "copy_accuracy": 0.631578947368421,
+      "shuffle_correct_mean": 5.8,
+      "shuffle_correct_range": [
+        4,
+        10
+      ]
+    },
+    {
+      "language": "Malayalam",
+      "n": 75,
+      "ambiguous_excluded": 4,
+      "correct": 69,
+      "copy_correct": 66,
+      "majority_correct": 15,
+      "unseen_source": 8,
+      "accuracy": 0.92,
+      "copy_accuracy": 0.88,
+      "shuffle_correct_mean": 21.49,
+      "shuffle_correct_range": [
+        11,
+        37
+      ]
+    },
+    {
+      "language": "Malto",
+      "n": 19,
+      "ambiguous_excluded": 3,
+      "correct": 6,
+      "copy_correct": 8,
+      "majority_correct": 0,
+      "unseen_source": 8,
+      "accuracy": 0.3157894736842105,
+      "copy_accuracy": 0.42105263157894735,
+      "shuffle_correct_mean": 2.8,
+      "shuffle_correct_range": [
+        1,
+        7
+      ]
+    },
+    {
+      "language": "Ollari_Gadba",
+      "n": 25,
+      "ambiguous_excluded": 0,
+      "correct": 21,
+      "copy_correct": 21,
+      "majority_correct": 0,
+      "unseen_source": 5,
+      "accuracy": 0.84,
+      "copy_accuracy": 0.84,
+      "shuffle_correct_mean": 6.71,
+      "shuffle_correct_range": [
+        4,
+        11
+      ]
+    },
+    {
+      "language": "Parji",
+      "n": 35,
+      "ambiguous_excluded": 2,
+      "correct": 25,
+      "copy_correct": 21,
+      "majority_correct": 1,
+      "unseen_source": 8,
+      "accuracy": 0.7142857142857143,
+      "copy_accuracy": 0.6,
+      "shuffle_correct_mean": 6.76,
+      "shuffle_correct_range": [
+        2,
+        12
+      ]
+    },
+    {
+      "language": "Telugu",
+      "n": 39,
+      "ambiguous_excluded": 5,
+      "correct": 29,
+      "copy_correct": 30,
+      "majority_correct": 3,
+      "unseen_source": 6,
+      "accuracy": 0.7435897435897436,
+      "copy_accuracy": 0.7692307692307693,
+      "shuffle_correct_mean": 11.34,
+      "shuffle_correct_range": [
+        6,
+        19
+      ]
+    },
+    {
+      "language": "Toda",
+      "n": 49,
+      "ambiguous_excluded": 1,
+      "correct": 40,
+      "copy_correct": 36,
+      "majority_correct": 13,
+      "unseen_source": 5,
+      "accuracy": 0.8163265306122449,
+      "copy_accuracy": 0.7346938775510204,
+      "shuffle_correct_mean": 15.35,
+      "shuffle_correct_range": [
+        9,
+        27
+      ]
+    },
+    {
+      "language": "Tulu",
+      "n": 45,
+      "ambiguous_excluded": 2,
+      "correct": 38,
+      "copy_correct": 31,
+      "majority_correct": 7,
+      "unseen_source": 7,
+      "accuracy": 0.8444444444444444,
+      "copy_accuracy": 0.6888888888888889,
+      "shuffle_correct_mean": 15.51,
+      "shuffle_correct_range": [
+        8,
+        24
+      ]
+    },
+    {
+      "language": "Yeruva",
+      "n": 60,
+      "ambiguous_excluded": 2,
+      "correct": 55,
+      "copy_correct": 49,
+      "majority_correct": 8,
+      "unseen_source": 6,
+      "accuracy": 0.9166666666666666,
+      "copy_accuracy": 0.8166666666666667,
+      "shuffle_correct_mean": 18.4,
+      "shuffle_correct_range": [
+        7,
+        29
+      ]
+    }
+  ],
+  "pooled": {
+    "correct": 632,
+    "copy_correct": 576,
+    "majority_correct": 98,
+    "unseen_source": 126
+  },
+  "shuffle_correct_mean": 223.23,
+  "shuffle_correct_range": [
+    182,
+    262
+  ]
+}

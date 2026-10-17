@@ -1,0 +1,1883 @@
+[
+  {
+    "object": "M-1456",
+    "label": "Loop",
+    "text": [
+      "407",
+      "845",
+      "220",
+      "415"
+    ],
+    "exact_prediction": "Loop",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "3/5",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1457",
+    "label": "Loop",
+    "text": [
+      "790",
+      "740",
+      "100",
+      "405",
+      "590"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": "Goat:8",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/2",
+    "nearest_texts": [
+      [
+        "790",
+        "740",
+        "100",
+        "176",
+        "421",
+        "003"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1470",
+    "label": "Bull1:W",
+    "text": [
+      "617",
+      "142",
+      "001",
+      "595",
+      "095",
+      "717",
+      "747"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": "Bull1:W",
+    "majority_prediction": "Hare",
+    "nearest_distance": "2/7",
+    "nearest_texts": [
+      [
+        "617",
+        "142",
+        "001",
+        "595",
+        "095",
+        "760",
+        "744"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1475",
+    "label": "Buff",
+    "text": [
+      "424",
+      "003",
+      "001",
+      "900",
+      "740",
+      "690",
+      "435",
+      "255"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": "Gaur",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/8",
+    "nearest_texts": [
+      [
+        "423",
+        "003",
+        "001",
+        "900",
+        "740",
+        "690",
+        "435",
+        "255"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1476",
+    "label": "Buff",
+    "text": [
+      "422",
+      "003",
+      "900",
+      "740",
+      "690",
+      "435",
+      "255"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/4",
+    "nearest_texts": [
+      [
+        "424",
+        "003",
+        "001",
+        "900",
+        "740",
+        "690",
+        "435",
+        "255"
+      ],
+      [
+        "423",
+        "003",
+        "001",
+        "900",
+        "740",
+        "690",
+        "435",
+        "255"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1482",
+    "label": "Elep",
+    "text": [
+      "740",
+      "923",
+      "033",
+      "706"
+    ],
+    "exact_prediction": "Elep",
+    "held_family_prediction": "Elep",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/5",
+    "nearest_texts": [
+      [
+        "001",
+        "740",
+        "923",
+        "033",
+        "706"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1483",
+    "label": "Elep",
+    "text": [
+      "740",
+      "923",
+      "033",
+      "706"
+    ],
+    "exact_prediction": "Elep",
+    "held_family_prediction": "Elep",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/5",
+    "nearest_texts": [
+      [
+        "001",
+        "740",
+        "923",
+        "033",
+        "706"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1484",
+    "label": "Elep",
+    "text": [
+      "740",
+      "923",
+      "033",
+      "706"
+    ],
+    "exact_prediction": "Elep",
+    "held_family_prediction": "Elep",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/5",
+    "nearest_texts": [
+      [
+        "001",
+        "740",
+        "923",
+        "033",
+        "706"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1485",
+    "label": "Elep",
+    "text": [
+      "740",
+      "923",
+      "033",
+      "706"
+    ],
+    "exact_prediction": "Elep",
+    "held_family_prediction": "Elep",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/5",
+    "nearest_texts": [
+      [
+        "001",
+        "740",
+        "923",
+        "033",
+        "706"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1486",
+    "label": "Elep",
+    "text": [
+      "740",
+      "923",
+      "033",
+      "706"
+    ],
+    "exact_prediction": "Elep",
+    "held_family_prediction": "Elep",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/5",
+    "nearest_texts": [
+      [
+        "001",
+        "740",
+        "923",
+        "033",
+        "706"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1488",
+    "label": "Elep",
+    "text": [
+      "740",
+      "923",
+      "033",
+      "706"
+    ],
+    "exact_prediction": "Elep",
+    "held_family_prediction": "Elep",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/5",
+    "nearest_texts": [
+      [
+        "001",
+        "740",
+        "923",
+        "033",
+        "706"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1491",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-1492",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-1493",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-1494",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-1517",
+    "label": "Tigr",
+    "text": [
+      "407",
+      "061",
+      "845",
+      "240",
+      "798"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": "Loop",
+    "majority_prediction": "Hare",
+    "nearest_distance": "3/5",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-1521",
+    "label": "Rhin",
+    "text": [
+      "740",
+      "222",
+      "233",
+      "235"
+    ],
+    "exact_prediction": "Rhin",
+    "held_family_prediction": "Comp",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/2",
+    "nearest_texts": [
+      [
+        "740",
+        "100",
+        "233",
+        "003"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-1522",
+    "label": "Rhin",
+    "text": [
+      "740",
+      "222",
+      "233",
+      "235"
+    ],
+    "exact_prediction": "Rhin",
+    "held_family_prediction": "Comp",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/2",
+    "nearest_texts": [
+      [
+        "740",
+        "100",
+        "233",
+        "003"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-1523",
+    "label": "Comp",
+    "text": [
+      "407",
+      "585",
+      "033",
+      "705",
+      "233",
+      "235",
+      "806"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "321",
+        "407",
+        "845",
+        "033",
+        "705",
+        "235"
+      ],
+      [
+        "740",
+        "222",
+        "233",
+        "235"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1529",
+    "label": "Comp",
+    "text": [
+      "617",
+      "142",
+      "597",
+      "032",
+      "904"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": "Bull1:W",
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "617",
+        "142",
+        "001",
+        "595",
+        "095",
+        "717",
+        "747"
+      ],
+      [
+        "617",
+        "142",
+        "001",
+        "595",
+        "095",
+        "760",
+        "744"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-1535",
+    "label": "Anth",
+    "text": [
+      "740",
+      "900",
+      "850",
+      "407",
+      "061",
+      "845",
+      "806"
+    ],
+    "exact_prediction": "Anth",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-1536",
+    "label": "Anth",
+    "text": [
+      "740",
+      "900",
+      "850",
+      "407",
+      "061",
+      "845",
+      "806"
+    ],
+    "exact_prediction": "Anth",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-1540",
+    "label": "Anth",
+    "text": [
+      "740",
+      "900",
+      "850",
+      "407",
+      "061",
+      "845",
+      "806"
+    ],
+    "exact_prediction": "Anth",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-2042",
+    "label": "Elep",
+    "text": [
+      "740",
+      "923",
+      "033",
+      "706"
+    ],
+    "exact_prediction": "Elep",
+    "held_family_prediction": "Elep",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/5",
+    "nearest_texts": [
+      [
+        "001",
+        "740",
+        "923",
+        "033",
+        "706"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-2046",
+    "label": "Gaur",
+    "text": [
+      "740",
+      "752",
+      "615",
+      "503"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "3/4",
+    "nearest_texts": [
+      [
+        "740",
+        "923",
+        "033",
+        "706"
+      ],
+      [
+        "740",
+        "222",
+        "233",
+        "235"
+      ],
+      [
+        "595",
+        "343",
+        "615"
+      ],
+      [
+        "740",
+        "100",
+        "233",
+        "003"
+      ],
+      [
+        "740",
+        "773",
+        "220",
+        "032"
+      ],
+      [
+        "740",
+        "388",
+        "585",
+        "017"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-2050",
+    "label": "Anth",
+    "text": [
+      "740",
+      "900",
+      "850",
+      "407",
+      "061",
+      "845",
+      "806"
+    ],
+    "exact_prediction": "Anth",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-507",
+    "label": "Loop",
+    "text": [
+      "407",
+      "845",
+      "220",
+      "415"
+    ],
+    "exact_prediction": "Loop",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "3/5",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-508",
+    "label": "Loop",
+    "text": [
+      "407",
+      "845",
+      "220",
+      "415"
+    ],
+    "exact_prediction": "Loop",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "3/5",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-519",
+    "label": "Bull1:W",
+    "text": [
+      "617",
+      "142",
+      "001",
+      "595",
+      "095",
+      "760",
+      "744"
+    ],
+    "exact_prediction": "Bull1:W",
+    "held_family_prediction": "Bull1:W",
+    "majority_prediction": "Hare",
+    "nearest_distance": "2/7",
+    "nearest_texts": [
+      [
+        "617",
+        "142",
+        "001",
+        "595",
+        "095",
+        "717",
+        "747"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-520",
+    "label": "Bull1:W",
+    "text": [
+      "617",
+      "142",
+      "001",
+      "595",
+      "095",
+      "760",
+      "744"
+    ],
+    "exact_prediction": "Bull1:W",
+    "held_family_prediction": "Bull1:W",
+    "majority_prediction": "Hare",
+    "nearest_distance": "2/7",
+    "nearest_texts": [
+      [
+        "617",
+        "142",
+        "001",
+        "595",
+        "095",
+        "717",
+        "747"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-522",
+    "label": "Gaur",
+    "text": [
+      "595",
+      "343",
+      "615"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": "Gaur",
+    "majority_prediction": "Hare",
+    "nearest_distance": "3/4",
+    "nearest_texts": [
+      [
+        "740",
+        "752",
+        "615",
+        "503"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-523",
+    "label": "Gaur",
+    "text": [
+      "407",
+      "071",
+      "032"
+    ],
+    "exact_prediction": "Gaur",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "3/4",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "740",
+        "773",
+        "220",
+        "032"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-524",
+    "label": "Gaur",
+    "text": [
+      "407",
+      "071",
+      "032"
+    ],
+    "exact_prediction": "Gaur",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "3/4",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "740",
+        "773",
+        "220",
+        "032"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-525",
+    "label": "Gaur",
+    "text": [
+      "423",
+      "003",
+      "001",
+      "900",
+      "740",
+      "690",
+      "435",
+      "255"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": "Buff",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/8",
+    "nearest_texts": [
+      [
+        "424",
+        "003",
+        "001",
+        "900",
+        "740",
+        "690",
+        "435",
+        "255"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-527",
+    "label": "Elep",
+    "text": [
+      "001",
+      "740",
+      "923",
+      "033",
+      "706"
+    ],
+    "exact_prediction": "Elep",
+    "held_family_prediction": "Elep",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/5",
+    "nearest_texts": [
+      [
+        "740",
+        "923",
+        "033",
+        "706"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-528",
+    "label": "Elep",
+    "text": [
+      "001",
+      "740",
+      "923",
+      "033",
+      "706"
+    ],
+    "exact_prediction": "Elep",
+    "held_family_prediction": "Elep",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/5",
+    "nearest_texts": [
+      [
+        "740",
+        "923",
+        "033",
+        "706"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-529",
+    "label": "Elep",
+    "text": [
+      "001",
+      "740",
+      "923",
+      "033",
+      "706"
+    ],
+    "exact_prediction": "Elep",
+    "held_family_prediction": "Elep",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/5",
+    "nearest_texts": [
+      [
+        "740",
+        "923",
+        "033",
+        "706"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-530",
+    "label": "Elep",
+    "text": [
+      "001",
+      "740",
+      "923",
+      "033",
+      "706"
+    ],
+    "exact_prediction": "Elep",
+    "held_family_prediction": "Elep",
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/5",
+    "nearest_texts": [
+      [
+        "740",
+        "923",
+        "033",
+        "706"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-534",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-535",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-536",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-537",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-538",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-539",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-541",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-542",
+    "label": "Hare",
+    "text": [
+      "407",
+      "321",
+      "407",
+      "845",
+      "033",
+      "705",
+      "235"
+    ],
+    "exact_prediction": "Hare",
+    "held_family_prediction": null,
+    "majority_prediction": "Elep",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ],
+      [
+        "407",
+        "585",
+        "033",
+        "705",
+        "233",
+        "235",
+        "806"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-543",
+    "label": "Goat:8",
+    "text": [
+      "790",
+      "740",
+      "100",
+      "176",
+      "421",
+      "003"
+    ],
+    "exact_prediction": "Goat:8",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/2",
+    "nearest_texts": [
+      [
+        "790",
+        "740",
+        "100",
+        "405",
+        "590"
+      ],
+      [
+        "740",
+        "100",
+        "233",
+        "003"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-544",
+    "label": "Goat:8",
+    "text": [
+      "790",
+      "740",
+      "100",
+      "176",
+      "421",
+      "003"
+    ],
+    "exact_prediction": "Goat:8",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/2",
+    "nearest_texts": [
+      [
+        "790",
+        "740",
+        "100",
+        "405",
+        "590"
+      ],
+      [
+        "740",
+        "100",
+        "233",
+        "003"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-545",
+    "label": "Goat:8",
+    "text": [
+      "790",
+      "740",
+      "100",
+      "176",
+      "421",
+      "003"
+    ],
+    "exact_prediction": "Goat:8",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/2",
+    "nearest_texts": [
+      [
+        "790",
+        "740",
+        "100",
+        "405",
+        "590"
+      ],
+      [
+        "740",
+        "100",
+        "233",
+        "003"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-548",
+    "label": "Goat:8",
+    "text": [
+      "407",
+      "032",
+      "520",
+      "095",
+      "585",
+      "017",
+      "231"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": "Comp",
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "740",
+        "388",
+        "585",
+        "017"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-550",
+    "label": "Comp",
+    "text": [
+      "740",
+      "100",
+      "233",
+      "003"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "1/2",
+    "nearest_texts": [
+      [
+        "740",
+        "222",
+        "233",
+        "235"
+      ],
+      [
+        "790",
+        "740",
+        "100",
+        "176",
+        "421",
+        "003"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-567",
+    "label": "Gaur",
+    "text": [
+      "407",
+      "061",
+      "845",
+      "240",
+      "798"
+    ],
+    "exact_prediction": "Tigr",
+    "held_family_prediction": "Loop",
+    "majority_prediction": "Hare",
+    "nearest_distance": "3/5",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-568",
+    "label": "Tigr",
+    "text": [
+      "407",
+      "061",
+      "845",
+      "240",
+      "798"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": "Loop",
+    "majority_prediction": "Hare",
+    "nearest_distance": "3/5",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-571",
+    "label": "Comp",
+    "text": [
+      "740",
+      "773",
+      "220",
+      "032"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "3/4",
+    "nearest_texts": [
+      [
+        "407",
+        "845",
+        "220",
+        "415"
+      ],
+      [
+        "740",
+        "923",
+        "033",
+        "706"
+      ],
+      [
+        "740",
+        "222",
+        "233",
+        "235"
+      ],
+      [
+        "740",
+        "752",
+        "615",
+        "503"
+      ],
+      [
+        "407",
+        "071",
+        "032"
+      ],
+      [
+        "740",
+        "100",
+        "233",
+        "003"
+      ],
+      [
+        "740",
+        "388",
+        "585",
+        "017"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-578",
+    "label": "Comp",
+    "text": [
+      "740",
+      "388",
+      "585",
+      "017"
+    ],
+    "exact_prediction": null,
+    "held_family_prediction": "Goat:8",
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "032",
+        "520",
+        "095",
+        "585",
+        "017",
+        "231"
+      ]
+    ],
+    "label_absent_in_training": false
+  },
+  {
+    "object": "M-582",
+    "label": "Anth",
+    "text": [
+      "740",
+      "900",
+      "850",
+      "407",
+      "061",
+      "845",
+      "806"
+    ],
+    "exact_prediction": "Anth",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-583",
+    "label": "Anth",
+    "text": [
+      "740",
+      "900",
+      "850",
+      "407",
+      "061",
+      "845",
+      "806"
+    ],
+    "exact_prediction": "Anth",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-585",
+    "label": "Anth",
+    "text": [
+      "740",
+      "900",
+      "850",
+      "407",
+      "061",
+      "845",
+      "806"
+    ],
+    "exact_prediction": "Anth",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-586",
+    "label": "Anth",
+    "text": [
+      "740",
+      "900",
+      "850",
+      "407",
+      "061",
+      "845",
+      "806"
+    ],
+    "exact_prediction": "Anth",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-587",
+    "label": "Anth",
+    "text": [
+      "740",
+      "900",
+      "850",
+      "407",
+      "061",
+      "845",
+      "806"
+    ],
+    "exact_prediction": "Anth",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": true
+  },
+  {
+    "object": "M-588",
+    "label": "Anth",
+    "text": [
+      "740",
+      "900",
+      "850",
+      "407",
+      "061",
+      "845",
+      "806"
+    ],
+    "exact_prediction": "Anth",
+    "held_family_prediction": null,
+    "majority_prediction": "Hare",
+    "nearest_distance": "5/7",
+    "nearest_texts": [
+      [
+        "407",
+        "061",
+        "845",
+        "240",
+        "798"
+      ]
+    ],
+    "label_absent_in_training": true
+  }
+]

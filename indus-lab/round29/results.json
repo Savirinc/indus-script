@@ -1,0 +1,219 @@
+{
+  "source_sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+  "decision": "MIXED",
+  "positive_controls_detected": 4,
+  "conditions": [
+    {
+      "subset": "all",
+      "source": "Harappa",
+      "target": "Mohenjo-daro",
+      "test_types": 741,
+      "excluded_too_long": 22,
+      "excluded_single_ordering": 2,
+      "primary": {
+        "n": 717,
+        "mean_bits": {
+          "U": 7.996998747307925,
+          "POS": 8.676819126405123,
+          "BIG": 5.7412927643034,
+          "POSBIG": 8.195249535024551
+        },
+        "pos_minus_posbig": 0.48156959138057287,
+        "ci95": [
+          0.0999179029376108,
+          0.8438497253028828
+        ],
+        "verdict": "above0"
+      },
+      "negative_control": {
+        "n": 717,
+        "mean_bits": {
+          "U": 7.996998747307925,
+          "POS": 3.686304345489802,
+          "BIG": 11.435245912866405,
+          "POSBIG": 8.898687902672235
+        },
+        "pos_minus_posbig": -5.212383557182433,
+        "ci95": [
+          -5.674527348136282,
+          -4.757017587194721
+        ],
+        "verdict": "below0"
+      },
+      "positive_control": {
+        "n": 717,
+        "mean_bits": {
+          "U": 7.996998747307925,
+          "POS": 10.207466683365004,
+          "BIG": 2.7519782029949504,
+          "POSBIG": 6.736582530675983
+        },
+        "pos_minus_posbig": 3.470884152689022,
+        "ci95": [
+          3.1993253975083147,
+          3.73689111904098
+        ],
+        "verdict": "above0"
+      }
+    },
+    {
+      "subset": "all",
+      "source": "Mohenjo-daro",
+      "target": "Harappa",
+      "test_types": 428,
+      "excluded_too_long": 8,
+      "excluded_single_ordering": 0,
+      "primary": {
+        "n": 420,
+        "mean_bits": {
+          "U": 6.042076153868494,
+          "POS": 8.29071277799605,
+          "BIG": 6.32572681090959,
+          "POSBIG": 9.901525276116889
+        },
+        "pos_minus_posbig": -1.6108124981208367,
+        "ci95": [
+          -2.3658460633478886,
+          -0.841223426583578
+        ],
+        "verdict": "below0"
+      },
+      "negative_control": {
+        "n": 420,
+        "mean_bits": {
+          "U": 6.042076153868494,
+          "POS": 2.377016051683153,
+          "BIG": 9.121415488046674,
+          "POSBIG": 6.783517226941074
+        },
+        "pos_minus_posbig": -4.406501175257921,
+        "ci95": [
+          -5.0394472701986315,
+          -3.7767829988091157
+        ],
+        "verdict": "below0"
+      },
+      "positive_control": {
+        "n": 420,
+        "mean_bits": {
+          "U": 6.042076153868494,
+          "POS": 7.594070895789929,
+          "BIG": 1.6485928624238335,
+          "POSBIG": 4.52774944542501
+        },
+        "pos_minus_posbig": 3.0663214503649194,
+        "ci95": [
+          2.723237449025431,
+          3.4332832391703527
+        ],
+        "verdict": "above0"
+      }
+    },
+    {
+      "subset": "SEAL:S",
+      "source": "Harappa",
+      "target": "Mohenjo-daro",
+      "test_types": 615,
+      "excluded_too_long": 13,
+      "excluded_single_ordering": 4,
+      "primary": {
+        "n": 598,
+        "mean_bits": {
+          "U": 7.399738064528576,
+          "POS": 6.87119488073876,
+          "BIG": 4.747842094216281,
+          "POSBIG": 6.298918469133392
+        },
+        "pos_minus_posbig": 0.5722764116053679,
+        "ci95": [
+          0.23482060638394295,
+          0.9029309780282003
+        ],
+        "verdict": "above0"
+      },
+      "negative_control": {
+        "n": 598,
+        "mean_bits": {
+          "U": 7.399738064528576,
+          "POS": 3.741783654506008,
+          "BIG": 9.53812240750606,
+          "POSBIG": 7.9597875561904194
+        },
+        "pos_minus_posbig": -4.218003901684412,
+        "ci95": [
+          -4.654316849363111,
+          -3.7725390216807173
+        ],
+        "verdict": "below0"
+      },
+      "positive_control": {
+        "n": 598,
+        "mean_bits": {
+          "U": 7.399738064528576,
+          "POS": 8.084368293277546,
+          "BIG": 2.8633587535421,
+          "POSBIG": 5.627608540997997
+        },
+        "pos_minus_posbig": 2.456759752279549,
+        "ci95": [
+          2.1709259043386346,
+          2.7465255239661173
+        ],
+        "verdict": "above0"
+      }
+    },
+    {
+      "subset": "SEAL:S",
+      "source": "Mohenjo-daro",
+      "target": "Harappa",
+      "test_types": 123,
+      "excluded_too_long": 5,
+      "excluded_single_ordering": 0,
+      "primary": {
+        "n": 118,
+        "mean_bits": {
+          "U": 8.068683446188494,
+          "POS": 8.121554589717068,
+          "BIG": 4.88600981692671,
+          "POSBIG": 7.245664530078662
+        },
+        "pos_minus_posbig": 0.8758900596384058,
+        "ci95": [
+          -0.14489121920993436,
+          1.8162879545716357
+        ],
+        "verdict": "includes0"
+      },
+      "negative_control": {
+        "n": 118,
+        "mean_bits": {
+          "U": 8.068683446188494,
+          "POS": 3.183400136658245,
+          "BIG": 11.07734035909237,
+          "POSBIG": 8.498840619185497
+        },
+        "pos_minus_posbig": -5.315440482527252,
+        "ci95": [
+          -6.653527315045522,
+          -4.115620527029564
+        ],
+        "verdict": "below0"
+      },
+      "positive_control": {
+        "n": 118,
+        "mean_bits": {
+          "U": 8.068683446188494,
+          "POS": 9.49369728670488,
+          "BIG": 2.3180979921632816,
+          "POSBIG": 6.049895402303045
+        },
+        "pos_minus_posbig": 3.4438018844018354,
+        "ci95": [
+          2.7700931923958794,
+          4.17018251574044
+        ],
+        "verdict": "above0"
+      }
+    }
+  ]
+}

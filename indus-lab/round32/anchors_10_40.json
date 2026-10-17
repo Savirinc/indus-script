@@ -1,0 +1,16 @@
+[
+  {
+    "anchors": 10,
+    "anchored_token_share": 0.06809620399884092,
+    "nonanchored_token_accuracy": 0.4779228855721393,
+    "best_obj": -29472.818139888765,
+    "true_obj": -29965.75974931837
+  },
+  {
+    "anchors": 40,
+    "anchored_token_share": 0.23848159953636627,
+    "nonanchored_token_accuracy": 0.7222222222222222,
+    "best_obj": -28800.75832455956,
+    "true_obj": -29965.75974931837
+  }
+]

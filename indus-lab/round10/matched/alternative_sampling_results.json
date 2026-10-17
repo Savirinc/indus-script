@@ -1,0 +1,416 @@
+{
+  "status": "Exploratory alternative sampling sensitivity, not independent replication.",
+  "definition": "Raw complete Y >=3-sign records, no000/999, raw TAB:B/SEAL:S only. Group exact unordered multiset within site; exclude conflicting target labels within such groups; deterministic lexicographic ID representative. Shared patterns across cities retained. Physical-object/excavation links and near-duplicate formulas are not consolidated, so rows need not be independent objects.",
+  "eligible_rows": {
+    "Harappa": 556,
+    "Mohenjo-daro": 765
+  },
+  "conflicting_multiset_groups": {
+    "Harappa": 4,
+    "Mohenjo-daro": 2
+  },
+  "by_site": {
+    "Harappa": {
+      "groups": 371,
+      "table_rows_tablet_seal_cols_sign_present_absent": [
+        [
+          78,
+          135
+        ],
+        [
+          5,
+          153
+        ]
+      ],
+      "sign_rate_tablet": 0.36619718309859156,
+      "sign_rate_seal": 0.03164556962025317,
+      "unadjusted_odds_ratio": 17.68,
+      "fisher_two_sided_p": 2.1969518827940032e-16,
+      "length_conditioned": {
+        "exact_two_sided_p": 3.6182540758904783e-12,
+        "observed_tablets_with_sign": 78,
+        "null_expected_tablets_with_sign": 53.834467024948225,
+        "mantel_haenszel_odds_ratio": 17.479482602470817,
+        "informative_strata": 5,
+        "informative_groups": 351,
+        "conditional_common_odds_ratio": 17.19001133032895,
+        "conditional_exact_95pct_ci": [
+          6.09242427892856,
+          67.17234541409692
+        ]
+      },
+      "strata": [
+        {
+          "site": "Harappa",
+          "length": 3,
+          "table": [
+            [
+              26,
+              50
+            ],
+            [
+              0,
+              25
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 4,
+          "table": [
+            [
+              33,
+              36
+            ],
+            [
+              2,
+              27
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 5,
+          "table": [
+            [
+              12,
+              30
+            ],
+            [
+              2,
+              38
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 6,
+          "table": [
+            [
+              5,
+              13
+            ],
+            [
+              0,
+              28
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 7,
+          "table": [
+            [
+              2,
+              4
+            ],
+            [
+              0,
+              18
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 8,
+          "table": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              6
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 9,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              5
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 10,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              5
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 11,
+          "table": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 13,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    "Mohenjo-daro": {
+      "groups": 734,
+      "table_rows_tablet_seal_cols_sign_present_absent": [
+        [
+          10,
+          30
+        ],
+        [
+          36,
+          658
+        ]
+      ],
+      "sign_rate_tablet": 0.25,
+      "sign_rate_seal": 0.05187319884726225,
+      "unadjusted_odds_ratio": 6.092592592592593,
+      "fisher_two_sided_p": 7.208207135759287e-05,
+      "length_conditioned": {
+        "exact_two_sided_p": 7.842448457812745e-05,
+        "observed_tablets_with_sign": 10,
+        "null_expected_tablets_with_sign": 2.6032935803631796,
+        "mantel_haenszel_odds_ratio": 6.319705998143114,
+        "informative_strata": 5,
+        "informative_groups": 649,
+        "conditional_common_odds_ratio": 6.260555097790771,
+        "conditional_exact_95pct_ci": [
+          2.4555555063094907,
+          15.050412563698028
+        ]
+      },
+      "strata": [
+        {
+          "site": "Mohenjo-daro",
+          "length": 3,
+          "table": [
+            [
+              2,
+              4
+            ],
+            [
+              14,
+              106
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 4,
+          "table": [
+            [
+              4,
+              8
+            ],
+            [
+              7,
+              117
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 5,
+          "table": [
+            [
+              1,
+              6
+            ],
+            [
+              8,
+              159
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 6,
+          "table": [
+            [
+              2,
+              5
+            ],
+            [
+              3,
+              118
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 7,
+          "table": [
+            [
+              1,
+              4
+            ],
+            [
+              3,
+              77
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 8,
+          "table": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              37
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 9,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              25
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 10,
+          "table": [
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              8
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 11,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              5
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 12,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 13,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              4
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 17,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "material_tables": {
+    "Harappa": {
+      "TAB:B": {
+        "Faience": 129,
+        "-": 36,
+        "Steatite": 7,
+        "Clay": 41
+      },
+      "SEAL:S": {
+        "Steatite": 134,
+        "-": 23,
+        "Clay": 1
+      }
+    },
+    "Mohenjo-daro": {
+      "TAB:B": {
+        "Faience": 9,
+        "Clay": 18,
+        "-": 12,
+        "Paste": 1
+      },
+      "SEAL:S": {
+        "Steatite": 628,
+        "Silver": 2,
+        "Faience": 12,
+        "-": 51,
+        "Clay": 1
+      }
+    }
+  }
+}

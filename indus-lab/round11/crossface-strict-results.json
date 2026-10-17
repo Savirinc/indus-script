@@ -1,0 +1,1793 @@
+[
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-740-176+"
+    ],
+    "stroke_variants": [
+      32,
+      33,
+      34
+    ],
+    "records": [
+      {
+        "stem": "260",
+        "id": "260.1",
+        "cisi": "-",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2355542"
+      },
+      {
+        "stem": "265",
+        "id": "265.2",
+        "cisi": "H-1273",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2568508"
+      },
+      {
+        "stem": "1260",
+        "id": "1260.2",
+        "cisi": "H-233",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "12544387"
+      },
+      {
+        "stem": "1330",
+        "id": "1330.2",
+        "cisi": "H-308",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2569"
+      },
+      {
+        "stem": "1331",
+        "id": "1331.2",
+        "cisi": "H-309",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2056(1)"
+      },
+      {
+        "stem": "1334",
+        "id": "1334.2",
+        "cisi": "H-312",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2483"
+      },
+      {
+        "stem": "1335",
+        "id": "1335.2",
+        "cisi": "H-313",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2648"
+      },
+      {
+        "stem": "1336",
+        "id": "1336.2",
+        "cisi": "H-314",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "3091"
+      },
+      {
+        "stem": "1337",
+        "id": "1337.2",
+        "cisi": "H-315",
+        "type": "TAB:I",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "10185c"
+      },
+      {
+        "stem": "1338",
+        "id": "1338.2",
+        "cisi": "H-316",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2480"
+      },
+      {
+        "stem": "1339",
+        "id": "1339.2",
+        "cisi": "H-317",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "3025"
+      },
+      {
+        "stem": "1371",
+        "id": "1371.2",
+        "cisi": "H-352",
+        "type": "SEAL:R",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "1278575"
+      },
+      {
+        "stem": "1372",
+        "id": "1372.2",
+        "cisi": "H-353",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "1348"
+      },
+      {
+        "stem": "1373",
+        "id": "1373.2",
+        "cisi": "H-354",
+        "type": "SEAL:R",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "1278"
+      },
+      {
+        "stem": "1374",
+        "id": "1374.2",
+        "cisi": "H-355",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "1274"
+      },
+      {
+        "stem": "1374",
+        "id": "1374.3",
+        "cisi": "H-355",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "1274"
+      },
+      {
+        "stem": "1375",
+        "id": "1375.1",
+        "cisi": "H-356",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2478"
+      },
+      {
+        "stem": "1376",
+        "id": "1376.2",
+        "cisi": "H-357",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2917"
+      },
+      {
+        "stem": "1813",
+        "id": "1813.1",
+        "cisi": "H-933",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+034-700+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "G252"
+      },
+      {
+        "stem": "1814",
+        "id": "1814.1",
+        "cisi": "H-934",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "11380"
+      },
+      {
+        "stem": "1815",
+        "id": "1815.2",
+        "cisi": "H-935",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "1280509"
+      },
+      {
+        "stem": "1816",
+        "id": "1816.2",
+        "cisi": "H-936",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "1242"
+      },
+      {
+        "stem": "1837",
+        "id": "1837.1",
+        "cisi": "H-960",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "1261543"
+      },
+      {
+        "stem": "1839",
+        "id": "1839.2",
+        "cisi": "H-962",
+        "type": "TAB:I",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2642548"
+      },
+      {
+        "stem": "1855",
+        "id": "1855.2",
+        "cisi": "H-978",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "1277"
+      },
+      {
+        "stem": "1856",
+        "id": "1856.1",
+        "cisi": "H-979",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "3534b"
+      },
+      {
+        "stem": "4073",
+        "id": "4073.2",
+        "cisi": "H-1302",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2366"
+      },
+      {
+        "stem": "4077",
+        "id": "4077.2",
+        "cisi": "H-1303",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2357879"
+      },
+      {
+        "stem": "4085",
+        "id": "4085.2",
+        "cisi": "H-1344",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "-752"
+      },
+      {
+        "stem": "4086",
+        "id": "4086.2",
+        "cisi": "H-1345",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "3509902"
+      },
+      {
+        "stem": "4087",
+        "id": "4087.2",
+        "cisi": "H-1346",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2894900"
+      },
+      {
+        "stem": "4088",
+        "id": "4088.2",
+        "cisi": "H-1347",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "1262896"
+      },
+      {
+        "stem": "5470",
+        "id": "5470.2",
+        "cisi": "H-1304",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-176+"
+        ],
+        "excavation-idno": "2480"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+156-003+",
+      "+861-003+"
+    ],
+    "stroke_variants": [
+      33,
+      34
+    ],
+    "records": [
+      {
+        "stem": "693",
+        "id": "693.1",
+        "cisi": "H-2238",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H95-2613Figure 12.18"
+      },
+      {
+        "stem": "769",
+        "id": "769.2",
+        "cisi": "H-2239",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H96-3046Figure 12.16"
+      },
+      {
+        "stem": "832",
+        "id": "832.2",
+        "cisi": "H-2229",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3290Figure 12.06"
+      },
+      {
+        "stem": "844",
+        "id": "844.1",
+        "cisi": "H-2221",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3304Figure 12.02"
+      },
+      {
+        "stem": "845",
+        "id": "845.2",
+        "cisi": "H-2222",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3305Figure 12.03"
+      },
+      {
+        "stem": "846",
+        "id": "846.2",
+        "cisi": "H-2223",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3306Figure 12.14"
+      },
+      {
+        "stem": "847",
+        "id": "847.2",
+        "cisi": "H-2236",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3307Figure 12.15"
+      },
+      {
+        "stem": "850",
+        "id": "850.1",
+        "cisi": "H-2230",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3311Figure 12.19"
+      },
+      {
+        "stem": "851",
+        "id": "851.2",
+        "cisi": "H-2220",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3312Figure 12.04"
+      },
+      {
+        "stem": "852",
+        "id": "852.1",
+        "cisi": "H-2226",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3313Figure 12.13"
+      },
+      {
+        "stem": "853",
+        "id": "853.1",
+        "cisi": "H-2227",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3314Figure 12.05"
+      },
+      {
+        "stem": "854",
+        "id": "854.2",
+        "cisi": "H-2225",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3315Figure 12.07"
+      },
+      {
+        "stem": "855",
+        "id": "855.1",
+        "cisi": "H-2228",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3316Figure 12.12"
+      },
+      {
+        "stem": "856",
+        "id": "856.2",
+        "cisi": "H-2219",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3317Figure 12.10"
+      },
+      {
+        "stem": "857",
+        "id": "857.2",
+        "cisi": "H-2224",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3318Figure 12.08"
+      },
+      {
+        "stem": "858",
+        "id": "858.2",
+        "cisi": "H-2218",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3319Figure 12.11"
+      },
+      {
+        "stem": "859",
+        "id": "859.2",
+        "cisi": "H-2231",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3320Figure 12.21"
+      },
+      {
+        "stem": "860",
+        "id": "860.2",
+        "cisi": "H-2232",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3321Figure 12.23"
+      },
+      {
+        "stem": "861",
+        "id": "861.2",
+        "cisi": "H-2234",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3322Figure 12.22"
+      },
+      {
+        "stem": "870",
+        "id": "870.1",
+        "cisi": "H-2235",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3333Figure 12.09"
+      },
+      {
+        "stem": "878",
+        "id": "878.1",
+        "cisi": "H-2233",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+156-003+",
+          "+861-003+"
+        ],
+        "excavation-idno": "H97-3341Figure 12.20"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+368-900+"
+    ],
+    "stroke_variants": [
+      33,
+      34
+    ],
+    "records": [
+      {
+        "stem": "732",
+        "id": "732.1",
+        "cisi": "H-2131",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+368-900+"
+        ],
+        "excavation-idno": "H96-2738Figure 17.04"
+      },
+      {
+        "stem": "1329",
+        "id": "1329.2",
+        "cisi": "H-307",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+368-900+"
+        ],
+        "excavation-idno": "1963"
+      },
+      {
+        "stem": "1807",
+        "id": "1807.1",
+        "cisi": "H-927",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+368-900+"
+        ],
+        "excavation-idno": "1172502"
+      },
+      {
+        "stem": "1808",
+        "id": "1808.1",
+        "cisi": "H-928",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+368-900+"
+        ],
+        "excavation-idno": "1219"
+      },
+      {
+        "stem": "1809",
+        "id": "1809.1",
+        "cisi": "H-929",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+368-900+"
+        ],
+        "excavation-idno": "4253"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+520-220-415+"
+    ],
+    "stroke_variants": [
+      32,
+      34
+    ],
+    "records": [
+      {
+        "stem": "841",
+        "id": "841.2",
+        "cisi": "H-2146",
+        "type": "TAB:I",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+520-220-415+"
+        ],
+        "excavation-idno": "H97-3300Figure 16.14"
+      },
+      {
+        "stem": "1341",
+        "id": "1341.2",
+        "cisi": "H-319",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+520-220-415+"
+        ],
+        "excavation-idno": "10060544"
+      },
+      {
+        "stem": "1818",
+        "id": "1818.2",
+        "cisi": "H-938",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+034-700+",
+        "other_texts": [
+          "+520-220-415+"
+        ],
+        "excavation-idno": "8650b458"
+      },
+      {
+        "stem": "1819",
+        "id": "1819.1",
+        "cisi": "H-939",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+520-220-415+"
+        ],
+        "excavation-idno": "J402"
+      },
+      {
+        "stem": "4069",
+        "id": "4069.2",
+        "cisi": "H-1284",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+520-220-415+"
+        ],
+        "excavation-idno": "-458"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-137+"
+    ],
+    "stroke_variants": [
+      33,
+      34
+    ],
+    "records": [
+      {
+        "stem": "392",
+        "id": "392.1",
+        "cisi": "H-1858",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+033-700+",
+        "other_texts": [
+          "+400-137+"
+        ],
+        "excavation-idno": "H2000-4413Figure 41.03"
+      },
+      {
+        "stem": "598",
+        "id": "598.1",
+        "cisi": "H-1859",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+033-700+",
+        "other_texts": [
+          "+400-137+"
+        ],
+        "excavation-idno": "H94-2499Figure 21.07"
+      },
+      {
+        "stem": "1246",
+        "id": "1246.1",
+        "cisi": "H-215",
+        "type": "TAB:B",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-137+"
+        ],
+        "excavation-idno": "13155"
+      },
+      {
+        "stem": "1853",
+        "id": "1853.2",
+        "cisi": "H-976",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-137+"
+        ],
+        "excavation-idno": "12102588"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+520-240+"
+    ],
+    "stroke_variants": [
+      33,
+      34
+    ],
+    "records": [
+      {
+        "stem": "437",
+        "id": "437.1",
+        "cisi": "H-1912",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+033-700+",
+        "other_texts": [
+          "+520-240+"
+        ],
+        "excavation-idno": "H2000-5041Figure 43.15"
+      },
+      {
+        "stem": "515",
+        "id": "515.1",
+        "cisi": "H-1908",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+520-240+"
+        ],
+        "excavation-idno": "H90-1627Figure 13.46 (f)"
+      },
+      {
+        "stem": "743",
+        "id": "743.2",
+        "cisi": "H-1907",
+        "type": "TAB:B",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+520-240+"
+        ],
+        "excavation-idno": "H96-2768Figure 21.07"
+      },
+      {
+        "stem": "1708",
+        "id": "1708.2",
+        "cisi": "H-819",
+        "type": "TAB:B",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+520-240+"
+        ],
+        "excavation-idno": "12955"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+200-705-380+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "270",
+        "id": "270.2",
+        "cisi": "H-1156",
+        "type": "TAB:B",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+200-705-380+"
+        ],
+        "excavation-idno": "2787691"
+      },
+      {
+        "stem": "395",
+        "id": "395.1",
+        "cisi": "H-1994",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+200-705-380+"
+        ],
+        "excavation-idno": "H2000-4427Figure 41.04"
+      },
+      {
+        "stem": "1759",
+        "id": "1759.2",
+        "cisi": "H-876",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+200-705-380+"
+        ],
+        "excavation-idno": "J466675"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-740-032-027+"
+    ],
+    "stroke_variants": [
+      33,
+      34
+    ],
+    "records": [
+      {
+        "stem": "549",
+        "id": "549.1",
+        "cisi": "H-2208",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+034-700+",
+        "other_texts": [
+          "+400-740-032-027+"
+        ],
+        "excavation-idno": "H94-2179Figure 27.04"
+      },
+      {
+        "stem": "659",
+        "id": "659.1",
+        "cisi": "H-2204",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-032-027+"
+        ],
+        "excavation-idno": "H95-2482Figure 27.06"
+      },
+      {
+        "stem": "1325",
+        "id": "1325.2",
+        "cisi": "H-303",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-032-027+"
+        ],
+        "excavation-idno": "11291444"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-236-220+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "751",
+        "id": "751.1",
+        "cisi": "H-1872",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-236-220+"
+        ],
+        "excavation-idno": "H96-2778Figure 17.13"
+      },
+      {
+        "stem": "927",
+        "id": "927.1",
+        "cisi": "H-1941",
+        "type": "TAB:B",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+400-236-220+"
+        ],
+        "excavation-idno": "H98-3443Figure 25.08"
+      },
+      {
+        "stem": "3969",
+        "id": "3969.2",
+        "cisi": "H-1124",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-236-220+"
+        ],
+        "excavation-idno": "-451"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-740-817-491+"
+    ],
+    "stroke_variants": [
+      32,
+      33,
+      34
+    ],
+    "records": [
+      {
+        "stem": "801",
+        "id": "801.1",
+        "cisi": "H-2173",
+        "type": "TAB:I",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+400-740-817-491+"
+        ],
+        "excavation-idno": "H96-3132Figure 20.06"
+      },
+      {
+        "stem": "1052",
+        "id": "1052.2",
+        "cisi": "-",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-817-491+"
+        ],
+        "excavation-idno": "J229510"
+      },
+      {
+        "stem": "1782",
+        "id": "1782.2",
+        "cisi": "H-900",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-817-491+"
+        ],
+        "excavation-idno": "10059455/504"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+740-690-636-240+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "1058",
+        "id": "1058.2",
+        "cisi": "H-1308",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+740-690-636-240+"
+        ],
+        "excavation-idno": "J582445"
+      },
+      {
+        "stem": "1842",
+        "id": "1842.2",
+        "cisi": "H-965",
+        "type": "TAB:I",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+740-690-636-240+"
+        ],
+        "excavation-idno": "3397562"
+      },
+      {
+        "stem": "1843",
+        "id": "1843.2",
+        "cisi": "H-966",
+        "type": "TAB:I",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+740-690-636-240+"
+        ],
+        "excavation-idno": "13823"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-740-892-617+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "1256",
+        "id": "1256.2",
+        "cisi": "H-229",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-892-617+"
+        ],
+        "excavation-idno": "5974674"
+      },
+      {
+        "stem": "1735",
+        "id": "1735.2",
+        "cisi": "H-849",
+        "type": "TAB:B",
+        "stroke_code": 32,
+        "quantity_text": "+032-700+",
+        "other_texts": [
+          "+400-740-892-617+"
+        ],
+        "excavation-idno": "J359645"
+      },
+      {
+        "stem": "1736",
+        "id": "1736.2",
+        "cisi": "H-850",
+        "type": "TAB:B",
+        "stroke_code": 32,
+        "quantity_text": "+032-700+",
+        "other_texts": [
+          "+400-740-892-617+"
+        ],
+        "excavation-idno": "J619642"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-892-831+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "249",
+        "id": "249.2",
+        "cisi": "H-1133",
+        "type": "TAB:B",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+400-892-831+"
+        ],
+        "excavation-idno": "12562610"
+      },
+      {
+        "stem": "863",
+        "id": "863.1",
+        "cisi": "H-1896",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-892-831+"
+        ],
+        "excavation-idno": "H97-3325Figure 14.08"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+520-220+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "282",
+        "id": "282.1",
+        "cisi": "H-1330",
+        "type": "TAB:I",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+520-220+"
+        ],
+        "excavation-idno": "3961551"
+      },
+      {
+        "stem": "1351",
+        "id": "1351.2",
+        "cisi": "H-329",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+520-220+"
+        ],
+        "excavation-idno": "-"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-740-061-140+"
+    ],
+    "stroke_variants": [
+      33,
+      34
+    ],
+    "records": [
+      {
+        "stem": "382",
+        "id": "382.1",
+        "cisi": "H-1894",
+        "type": "TAB:B",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-061-140+"
+        ],
+        "excavation-idno": "H2000-4391Figure 37.09"
+      },
+      {
+        "stem": "921",
+        "id": "921.1",
+        "cisi": "H-1929",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-061-140+"
+        ],
+        "excavation-idno": "H98-3435Figure 25.07"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-740-100-240+"
+    ],
+    "stroke_variants": [
+      32,
+      34
+    ],
+    "records": [
+      {
+        "stem": "406",
+        "id": "406.1",
+        "cisi": "H-1895",
+        "type": "TAB:B",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+400-740-100-240+"
+        ],
+        "excavation-idno": "H2000-4457Figure 39.03"
+      },
+      {
+        "stem": "1276",
+        "id": "1276.2",
+        "cisi": "H-251",
+        "type": "TAB:B",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+400-740-100-240+"
+        ],
+        "excavation-idno": "8800342"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+740-760-840-799+",
+      "+824-032-578-415+"
+    ],
+    "stroke_variants": [
+      33,
+      34
+    ],
+    "records": [
+      {
+        "stem": "407",
+        "id": "407.1",
+        "cisi": "H-2213",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+740-760-840-799+",
+          "+824-032-578-415+"
+        ],
+        "excavation-idno": "H2000-4459Figure 38.07"
+      },
+      {
+        "stem": "484",
+        "id": "484.1",
+        "cisi": "H-2246",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+740-760-840-799+",
+          "+824-032-578-415+"
+        ],
+        "excavation-idno": "H2001-5145Figure 47.05"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+740-642-240-060-692+"
+    ],
+    "stroke_variants": [
+      33,
+      34
+    ],
+    "records": [
+      {
+        "stem": "424",
+        "id": "424.1",
+        "cisi": "H-1845",
+        "type": "TAB:B",
+        "stroke_code": 34,
+        "quantity_text": "+700-034+",
+        "other_texts": [
+          "+740-642-240-060-692+"
+        ],
+        "excavation-idno": "H2000-4484Figure 42.05"
+      },
+      {
+        "stem": "1263",
+        "id": "1263.2",
+        "cisi": "H-237",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+740-642-240-060-692+"
+        ],
+        "excavation-idno": "-"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+740-690-435-255+"
+    ],
+    "stroke_variants": [
+      33,
+      34
+    ],
+    "records": [
+      {
+        "stem": "516",
+        "id": "516.1",
+        "cisi": "H-1938",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+033-700+",
+        "other_texts": [
+          "+740-690-435-255+"
+        ],
+        "excavation-idno": "H90-1628Figure 13.44 (f)"
+      },
+      {
+        "stem": "938",
+        "id": "938.1",
+        "cisi": "H-1937",
+        "type": "TAB:B",
+        "stroke_code": 34,
+        "quantity_text": "+034-700+",
+        "other_texts": [
+          "+740-690-435-255+"
+        ],
+        "excavation-idno": "H98-3504Figure 25.09"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-740-032-028+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "544",
+        "id": "544.1",
+        "cisi": "H-2115",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-032-028+"
+        ],
+        "excavation-idno": "H94-2172Figure 20.d"
+      },
+      {
+        "stem": "1344",
+        "id": "1344.2",
+        "cisi": "H-322",
+        "type": "TAB:I",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+400-740-032-028+"
+        ],
+        "excavation-idno": "-"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-740-920-320-233-240-798+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "569",
+        "id": "569.1",
+        "cisi": "H-1922",
+        "type": "TAB:B",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+400-740-920-320-233-240-798+"
+        ],
+        "excavation-idno": "H94-2247Figure 20.b"
+      },
+      {
+        "stem": "1273",
+        "id": "1273.2",
+        "cisi": "H-248",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-740-920-320-233-240-798+"
+        ],
+        "excavation-idno": "12588371"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-520-400-352+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "917",
+        "id": "917.1",
+        "cisi": "H-1933",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+400-520-400-352+"
+        ],
+        "excavation-idno": "H97-3422Figure 14.09"
+      },
+      {
+        "stem": "1244",
+        "id": "1244.2",
+        "cisi": "H-213",
+        "type": "TAB:B",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+400-520-400-352+"
+        ],
+        "excavation-idno": "13011"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+526-550-233+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "945",
+        "id": "945.1",
+        "cisi": "H-2142",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+526-550-233+"
+        ],
+        "excavation-idno": "H98-3513Figure 24.08"
+      },
+      {
+        "stem": "1845",
+        "id": "1845.1",
+        "cisi": "H-968",
+        "type": "TAB:I",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+526-550-233+"
+        ],
+        "excavation-idno": "H88-1199"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+740-337-484+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "1247",
+        "id": "1247.2",
+        "cisi": "H-216",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+740-337-484+"
+        ],
+        "excavation-idno": "-"
+      },
+      {
+        "stem": "1248",
+        "id": "1248.2",
+        "cisi": "H-217",
+        "type": "TAB:B",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+740-337-484+"
+        ],
+        "excavation-idno": "-"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+415-035-171+"
+    ],
+    "stroke_variants": [
+      33,
+      36
+    ],
+    "records": [
+      {
+        "stem": "1250",
+        "id": "1250.2",
+        "cisi": "H-219",
+        "type": "TAB:B",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+415-035-171+"
+        ],
+        "excavation-idno": "12952"
+      },
+      {
+        "stem": "1692",
+        "id": "1692.1",
+        "cisi": "H-801",
+        "type": "TAB:B",
+        "stroke_code": 36,
+        "quantity_text": "+700-036+",
+        "other_texts": [
+          "+415-035-171+"
+        ],
+        "excavation-idno": "H88-1198"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+400-740-336-176+"
+    ],
+    "stroke_variants": [
+      32,
+      34
+    ],
+    "records": [
+      {
+        "stem": "1362",
+        "id": "1362.2",
+        "cisi": "H-341",
+        "type": "TAB:I",
+        "stroke_code": 32,
+        "quantity_text": "+700-032+",
+        "other_texts": [
+          "+400-740-336-176+"
+        ],
+        "excavation-idno": "4080419"
+      },
+      {
+        "stem": "1774",
+        "id": "1774.2",
+        "cisi": "H-892",
+        "type": "TAB:I",
+        "stroke_code": 34,
+        "quantity_text": "+034-700+",
+        "other_texts": [
+          "+400-740-336-176+"
+        ],
+        "excavation-idno": "995451"
+      }
+    ]
+  },
+  {
+    "site": "Harappa",
+    "other_texts": [
+      "+526-550-220+"
+    ],
+    "stroke_variants": [
+      32,
+      33
+    ],
+    "records": [
+      {
+        "stem": "1364",
+        "id": "1364.2",
+        "cisi": "H-344",
+        "type": "TAB:I",
+        "stroke_code": 33,
+        "quantity_text": "+700-033+",
+        "other_texts": [
+          "+526-550-220+"
+        ],
+        "excavation-idno": "9014410"
+      },
+      {
+        "stem": "1378",
+        "id": "1378.2",
+        "cisi": "H-359",
+        "type": "TAB:I",
+        "stroke_code": 32,
+        "quantity_text": "+032-700+",
+        "other_texts": [
+          "+526-550-220+"
+        ],
+        "excavation-idno": "12540580"
+      }
+    ]
+  }
+]

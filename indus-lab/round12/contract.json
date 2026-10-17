@@ -1,0 +1,21 @@
+{
+  "source_file": "raw/inscriptions.csv",
+  "source_sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+  "raw_rows": 5679,
+  "object_groups": 4694,
+  "physical_object_count": null,
+  "proposed_translation_columns_quarantined": [
+    "class",
+    "cult",
+    "notes",
+    "sanskrit",
+    "translation"
+  ],
+  "raw_metadata_is_observation_not_validated_label": true,
+  "photo_face_letters_are_not_row_suffixes": true,
+  "all_recorded_faces_preserved": true,
+  "unseen_holdout_exists": false,
+  "possible_alias_groups": 20,
+  "alias_groups_with_equal_text_multisets": 6,
+  "metadata_conflict_groups": 0
+}

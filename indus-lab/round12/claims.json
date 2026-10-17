@@ -1,0 +1,41 @@
+[
+  {
+    "id": "fixed-variable-faces",
+    "grade": "E1/E2",
+    "claim": "H315/H316/H317 preserve a broad three-sign face while reverse stroke counts vary 2/3/4.",
+    "status": "photograph-supported structure; known research direction",
+    "rivals": [
+      "quantity",
+      "rank",
+      "category"
+    ],
+    "meaning_established": false
+  },
+  {
+    "id": "face-repairing",
+    "grade": "E2",
+    "claim": "Repeated contexts concentrate target codes in the supplied catalogue.",
+    "status": "exploratory; independent replication blocked by copy/production dependence",
+    "meaning_established": false
+  },
+  {
+    "id": "common-volume-unit",
+    "grade": "E0 lead",
+    "claim": "A common capacity unit may relate stroke counts to measured pot capacities.",
+    "status": "blocked pending primary measurement cells and geometry audit",
+    "rivals": [
+      "categorical labels",
+      "nonlinear capacity convention",
+      "unrelated marking"
+    ],
+    "falsifier": "No overlap between independently defensible capacity-per-stroke intervals rejects the narrow common-unit rule.",
+    "confirmation_gate": "Freeze mapping and uncertainty before evaluating an independently measured new vessel.",
+    "meaning_established": false
+  },
+  {
+    "id": "language-reading",
+    "grade": "none",
+    "claim": null,
+    "status": "No language identification, sound value, or translation established."
+  }
+]

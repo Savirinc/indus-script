@@ -1,0 +1,17 @@
+[
+  {
+    "source": "https://ignca.gov.in/Asi_data/76884.pdf",
+    "bytes": 31508998,
+    "sha256": "47a4da4227cfb7baa56d6a561e25797225499d0ec54f5a702a82c67ab4746d4d"
+  },
+  {
+    "source": "https://archive.org/download/corpus-vol-2_202409/CorpusVol2.pdf",
+    "bytes": 35870617,
+    "sha256": "727132579a485ee626e48a64c663148a85fbc0811fb523818fd615231f8a327d"
+  },
+  {
+    "source": "https://www.harappa.com/sites/default/files/pdf/Parpola_Asko_2011._Crocodile_in_the_Indu.pdf",
+    "bytes": 2550163,
+    "sha256": "41d38ba331b03239a8dba90aae99e04eb8aee42e98b42574049ddb618d100bb6"
+  }
+]

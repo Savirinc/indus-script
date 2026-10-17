@@ -1,0 +1,20 @@
+{
+  "tree.json": "6cbc70b86e660648497314d3f5b751d76f179265fb73a4e5844624ffef9fff9b",
+  "explorer.html": "60d433b59d6ae564257381a04262c8e867985ff5a1d5547bd4a2d12f2c9acd4f",
+  "app.js": "b997c452c935cae4b5c0e5ff09e508950ef9b935663c85eed895b2c783cc49ce",
+  "glyphs.tsv": "4e30aaee183a1aed5470783832cbccf9d251be26973b45c8db48c48bbf56fcb2",
+  "signs.js": "1c789802c3fb9c11371b7a848e01645f2a47164f795440912dbbf352feecea21",
+  "candidate-readings.json": "9b7548d7b5f00df786bd27946b42388434a9d649af137e89ad31fdf6701f3894",
+  "REPORT.md": "8ee18e9fa1191ee64fc294ec2cb02eaa78888813e19ff059f2f00201dea17580",
+  "results.json": "a17c703a9be5ffe9de42169b17a4917e87a6d38d960eeadff3ca2f172038f490",
+  "xlits.csv": "9beba97345ded4ccc17aa5a184f29473f24bcac3f8db713b7e6696ad5ce03825",
+  "decipher.csv": "9d3a143215ab8c0e7a1123d8b3985785d8bb2b2aa69eeddd3a11eaea11d53f88",
+  "expand.py": "c95160e1c9e148eff8d6c64314a4409adee1ae4d0bb7dc754d45baf83903114d",
+  "expanded-map.json": "8a04d38aefc544a557e4aa697fd004e5facb57bca9e7e939f4b3455d6e8a7061",
+  "icit.js": "b14ebdc7e7e746f2e8985b80296c6417701fe7d656614ede9c580179d5e1769a",
+  "texts.js": "6650e21653c81374c104a3e07b2f20bb16a5059bd47beba2d5a4e186ccbfbc7c",
+  "lipi-index.vue": "b36c72fa61134b6ca86d1ac3937d728d84176d9d8dc7c1619c90eac797650e35",
+  "canonical-results.json": "cfba3ddad60b8bf300d405894e345f5e7a5981643121ef168f6fcd128ec82ee8",
+  "table7-crosswalk.json": "7fb5af7caa42a494fca7805b69f601ba64ca84d3e6fd0352dcd73daeada34b27",
+  "audit.py": "cf14458fdcb89451e59b83a31f689369530a1abdb4a49339dbc0a236fd98a301"
+}

@@ -1,0 +1,1015 @@
+{
+  "status": "Exploratory follow-up: sign400 selected using previous round; p values are not selection-adjusted discovery evidence.",
+  "raw_sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+  "contrast": "Raw subtype TAB:B vs SEAL:S; corrected SEAL:R tablets are outside this contrast.",
+  "scope": "Round09 retained deterministic representative rows, with original complete>=3-sign eligibility and duplicate exclusions. Not physical object census.",
+  "method": "Exact conditional randomization given tablet count and sign400 count within each site and exact length; convolve hypergeometric distributions; two-sided tails by absolute departure of total tablet/sign overlap from null expectation. Common odds-ratio MLE/CI assumes common conditional effect; MH estimate descriptive. Leave-one representative equals leave-one exact multiset pattern here, not leave-one broader formula family.",
+  "by_site": {
+    "Harappa": {
+      "groups": 311,
+      "table_rows_tablet_seal_cols_sign_present_absent": [
+        [
+          64,
+          99
+        ],
+        [
+          5,
+          143
+        ]
+      ],
+      "sign_rate_tablet": 0.39263803680981596,
+      "sign_rate_seal": 0.033783783783783786,
+      "unadjusted_odds_ratio": 18.488888888888887,
+      "fisher_two_sided_p": 7.09239957696737e-16,
+      "length_conditioned": {
+        "exact_two_sided_p": 1.1321931047000432e-10,
+        "observed_tablets_with_sign": 64,
+        "null_expected_tablets_with_sign": 43.51204087106769,
+        "mantel_haenszel_odds_ratio": 16.750118580366713,
+        "informative_strata": 5,
+        "informative_groups": 291,
+        "conditional_common_odds_ratio": 16.36955084924436,
+        "conditional_exact_95pct_ci": [
+          5.647557625014502,
+          65.14150939319555
+        ]
+      },
+      "strata": [
+        {
+          "site": "Harappa",
+          "length": 3,
+          "table": [
+            [
+              22,
+              36
+            ],
+            [
+              0,
+              21
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 4,
+          "table": [
+            [
+              30,
+              26
+            ],
+            [
+              2,
+              24
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 5,
+          "table": [
+            [
+              8,
+              23
+            ],
+            [
+              2,
+              36
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 6,
+          "table": [
+            [
+              2,
+              9
+            ],
+            [
+              0,
+              27
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 7,
+          "table": [
+            [
+              2,
+              3
+            ],
+            [
+              0,
+              18
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 8,
+          "table": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              6
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 9,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              5
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 10,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              5
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 11,
+          "table": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "site": "Harappa",
+          "length": 13,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        }
+      ],
+      "leave_one_representative_group_out": {
+        "number": 311,
+        "maximum_p": {
+          "removed_id": "649.2",
+          "removed_cisi": "H-1823",
+          "p": 1.7405785061813737e-10,
+          "mh_odds_ratio": 16.218664099570127
+        },
+        "minimum_mh_odds_ratio": {
+          "removed_id": "415.2",
+          "removed_cisi": "H-1832",
+          "p": 1.7184486747477802e-10,
+          "mh_odds_ratio": 16.17583498352877
+        },
+        "all_p_below_05": true
+      },
+      "leave_one_site_length_stratum_out": [
+        {
+          "removed_site": "Harappa",
+          "removed_length": 3,
+          "exact_two_sided_p": 1.8948979940567755e-08,
+          "observed_tablets_with_sign": 42,
+          "null_expected_tablets_with_sign": 27.360142136890477,
+          "mantel_haenszel_odds_ratio": 12.254390732265447,
+          "informative_strata": 4,
+          "informative_groups": 212
+        },
+        {
+          "removed_site": "Harappa",
+          "removed_length": 4,
+          "exact_two_sided_p": 2.511328943496622e-07,
+          "observed_tablets_with_sign": 34,
+          "null_expected_tablets_with_sign": 21.658382334482322,
+          "mantel_haenszel_odds_ratio": 19.51242649827651,
+          "informative_strata": 4,
+          "informative_groups": 209
+        },
+        {
+          "removed_site": "Harappa",
+          "removed_length": 5,
+          "exact_two_sided_p": 3.0436839826202347e-09,
+          "observed_tablets_with_sign": 56,
+          "null_expected_tablets_with_sign": 39.019287247879284,
+          "mantel_haenszel_odds_ratio": 27.77727780142113,
+          "informative_strata": 4,
+          "informative_groups": 222
+        },
+        {
+          "removed_site": "Harappa",
+          "removed_length": 6,
+          "exact_two_sided_p": 2.8681792169945636e-10,
+          "observed_tablets_with_sign": 62,
+          "null_expected_tablets_with_sign": 42.933093502646635,
+          "mantel_haenszel_odds_ratio": 15.657684369840396,
+          "informative_strata": 4,
+          "informative_groups": 253
+        },
+        {
+          "removed_site": "Harappa",
+          "removed_length": 7,
+          "exact_two_sided_p": 1.4709586234361892e-09,
+          "observed_tablets_with_sign": 62,
+          "null_expected_tablets_with_sign": 43.07725826237204,
+          "mantel_haenszel_odds_ratio": 15.546857710801497,
+          "informative_strata": 4,
+          "informative_groups": 268
+        },
+        {
+          "removed_site": "Harappa",
+          "removed_length": 8,
+          "exact_two_sided_p": 1.1321931047000432e-10,
+          "observed_tablets_with_sign": 64,
+          "null_expected_tablets_with_sign": 43.51204087106769,
+          "mantel_haenszel_odds_ratio": 16.750118580366713,
+          "informative_strata": 5,
+          "informative_groups": 291
+        }
+      ]
+    },
+    "Mohenjo-daro": {
+      "groups": 700,
+      "table_rows_tablet_seal_cols_sign_present_absent": [
+        [
+          7,
+          22
+        ],
+        [
+          35,
+          636
+        ]
+      ],
+      "sign_rate_tablet": 0.2413793103448276,
+      "sign_rate_seal": 0.05216095380029806,
+      "unadjusted_odds_ratio": 5.781818181818182,
+      "fisher_two_sided_p": 0.000977399047188749,
+      "length_conditioned": {
+        "exact_two_sided_p": 0.0021887732435710485,
+        "observed_tablets_with_sign": 7,
+        "null_expected_tablets_with_sign": 2.0461030625343843,
+        "mantel_haenszel_odds_ratio": 5.433269719677233,
+        "informative_strata": 5,
+        "informative_groups": 617,
+        "conditional_common_odds_ratio": 5.154023038716595,
+        "conditional_exact_95pct_ci": [
+          1.6819009803596665,
+          14.213123193162339
+        ]
+      },
+      "strata": [
+        {
+          "site": "Mohenjo-daro",
+          "length": 3,
+          "table": [
+            [
+              2,
+              3
+            ],
+            [
+              14,
+              95
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 4,
+          "table": [
+            [
+              4,
+              6
+            ],
+            [
+              6,
+              109
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 5,
+          "table": [
+            [
+              0,
+              6
+            ],
+            [
+              8,
+              157
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 6,
+          "table": [
+            [
+              0,
+              3
+            ],
+            [
+              3,
+              117
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 7,
+          "table": [
+            [
+              1,
+              3
+            ],
+            [
+              3,
+              77
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 8,
+          "table": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              37
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 9,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              25
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 10,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              8
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 11,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              5
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 12,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 13,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              4
+            ]
+          ]
+        },
+        {
+          "site": "Mohenjo-daro",
+          "length": 17,
+          "table": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        }
+      ],
+      "leave_one_representative_group_out": {
+        "number": 700,
+        "maximum_p": {
+          "removed_id": "2971.1",
+          "removed_cisi": "M-488",
+          "p": 0.008683961041499228,
+          "mh_odds_ratio": 4.607616876793843
+        },
+        "minimum_mh_odds_ratio": {
+          "removed_id": "2971.1",
+          "removed_cisi": "M-488",
+          "p": 0.008683961041499228,
+          "mh_odds_ratio": 4.607616876793843
+        },
+        "all_p_below_05": true
+      },
+      "leave_one_site_length_stratum_out": [
+        {
+          "removed_site": "Mohenjo-daro",
+          "removed_length": 3,
+          "exact_two_sided_p": 0.007061241539696364,
+          "observed_tablets_with_sign": 5,
+          "null_expected_tablets_with_sign": 1.3443486765694723,
+          "mantel_haenszel_odds_ratio": 5.880609397981351,
+          "informative_strata": 4,
+          "informative_groups": 503
+        },
+        {
+          "removed_site": "Mohenjo-daro",
+          "removed_length": 4,
+          "exact_two_sided_p": 0.1177786425264528,
+          "observed_tablets_with_sign": 3,
+          "null_expected_tablets_with_sign": 1.2461030625343845,
+          "mantel_haenszel_odds_ratio": 3.114564716720406,
+          "informative_strata": 4,
+          "informative_groups": 492
+        },
+        {
+          "removed_site": "Mohenjo-daro",
+          "removed_length": 5,
+          "exact_two_sided_p": 0.0006765590108877432,
+          "observed_tablets_with_sign": 7,
+          "null_expected_tablets_with_sign": 1.7654013081484197,
+          "mantel_haenszel_odds_ratio": 7.255984194202545,
+          "informative_strata": 4,
+          "informative_groups": 446
+        },
+        {
+          "removed_site": "Mohenjo-daro",
+          "removed_length": 6,
+          "exact_two_sided_p": 0.001641353671214277,
+          "observed_tablets_with_sign": 7,
+          "null_expected_tablets_with_sign": 1.9729323308270672,
+          "mantel_haenszel_odds_ratio": 5.813973916507866,
+          "informative_strata": 4,
+          "informative_groups": 494
+        },
+        {
+          "removed_site": "Mohenjo-daro",
+          "removed_length": 7,
+          "exact_two_sided_p": 0.006125812643539263,
+          "observed_tablets_with_sign": 6,
+          "null_expected_tablets_with_sign": 1.8556268720581943,
+          "mantel_haenszel_odds_ratio": 5.1021475136549075,
+          "informative_strata": 4,
+          "informative_groups": 533
+        },
+        {
+          "removed_site": "Mohenjo-daro",
+          "removed_length": 8,
+          "exact_two_sided_p": 0.0021887732435710485,
+          "observed_tablets_with_sign": 7,
+          "null_expected_tablets_with_sign": 2.0461030625343843,
+          "mantel_haenszel_odds_ratio": 5.433269719677233,
+          "informative_strata": 5,
+          "informative_groups": 617
+        }
+      ]
+    }
+  },
+  "pooled_site_length": {
+    "groups": 1011,
+    "table_rows_tablet_seal_cols_sign_present_absent": [
+      [
+        71,
+        121
+      ],
+      [
+        40,
+        779
+      ]
+    ],
+    "sign_rate_tablet": 0.3697916666666667,
+    "sign_rate_seal": 0.04884004884004884,
+    "unadjusted_odds_ratio": 11.427479338842975,
+    "fisher_two_sided_p": 2.4725331468107396e-29,
+    "length_conditioned": {
+      "exact_two_sided_p": 2.684802393041646e-13,
+      "observed_tablets_with_sign": 71,
+      "null_expected_tablets_with_sign": 45.55814393360207,
+      "mantel_haenszel_odds_ratio": 11.520774252787152,
+      "informative_strata": 10,
+      "informative_groups": 908,
+      "conditional_common_odds_ratio": 8.957449692989309,
+      "conditional_exact_95pct_ci": [
+        4.654082984290285,
+        17.745148135517443
+      ]
+    },
+    "strata": [
+      {
+        "site": "Harappa",
+        "length": 3,
+        "table": [
+          [
+            22,
+            36
+          ],
+          [
+            0,
+            21
+          ]
+        ]
+      },
+      {
+        "site": "Harappa",
+        "length": 4,
+        "table": [
+          [
+            30,
+            26
+          ],
+          [
+            2,
+            24
+          ]
+        ]
+      },
+      {
+        "site": "Harappa",
+        "length": 5,
+        "table": [
+          [
+            8,
+            23
+          ],
+          [
+            2,
+            36
+          ]
+        ]
+      },
+      {
+        "site": "Harappa",
+        "length": 6,
+        "table": [
+          [
+            2,
+            9
+          ],
+          [
+            0,
+            27
+          ]
+        ]
+      },
+      {
+        "site": "Harappa",
+        "length": 7,
+        "table": [
+          [
+            2,
+            3
+          ],
+          [
+            0,
+            18
+          ]
+        ]
+      },
+      {
+        "site": "Harappa",
+        "length": 8,
+        "table": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            6
+          ]
+        ]
+      },
+      {
+        "site": "Harappa",
+        "length": 9,
+        "table": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            5
+          ]
+        ]
+      },
+      {
+        "site": "Harappa",
+        "length": 10,
+        "table": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            5
+          ]
+        ]
+      },
+      {
+        "site": "Harappa",
+        "length": 11,
+        "table": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      },
+      {
+        "site": "Harappa",
+        "length": 13,
+        "table": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 3,
+        "table": [
+          [
+            2,
+            3
+          ],
+          [
+            14,
+            95
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 4,
+        "table": [
+          [
+            4,
+            6
+          ],
+          [
+            6,
+            109
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 5,
+        "table": [
+          [
+            0,
+            6
+          ],
+          [
+            8,
+            157
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 6,
+        "table": [
+          [
+            0,
+            3
+          ],
+          [
+            3,
+            117
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 7,
+        "table": [
+          [
+            1,
+            3
+          ],
+          [
+            3,
+            77
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 8,
+        "table": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            37
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 9,
+        "table": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            25
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 10,
+        "table": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            8
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 11,
+        "table": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            5
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 12,
+        "table": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 13,
+        "table": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      {
+        "site": "Mohenjo-daro",
+        "length": 17,
+        "table": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      }
+    ],
+    "leave_one_representative_group_out": {
+      "number": 1011,
+      "maximum_p": {
+        "removed_id": "2971.1",
+        "removed_cisi": "M-488",
+        "p": 1.443578451671736e-12,
+        "mh_odds_ratio": 11.135767817737541
+      },
+      "minimum_mh_odds_ratio": {
+        "removed_id": "2971.1",
+        "removed_cisi": "M-488",
+        "p": 1.443578451671736e-12,
+        "mh_odds_ratio": 11.135767817737541
+      },
+      "all_p_below_05": true
+    },
+    "leave_one_site_length_stratum_out": [
+      {
+        "removed_site": "Harappa",
+        "removed_length": 3,
+        "exact_two_sided_p": 2.415267331266934e-10,
+        "observed_tablets_with_sign": 49,
+        "null_expected_tablets_with_sign": 29.406245199424863,
+        "mantel_haenszel_odds_ratio": 9.10245410096376,
+        "informative_strata": 9,
+        "informative_groups": 829
+      },
+      {
+        "removed_site": "Harappa",
+        "removed_length": 4,
+        "exact_two_sided_p": 1.9964602030331406e-09,
+        "observed_tablets_with_sign": 41,
+        "null_expected_tablets_with_sign": 23.704485397016708,
+        "mantel_haenszel_odds_ratio": 10.694235140437664,
+        "informative_strata": 9,
+        "informative_groups": 826
+      },
+      {
+        "removed_site": "Harappa",
+        "removed_length": 5,
+        "exact_two_sided_p": 5.044660587500102e-12,
+        "observed_tablets_with_sign": 63,
+        "null_expected_tablets_with_sign": 41.06539031041366,
+        "mantel_haenszel_odds_ratio": 13.52273684942103,
+        "informative_strata": 9,
+        "informative_groups": 839
+      },
+      {
+        "removed_site": "Harappa",
+        "removed_length": 6,
+        "exact_two_sided_p": 1.9934750782752847e-12,
+        "observed_tablets_with_sign": 69,
+        "null_expected_tablets_with_sign": 44.97919656518101,
+        "mantel_haenszel_odds_ratio": 10.933137332778118,
+        "informative_strata": 9,
+        "informative_groups": 870
+      },
+      {
+        "removed_site": "Harappa",
+        "removed_length": 7,
+        "exact_two_sided_p": 3.1870804226484835e-12,
+        "observed_tablets_with_sign": 69,
+        "null_expected_tablets_with_sign": 45.12336132490642,
+        "mantel_haenszel_odds_ratio": 10.873521993067058,
+        "informative_strata": 9,
+        "informative_groups": 885
+      },
+      {
+        "removed_site": "Harappa",
+        "removed_length": 8,
+        "exact_two_sided_p": 2.684802393041646e-13,
+        "observed_tablets_with_sign": 71,
+        "null_expected_tablets_with_sign": 45.55814393360207,
+        "mantel_haenszel_odds_ratio": 11.520774252787152,
+        "informative_strata": 10,
+        "informative_groups": 908
+      },
+      {
+        "removed_site": "Mohenjo-daro",
+        "removed_length": 3,
+        "exact_two_sided_p": 6.019295010095851e-13,
+        "observed_tablets_with_sign": 69,
+        "null_expected_tablets_with_sign": 44.85638954763716,
+        "mantel_haenszel_odds_ratio": 12.778357166477383,
+        "informative_strata": 9,
+        "informative_groups": 794
+      },
+      {
+        "removed_site": "Mohenjo-daro",
+        "removed_length": 4,
+        "exact_two_sided_p": 2.6789270764468e-11,
+        "observed_tablets_with_sign": 67,
+        "null_expected_tablets_with_sign": 44.75814393360207,
+        "mantel_haenszel_odds_ratio": 11.440963402997344,
+        "informative_strata": 9,
+        "informative_groups": 783
+      },
+      {
+        "removed_site": "Mohenjo-daro",
+        "removed_length": 5,
+        "exact_two_sided_p": 4.103674458940769e-14,
+        "observed_tablets_with_sign": 71,
+        "null_expected_tablets_with_sign": 45.2774421792161,
+        "mantel_haenszel_odds_ratio": 13.033676921988125,
+        "informative_strata": 9,
+        "informative_groups": 737
+      },
+      {
+        "removed_site": "Mohenjo-daro",
+        "removed_length": 6,
+        "exact_two_sided_p": 1.5711461240754768e-13,
+        "observed_tablets_with_sign": 71,
+        "null_expected_tablets_with_sign": 45.48497320189475,
+        "mantel_haenszel_odds_ratio": 11.880243421933576,
+        "informative_strata": 9,
+        "informative_groups": 785
+      },
+      {
+        "removed_site": "Mohenjo-daro",
+        "removed_length": 7,
+        "exact_two_sided_p": 7.457135514264505e-13,
+        "observed_tablets_with_sign": 70,
+        "null_expected_tablets_with_sign": 45.36766774312588,
+        "mantel_haenszel_odds_ratio": 11.658241737229684,
+        "informative_strata": 9,
+        "informative_groups": 824
+      },
+      {
+        "removed_site": "Mohenjo-daro",
+        "removed_length": 8,
+        "exact_two_sided_p": 2.684802393041646e-13,
+        "observed_tablets_with_sign": 71,
+        "null_expected_tablets_with_sign": 45.55814393360207,
+        "mantel_haenszel_odds_ratio": 11.520774252787152,
+        "informative_strata": 10,
+        "informative_groups": 908
+      }
+    ]
+  }
+}

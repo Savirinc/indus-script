@@ -1,0 +1,10 @@
+{
+ "label": "INDUS (Dravidian anchors)",
+ "train": 1548,
+ "test": 226,
+ "real": -45.61797305657821,
+ "null": [
+  -47.25743487448931
+ ],
+ "p": 0.5
+}

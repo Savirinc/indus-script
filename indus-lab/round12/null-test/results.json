@@ -1,0 +1,33 @@
+{
+  "input_sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+  "eligibility_counts": {
+    "no_target_face": 2536,
+    "incomplete_or_complex_face": 1816,
+    "included": 278,
+    "unknown_or_separator": 8,
+    "no_other_face": 8,
+    "unknown_stratum": 47,
+    "multiple_target_faces": 1
+  },
+  "included_object_stems": 278,
+  "strata": 7,
+  "strata_with_code_and_context_variation": 5,
+  "contexts": 189,
+  "same_context_pairs": 530,
+  "observed_same_context_same_code_pairs": 338,
+  "null_draws": 999,
+  "null_min": 165,
+  "null_max": 273,
+  "null_mean": 195.51751751751752,
+  "conditional_reference_p_upper": 0.001,
+  "reference_status": "Exploratory conditional label-shuffle reference only; physical-object and production-family exchangeability unverified. Not a population inference or semantic test.",
+  "copy_aware_sensitivity": {
+    "unique_context_code_configurations": 209,
+    "remaining_same_context_pairs": 22,
+    "observed": 0,
+    "all_valid_unique_configuration_null_scores": 0,
+    "p_value": null,
+    "status": "Blocked by mathematical degeneracy: after one representative per context/code cell, same-context same-code pair count is always zero. Unrestricted permutation would create disallowed duplicate cells and is not a valid copy-collapsed control."
+  },
+  "semantic_conclusion": "None. Quantity and category labels can both generate these associations."
+}

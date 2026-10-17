@@ -1,0 +1,2090 @@
+[
+  {
+    "sign": "1",
+    "context_neighbour": "2",
+    "context_cosine": 0.49267308538628474,
+    "component_bag_jaccard": 0.7222222222222222
+  },
+  {
+    "sign": "1",
+    "context_neighbour": "31",
+    "context_cosine": 0.4391681894720556,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "1",
+    "context_neighbour": "60",
+    "context_cosine": 0.4004761239637544,
+    "component_bag_jaccard": 0.0625
+  },
+  {
+    "sign": "2",
+    "context_neighbour": "1",
+    "context_cosine": 0.49267308538628474,
+    "component_bag_jaccard": 0.7222222222222222
+  },
+  {
+    "sign": "2",
+    "context_neighbour": "60",
+    "context_cosine": 0.49038085512636975,
+    "component_bag_jaccard": 0.058823529411764705
+  },
+  {
+    "sign": "2",
+    "context_neighbour": "741",
+    "context_cosine": 0.4622888726215413,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "3",
+    "context_neighbour": "4",
+    "context_cosine": 0.6849667915932184,
+    "component_bag_jaccard": 0.4
+  },
+  {
+    "sign": "3",
+    "context_neighbour": "5",
+    "context_cosine": 0.6331656904272692,
+    "component_bag_jaccard": 0.48148148148148145
+  },
+  {
+    "sign": "3",
+    "context_neighbour": "16",
+    "context_cosine": 0.6255810151528253,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "4",
+    "context_neighbour": "16",
+    "context_cosine": 0.7289924642645634,
+    "component_bag_jaccard": 0.043478260869565216
+  },
+  {
+    "sign": "4",
+    "context_neighbour": "5",
+    "context_cosine": 0.6950831233753428,
+    "component_bag_jaccard": 0.41379310344827586
+  },
+  {
+    "sign": "4",
+    "context_neighbour": "3",
+    "context_cosine": 0.6849667915932184,
+    "component_bag_jaccard": 0.4
+  },
+  {
+    "sign": "5",
+    "context_neighbour": "4",
+    "context_cosine": 0.6950831233753428,
+    "component_bag_jaccard": 0.41379310344827586
+  },
+  {
+    "sign": "5",
+    "context_neighbour": "3",
+    "context_cosine": 0.6331656904272692,
+    "component_bag_jaccard": 0.48148148148148145
+  },
+  {
+    "sign": "5",
+    "context_neighbour": "590",
+    "context_cosine": 0.5378455729513509,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "13",
+    "context_neighbour": "2",
+    "context_cosine": 0.4575732908651544,
+    "component_bag_jaccard": 0.11764705882352941
+  },
+  {
+    "sign": "13",
+    "context_neighbour": "1",
+    "context_cosine": 0.38229449252488723,
+    "component_bag_jaccard": 0.058823529411764705
+  },
+  {
+    "sign": "13",
+    "context_neighbour": "803",
+    "context_cosine": 0.37362893410210907,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "16",
+    "context_neighbour": "4",
+    "context_cosine": 0.7289924642645634,
+    "component_bag_jaccard": 0.043478260869565216
+  },
+  {
+    "sign": "16",
+    "context_neighbour": "3",
+    "context_cosine": 0.6255810151528253,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "16",
+    "context_neighbour": "416",
+    "context_cosine": 0.5851960467588573,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "17",
+    "context_neighbour": "590",
+    "context_cosine": 0.5120875109157836,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "17",
+    "context_neighbour": "16",
+    "context_cosine": 0.5065002931649253,
+    "component_bag_jaccard": 0.625
+  },
+  {
+    "sign": "17",
+    "context_neighbour": "803",
+    "context_cosine": 0.5029862366861858,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "31",
+    "context_neighbour": "32",
+    "context_cosine": 0.5381466082512643,
+    "component_bag_jaccard": 0.5
+  },
+  {
+    "sign": "31",
+    "context_neighbour": "235",
+    "context_cosine": 0.5250516666818543,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "31",
+    "context_neighbour": "820",
+    "context_cosine": 0.5174849803816144,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "32",
+    "context_neighbour": "416",
+    "context_cosine": 0.5810026753904655,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "32",
+    "context_neighbour": "16",
+    "context_cosine": 0.5577932877291115,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "32",
+    "context_neighbour": "455",
+    "context_cosine": 0.5555224189286917,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "33",
+    "context_neighbour": "31",
+    "context_cosine": 0.4612899838291358,
+    "component_bag_jaccard": 0.3333333333333333
+  },
+  {
+    "sign": "33",
+    "context_neighbour": "233",
+    "context_cosine": 0.4428666150316647,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "33",
+    "context_neighbour": "220",
+    "context_cosine": 0.4395091355034182,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "34",
+    "context_neighbour": "4",
+    "context_cosine": 0.568829509287771,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "34",
+    "context_neighbour": "16",
+    "context_cosine": 0.5373369326288908,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "34",
+    "context_neighbour": "790",
+    "context_cosine": 0.5204339254216008,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "35",
+    "context_neighbour": "621",
+    "context_cosine": 0.3942617888698825,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "35",
+    "context_neighbour": "32",
+    "context_cosine": 0.37409115942604165,
+    "component_bag_jaccard": 0.4
+  },
+  {
+    "sign": "35",
+    "context_neighbour": "176",
+    "context_cosine": 0.3684996201030807,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "55",
+    "context_neighbour": "803",
+    "context_cosine": 0.6097250656126211,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "55",
+    "context_neighbour": "176",
+    "context_cosine": 0.5793071543514644,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "55",
+    "context_neighbour": "416",
+    "context_cosine": 0.5641192555826484,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "60",
+    "context_neighbour": "2",
+    "context_cosine": 0.49038085512636975,
+    "component_bag_jaccard": 0.058823529411764705
+  },
+  {
+    "sign": "60",
+    "context_neighbour": "1",
+    "context_cosine": 0.4004761239637544,
+    "component_bag_jaccard": 0.0625
+  },
+  {
+    "sign": "60",
+    "context_neighbour": "798",
+    "context_cosine": 0.33024930399581387,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "61",
+    "context_neighbour": "16",
+    "context_cosine": 0.5153452999271803,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "61",
+    "context_neighbour": "176",
+    "context_cosine": 0.5129039460064928,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "61",
+    "context_neighbour": "384",
+    "context_cosine": 0.49388467510304357,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "65",
+    "context_neighbour": "415",
+    "context_cosine": 0.39103367730308247,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "65",
+    "context_neighbour": "16",
+    "context_cosine": 0.27074316531251785,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "65",
+    "context_neighbour": "455",
+    "context_cosine": 0.27057244997258134,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "70",
+    "context_neighbour": "72",
+    "context_cosine": 0.5560479031895634,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "70",
+    "context_neighbour": "382",
+    "context_cosine": 0.47474113370392534,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "70",
+    "context_neighbour": "175",
+    "context_cosine": 0.45001080408192495,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "72",
+    "context_neighbour": "382",
+    "context_cosine": 0.5751671138796198,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "72",
+    "context_neighbour": "70",
+    "context_cosine": 0.5560479031895634,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "72",
+    "context_neighbour": "175",
+    "context_cosine": 0.5420706621275149,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "90",
+    "context_neighbour": "679",
+    "context_cosine": 0.8248559091316072,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "90",
+    "context_neighbour": "400",
+    "context_cosine": 0.7283367592892867,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "90",
+    "context_neighbour": "621",
+    "context_cosine": 0.6467277747809863,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "95",
+    "context_neighbour": "382",
+    "context_cosine": 0.4712468028907284,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "95",
+    "context_neighbour": "72",
+    "context_cosine": 0.4504455678078534,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "95",
+    "context_neighbour": "820",
+    "context_cosine": 0.4433982636682461,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "97",
+    "context_neighbour": "55",
+    "context_cosine": 0.440638153856058,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "97",
+    "context_neighbour": "382",
+    "context_cosine": 0.4403122644137625,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "97",
+    "context_neighbour": "350",
+    "context_cosine": 0.432419640122086,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "100",
+    "context_neighbour": "923",
+    "context_cosine": 0.6264139709490709,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "100",
+    "context_neighbour": "760",
+    "context_cosine": 0.5891117626755317,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "100",
+    "context_neighbour": "176",
+    "context_cosine": 0.5780916065503046,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "104",
+    "context_neighbour": "16",
+    "context_cosine": 0.45243630134271906,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "104",
+    "context_neighbour": "503",
+    "context_cosine": 0.4499338942064166,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "104",
+    "context_neighbour": "491",
+    "context_cosine": 0.43880685593621194,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "125",
+    "context_neighbour": "590",
+    "context_cosine": 0.5571583689903988,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "125",
+    "context_neighbour": "34",
+    "context_cosine": 0.4827662445261355,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "125",
+    "context_neighbour": "31",
+    "context_cosine": 0.48139430975819275,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "140",
+    "context_neighbour": "31",
+    "context_cosine": 0.47811330284913367,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "140",
+    "context_neighbour": "491",
+    "context_cosine": 0.4622384050699342,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "140",
+    "context_neighbour": "590",
+    "context_cosine": 0.45412238537474314,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "142",
+    "context_neighbour": "55",
+    "context_cosine": 0.5268258855621374,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "142",
+    "context_neighbour": "176",
+    "context_cosine": 0.49816240814896484,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "142",
+    "context_neighbour": "416",
+    "context_cosine": 0.49247535379794605,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "151",
+    "context_neighbour": "161",
+    "context_cosine": 0.6737517396351532,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "151",
+    "context_neighbour": "740",
+    "context_cosine": 0.662957005205273,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "151",
+    "context_neighbour": "90",
+    "context_cosine": 0.6455994744520619,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "154",
+    "context_neighbour": "158",
+    "context_cosine": 0.7289288389748766,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "154",
+    "context_neighbour": "156",
+    "context_cosine": 0.591761175912466,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "154",
+    "context_neighbour": "740",
+    "context_cosine": 0.5482945108319787,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "156",
+    "context_neighbour": "154",
+    "context_cosine": 0.591761175912466,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "156",
+    "context_neighbour": "226",
+    "context_cosine": 0.5717058991485678,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "156",
+    "context_neighbour": "390",
+    "context_cosine": 0.5475591566797606,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "158",
+    "context_neighbour": "154",
+    "context_cosine": 0.7289288389748766,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "158",
+    "context_neighbour": "156",
+    "context_cosine": 0.4973022368655702,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "158",
+    "context_neighbour": "236",
+    "context_cosine": 0.48372911382459804,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "161",
+    "context_neighbour": "151",
+    "context_cosine": 0.6737517396351532,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "161",
+    "context_neighbour": "400",
+    "context_cosine": 0.5263846073806704,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "161",
+    "context_neighbour": "740",
+    "context_cosine": 0.5252102283524765,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "165",
+    "context_neighbour": "790",
+    "context_cosine": 0.49812880939669324,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "165",
+    "context_neighbour": "90",
+    "context_cosine": 0.484937093375603,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "165",
+    "context_neighbour": "226",
+    "context_cosine": 0.4798501472625334,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "171",
+    "context_neighbour": "853",
+    "context_cosine": 0.38723499056016175,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "171",
+    "context_neighbour": "692",
+    "context_cosine": 0.3678366113004511,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "171",
+    "context_neighbour": "820",
+    "context_cosine": 0.3604515654998073,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "175",
+    "context_neighbour": "72",
+    "context_cosine": 0.5420706621275149,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "175",
+    "context_neighbour": "382",
+    "context_cosine": 0.4855125470128867,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "175",
+    "context_neighbour": "440",
+    "context_cosine": 0.48183918724832664,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "176",
+    "context_neighbour": "904",
+    "context_cosine": 0.6976295775684996,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "176",
+    "context_neighbour": "923",
+    "context_cosine": 0.6594906410492001,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "176",
+    "context_neighbour": "798",
+    "context_cosine": 0.6386493894212455,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "220",
+    "context_neighbour": "233",
+    "context_cosine": 0.6025627625976097,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "220",
+    "context_neighbour": "235",
+    "context_cosine": 0.5577577567383534,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "220",
+    "context_neighbour": "231",
+    "context_cosine": 0.5563377853721068,
+    "component_bag_jaccard": 0.5
+  },
+  {
+    "sign": "226",
+    "context_neighbour": "156",
+    "context_cosine": 0.5717058991485678,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "226",
+    "context_neighbour": "236",
+    "context_cosine": 0.5400428540631338,
+    "component_bag_jaccard": 0.5714285714285714
+  },
+  {
+    "sign": "226",
+    "context_neighbour": "740",
+    "context_cosine": 0.5269745026364095,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "231",
+    "context_neighbour": "233",
+    "context_cosine": 0.7487873158051357,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "231",
+    "context_neighbour": "235",
+    "context_cosine": 0.6803956101209517,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "231",
+    "context_neighbour": "240",
+    "context_cosine": 0.6674199764396496,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "233",
+    "context_neighbour": "231",
+    "context_cosine": 0.7487873158051357,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "233",
+    "context_neighbour": "240",
+    "context_cosine": 0.7145090982922602,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "233",
+    "context_neighbour": "235",
+    "context_cosine": 0.7058761120111203,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "235",
+    "context_neighbour": "803",
+    "context_cosine": 0.724279102992524,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "235",
+    "context_neighbour": "240",
+    "context_cosine": 0.7168919329091415,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "235",
+    "context_neighbour": "233",
+    "context_cosine": 0.7058761120111203,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "236",
+    "context_neighbour": "241",
+    "context_cosine": 0.5603297174098251,
+    "component_bag_jaccard": 0.5714285714285714
+  },
+  {
+    "sign": "236",
+    "context_neighbour": "226",
+    "context_cosine": 0.5400428540631338,
+    "component_bag_jaccard": 0.5714285714285714
+  },
+  {
+    "sign": "236",
+    "context_neighbour": "233",
+    "context_cosine": 0.5279355755490053,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "240",
+    "context_neighbour": "235",
+    "context_cosine": 0.7168919329091415,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "240",
+    "context_neighbour": "233",
+    "context_cosine": 0.7145090982922602,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "240",
+    "context_neighbour": "231",
+    "context_cosine": 0.6674199764396496,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "241",
+    "context_neighbour": "520",
+    "context_cosine": 0.6099488563839813,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "241",
+    "context_neighbour": "236",
+    "context_cosine": 0.5603297174098251,
+    "component_bag_jaccard": 0.5714285714285714
+  },
+  {
+    "sign": "241",
+    "context_neighbour": "156",
+    "context_cosine": 0.5461864291404488,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "255",
+    "context_neighbour": "176",
+    "context_cosine": 0.5270452785240495,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "255",
+    "context_neighbour": "55",
+    "context_cosine": 0.4779989463105683,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "255",
+    "context_neighbour": "416",
+    "context_cosine": 0.46018371002723657,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "297",
+    "context_neighbour": "820",
+    "context_cosine": 0.4842334155512089,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "297",
+    "context_neighbour": "817",
+    "context_cosine": 0.38813025965893333,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "297",
+    "context_neighbour": "920",
+    "context_cosine": 0.3863877798624359,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "320",
+    "context_neighbour": "491",
+    "context_cosine": 0.3746654857781495,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "320",
+    "context_neighbour": "140",
+    "context_cosine": 0.3736414308111792,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "320",
+    "context_neighbour": "388",
+    "context_cosine": 0.36731624625943526,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "335",
+    "context_neighbour": "923",
+    "context_cosine": 0.45848987768045146,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "335",
+    "context_neighbour": "176",
+    "context_cosine": 0.44855407072764875,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "335",
+    "context_neighbour": "440",
+    "context_cosine": 0.4175128593919515,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "350",
+    "context_neighbour": "97",
+    "context_cosine": 0.432419640122086,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "350",
+    "context_neighbour": "416",
+    "context_cosine": 0.4318875171977157,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "350",
+    "context_neighbour": "503",
+    "context_cosine": 0.4162862590241503,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "368",
+    "context_neighbour": "820",
+    "context_cosine": 0.4723573643551344,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "368",
+    "context_neighbour": "156",
+    "context_cosine": 0.45245317807634144,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "368",
+    "context_neighbour": "390",
+    "context_cosine": 0.4345637828728892,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "382",
+    "context_neighbour": "72",
+    "context_cosine": 0.5751671138796198,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "382",
+    "context_neighbour": "416",
+    "context_cosine": 0.5324072878725481,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "382",
+    "context_neighbour": "175",
+    "context_cosine": 0.4855125470128867,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "384",
+    "context_neighbour": "176",
+    "context_cosine": 0.6263890581644522,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "384",
+    "context_neighbour": "877",
+    "context_cosine": 0.5998574720309059,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "384",
+    "context_neighbour": "923",
+    "context_cosine": 0.5411948286128183,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "388",
+    "context_neighbour": "176",
+    "context_cosine": 0.5644975006476434,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "388",
+    "context_neighbour": "923",
+    "context_cosine": 0.5203361163193778,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "388",
+    "context_neighbour": "904",
+    "context_cosine": 0.5002962233636173,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "390",
+    "context_neighbour": "405",
+    "context_cosine": 0.7768891261645126,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "390",
+    "context_neighbour": "407",
+    "context_cosine": 0.6822075507265313,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "390",
+    "context_neighbour": "156",
+    "context_cosine": 0.5475591566797606,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "400",
+    "context_neighbour": "679",
+    "context_cosine": 0.7320550109843991,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "400",
+    "context_neighbour": "90",
+    "context_cosine": 0.7283367592892867,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "400",
+    "context_neighbour": "621",
+    "context_cosine": 0.6593414274292944,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "405",
+    "context_neighbour": "407",
+    "context_cosine": 0.7973862268290488,
+    "component_bag_jaccard": 1.0
+  },
+  {
+    "sign": "405",
+    "context_neighbour": "390",
+    "context_cosine": 0.7768891261645126,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "405",
+    "context_neighbour": "156",
+    "context_cosine": 0.5184829353115142,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "407",
+    "context_neighbour": "405",
+    "context_cosine": 0.7973862268290488,
+    "component_bag_jaccard": 1.0
+  },
+  {
+    "sign": "407",
+    "context_neighbour": "390",
+    "context_cosine": 0.6822075507265313,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "407",
+    "context_neighbour": "156",
+    "context_cosine": 0.5017768961996625,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "413",
+    "context_neighbour": "820",
+    "context_cosine": 0.564761971852631,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "413",
+    "context_neighbour": "692",
+    "context_cosine": 0.5346542466982666,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "413",
+    "context_neighbour": "817",
+    "context_cosine": 0.49934925120104834,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "415",
+    "context_neighbour": "235",
+    "context_cosine": 0.550035011828577,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "415",
+    "context_neighbour": "32",
+    "context_cosine": 0.5366087680516186,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "415",
+    "context_neighbour": "240",
+    "context_cosine": 0.5191240225221131,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "416",
+    "context_neighbour": "455",
+    "context_cosine": 0.5941170612063664,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "416",
+    "context_neighbour": "16",
+    "context_cosine": 0.5851960467588573,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "416",
+    "context_neighbour": "32",
+    "context_cosine": 0.5810026753904655,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "435",
+    "context_neighbour": "70",
+    "context_cosine": 0.34361640044286634,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "435",
+    "context_neighbour": "921",
+    "context_cosine": 0.2979616030396981,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "435",
+    "context_neighbour": "368",
+    "context_cosine": 0.2294016367626408,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "440",
+    "context_neighbour": "176",
+    "context_cosine": 0.5493762873428643,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "440",
+    "context_neighbour": "798",
+    "context_cosine": 0.4839264630004134,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "440",
+    "context_neighbour": "175",
+    "context_cosine": 0.48183918724832664,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "455",
+    "context_neighbour": "416",
+    "context_cosine": 0.5941170612063664,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "455",
+    "context_neighbour": "32",
+    "context_cosine": 0.5555224189286917,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "455",
+    "context_neighbour": "55",
+    "context_cosine": 0.5480396156720518,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "460",
+    "context_neighbour": "384",
+    "context_cosine": 0.4256722269632114,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "460",
+    "context_neighbour": "615",
+    "context_cosine": 0.4206468035641824,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "460",
+    "context_neighbour": "877",
+    "context_cosine": 0.375829245569947,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "480",
+    "context_neighbour": "820",
+    "context_cosine": 0.3956352185738453,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "480",
+    "context_neighbour": "165",
+    "context_cosine": 0.35972755952207924,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "480",
+    "context_neighbour": "700",
+    "context_cosine": 0.34358485324770793,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "482",
+    "context_neighbour": "923",
+    "context_cosine": 0.7098134022222858,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "482",
+    "context_neighbour": "176",
+    "context_cosine": 0.6193620347992567,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "482",
+    "context_neighbour": "904",
+    "context_cosine": 0.5697845513334922,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "491",
+    "context_neighbour": "853",
+    "context_cosine": 0.4964781514068407,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "491",
+    "context_neighbour": "140",
+    "context_cosine": 0.4622384050699342,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "491",
+    "context_neighbour": "817",
+    "context_cosine": 0.4432323326279667,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "495",
+    "context_neighbour": "503",
+    "context_cosine": 0.7881586461313221,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "495",
+    "context_neighbour": "706",
+    "context_cosine": 0.4347042377154614,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "495",
+    "context_neighbour": "104",
+    "context_cosine": 0.42905190914453084,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "503",
+    "context_neighbour": "495",
+    "context_cosine": 0.7881586461313221,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "503",
+    "context_neighbour": "16",
+    "context_cosine": 0.4574583869957225,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "503",
+    "context_neighbour": "104",
+    "context_cosine": 0.4499338942064166,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "520",
+    "context_neighbour": "151",
+    "context_cosine": 0.6323765406038575,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "520",
+    "context_neighbour": "241",
+    "context_cosine": 0.6099488563839813,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "520",
+    "context_neighbour": "740",
+    "context_cosine": 0.5744593854734757,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "527",
+    "context_neighbour": "679",
+    "context_cosine": 0.5482524266836227,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "527",
+    "context_neighbour": "617",
+    "context_cosine": 0.5436017017919095,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "527",
+    "context_neighbour": "90",
+    "context_cosine": 0.5286427362821648,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "550",
+    "context_neighbour": "820",
+    "context_cosine": 0.5890380115523366,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "550",
+    "context_neighbour": "555",
+    "context_cosine": 0.5749748091561315,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "550",
+    "context_neighbour": "692",
+    "context_cosine": 0.573421522076316,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "555",
+    "context_neighbour": "550",
+    "context_cosine": 0.5749748091561315,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "555",
+    "context_neighbour": "388",
+    "context_cosine": 0.4980873750235202,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "555",
+    "context_neighbour": "520",
+    "context_cosine": 0.3838930833288652,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "575",
+    "context_neighbour": "904",
+    "context_cosine": 0.4931191186585431,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "575",
+    "context_neighbour": "752",
+    "context_cosine": 0.49155658029653215,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "575",
+    "context_neighbour": "585",
+    "context_cosine": 0.46157335734152105,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "585",
+    "context_neighbour": "923",
+    "context_cosine": 0.5617673628357099,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "585",
+    "context_neighbour": "752",
+    "context_cosine": 0.5436857348546962,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "585",
+    "context_neighbour": "760",
+    "context_cosine": 0.525929030274077,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "590",
+    "context_neighbour": "4",
+    "context_cosine": 0.5789263479618612,
+    "component_bag_jaccard": 0.05263157894736842
+  },
+  {
+    "sign": "590",
+    "context_neighbour": "16",
+    "context_cosine": 0.5611635368558694,
+    "component_bag_jaccard": 0.14285714285714285
+  },
+  {
+    "sign": "590",
+    "context_neighbour": "125",
+    "context_cosine": 0.5571583689903988,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "595",
+    "context_neighbour": "820",
+    "context_cosine": 0.46075081897691794,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "595",
+    "context_neighbour": "368",
+    "context_cosine": 0.40857510136278474,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "595",
+    "context_neighbour": "31",
+    "context_cosine": 0.39288090939156173,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "615",
+    "context_neighbour": "861",
+    "context_cosine": 0.4393964319918586,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "615",
+    "context_neighbour": "460",
+    "context_cosine": 0.4206468035641824,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "615",
+    "context_neighbour": "440",
+    "context_cosine": 0.41949390330559266,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "617",
+    "context_neighbour": "527",
+    "context_cosine": 0.5436017017919095,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "617",
+    "context_neighbour": "156",
+    "context_cosine": 0.5289992199951216,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "617",
+    "context_neighbour": "151",
+    "context_cosine": 0.5237907909465828,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "621",
+    "context_neighbour": "400",
+    "context_cosine": 0.6593414274292944,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "621",
+    "context_neighbour": "679",
+    "context_cosine": 0.6543446419105049,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "621",
+    "context_neighbour": "90",
+    "context_cosine": 0.6467277747809863,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "630",
+    "context_neighbour": "923",
+    "context_cosine": 0.5618736627160336,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "630",
+    "context_neighbour": "176",
+    "context_cosine": 0.5601233804945023,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "630",
+    "context_neighbour": "717",
+    "context_cosine": 0.520494496472696,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "632",
+    "context_neighbour": "590",
+    "context_cosine": 0.43395192802775406,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "632",
+    "context_neighbour": "877",
+    "context_cosine": 0.4222639905620449,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "632",
+    "context_neighbour": "165",
+    "context_cosine": 0.4160814835668887,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "679",
+    "context_neighbour": "90",
+    "context_cosine": 0.8248559091316072,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "679",
+    "context_neighbour": "400",
+    "context_cosine": 0.7320550109843991,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "679",
+    "context_neighbour": "621",
+    "context_cosine": 0.6543446419105049,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "690",
+    "context_neighbour": "405",
+    "context_cosine": 0.48602474277848207,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "690",
+    "context_neighbour": "904",
+    "context_cosine": 0.4647793107501792,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "690",
+    "context_neighbour": "390",
+    "context_cosine": 0.4560113865233326,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "692",
+    "context_neighbour": "920",
+    "context_cosine": 0.7191325934862264,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "692",
+    "context_neighbour": "820",
+    "context_cosine": 0.6437753631698429,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "692",
+    "context_neighbour": "550",
+    "context_cosine": 0.573421522076316,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "700",
+    "context_neighbour": "226",
+    "context_cosine": 0.5180448250408553,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "700",
+    "context_neighbour": "520",
+    "context_cosine": 0.5087961884250702,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "700",
+    "context_neighbour": "151",
+    "context_cosine": 0.4966536057066908,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "705",
+    "context_neighbour": "706",
+    "context_cosine": 0.7681730797239912,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "705",
+    "context_neighbour": "832",
+    "context_cosine": 0.49178113212830965,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "705",
+    "context_neighbour": "590",
+    "context_cosine": 0.47166644552795134,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "706",
+    "context_neighbour": "705",
+    "context_cosine": 0.7681730797239912,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "706",
+    "context_neighbour": "233",
+    "context_cosine": 0.43968751323392774,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "706",
+    "context_neighbour": "495",
+    "context_cosine": 0.4347042377154614,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "717",
+    "context_neighbour": "176",
+    "context_cosine": 0.6035192090393688,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "717",
+    "context_neighbour": "798",
+    "context_cosine": 0.525980020346461,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "717",
+    "context_neighbour": "630",
+    "context_cosine": 0.520494496472696,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "740",
+    "context_neighbour": "151",
+    "context_cosine": 0.662957005205273,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "740",
+    "context_neighbour": "520",
+    "context_cosine": 0.5744593854734757,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "740",
+    "context_neighbour": "154",
+    "context_cosine": 0.5482945108319787,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "741",
+    "context_neighbour": "2",
+    "context_cosine": 0.4622888726215413,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "741",
+    "context_neighbour": "742",
+    "context_cosine": 0.4396020274571967,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "741",
+    "context_neighbour": "31",
+    "context_cosine": 0.4336287600916793,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "742",
+    "context_neighbour": "741",
+    "context_cosine": 0.4396020274571967,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "742",
+    "context_neighbour": "235",
+    "context_cosine": 0.43460396805526236,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "742",
+    "context_neighbour": "2",
+    "context_cosine": 0.3885744184792599,
+    "component_bag_jaccard": 0.11764705882352941
+  },
+  {
+    "sign": "745",
+    "context_neighbour": "853",
+    "context_cosine": 0.4126873041373105,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "745",
+    "context_neighbour": "803",
+    "context_cosine": 0.3912742879722044,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "745",
+    "context_neighbour": "741",
+    "context_cosine": 0.3875504159266445,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "752",
+    "context_neighbour": "760",
+    "context_cosine": 0.6570696581116069,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "752",
+    "context_neighbour": "923",
+    "context_cosine": 0.5562239920201298,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "752",
+    "context_neighbour": "482",
+    "context_cosine": 0.5483692060118751,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "760",
+    "context_neighbour": "752",
+    "context_cosine": 0.6570696581116069,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "760",
+    "context_neighbour": "923",
+    "context_cosine": 0.6336388059939811,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "760",
+    "context_neighbour": "100",
+    "context_cosine": 0.5891117626755317,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "790",
+    "context_neighbour": "590",
+    "context_cosine": 0.5501677137759698,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "790",
+    "context_neighbour": "34",
+    "context_cosine": 0.5204339254216008,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "790",
+    "context_neighbour": "90",
+    "context_cosine": 0.5087392475941668,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "798",
+    "context_neighbour": "803",
+    "context_cosine": 0.6867724790174374,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "798",
+    "context_neighbour": "235",
+    "context_cosine": 0.6697689011514254,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "798",
+    "context_neighbour": "176",
+    "context_cosine": 0.6386493894212455,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "803",
+    "context_neighbour": "235",
+    "context_cosine": 0.724279102992524,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "803",
+    "context_neighbour": "798",
+    "context_cosine": 0.6867724790174374,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "803",
+    "context_neighbour": "240",
+    "context_cosine": 0.6584473243128887,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "806",
+    "context_neighbour": "803",
+    "context_cosine": 0.6259303511159959,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "806",
+    "context_neighbour": "798",
+    "context_cosine": 0.5866236031542937,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "806",
+    "context_neighbour": "235",
+    "context_cosine": 0.5750398287424292,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "817",
+    "context_neighbour": "861",
+    "context_cosine": 0.8662123393902786,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "817",
+    "context_neighbour": "820",
+    "context_cosine": 0.7533298788140407,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "817",
+    "context_neighbour": "920",
+    "context_cosine": 0.5320209108447768,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "820",
+    "context_neighbour": "817",
+    "context_cosine": 0.7533298788140407,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "820",
+    "context_neighbour": "861",
+    "context_cosine": 0.7024540430326413,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "820",
+    "context_neighbour": "692",
+    "context_cosine": 0.6437753631698429,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "831",
+    "context_neighbour": "72",
+    "context_cosine": 0.43046963476783784,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "831",
+    "context_neighbour": "125",
+    "context_cosine": 0.4232742523010762,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "831",
+    "context_neighbour": "590",
+    "context_cosine": 0.4111428186035655,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "832",
+    "context_neighbour": "416",
+    "context_cosine": 0.5378981584529492,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "832",
+    "context_neighbour": "621",
+    "context_cosine": 0.5102313936401173,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "832",
+    "context_neighbour": "705",
+    "context_cosine": 0.49178113212830965,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "838",
+    "context_neighbour": "803",
+    "context_cosine": 0.5935748347653025,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "838",
+    "context_neighbour": "235",
+    "context_cosine": 0.5541477143199582,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "838",
+    "context_neighbour": "806",
+    "context_cosine": 0.4931223549126187,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "840",
+    "context_neighbour": "904",
+    "context_cosine": 0.4969538103543424,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "840",
+    "context_neighbour": "923",
+    "context_cosine": 0.47940528196975585,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "840",
+    "context_neighbour": "717",
+    "context_cosine": 0.4647274458519557,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "845",
+    "context_neighbour": "923",
+    "context_cosine": 0.3131589248986507,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "845",
+    "context_neighbour": "590",
+    "context_cosine": 0.2973712778939013,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "845",
+    "context_neighbour": "520",
+    "context_cosine": 0.29163818987207535,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "850",
+    "context_neighbour": "820",
+    "context_cosine": 0.5036105087480756,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "850",
+    "context_neighbour": "817",
+    "context_cosine": 0.48177794800131357,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "850",
+    "context_neighbour": "861",
+    "context_cosine": 0.4731113278652227,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "853",
+    "context_neighbour": "491",
+    "context_cosine": 0.4964781514068407,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "853",
+    "context_neighbour": "817",
+    "context_cosine": 0.4648659922553072,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "853",
+    "context_neighbour": "692",
+    "context_cosine": 0.45741020371593266,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "861",
+    "context_neighbour": "817",
+    "context_cosine": 0.8662123393902786,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "861",
+    "context_neighbour": "820",
+    "context_cosine": 0.7024540430326413,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "861",
+    "context_neighbour": "920",
+    "context_cosine": 0.5137272251192845,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "877",
+    "context_neighbour": "384",
+    "context_cosine": 0.5998574720309059,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "877",
+    "context_neighbour": "904",
+    "context_cosine": 0.5378293304967331,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "877",
+    "context_neighbour": "176",
+    "context_cosine": 0.4989974224988385,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "892",
+    "context_neighbour": "390",
+    "context_cosine": 0.48243442749363386,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "892",
+    "context_neighbour": "416",
+    "context_cosine": 0.471513625733474,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "892",
+    "context_neighbour": "700",
+    "context_cosine": 0.46195289758360214,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "900",
+    "context_neighbour": "390",
+    "context_cosine": 0.4724490029793369,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "900",
+    "context_neighbour": "798",
+    "context_cosine": 0.4435541346509142,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "900",
+    "context_neighbour": "904",
+    "context_cosine": 0.4424418138911892,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "904",
+    "context_neighbour": "176",
+    "context_cosine": 0.6976295775684996,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "904",
+    "context_neighbour": "923",
+    "context_cosine": 0.6287113916900341,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "904",
+    "context_neighbour": "760",
+    "context_cosine": 0.577024574582608,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "920",
+    "context_neighbour": "692",
+    "context_cosine": 0.7191325934862264,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "920",
+    "context_neighbour": "820",
+    "context_cosine": 0.6276182102106078,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "920",
+    "context_neighbour": "550",
+    "context_cosine": 0.5595964439937279,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "921",
+    "context_neighbour": "226",
+    "context_cosine": 0.40750270554449464,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "921",
+    "context_neighbour": "503",
+    "context_cosine": 0.3707672343896431,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "921",
+    "context_neighbour": "255",
+    "context_cosine": 0.36428993361706574,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "923",
+    "context_neighbour": "482",
+    "context_cosine": 0.7098134022222858,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "923",
+    "context_neighbour": "176",
+    "context_cosine": 0.6594906410492001,
+    "component_bag_jaccard": 0.0
+  },
+  {
+    "sign": "923",
+    "context_neighbour": "760",
+    "context_cosine": 0.6336388059939811,
+    "component_bag_jaccard": 0.0
+  }
+]

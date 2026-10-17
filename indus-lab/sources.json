@@ -1,0 +1,89 @@
+{
+  "retrieved": "2026-10-05",
+  "lineage": [
+    "https://github.com/dbourdeau/cyphersolver",
+    "https://github.com/yajnadevam/indus-website",
+    "https://github.com/mayig/indus-valley-script-corpus"
+  ],
+  "sources": [
+    {
+      "file": "raw/cisi_mayig.tsv",
+      "url": "https://raw.githubusercontent.com/dbourdeau/cyphersolver/main/targets/indus/data/cisi_mayig.tsv",
+      "github_blob_sha": "84365b5131bb6d5205c1129520cf33c9a31e2770",
+      "sha256": "d9ecf3537eee9458e7e0d60a0b9bfcd1b516712ece54a70a19838cb788fcd8f6",
+      "layer": "derived transcription or mapping; not original image"
+    },
+    {
+      "file": "raw/cisi_signs.tsv",
+      "url": "https://raw.githubusercontent.com/dbourdeau/cyphersolver/main/targets/indus/data/cisi_signs.tsv",
+      "github_blob_sha": "202dcb45ae844974c4a3c5a07dd3de8e83e7e231",
+      "sha256": "dd248e04cc5e0c16df83408e3d65868cb1894cd0d20d4bffe3879c7e85d8eee7",
+      "layer": "derived transcription or mapping; not original image"
+    },
+    {
+      "file": "raw/corpus.tsv",
+      "url": "https://raw.githubusercontent.com/dbourdeau/cyphersolver/main/targets/indus/data/corpus.tsv",
+      "github_blob_sha": "f236ddb621d8dca544b938ebbc646b71a43545fd",
+      "sha256": "62639473020bd866a3fc45c7894b6b467b83572175867cc00342cbf5ad319e62",
+      "layer": "derived transcription or mapping; not original image"
+    },
+    {
+      "file": "raw/corpus_m77_added.tsv",
+      "url": "https://raw.githubusercontent.com/dbourdeau/cyphersolver/main/targets/indus/data/corpus_m77_added.tsv",
+      "github_blob_sha": "0af93e54e84cb6824955481c11f8a8453864fec5",
+      "sha256": "ce37c0b6903bf91387d71254dd61a0cc1f003e2ee3937b94f338791109ed046d",
+      "layer": "derived transcription or mapping; not original image"
+    },
+    {
+      "file": "raw/glyphs.tsv",
+      "url": "https://raw.githubusercontent.com/dbourdeau/cyphersolver/main/targets/indus/data/glyphs.tsv",
+      "github_blob_sha": "5ba3bccef0920896b08abfa25a4d5df03fabb7a5",
+      "sha256": "4e30aaee183a1aed5470783832cbccf9d251be26973b45c8db48c48bbf56fcb2",
+      "layer": "derived transcription or mapping; not original image"
+    },
+    {
+      "file": "raw/icit_m77_map.tsv",
+      "url": "https://raw.githubusercontent.com/dbourdeau/cyphersolver/main/targets/indus/data/icit_m77_map.tsv",
+      "github_blob_sha": "548eca6e6010e4ca78e72aa6577158eb3b59bd5b",
+      "sha256": "014ea5d5a7c331d3ceb73a85419d902ba630bc92df639475f9a49f7eb7c58d06",
+      "layer": "derived transcription or mapping; not original image"
+    },
+    {
+      "title": "CISI vol. 1, Joshi and Parpola 1987; scanned container",
+      "url": "https://ignca.gov.in/Asi_data/76884.pdf",
+      "sha256": "47a4da4227cfb7baa56d6a561e25797225499d0ec54f5a702a82c67ab4746d4d",
+      "layer": "published photographic corpus; not bundled"
+    },
+    {
+      "title": "CISI vol. 2, Shah and Parpola 1991",
+      "url": "https://archive.org/download/corpus-vol-2_202409/CorpusVol2_text.pdf",
+      "sha256": "e79d3f92ba25fbd696d42d3a1b059b8927a55a40ce2285cae61f9d0b901b0704",
+      "layer": "published photographic corpus; not bundled"
+    },
+    {
+      "file": "raw/inscriptions.csv",
+      "url": "https://raw.githubusercontent.com/field-cady/indus_valley_script_corpus/main/inscriptions.csv",
+      "sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "file": "raw/sk_indus_script-webfont.ttf",
+      "url": "https://raw.githubusercontent.com/yajnadevam/indus-website/main/src/assets/fonts/sk_indus_script-webfont.ttf",
+      "sha256": "2fccc124e03b8c3644e601e35e5d62af57c71d2b66396c21c15813a4a932c478",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "file": "raw/population-script.sql",
+      "url": "https://raw.githubusercontent.com/yajnadevam/indus-website/main/population-script.sql",
+      "sha256": "a1bcc150e91ede5e1c3ce813073d8ac7bfe370d2709be320132a651ba9c7a54c",
+      "retrieved": "2026-10-05"
+    }
+  ],
+  "round08_repair": {
+    "file": "raw/cisi-v2-searchable.pdf",
+    "retrieved": "2026-10-06",
+    "sha256": "e79d3f92ba25fbd696d42d3a1b059b8927a55a40ce2285cae61f9d0b901b0704",
+    "bytes": 9840321,
+    "reason": "replaced incomplete local download; raw transcription unaffected"
+  }
+}

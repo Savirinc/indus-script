@@ -1,0 +1,2372 @@
+[
+  {
+    "id": "180.1",
+    "cisi": "M-584",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Anth",
+    "dir.": "R/L",
+    "text": "+740-900-000-407-000-000-000+",
+    "excavation-idno": "DK4807779"
+  },
+  {
+    "id": "278.1",
+    "cisi": "M-592",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hgls",
+    "dir.": "R/L",
+    "text": "+617-142-001-595-095[",
+    "excavation-idno": "SD 3225749"
+  },
+  {
+    "id": "429.1",
+    "cisi": "H-2251",
+    "material": "Copper",
+    "type": "TAB:B",
+    "symbol": "None",
+    "dir.": "-",
+    "text": "]176-790[",
+    "excavation-idno": "H2000-4498Figure 35.05"
+  },
+  {
+    "id": "465.1",
+    "cisi": "H-2254",
+    "material": "Copper",
+    "type": "TAB:B",
+    "symbol": "None",
+    "dir.": "-",
+    "text": "+000-000[",
+    "excavation-idno": "H2001-5080Figure 37.14"
+  },
+  {
+    "id": "465.2",
+    "cisi": "H-2254",
+    "material": "Copper",
+    "type": "TAB:B",
+    "symbol": "None",
+    "dir.": "-",
+    "text": "]176-790[",
+    "excavation-idno": "H2001-5080Figure 37.14"
+  },
+  {
+    "id": "564.1",
+    "cisi": "H-2249",
+    "material": "Copper",
+    "type": "TAB:B",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+000-176-790+",
+    "excavation-idno": "H94-2197Figure 17.02"
+  },
+  {
+    "id": "565.1",
+    "cisi": "H-2250",
+    "material": "Copper",
+    "type": "TAB:B",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+000-176-790+",
+    "excavation-idno": "H94-2198Figure 17.01"
+  },
+  {
+    "id": "933.1",
+    "cisi": "H-2252",
+    "material": "Copper",
+    "type": "TAB:B",
+    "symbol": "None",
+    "dir.": "-",
+    "text": "+000-176-000[",
+    "excavation-idno": "H98-3492Figure 25.01"
+  },
+  {
+    "id": "2275.1",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK344793.9"
+  },
+  {
+    "id": "2284.1",
+    "cisi": "M-2053",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+782+",
+    "excavation-idno": "DK369793.1"
+  },
+  {
+    "id": "2284.2",
+    "cisi": "M-2053",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+407-032-520-095-585-017-220+",
+    "excavation-idno": "DK369793.1"
+  },
+  {
+    "id": "2287.1",
+    "cisi": "M-2054",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+780+",
+    "excavation-idno": "DK385093.3"
+  },
+  {
+    "id": "2287.2",
+    "cisi": "M-2054",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "DK385093.3"
+  },
+  {
+    "id": "2308.1",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK5444103.1"
+  },
+  {
+    "id": "2458.1",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "HR 4337bCXVII:12"
+  },
+  {
+    "id": "2465.1",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-690-435-255-231+",
+    "excavation-idno": "HR 4601a"
+  },
+  {
+    "id": "2465.2",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+749-479+",
+    "excavation-idno": "HR 4601a"
+  },
+  {
+    "id": "2481.1",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Unknown",
+    "dir.": "R/L",
+    "text": "+407-063-845-240-798+",
+    "excavation-idno": "HR 5816CXVII:9"
+  },
+  {
+    "id": "2488.1",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Comp",
+    "dir.": "R/L",
+    "text": "+422-003+",
+    "excavation-idno": "L 461CXVII:4"
+  },
+  {
+    "id": "2488.2",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Comp",
+    "dir.": "R/L",
+    "text": "+001-740-923-033-705+",
+    "excavation-idno": "L 461CXVII:4"
+  },
+  {
+    "id": "2505.1",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "NR",
+    "text": "+740-000-000[",
+    "excavation-idno": "VS-N 83-609"
+  },
+  {
+    "id": "2520.1",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "VS 3320CXVIII:4"
+  },
+  {
+    "id": "2522.1",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Rhin",
+    "dir.": "R/L",
+    "text": "+740-615-503+",
+    "excavation-idno": "VS 3500CXVII:7"
+  },
+  {
+    "id": "2523.1",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Comp",
+    "dir.": "R/L",
+    "text": "+407-585-033-705-233-235-806+",
+    "excavation-idno": "VS 3590CXVIII:2"
+  },
+  {
+    "id": "2525.1",
+    "cisi": "M-1514",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-752+",
+    "excavation-idno": "VS 720CXVII:15"
+  },
+  {
+    "id": "2979.1",
+    "cisi": "M-502",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-176-233-000+",
+    "excavation-idno": "DK10683"
+  },
+  {
+    "id": "2980.1",
+    "cisi": "M-503",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-176-233-806+",
+    "excavation-idno": "DK10695"
+  },
+  {
+    "id": "2981.1",
+    "cisi": "M-504",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-384-233-806+",
+    "excavation-idno": "DK4318"
+  },
+  {
+    "id": "2982.1",
+    "cisi": "M-505",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-384-233-000+",
+    "excavation-idno": "SD 1517CXVII:2"
+  },
+  {
+    "id": "2983.1",
+    "cisi": "M-507",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Loop",
+    "dir.": "R/L",
+    "text": "+407-845-220-415+",
+    "excavation-idno": "DK11287"
+  },
+  {
+    "id": "2984.1",
+    "cisi": "M-508",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Loop",
+    "dir.": "R/L",
+    "text": "+407-845-220-415+",
+    "excavation-idno": "DK11499"
+  },
+  {
+    "id": "2985.1",
+    "cisi": "M-509",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+165-900+",
+    "excavation-idno": "DK4069"
+  },
+  {
+    "id": "2985.2",
+    "cisi": "M-509",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+405-240-740-176-002-326+",
+    "excavation-idno": "DK4069"
+  },
+  {
+    "id": "2986.1",
+    "cisi": "M-510",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+165-900+",
+    "excavation-idno": "DK4067"
+  },
+  {
+    "id": "2986.2",
+    "cisi": "M-510",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+405-240-740-176-002-326+",
+    "excavation-idno": "DK4067"
+  },
+  {
+    "id": "2987.1",
+    "cisi": "M-511",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+165-900-700-003+",
+    "excavation-idno": "DK414393.5"
+  },
+  {
+    "id": "2987.2",
+    "cisi": "M-511",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-176-220-032+",
+    "excavation-idno": "DK414393.5"
+  },
+  {
+    "id": "2988.1",
+    "cisi": "M-512",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+165-900-700-003+",
+    "excavation-idno": "DK396293.6"
+  },
+  {
+    "id": "2988.2",
+    "cisi": "M-512",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-176-220-032+",
+    "excavation-idno": "DK396293.6"
+  },
+  {
+    "id": "2989.1",
+    "cisi": "M-513",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+706-005+",
+    "excavation-idno": "DK-E 814"
+  },
+  {
+    "id": "2989.2",
+    "cisi": "M-513",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+407-585-233+",
+    "excavation-idno": "DK-E 814"
+  },
+  {
+    "id": "2990.1",
+    "cisi": "M-514",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+706-005+",
+    "excavation-idno": "C2248"
+  },
+  {
+    "id": "2990.2",
+    "cisi": "M-514",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+407-585-233+",
+    "excavation-idno": "C2248"
+  },
+  {
+    "id": "2991.1",
+    "cisi": "M-515",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+706-005+",
+    "excavation-idno": "DK9152"
+  },
+  {
+    "id": "2991.2",
+    "cisi": "M-515",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+407-585-233+",
+    "excavation-idno": "DK9152"
+  },
+  {
+    "id": "2992.1",
+    "cisi": "M-516",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+341+",
+    "excavation-idno": "VS 2590"
+  },
+  {
+    "id": "2992.2",
+    "cisi": "M-516",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-615-503+",
+    "excavation-idno": "VS 2590"
+  },
+  {
+    "id": "2993.1",
+    "cisi": "M-517",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+341+",
+    "excavation-idno": "DK9015"
+  },
+  {
+    "id": "2993.2",
+    "cisi": "M-517",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-615-503+",
+    "excavation-idno": "DK9015"
+  },
+  {
+    "id": "2994.1",
+    "cisi": "M-519",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Bull1:W",
+    "dir.": "R/L",
+    "text": "+617-142-001-595-095-760-744+",
+    "excavation-idno": "HR 2984CXVII:10"
+  },
+  {
+    "id": "2995.1",
+    "cisi": "M-520",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Bull1:W",
+    "dir.": "R/L",
+    "text": "+617-142-001-595-095-760-744+",
+    "excavation-idno": "DK4235103.2"
+  },
+  {
+    "id": "2996.1",
+    "cisi": "M-521",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+000-000-717-747+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "2997.1",
+    "cisi": "M-522",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Gaur",
+    "dir.": "R/L",
+    "text": "+595-343-615+",
+    "excavation-idno": "HR 4615"
+  },
+  {
+    "id": "2998.1",
+    "cisi": "M-523",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Gaur",
+    "dir.": "R/L",
+    "text": "+407-071-032+",
+    "excavation-idno": "HR 4573CXVII:14"
+  },
+  {
+    "id": "2999.1",
+    "cisi": "M-524",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Gaur",
+    "dir.": "R/L",
+    "text": "+407-071-032+",
+    "excavation-idno": "VS 1104"
+  },
+  {
+    "id": "3000.1",
+    "cisi": "M-525",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Gaur",
+    "dir.": "R/L",
+    "text": "+423-003-001-900-740-690-435-255+",
+    "excavation-idno": "L 982CXVII:13"
+  },
+  {
+    "id": "3001.1",
+    "cisi": "M-527",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Elep",
+    "dir.": "R/L",
+    "text": "+001-740-923-033-706+",
+    "excavation-idno": "DK9169"
+  },
+  {
+    "id": "3002.1",
+    "cisi": "M-528",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Elep",
+    "dir.": "R/L",
+    "text": "+001-740-923-033-706+",
+    "excavation-idno": "DK-E 2181"
+  },
+  {
+    "id": "3003.1",
+    "cisi": "M-529",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Elep",
+    "dir.": "R/L",
+    "text": "+001-740-923-033-706+",
+    "excavation-idno": "VS 1900(1)"
+  },
+  {
+    "id": "3004.1",
+    "cisi": "M-530",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Elep",
+    "dir.": "R/L",
+    "text": "+001-740-923-033-706+",
+    "excavation-idno": "DK12829"
+  },
+  {
+    "id": "3005.1",
+    "cisi": "M-531",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "-",
+    "text": "+000-923-000+",
+    "excavation-idno": "E1092"
+  },
+  {
+    "id": "3006.1",
+    "cisi": "M-534",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "DK151"
+  },
+  {
+    "id": "3007.1",
+    "cisi": "M-535",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "DK12514"
+  },
+  {
+    "id": "3008.1",
+    "cisi": "M-536",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "DK3334"
+  },
+  {
+    "id": "3009.1",
+    "cisi": "M-537",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "DK-C 1606CXVII:5"
+  },
+  {
+    "id": "3010.1",
+    "cisi": "M-538",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "SD 1758"
+  },
+  {
+    "id": "3011.1",
+    "cisi": "M-539",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "DK12223"
+  },
+  {
+    "id": "3013.1",
+    "cisi": "M-541",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "DK7871"
+  },
+  {
+    "id": "3014.1",
+    "cisi": "M-542",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "DK5440"
+  },
+  {
+    "id": "3015.1",
+    "cisi": "M-543",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Goat:8",
+    "dir.": "R/L",
+    "text": "+790-740-100-176-421-003+",
+    "excavation-idno": "DK1838"
+  },
+  {
+    "id": "3016.1",
+    "cisi": "M-544",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Goat:8",
+    "dir.": "R/L",
+    "text": "+790-740-100-176-421-003+",
+    "excavation-idno": "DK-C 153"
+  },
+  {
+    "id": "3017.1",
+    "cisi": "M-545",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Goat:8",
+    "dir.": "R/L",
+    "text": "+790-740-100-176-421-003+",
+    "excavation-idno": "DK-B 103"
+  },
+  {
+    "id": "3018.1",
+    "cisi": "M-546",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Goat:8",
+    "dir.": "R/L",
+    "text": "+000-176-421-003+",
+    "excavation-idno": "SD 1200"
+  },
+  {
+    "id": "3019.1",
+    "cisi": "M-547",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+407-032-520-095-585-017-231+",
+    "excavation-idno": "DK467293.11"
+  },
+  {
+    "id": "3020.1",
+    "cisi": "M-548",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Goat:8",
+    "dir.": "R/L",
+    "text": "+407-032-520-095-585-017-231+",
+    "excavation-idno": "DK501"
+  },
+  {
+    "id": "3021.1",
+    "cisi": "M-549",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+407-032-520-095-585-017-231+",
+    "excavation-idno": "HR 2676"
+  },
+  {
+    "id": "3022.1",
+    "cisi": "M-550",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Comp",
+    "dir.": "R/L",
+    "text": "+740-100-233-003+",
+    "excavation-idno": "DK11307"
+  },
+  {
+    "id": "3023.1",
+    "cisi": "M-551",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "VS 1988CXVII:8"
+  },
+  {
+    "id": "3024.1",
+    "cisi": "M-552",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK1023"
+  },
+  {
+    "id": "3025.1",
+    "cisi": "M-553",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK12001"
+  },
+  {
+    "id": "3026.1",
+    "cisi": "M-554",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "HR 4337a"
+  },
+  {
+    "id": "3027.1",
+    "cisi": "M-555",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK3409"
+  },
+  {
+    "id": "3028.1",
+    "cisi": "M-556",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3029.1",
+    "cisi": "M-557",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK10146"
+  },
+  {
+    "id": "3030.1",
+    "cisi": "M-558",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK10175"
+  },
+  {
+    "id": "3031.1",
+    "cisi": "M-559",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK3447(1)"
+  },
+  {
+    "id": "3032.1",
+    "cisi": "M-560",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "SD 3009"
+  },
+  {
+    "id": "3033.1",
+    "cisi": "M-561",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK10141"
+  },
+  {
+    "id": "3034.1",
+    "cisi": "M-562",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK1798"
+  },
+  {
+    "id": "3035.1",
+    "cisi": "M-563",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "HR 5549"
+  },
+  {
+    "id": "3036.1",
+    "cisi": "M-564",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "HR 723"
+  },
+  {
+    "id": "3037.1",
+    "cisi": "M-565",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "HR 6058"
+  },
+  {
+    "id": "3038.1",
+    "cisi": "M-567",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Gaur",
+    "dir.": "R/L",
+    "text": "+407-061-845-240-798+",
+    "excavation-idno": "DK4225"
+  },
+  {
+    "id": "3039.1",
+    "cisi": "M-568",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Tigr",
+    "dir.": "R/L",
+    "text": "+407-061-845-240-798+",
+    "excavation-idno": "DK7874"
+  },
+  {
+    "id": "3040.1",
+    "cisi": "M-569",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+407-061-845-240-798+",
+    "excavation-idno": "HR 1401"
+  },
+  {
+    "id": "3041.1",
+    "cisi": "M-571",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Comp",
+    "dir.": "R/L",
+    "text": "+740-773-220-032+",
+    "excavation-idno": "DK440893.13"
+  },
+  {
+    "id": "3042.1",
+    "cisi": "M-572",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-222-233-235+",
+    "excavation-idno": "DK3694"
+  },
+  {
+    "id": "3043.1",
+    "cisi": "M-573",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-222-233-235/617-142-001-368-861+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3044.1",
+    "cisi": "M-574",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+617-142-001-368-861+",
+    "excavation-idno": "DK3931"
+  },
+  {
+    "id": "3044.2",
+    "cisi": "M-574",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-222-233-235+",
+    "excavation-idno": "DK3931"
+  },
+  {
+    "id": "3045.1",
+    "cisi": "M-575",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+617-142-597-032-905+",
+    "excavation-idno": "DK3577"
+  },
+  {
+    "id": "3046.1",
+    "cisi": "M-576",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+617-142-597-032-905+",
+    "excavation-idno": "DK10596"
+  },
+  {
+    "id": "3047.1",
+    "cisi": "M-577",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+617-142-597-032-905/407-004-002-365-460-495+",
+    "excavation-idno": "DK10707"
+  },
+  {
+    "id": "3048.1",
+    "cisi": "M-578",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Comp",
+    "dir.": "R/L",
+    "text": "+740-388-585-017+",
+    "excavation-idno": "DK420993.8"
+  },
+  {
+    "id": "3050.1",
+    "cisi": "M-580",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-388-585-017+",
+    "excavation-idno": "DK4089"
+  },
+  {
+    "id": "3051.1",
+    "cisi": "M-581",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-388-585-017+",
+    "excavation-idno": "DK101421013"
+  },
+  {
+    "id": "3052.1",
+    "cisi": "M-582",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Anth",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "DK1488"
+  },
+  {
+    "id": "3053.1",
+    "cisi": "M-583",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Anth",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "SD 3032"
+  },
+  {
+    "id": "3054.1",
+    "cisi": "M-585",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Anth",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "DK-E 2215"
+  },
+  {
+    "id": "3055.1",
+    "cisi": "M-586",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Anth",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3056.1",
+    "cisi": "M-587",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Anth",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "DK-E 825"
+  },
+  {
+    "id": "3057.1",
+    "cisi": "M-588",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Anth",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "VS 1406CXVII:16"
+  },
+  {
+    "id": "3058.1",
+    "cisi": "M-593",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "DK10045"
+  },
+  {
+    "id": "3058.2",
+    "cisi": "M-593",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+753+",
+    "excavation-idno": "DK10045"
+  },
+  {
+    "id": "3059.1",
+    "cisi": "M-597",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+749+",
+    "excavation-idno": "DK10425"
+  },
+  {
+    "id": "3059.2",
+    "cisi": "M-597",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-384-233-806+",
+    "excavation-idno": "DK10425"
+  },
+  {
+    "id": "3060.1",
+    "cisi": "M-598",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "-",
+    "text": "]806[",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3061.1",
+    "cisi": "M-599",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+781+",
+    "excavation-idno": "DK1726"
+  },
+  {
+    "id": "3061.2",
+    "cisi": "M-599",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "L/R",
+    "text": "+408-032-520-095-585-017-220+",
+    "excavation-idno": "DK1726"
+  },
+  {
+    "id": "3062.1",
+    "cisi": "M-600",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+000-797[",
+    "excavation-idno": "HR 3290"
+  },
+  {
+    "id": "3062.2",
+    "cisi": "M-600",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "]090-520-032-408+",
+    "excavation-idno": "HR 3290"
+  },
+  {
+    "id": "3063.1",
+    "cisi": "M-602",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+781+",
+    "excavation-idno": "DK3447(2)"
+  },
+  {
+    "id": "3063.2",
+    "cisi": "M-602",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "DK3447(2)"
+  },
+  {
+    "id": "3064.1",
+    "cisi": "M-603",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-845-806+",
+    "excavation-idno": "HR 3504"
+  },
+  {
+    "id": "3064.2",
+    "cisi": "M-603",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+777+",
+    "excavation-idno": "HR 3504"
+  },
+  {
+    "id": "3065.1",
+    "cisi": "M-604",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "DK480793.14"
+  },
+  {
+    "id": "3065.2",
+    "cisi": "M-604",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+777+",
+    "excavation-idno": "DK480793.14"
+  },
+  {
+    "id": "3066.1",
+    "cisi": "M-605",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+841+",
+    "excavation-idno": "DK434693.2"
+  },
+  {
+    "id": "3066.2",
+    "cisi": "M-605",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-405-590-220-003+",
+    "excavation-idno": "DK434693.2"
+  },
+  {
+    "id": "3067.1",
+    "cisi": "M-606",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+957+",
+    "excavation-idno": "DK5421103.4"
+  },
+  {
+    "id": "3067.2",
+    "cisi": "M-606",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-100-904-033-705-231-798+",
+    "excavation-idno": "DK5421103.4"
+  },
+  {
+    "id": "3068.1",
+    "cisi": "M-607",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "NR",
+    "text": "+354+",
+    "excavation-idno": "DK-B 1811"
+  },
+  {
+    "id": "3069.1",
+    "cisi": "M-608",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+740-220-000+",
+    "excavation-idno": "DK5093"
+  },
+  {
+    "id": "3727.1",
+    "cisi": "M-1448",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-176-233-831+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3728.1",
+    "cisi": "M-1449",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-176-233-806+",
+    "excavation-idno": "HR 2743CXVIII:1"
+  },
+  {
+    "id": "3729.1",
+    "cisi": "M-1450",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-220-233-000+",
+    "excavation-idno": "VS 2613CXVII:1"
+  },
+  {
+    "id": "3730.1",
+    "cisi": "M-1452",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-176-231-806+",
+    "excavation-idno": "DK381793.12"
+  },
+  {
+    "id": "3730.2",
+    "cisi": "M-1452",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-407-590+",
+    "excavation-idno": "DK381793.12"
+  },
+  {
+    "id": "3731.1",
+    "cisi": "M-1453",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-384-000-000+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3732.1",
+    "cisi": "M-1454",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+740-000-000+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3733.1",
+    "cisi": "M-1456",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Loop",
+    "dir.": "R/L",
+    "text": "+407-845-220-415+",
+    "excavation-idno": "VS 3526CXVIII:5"
+  },
+  {
+    "id": "3734.1",
+    "cisi": "M-1457",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Loop",
+    "dir.": "R/L",
+    "text": "+407-845-220-415+",
+    "excavation-idno": "DK369693.4"
+  },
+  {
+    "id": "3734.2",
+    "cisi": "M-1457",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Loop",
+    "dir.": "R/L",
+    "text": "+790-740-100-405-590+",
+    "excavation-idno": "DK369693.4"
+  },
+  {
+    "id": "3735.1",
+    "cisi": "M-1458",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+407-004-001-617-142+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3735.2",
+    "cisi": "M-1458",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+165-900+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3736.1",
+    "cisi": "M-1461",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+740-798-233+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3736.2",
+    "cisi": "M-1461",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+165-900-000+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3737.1",
+    "cisi": "M-1465",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+035+",
+    "excavation-idno": "DK4294103.7"
+  },
+  {
+    "id": "3737.2",
+    "cisi": "M-1465",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-773+",
+    "excavation-idno": "DK4294103.7"
+  },
+  {
+    "id": "3738.1",
+    "cisi": "M-1470",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Bull1:W",
+    "dir.": "R/L",
+    "text": "+617-142-001-595-095-717-747+",
+    "excavation-idno": "DK-i  803"
+  },
+  {
+    "id": "3739.1",
+    "cisi": "M-1472",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Bull1:W",
+    "dir.": "R/L",
+    "text": "]001-595-142-717-747+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3740.1",
+    "cisi": "M-1474",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Bull",
+    "dir.": "R/L",
+    "text": "+000-740-690-435-255+",
+    "excavation-idno": "DK4058"
+  },
+  {
+    "id": "3741.1",
+    "cisi": "M-1475",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Buff",
+    "dir.": "R/L",
+    "text": "+424-003-001-900-740-690-435-255+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3742.1",
+    "cisi": "M-1476",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Buff",
+    "dir.": "R/L",
+    "text": "+422-003-900-740-690-435-255+",
+    "excavation-idno": "DK10311"
+  },
+  {
+    "id": "3743.1",
+    "cisi": "M-1477",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Bull",
+    "dir.": "R/L",
+    "text": "+000-900-740-690-000+",
+    "excavation-idno": "DK-i 693"
+  },
+  {
+    "id": "3744.1",
+    "cisi": "M-1478",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Bull",
+    "dir.": "-",
+    "text": "+000-003-000+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3745.1",
+    "cisi": "M-1479",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+422-003-900-740-690-435-255+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3746.1",
+    "cisi": "M-1480",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+422-003-900-740-690-435-255+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3747.1",
+    "cisi": "M-1482",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Elep",
+    "dir.": "R/L",
+    "text": "+740-923-033-706+",
+    "excavation-idno": "DK-i 167"
+  },
+  {
+    "id": "3748.1",
+    "cisi": "M-1483",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Elep",
+    "dir.": "R/L",
+    "text": "+740-923-033-706+",
+    "excavation-idno": "DK11127"
+  },
+  {
+    "id": "3749.1",
+    "cisi": "M-1484",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Elep",
+    "dir.": "R/L",
+    "text": "+740-923-033-706+",
+    "excavation-idno": "VS 888"
+  },
+  {
+    "id": "3750.1",
+    "cisi": "M-1485",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Elep",
+    "dir.": "R/L",
+    "text": "+740-923-033-706+",
+    "excavation-idno": "DK-i 838"
+  },
+  {
+    "id": "3751.1",
+    "cisi": "M-1486",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Elep",
+    "dir.": "R/L",
+    "text": "+740-923-033-706+",
+    "excavation-idno": "VS 2028CXVII:11"
+  },
+  {
+    "id": "3752.1",
+    "cisi": "M-1488",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Elep",
+    "dir.": "R/L",
+    "text": "+740-923-033-706+",
+    "excavation-idno": "DK5693"
+  },
+  {
+    "id": "3753.1",
+    "cisi": "M-1491",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3754.1",
+    "cisi": "M-1492",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3755.1",
+    "cisi": "M-1493",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "DK-i 854"
+  },
+  {
+    "id": "3756.1",
+    "cisi": "M-1494",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Hare",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "VS 2109CXVII:6"
+  },
+  {
+    "id": "3757.1",
+    "cisi": "M-1497",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+740-100-176-422-003+",
+    "excavation-idno": "DK-i 536"
+  },
+  {
+    "id": "3758.1",
+    "cisi": "M-1498",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+790-740-000-176-000-003+",
+    "excavation-idno": "DK5996103.3"
+  },
+  {
+    "id": "3759.1",
+    "cisi": "M-1499",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-100-176-422-003+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3760.1",
+    "cisi": "M-1503",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "L 456CXVIII:6"
+  },
+  {
+    "id": "3761.1",
+    "cisi": "M-1504",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3762.1",
+    "cisi": "M-1505",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3763.1",
+    "cisi": "M-1506",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK1365"
+  },
+  {
+    "id": "3764.1",
+    "cisi": "M-1507",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK10213"
+  },
+  {
+    "id": "3765.1",
+    "cisi": "M-1508",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3766.1",
+    "cisi": "M-1509",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3767.1",
+    "cisi": "M-1512",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "SD 1517"
+  },
+  {
+    "id": "3768.1",
+    "cisi": "M-1513",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "HR 2081"
+  },
+  {
+    "id": "3770.1",
+    "cisi": "M-1515",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+407-061-845-240-798+",
+    "excavation-idno": "DK-i 688"
+  },
+  {
+    "id": "3771.1",
+    "cisi": "M-1516",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+407-061-845-240-798+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3772.1",
+    "cisi": "M-1517",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Tigr",
+    "dir.": "R/L",
+    "text": "+407-061-845-240-798+",
+    "excavation-idno": "DK381193.10"
+  },
+  {
+    "id": "3773.1",
+    "cisi": "M-1520",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-222-220-235+",
+    "excavation-idno": "DK453293.7"
+  },
+  {
+    "id": "3774.1",
+    "cisi": "M-1521",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Rhin",
+    "dir.": "R/L",
+    "text": "+740-222-233-235+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3775.1",
+    "cisi": "M-1522",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Rhin",
+    "dir.": "R/L",
+    "text": "+740-222-233-235+",
+    "excavation-idno": "MD-SE"
+  },
+  {
+    "id": "3776.1",
+    "cisi": "M-1523",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Comp",
+    "dir.": "R/L",
+    "text": "+407-585-033-705-233-235-806+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3777.1",
+    "cisi": "M-1524",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+407-585-033-705-233-235-806+",
+    "excavation-idno": "VS 2432"
+  },
+  {
+    "id": "3778.1",
+    "cisi": "M-1528",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+617-142-597-032-905+",
+    "excavation-idno": "DK-i 417"
+  },
+  {
+    "id": "3779.1",
+    "cisi": "M-1529",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Comp",
+    "dir.": "R/L",
+    "text": "+617-142-597-032-904+",
+    "excavation-idno": "DK4157103.6"
+  },
+  {
+    "id": "3780.1",
+    "cisi": "M-1530",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+617-142-597-032-905+",
+    "excavation-idno": "VS 3504"
+  },
+  {
+    "id": "3781.1",
+    "cisi": "M-1531",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+617-142-597-032-905+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3782.1",
+    "cisi": "M-1532",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+407-004-002-365-460-495+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3782.2",
+    "cisi": "M-1532",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+617-142-597-032-905+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3783.1",
+    "cisi": "M-1534",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Othr",
+    "dir.": "R/L",
+    "text": "+740-388-585-017+",
+    "excavation-idno": "VS 983CXVII:3"
+  },
+  {
+    "id": "3784.1",
+    "cisi": "M-1535",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Anth",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3785.1",
+    "cisi": "M-1536",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Anth",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "SD 2554"
+  },
+  {
+    "id": "3786.1",
+    "cisi": "M-1540",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Anth",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "DK10076"
+  },
+  {
+    "id": "3787.1",
+    "cisi": "M-1547",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+407-321-407-845-033-705-235+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3787.2",
+    "cisi": "M-1547",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+753+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3788.1",
+    "cisi": "M-1548",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-690-435-255-231+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3788.2",
+    "cisi": "M-1548",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+749-479+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3789.1",
+    "cisi": "M-1549",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "]255-231[",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3789.2",
+    "cisi": "M-1549",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "-",
+    "text": "]749[",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3790.1",
+    "cisi": "M-1550",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-384-233-806+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3790.2",
+    "cisi": "M-1550",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+749+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3791.1",
+    "cisi": "M-1555",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+407-032-520-095-585-017-231+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3791.2",
+    "cisi": "M-1555",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+777+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3792.1",
+    "cisi": "M-1556",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+407-032-520-095-585-017-231+",
+    "excavation-idno": "SD 2051"
+  },
+  {
+    "id": "3792.2",
+    "cisi": "M-1556",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+777+",
+    "excavation-idno": "SD 2051"
+  },
+  {
+    "id": "3793.1",
+    "cisi": "M-1557",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+407-032-520-095-585-017-231+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3793.2",
+    "cisi": "M-1557",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+777+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3794.1",
+    "cisi": "M-1558",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+407-032-520-095-585-017-231+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3794.2",
+    "cisi": "M-1558",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+777+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3795.1",
+    "cisi": "M-1561",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "-",
+    "text": "]231+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3796.1",
+    "cisi": "M-1563",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+782+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3796.2",
+    "cisi": "M-1563",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "3797.1",
+    "cisi": "M-1568",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+957+",
+    "excavation-idno": "DK-i 412"
+  },
+  {
+    "id": "3797.2",
+    "cisi": "M-1568",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-100-904-033-705-231-798+",
+    "excavation-idno": "DK-i 412"
+  },
+  {
+    "id": "3798.1",
+    "cisi": "M-1569",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+904-032-904+",
+    "excavation-idno": "DK8044"
+  },
+  {
+    "id": "3846.1",
+    "cisi": "M-436",
+    "material": "Copper",
+    "type": "TAB:B",
+    "symbol": "Mult",
+    "dir.": "-",
+    "text": "+390-370+",
+    "excavation-idno": "SD 322582.6"
+  },
+  {
+    "id": "3846.2",
+    "cisi": "M-436",
+    "material": "Copper",
+    "type": "TAB:B",
+    "symbol": "Mult",
+    "dir.": "-",
+    "text": "+390-370+",
+    "excavation-idno": "SD 322582.6"
+  },
+  {
+    "id": "4023.1",
+    "cisi": "M-2042",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Elep",
+    "dir.": "R/L",
+    "text": "+740-923-033-706+",
+    "excavation-idno": "DK5576740"
+  },
+  {
+    "id": "4024.1",
+    "cisi": "M-2045",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Gaur",
+    "dir.": "R/L",
+    "text": "+740-752-000-503+",
+    "excavation-idno": "DK5444818"
+  },
+  {
+    "id": "4025.1",
+    "cisi": "M-2046",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Gaur",
+    "dir.": "R/L",
+    "text": "+740-752-615-503+",
+    "excavation-idno": "DK3730317"
+  },
+  {
+    "id": "4026.1",
+    "cisi": "M-2047",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Tigr",
+    "dir.": "R/L",
+    "text": "+420-000+",
+    "excavation-idno": "L 461594"
+  },
+  {
+    "id": "4027.1",
+    "cisi": "M-2048",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Gaur",
+    "dir.": "R/L",
+    "text": "+407-061-845-000-000+",
+    "excavation-idno": "-369"
+  },
+  {
+    "id": "4028.1",
+    "cisi": "M-2049",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Comp",
+    "dir.": "R/L",
+    "text": "+000-142-597-032-905+",
+    "excavation-idno": "-867"
+  },
+  {
+    "id": "4029.1",
+    "cisi": "M-2050",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Anth",
+    "dir.": "R/L",
+    "text": "+740-900-850-407-061-845-806+",
+    "excavation-idno": "DK4807817"
+  },
+  {
+    "id": "4030.1",
+    "cisi": "M-2055",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+002-407-125-590-831+",
+    "excavation-idno": "-448"
+  },
+  {
+    "id": "5050.1",
+    "cisi": "M-594",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-690-435-000[",
+    "excavation-idno": "DK-C 1378"
+  },
+  {
+    "id": "5146.1",
+    "cisi": "M-1487",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "-",
+    "dir.": "R/L",
+    "text": "+000-000-033-000+",
+    "excavation-idno": "-"
+  },
+  {
+    "id": "5284.1",
+    "cisi": "K-158",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-798+",
+    "excavation-idno": "KLB1"
+  },
+  {
+    "id": "5512.1",
+    "cisi": "M-596",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "R/L",
+    "text": "+740-000-000+",
+    "excavation-idno": "DK3352"
+  },
+  {
+    "id": "5512.2",
+    "cisi": "M-596",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+749+",
+    "excavation-idno": "DK3352"
+  },
+  {
+    "id": "5522.1",
+    "cisi": "M-1566",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "None",
+    "dir.": "NR",
+    "text": "+782+",
+    "excavation-idno": "VS-N 83-609"
+  },
+  {
+    "id": "5587.1",
+    "cisi": "-",
+    "material": "Copper",
+    "type": "TAB:C",
+    "symbol": "Buff",
+    "dir.": "R/L",
+    "text": "+407-032-520-095-585-017-231+",
+    "excavation-idno": "HR 4337CXVIII:3"
+  }
+]

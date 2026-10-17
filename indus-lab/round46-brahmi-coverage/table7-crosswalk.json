@@ -1,0 +1,281 @@
+[
+  {
+    "sound": "a",
+    "pdf_codepoint": "E06C",
+    "candidate_ids": [
+      "090"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "i",
+    "pdf_codepoint": "E261",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "u",
+    "pdf_codepoint": "E53B",
+    "candidate_ids": [
+      "513"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "e",
+    "pdf_codepoint": "E3B3",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "o",
+    "pdf_codepoint": "E402",
+    "candidate_ids": [
+      "436"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "k",
+    "pdf_codepoint": "E4C7",
+    "candidate_ids": [
+      "645"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "kh",
+    "pdf_codepoint": "E275",
+    "candidate_ids": [
+      "370"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "g",
+    "pdf_codepoint": "E3EA",
+    "candidate_ids": [
+      "066"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "gh",
+    "pdf_codepoint": "E3EA",
+    "candidate_ids": [
+      "066"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "ṅ",
+    "pdf_codepoint": "E56B",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "c",
+    "pdf_codepoint": "E210",
+    "candidate_ids": [
+      "350",
+      "351"
+    ],
+    "status": "multiple catalogue candidates"
+  },
+  {
+    "sound": "ch",
+    "pdf_codepoint": "E210",
+    "candidate_ids": [
+      "350",
+      "351"
+    ],
+    "status": "multiple catalogue candidates"
+  },
+  {
+    "sound": "j",
+    "pdf_codepoint": "E322",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "jh",
+    "pdf_codepoint": "E365",
+    "candidate_ids": [
+      "906"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "ñ",
+    "pdf_codepoint": "E427",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "ṭ",
+    "pdf_codepoint": "E34F",
+    "candidate_ids": [
+      "899"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "ṭh",
+    "pdf_codepoint": "E6D3",
+    "candidate_ids": [
+      "812",
+      "816"
+    ],
+    "status": "multiple catalogue candidates"
+  },
+  {
+    "sound": "ḍ",
+    "pdf_codepoint": "E346",
+    "candidate_ids": [
+      "920"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "ḍh",
+    "pdf_codepoint": "E353",
+    "candidate_ids": [
+      "921"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "ṇ",
+    "pdf_codepoint": "E538",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "t",
+    "pdf_codepoint": "E443",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "th",
+    "pdf_codepoint": "E6C3",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "d",
+    "pdf_codepoint": "E346",
+    "candidate_ids": [
+      "920"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "dh",
+    "pdf_codepoint": "E37D",
+    "candidate_ids": [
+      "890"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "n",
+    "pdf_codepoint": "E538",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "p",
+    "pdf_codepoint": "E566",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "ph",
+    "pdf_codepoint": "E566",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "b",
+    "pdf_codepoint": "E503",
+    "candidate_ids": [
+      "625"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "bh",
+    "pdf_codepoint": "E577",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "m",
+    "pdf_codepoint": "E10A",
+    "candidate_ids": [
+      "220"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "y",
+    "pdf_codepoint": "E59C",
+    "candidate_ids": [
+      "420"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "r",
+    "pdf_codepoint": "E1FF",
+    "candidate_ids": [
+      "392"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "l",
+    "pdf_codepoint": "E405",
+    "candidate_ids": [
+      "452"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "v",
+    "pdf_codepoint": "E559",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "ś",
+    "pdf_codepoint": "E304",
+    "candidate_ids": [],
+    "status": "unresolved"
+  },
+  {
+    "sound": "ṣ",
+    "pdf_codepoint": "E190",
+    "candidate_ids": [
+      "175"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "s",
+    "pdf_codepoint": "E19B",
+    "candidate_ids": [
+      "176"
+    ],
+    "status": "unique font crosswalk"
+  },
+  {
+    "sound": "h",
+    "pdf_codepoint": "E190",
+    "candidate_ids": [
+      "175"
+    ],
+    "status": "unique font crosswalk"
+  }
+]

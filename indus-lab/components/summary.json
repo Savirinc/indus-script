@@ -1,0 +1,22 @@
+{
+  "rendered_signs": 687,
+  "connected_parts": 1646,
+  "single_connected_signs": 421,
+  "multiple_connected_signs": 266,
+  "candidate_part_families": 696,
+  "part_similarity_threshold": 0.85,
+  "family_rule": "Transitive connected components of normalized-mask IoU >= .85 and same hole count; not equivalence classes of ancient sign identity.",
+  "sign809": {
+    "sign": "809",
+    "parts": 2,
+    "bbox_containment": [
+      [
+        "809:1",
+        "809:2"
+      ]
+    ],
+    "tokens": 1
+  },
+  "matched_context_links": 348,
+  "context_links_sharing_candidate_parts": 30
+}

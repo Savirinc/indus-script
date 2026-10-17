@@ -1,0 +1,31 @@
+{
+  "source_relative": "dravlex/cldf/forms.csv",
+  "source_sha256": "60e2f6db0c85625b980df75dc25beb7b845f7b661a6a5ac7c22a91dbc1e3a955",
+  "source_forms": 2127,
+  "included_forms": 1986,
+  "excluded": {
+    "not_explicit_nonloan": 141
+  },
+  "languages": 20,
+  "concepts": 100,
+  "cross_language_within_concept_pairs": 18990,
+  "positive_pairs": 6913,
+  "negative_pairs": 12077,
+  "pooled_auc": 0.8184354236649276,
+  "macro_auc": 0.8679938099595468,
+  "concepts_with_both_classes": 95,
+  "shuffled_control_pooled": {
+    "mean": 0.5852803170638596,
+    "min": 0.5683072885378133,
+    "max": 0.6013198143305475,
+    "draws": 100
+  },
+  "shuffled_control_macro": {
+    "mean": 0.4991480417128536,
+    "min": 0.4738344659227713,
+    "max": 0.5248151576975886,
+    "draws": 100
+  },
+  "p_value": null,
+  "interpretation": "Descriptive known-language phonetic baseline using oracle concept and expert cognacy annotations. Artificial-label controls are not historical nulls. No Indus inference or family identification."
+}

@@ -1,0 +1,48 @@
+{
+  "sources": [
+    "https://www.researchgate.net/publication/241460738_Substrate_Languages_in_Old_Indo-Aryan_Rgvedic_Middle_and_Late_Vedic",
+    "https://www.harappa.com/sites/default/files/pdf/Parpola-2010-Coimbatore.pdf"
+  ],
+  "rules": [
+    "attestation date is not borrowing date",
+    "comparative reconstruction is not inscription",
+    "no donor language fixed",
+    "no sign values assigned"
+  ],
+  "claims": [
+    {
+      "form": "phala",
+      "gloss": "fruit",
+      "attestation": "RV4.57.6",
+      "relative_stratum": "Witzel treats hymn4.57 as later addition",
+      "proposals": [
+        "Dravidian",
+        "Munda comparison",
+        "IndoAryan derivation"
+      ],
+      "status": "disputed donor; no Indus mapping"
+    },
+    {
+      "form": "kuṇḍa",
+      "gloss": "vessel/pit",
+      "attestation": "RV8.17.13",
+      "relative_stratum": "MiddleRigvedic in Witzel stratification",
+      "proposals": [
+        "Dravidian pit comparison",
+        "Iranian comparanda"
+      ],
+      "status": "semantic and donor uncertainty; no Indus mapping"
+    },
+    {
+      "form": "lāṅgala",
+      "gloss": "plough",
+      "attestation": "RV4.57.4",
+      "relative_stratum": "later addition in Witzel stratification",
+      "proposals": [
+        "Austroasiatic/intermediary proposal",
+        "Dravidian and wider comparisons"
+      ],
+      "status": "intermediary and Harappan origin unestablished"
+    }
+  ]
+}

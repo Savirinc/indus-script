@@ -1,0 +1,102 @@
+[
+  {
+    "seed": 15026,
+    "same_concept": 0.009327242211269612,
+    "same_concept_cognacy": 0.0027275564691595687
+  },
+  {
+    "seed": 15027,
+    "same_concept": 0.010057614892187944,
+    "same_concept_cognacy": 0.00384252585937976
+  },
+  {
+    "seed": 15028,
+    "same_concept": 0.010705649184817449,
+    "same_concept_cognacy": 0.0040366774229582325
+  },
+  {
+    "seed": 15029,
+    "same_concept": 0.010003384997299176,
+    "same_concept_cognacy": 0.0034526946034644994
+  },
+  {
+    "seed": 15030,
+    "same_concept": 0.009280074567557854,
+    "same_concept_cognacy": 0.0031343813443245176
+  },
+  {
+    "seed": 15031,
+    "same_concept": 0.010545143850846546,
+    "same_concept_cognacy": 0.004587880733677942
+  },
+  {
+    "seed": 15032,
+    "same_concept": 0.010750080966703018,
+    "same_concept_cognacy": 0.00417984905875169
+  },
+  {
+    "seed": 15033,
+    "same_concept": 0.009645217773618863,
+    "same_concept_cognacy": 0.002755981298557898
+  },
+  {
+    "seed": 15034,
+    "same_concept": 0.010194960766653235,
+    "same_concept_cognacy": 0.004042854196432635
+  },
+  {
+    "seed": 15035,
+    "same_concept": 0.009318631261834883,
+    "same_concept_cognacy": 0.003169173556871894
+  },
+  {
+    "seed": 15036,
+    "same_concept": 0.009965541049131377,
+    "same_concept_cognacy": 0.004070671423494603
+  },
+  {
+    "seed": 15037,
+    "same_concept": 0.01137918875426841,
+    "same_concept_cognacy": 0.0043019720434777555
+  },
+  {
+    "seed": 15038,
+    "same_concept": 0.011020890064419213,
+    "same_concept_cognacy": 0.0035997429819864795
+  },
+  {
+    "seed": 15039,
+    "same_concept": 0.010364445862977125,
+    "same_concept_cognacy": 0.003716745352794667
+  },
+  {
+    "seed": 15040,
+    "same_concept": 0.010635721032060976,
+    "same_concept_cognacy": 0.004077855852877475
+  },
+  {
+    "seed": 15041,
+    "same_concept": 0.010531830741313345,
+    "same_concept_cognacy": 0.003941712548209483
+  },
+  {
+    "seed": 15042,
+    "same_concept": 0.009402040300211693,
+    "same_concept_cognacy": 0.002852699832233537
+  },
+  {
+    "seed": 15043,
+    "same_concept": 0.009834349778949116,
+    "same_concept_cognacy": 0.003274755319197923
+  },
+  {
+    "seed": 15044,
+    "same_concept": 0.010771869476692958,
+    "same_concept_cognacy": 0.003642267297638913
+  },
+  {
+    "seed": 15045,
+    "same_concept": 0.009147275562046865,
+    "same_concept_cognacy": 0.003181274873002322
+  }
+]

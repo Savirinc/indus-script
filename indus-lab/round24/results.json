@@ -1,0 +1,43 @@
+{
+  "source_sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+  "copper_rows": 237,
+  "catalogue_objects": 185,
+  "eligible_objects": 61,
+  "excluded_objects": 124,
+  "text_families": 23,
+  "label_counts": {
+    "Loop": 4,
+    "Bull1:W": 3,
+    "Buff": 2,
+    "Elep": 11,
+    "Hare": 12,
+    "Tigr": 2,
+    "Rhin": 2,
+    "Comp": 5,
+    "Anth": 10,
+    "Gaur": 6,
+    "Goat:8": 4
+  },
+  "conflicting_text_families": 1,
+  "scores": {
+    "exact_prediction": {
+      "correct": 45,
+      "predicted": 46,
+      "total": 61,
+      "family_mean_success": 0.391304347826087
+    },
+    "held_family_prediction": {
+      "correct": 15,
+      "predicted": 26,
+      "total": 61,
+      "family_mean_success": 0.21739130434782608
+    },
+    "majority_prediction": {
+      "correct": 0,
+      "predicted": 61,
+      "total": 61,
+      "family_mean_success": 0.0
+    }
+  },
+  "label_absent_in_training": 26
+}

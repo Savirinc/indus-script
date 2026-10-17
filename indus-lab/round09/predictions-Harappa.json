@@ -1,0 +1,10121 @@
+[
+  {
+    "id": "198.1",
+    "cisi": "H-1138",
+    "site": "Harappa",
+    "exc": "-346",
+    "tokens": [
+      740,
+      603,
+      240,
+      60,
+      692
+    ],
+    "y": 1,
+    "text": "+740-603-240-060-692+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.027996698453414993,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "199.1",
+    "cisi": "H-423",
+    "site": "Harappa",
+    "exc": "-056",
+    "tokens": [
+      520,
+      220,
+      240,
+      798,
+      60,
+      692
+    ],
+    "y": 0,
+    "text": "+520-220-240-798-060-692+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.014440916117893356,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "205.1",
+    "cisi": "H-661",
+    "site": "Harappa",
+    "exc": "-279",
+    "tokens": [
+      740,
+      55,
+      806
+    ],
+    "y": 0,
+    "text": "+740-055-806+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2834914847394836,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "217.1",
+    "cisi": "H-294",
+    "site": "Harappa",
+    "exc": "10928a442",
+    "tokens": [
+      90,
+      740,
+      240,
+      220
+    ],
+    "y": 1,
+    "text": "+090-740-240-220+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4969034538957118,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1321.1",
+    "cisi": "H-299",
+    "site": "Harappa",
+    "exc": "J213",
+    "tokens": [
+      868,
+      706,
+      590
+    ],
+    "y": 1,
+    "text": "+868-706-590+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3505028464739285,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1379.1",
+    "cisi": "H-360",
+    "site": "Harappa",
+    "exc": "3508584",
+    "tokens": [
+      824,
+      32,
+      578,
+      415
+    ],
+    "y": 1,
+    "text": "+824-032-578-415+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2911954934658296,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "225.1",
+    "cisi": "-",
+    "site": "Harappa",
+    "exc": "11449373",
+    "tokens": [
+      804,
+      740,
+      219
+    ],
+    "y": 1,
+    "text": "+804-740-219+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.36932047476714264,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "228.1",
+    "cisi": "-",
+    "site": "Harappa",
+    "exc": "1154c555",
+    "tokens": [
+      740,
+      31,
+      904,
+      1,
+      32
+    ],
+    "y": 1,
+    "text": "+740-031-904-001-032+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.34983729393352375,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "233.1",
+    "cisi": "H-1047",
+    "site": "Harappa",
+    "exc": "11705114",
+    "tokens": [
+      405,
+      4,
+      745,
+      905
+    ],
+    "y": 0,
+    "text": "+405-004-745-905+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.36094076890144705,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "237.1",
+    "cisi": "H-1056",
+    "site": "Harappa",
+    "exc": "11795164",
+    "tokens": [
+      400,
+      90,
+      740,
+      220,
+      3
+    ],
+    "y": 0,
+    "text": "+400-090-740-220-003+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7345677944958043,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "246.1",
+    "cisi": "H-1045",
+    "site": "Harappa",
+    "exc": "12251134",
+    "tokens": [
+      740,
+      900,
+      5,
+      2,
+      820
+    ],
+    "y": 0,
+    "text": "+740-900-005-002-820+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.047003013419374615,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "249.1",
+    "cisi": "H-1133",
+    "site": "Harappa",
+    "exc": "12562610",
+    "tokens": [
+      400,
+      892,
+      831
+    ],
+    "y": 1,
+    "text": "+400-892-831+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4948696070482206,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "257.1",
+    "cisi": "H-1309",
+    "site": "Harappa",
+    "exc": "2257404",
+    "tokens": [
+      156,
+      176,
+      741,
+      60,
+      920
+    ],
+    "y": 1,
+    "text": "+156-176-741-060-920+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.004745803884193215,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1680.1",
+    "cisi": "H-789",
+    "site": "Harappa",
+    "exc": "12549604",
+    "tokens": [
+      400,
+      520,
+      220,
+      16
+    ],
+    "y": 1,
+    "text": "+400-520-220-016+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3608377800648728,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "259.1",
+    "cisi": "H-1051",
+    "site": "Harappa",
+    "exc": "2281119",
+    "tokens": [
+      400,
+      740,
+      575,
+      17,
+      920,
+      320,
+      798,
+      2,
+      861
+    ],
+    "y": 0,
+    "text": "+400-740-575-017-920-320-798-002-861+",
+    "length_only": {
+      "probability_tablet": 0.43251368394001455,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.00973680947689165,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "261.1",
+    "cisi": "H-1052",
+    "site": "Harappa",
+    "exc": "2390140",
+    "tokens": [
+      503,
+      233,
+      240
+    ],
+    "y": 0,
+    "text": "+503-233-240+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.34203332973623723,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "264.1",
+    "cisi": "H-1287",
+    "site": "Harappa",
+    "exc": "2482462",
+    "tokens": [
+      400,
+      156,
+      140,
+      32
+    ],
+    "y": 1,
+    "text": "+400-156-140-032+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2341037004890852,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1309.1",
+    "cisi": "H-287",
+    "site": "Harappa",
+    "exc": "1234430",
+    "tokens": [
+      400,
+      740,
+      760,
+      605
+    ],
+    "y": 1,
+    "text": "+400-740-760-605+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.34866604299884774,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1759.1",
+    "cisi": "H-876",
+    "site": "Harappa",
+    "exc": "J466675",
+    "tokens": [
+      200,
+      705,
+      380
+    ],
+    "y": 1,
+    "text": "+200-705-380+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.20051991723125948,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "273.1",
+    "cisi": "H-1102",
+    "site": "Harappa",
+    "exc": "2891347",
+    "tokens": [
+      400,
+      740,
+      382
+    ],
+    "y": 1,
+    "text": "+400-740-382+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5532888824948297,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "274.1",
+    "cisi": "-",
+    "site": "Harappa",
+    "exc": "2895577",
+    "tokens": [
+      154,
+      435,
+      255
+    ],
+    "y": 1,
+    "text": "+154-435-255+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2361368364569895,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1602.1",
+    "cisi": "H-697",
+    "site": "Harappa",
+    "exc": "10965",
+    "tokens": [
+      740,
+      904,
+      240,
+      2,
+      817
+    ],
+    "y": 1,
+    "text": "+740-904-240-002-817+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1328789368465676,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "284.1",
+    "cisi": "H-1030",
+    "site": "Harappa",
+    "exc": "3975035",
+    "tokens": [
+      90,
+      740,
+      103,
+      2,
+      861
+    ],
+    "y": 0,
+    "text": "+090-740-103-002-861+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.27087782102756613,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1300.1",
+    "cisi": "H-278",
+    "site": "Harappa",
+    "exc": "Af29",
+    "tokens": [
+      740,
+      407,
+      590,
+      690,
+      436,
+      255,
+      920,
+      318,
+      220,
+      415,
+      803
+    ],
+    "y": 1,
+    "text": "+740-407-590-690-436-255-920-318-220-415-803+",
+    "length_only": {
+      "probability_tablet": 0.40981311190730846,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8944846211442297,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "293.1",
+    "cisi": "H-1033",
+    "site": "Harappa",
+    "exc": "483046",
+    "tokens": [
+      220,
+      500,
+      520,
+      2,
+      862,
+      32
+    ],
+    "y": 0,
+    "text": "+220-500-520-002-862-032+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.026748913519107412,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "294.1",
+    "cisi": "H-161",
+    "site": "Harappa",
+    "exc": "4965262",
+    "tokens": [
+      740,
+      760,
+      70,
+      921,
+      315,
+      233
+    ],
+    "y": 0,
+    "text": "+740-760-070-921-315-233+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.11335179711682057,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "297.1",
+    "cisi": "H-874",
+    "site": "Harappa",
+    "exc": "5498362",
+    "tokens": [
+      520,
+      233,
+      240
+    ],
+    "y": 1,
+    "text": "+520-233-240+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.12322133677903664,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1236.1",
+    "cisi": "H-205",
+    "site": "Harappa",
+    "exc": "3581(1)",
+    "tokens": [
+      740,
+      48,
+      741,
+      850
+    ],
+    "y": 1,
+    "text": "+740-048-741-850+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.11703828742632028,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "303.1",
+    "cisi": "H-1043",
+    "site": "Harappa",
+    "exc": "7006073",
+    "tokens": [
+      151,
+      760,
+      220,
+      3,
+      2,
+      861
+    ],
+    "y": 0,
+    "text": "+151-760-220-003-002-861+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.11627989919736041,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "309.1",
+    "cisi": "-",
+    "site": "Harappa",
+    "exc": "8650b439",
+    "tokens": [
+      740,
+      785,
+      4
+    ],
+    "y": 1,
+    "text": "+740-785-004+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5504978193657082,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "310.1",
+    "cisi": "H-911",
+    "site": "Harappa",
+    "exc": "8650b486",
+    "tokens": [
+      416,
+      590,
+      33
+    ],
+    "y": 1,
+    "text": "+416-590-033+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5408316757256836,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1324.1",
+    "cisi": "H-302",
+    "site": "Harappa",
+    "exc": "8650c864",
+    "tokens": [
+      220,
+      700,
+      4
+    ],
+    "y": 1,
+    "text": "+220-700-004+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8367042085619656,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "313.1",
+    "cisi": "H-1123",
+    "site": "Harappa",
+    "exc": "9015360",
+    "tokens": [
+      525,
+      550,
+      220
+    ],
+    "y": 1,
+    "text": "+525-550-220+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7502021093129908,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1672.2",
+    "cisi": "H-781",
+    "site": "Harappa",
+    "exc": "Af19",
+    "tokens": [
+      740,
+      904,
+      240
+    ],
+    "y": 1,
+    "text": "+740-904-240+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7208032456544577,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "317.1",
+    "cisi": "H-1321",
+    "site": "Harappa",
+    "exc": "Af97556",
+    "tokens": [
+      400,
+      226,
+      32
+    ],
+    "y": 1,
+    "text": "+400-226-032+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.26620178245064474,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "319.1",
+    "cisi": "H-1077",
+    "site": "Harappa",
+    "exc": "B191296",
+    "tokens": [
+      400,
+      255,
+      400,
+      165,
+      900,
+      1
+    ],
+    "y": 0,
+    "text": "+400-255-400-165-900-001+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.24790928654704372,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "322.1",
+    "cisi": "H-1027",
+    "site": "Harappa",
+    "exc": "G217015",
+    "tokens": [
+      520,
+      33,
+      706,
+      231,
+      415,
+      803
+    ],
+    "y": 0,
+    "text": "+520-033-706-231-415-803+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5163345569952289,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1700.1",
+    "cisi": "H-811",
+    "site": "Harappa",
+    "exc": "J455349",
+    "tokens": [
+      317,
+      740,
+      335,
+      740,
+      176,
+      2,
+      920,
+      491
+    ],
+    "y": 1,
+    "text": "+317-740-335-740-176-002-920-491+",
+    "length_only": {
+      "probability_tablet": 0.44597740709770806,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.09893804900061028,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "371.2",
+    "cisi": "H-1771",
+    "site": "Harappa",
+    "exc": "H2000-4375Figure 36.03",
+    "tokens": [
+      740,
+      31,
+      1,
+      140
+    ],
+    "y": 1,
+    "text": "+740-031-001-140+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1461468326374512,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "373.2",
+    "cisi": "H-1924",
+    "site": "Harappa",
+    "exc": "H2000-4377Figure 36.04",
+    "tokens": [
+      550,
+      3,
+      435
+    ],
+    "y": 1,
+    "text": "+550-003-435+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6140161653435251,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "374.2",
+    "cisi": "H-1893",
+    "site": "Harappa",
+    "exc": "H2000-4378Figure 36.01",
+    "tokens": [
+      390,
+      3,
+      60,
+      550
+    ],
+    "y": 1,
+    "text": "+390-003-060-550+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.08102753313317383,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "375.2",
+    "cisi": "H-1881",
+    "site": "Harappa",
+    "exc": "H2000-4384Figure 44.01",
+    "tokens": [
+      415,
+      700,
+      33,
+      171
+    ],
+    "y": 1,
+    "text": "+415-700-033-171+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7718516521678687,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "378.1",
+    "cisi": "H-1776",
+    "site": "Harappa",
+    "exc": "H2000-4387Figure 37.02",
+    "tokens": [
+      740,
+      390,
+      590,
+      60,
+      550
+    ],
+    "y": 1,
+    "text": "+740-390-590-060-550+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.10468886947824518,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "382.2",
+    "cisi": "H-1894",
+    "site": "Harappa",
+    "exc": "H2000-4391Figure 37.09",
+    "tokens": [
+      400,
+      740,
+      61,
+      140
+    ],
+    "y": 1,
+    "text": "+400-740-061-140+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.33052218020129065,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "386.2",
+    "cisi": "H-1853",
+    "site": "Harappa",
+    "exc": "H2000-4395Figure 39.01",
+    "tokens": [
+      400,
+      617,
+      829
+    ],
+    "y": 1,
+    "text": "+400-617-829+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4853213678468686,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "394.2",
+    "cisi": "H-1987",
+    "site": "Harappa",
+    "exc": "H2000-4426Figure 39.07",
+    "tokens": [
+      390,
+      4,
+      455,
+      371,
+      741,
+      590
+    ],
+    "y": 1,
+    "text": "+390-004-455-371-741-590+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.013921457636756378,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "396.2",
+    "cisi": "H-1877",
+    "site": "Harappa",
+    "exc": "H2000-4428Figure 41.06",
+    "tokens": [
+      400,
+      775,
+      516
+    ],
+    "y": 1,
+    "text": "+400-775-516+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.37253960766286426,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "397.2",
+    "cisi": "H-2141",
+    "site": "Harappa",
+    "exc": "H2000-4433Figure 38.01",
+    "tokens": [
+      565,
+      740,
+      176,
+      231
+    ],
+    "y": 1,
+    "text": "+565-740-176-231+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7119878671008991,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "402.2",
+    "cisi": "H-2015",
+    "site": "Harappa",
+    "exc": "H2000-4444Figure 40.01",
+    "tokens": [
+      520,
+      33,
+      705,
+      235,
+      832,
+      2,
+      817
+    ],
+    "y": 1,
+    "text": "+520-033-705-235-832-002-817+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.00668290275085673,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "403.1",
+    "cisi": "H-1920",
+    "site": "Harappa",
+    "exc": "H2000-4449Figure 41.05",
+    "tokens": [
+      740,
+      515,
+      126
+    ],
+    "y": 1,
+    "text": "+740-515-126+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.45665202728224397,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1276.1",
+    "cisi": "H-251",
+    "site": "Harappa",
+    "exc": "8800342",
+    "tokens": [
+      400,
+      740,
+      100,
+      240
+    ],
+    "y": 1,
+    "text": "+400-740-100-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7489286178477546,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "409.2",
+    "cisi": "H-1942",
+    "site": "Harappa",
+    "exc": "H2000-4462Figure 39.04",
+    "tokens": [
+      405,
+      35,
+      2,
+      861
+    ],
+    "y": 1,
+    "text": "+405-035-002-861+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.06853453906175677,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "410.2",
+    "cisi": "H-1897",
+    "site": "Harappa",
+    "exc": "H2000-4463Figure 42.09",
+    "tokens": [
+      400,
+      740,
+      904,
+      240
+    ],
+    "y": 1,
+    "text": "+400-740-904-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7373050003330477,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "414.2",
+    "cisi": "H-1915",
+    "site": "Harappa",
+    "exc": "H2000-4469Figure 42.12",
+    "tokens": [
+      32,
+      920,
+      491
+    ],
+    "y": 1,
+    "text": "+032-920-491+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.10950133170368026,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "415.2",
+    "cisi": "H-1832",
+    "site": "Harappa",
+    "exc": "H2000-4470Figure 42.04",
+    "tokens": [
+      400,
+      297,
+      352,
+      892,
+      590,
+      740,
+      176
+    ],
+    "y": 1,
+    "text": "+400-297-352-892-590-740-176+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.49880302171131824,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "419.2",
+    "cisi": "H-1898",
+    "site": "Harappa",
+    "exc": "H2000-4476Figure 42.08",
+    "tokens": [
+      400,
+      368,
+      741
+    ],
+    "y": 1,
+    "text": "+400-368-741+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.03692606207137615,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "420.1",
+    "cisi": "H-2174",
+    "site": "Harappa",
+    "exc": "H2000-4477Figure 42.02",
+    "tokens": [
+      90,
+      100,
+      415,
+      717
+    ],
+    "y": 1,
+    "text": "+090-100-415-717+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3202996884787636,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "422.2",
+    "cisi": "H-1943",
+    "site": "Harappa",
+    "exc": "H2000-4482Figure 42.10",
+    "tokens": [
+      740,
+      384,
+      31
+    ],
+    "y": 1,
+    "text": "+740-384-031+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4385179020422096,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "423.1",
+    "cisi": "H-1997",
+    "site": "Harappa",
+    "exc": "H2000-4483Figure 39.09",
+    "tokens": [
+      400,
+      740,
+      176,
+      235
+    ],
+    "y": 1,
+    "text": "+400-740-176-235+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7176930570784729,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1263.1",
+    "cisi": "H-237",
+    "site": "Harappa",
+    "exc": "-",
+    "tokens": [
+      740,
+      642,
+      240,
+      60,
+      692
+    ],
+    "y": 1,
+    "text": "+740-642-240-060-692+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.043296779810866264,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "425.2",
+    "cisi": "H-2125",
+    "site": "Harappa",
+    "exc": "H2000-4485Figure 42.03",
+    "tokens": [
+      740,
+      143,
+      67
+    ],
+    "y": 1,
+    "text": "+740-143-067+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.47816859018662866,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "426.1",
+    "cisi": "H-1714",
+    "site": "Harappa",
+    "exc": "H2000-4487Figure 35.03",
+    "tokens": [
+      407,
+      790,
+      32
+    ],
+    "y": 0,
+    "text": "+407-790-032+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6963136529046094,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1212.1",
+    "cisi": "H-178",
+    "site": "Harappa",
+    "exc": "7483318",
+    "tokens": [
+      400,
+      740,
+      717
+    ],
+    "y": 1,
+    "text": "+400-740-717+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.42289627512082445,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "430.1",
+    "cisi": "H-1673",
+    "site": "Harappa",
+    "exc": "H2000-4500Figure 35.04",
+    "tokens": [
+      405,
+      4,
+      104
+    ],
+    "y": 0,
+    "text": "+405-004-104+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6234855018896401,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "448.1",
+    "cisi": "H-1967",
+    "site": "Harappa",
+    "exc": "H2001-5062Figure 45.08",
+    "tokens": [
+      382,
+      760,
+      382,
+      2,
+      820
+    ],
+    "y": 1,
+    "text": "+382-760-382-002-820+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.004461585384717054,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "453.2",
+    "cisi": "H-1909",
+    "site": "Harappa",
+    "exc": "H2001-5066Figure 45.07",
+    "tokens": [
+      740,
+      817,
+      491
+    ],
+    "y": 1,
+    "text": "+740-817-491+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.23064093894225932,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1785.1",
+    "cisi": "H-903",
+    "site": "Harappa",
+    "exc": "2728485",
+    "tokens": [
+      740,
+      760,
+      240
+    ],
+    "y": 1,
+    "text": "+740-760-240+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.40960034239993093,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "458.2",
+    "cisi": "H-1940",
+    "site": "Harappa",
+    "exc": "H2001-5072Figure 44.05",
+    "tokens": [
+      400,
+      740,
+      67,
+      100
+    ],
+    "y": 1,
+    "text": "+400-740-067-100+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7591276652977688,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "467.2",
+    "cisi": "H-1825",
+    "site": "Harappa",
+    "exc": "H2001-5082Figure 44.06",
+    "tokens": [
+      740,
+      176,
+      220
+    ],
+    "y": 1,
+    "text": "+740-176-220+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8557293877342562,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1792.1",
+    "cisi": "H-910",
+    "site": "Harappa",
+    "exc": "10994470",
+    "tokens": [
+      2,
+      861,
+      416
+    ],
+    "y": 1,
+    "text": "+002-861-416+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.07334496000370148,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "479.1",
+    "cisi": "H-1669",
+    "site": "Harappa",
+    "exc": "H2001-5139Figure 48.10",
+    "tokens": [
+      520,
+      220,
+      415,
+      60,
+      920
+    ],
+    "y": 0,
+    "text": "+520-220-415-060-920+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.016543715143261143,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "480.2",
+    "cisi": "H-1850",
+    "site": "Harappa",
+    "exc": "H2001-5141Figure 48.07",
+    "tokens": [
+      400,
+      740,
+      760,
+      382
+    ],
+    "y": 1,
+    "text": "+400-740-760-382+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4010657622770666,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "485.1",
+    "cisi": "H-1953",
+    "site": "Harappa",
+    "exc": "H2001-5148Figure 48.09",
+    "tokens": [
+      700,
+      32,
+      220
+    ],
+    "y": 1,
+    "text": "+700-032-220+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8364893252342731,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "490.2",
+    "cisi": "H-2184",
+    "site": "Harappa",
+    "exc": "H2001-5200Figure 47.01",
+    "tokens": [
+      400,
+      740,
+      32,
+      15
+    ],
+    "y": 1,
+    "text": "+400-740-032-015+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5492547014201343,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "491.1",
+    "cisi": "H-2127",
+    "site": "Harappa",
+    "exc": "H2001-5201Figure 47.03",
+    "tokens": [
+      455,
+      590,
+      142,
+      220
+    ],
+    "y": 1,
+    "text": "+455-590-142-220+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.716737604617513,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1636.1",
+    "cisi": "H-742",
+    "site": "Harappa",
+    "exc": "4971320",
+    "tokens": [
+      400,
+      740,
+      100,
+      176,
+      175
+    ],
+    "y": 1,
+    "text": "+400-740-100-176-175+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.874675594216192,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1206.1",
+    "cisi": "H-171",
+    "site": "Harappa",
+    "exc": "Af22312",
+    "tokens": [
+      740,
+      176,
+      798,
+      231
+    ],
+    "y": 1,
+    "text": "+740-176-798-231+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8642315879414334,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "499.1",
+    "cisi": "H-1862",
+    "site": "Harappa",
+    "exc": "H90-1572Figure 13.53 (e)",
+    "tokens": [
+      700,
+      33,
+      368,
+      91
+    ],
+    "y": 1,
+    "text": "+700-033-368-091+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6010405453299559,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "506.2",
+    "cisi": "H-1867",
+    "site": "Harappa",
+    "exc": "H90-1593Figure 13.46 (k)",
+    "tokens": [
+      151,
+      740,
+      221
+    ],
+    "y": 1,
+    "text": "+151-740-221+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4309986047671746,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "508.2",
+    "cisi": "H-1869",
+    "site": "Harappa",
+    "exc": "H90-1595Figure 13.46 (i)",
+    "tokens": [
+      151,
+      740,
+      222
+    ],
+    "y": 1,
+    "text": "+151-740-222+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8598702682271044,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "510.2",
+    "cisi": "H-1916",
+    "site": "Harappa",
+    "exc": "H90-1597Figure 13.46 (g)",
+    "tokens": [
+      520,
+      70,
+      255,
+      832
+    ],
+    "y": 1,
+    "text": "+520-070-255-832+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.017498546876501576,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "513.1",
+    "cisi": "H-1671",
+    "site": "Harappa",
+    "exc": "H90-1618Figure 13.44 (a)",
+    "tokens": [
+      740,
+      61,
+      2,
+      455,
+      420,
+      32
+    ],
+    "y": 0,
+    "text": "+740-061-002-455-420-032+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.0694139213990448,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "519.2",
+    "cisi": "H-2186",
+    "site": "Harappa",
+    "exc": "H90-1690",
+    "tokens": [
+      390,
+      4,
+      155,
+      390
+    ],
+    "y": 1,
+    "text": "+390-004-155-390+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.12957010187251952,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1268.1",
+    "cisi": "H-243",
+    "site": "Harappa",
+    "exc": "8650d664",
+    "tokens": [
+      400,
+      520,
+      233
+    ],
+    "y": 1,
+    "text": "+400-520-233+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.19279303357852753,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "533.1",
+    "cisi": "H-2175",
+    "site": "Harappa",
+    "exc": "H93-2127Figure 16.g",
+    "tokens": [
+      90,
+      740,
+      101,
+      31
+    ],
+    "y": 1,
+    "text": "+090-740-101-031+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.07712188795247245,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "534.1",
+    "cisi": "H-2036",
+    "site": "Harappa",
+    "exc": "H93-2128Figure 16.f",
+    "tokens": [
+      400,
+      740,
+      637
+    ],
+    "y": 1,
+    "text": "+400-740-637+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5805960922930802,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "537.1",
+    "cisi": "H-1692",
+    "site": "Harappa",
+    "exc": "H93-2170Figure 16.b",
+    "tokens": [
+      740,
+      390,
+      590,
+      2,
+      861
+    ],
+    "y": 0,
+    "text": "+740-390-590-002-861+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1187656228294444,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1344.1",
+    "cisi": "H-322",
+    "site": "Harappa",
+    "exc": "-",
+    "tokens": [
+      400,
+      740,
+      32,
+      28
+    ],
+    "y": 1,
+    "text": "+400-740-032-028+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5706904952436824,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "548.2",
+    "cisi": "H-1931",
+    "site": "Harappa",
+    "exc": "H94-2177Figure 17.08",
+    "tokens": [
+      400,
+      740,
+      176,
+      791
+    ],
+    "y": 1,
+    "text": "+400-740-176-791+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7527214327440328,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1325.1",
+    "cisi": "H-303",
+    "site": "Harappa",
+    "exc": "11291444",
+    "tokens": [
+      400,
+      740,
+      32,
+      27
+    ],
+    "y": 1,
+    "text": "+400-740-032-027+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5706904952436824,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "550.2",
+    "cisi": "H-1822",
+    "site": "Harappa",
+    "exc": "H94-2181Figure 28.08",
+    "tokens": [
+      400,
+      740,
+      176,
+      519
+    ],
+    "y": 1,
+    "text": "+400-740-176-519+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7471207240528903,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "554.2",
+    "cisi": "H-1906",
+    "site": "Harappa",
+    "exc": "H94-2185Figure 18.01",
+    "tokens": [
+      400,
+      90,
+      740,
+      400,
+      90
+    ],
+    "y": 1,
+    "text": "+400-090-740-400-090+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3921000164325738,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "557.2",
+    "cisi": "H-1855",
+    "site": "Harappa",
+    "exc": "H94-2188Figure 17.13",
+    "tokens": [
+      400,
+      153,
+      118
+    ],
+    "y": 1,
+    "text": "+400-153-118+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.29742802863778767,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "560.2",
+    "cisi": "H-1873",
+    "site": "Harappa",
+    "exc": "H94-2191Figure 17.06",
+    "tokens": [
+      400,
+      236,
+      233
+    ],
+    "y": 1,
+    "text": "+400-236-233+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3055054028783734,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "567.2",
+    "cisi": "H-1923",
+    "site": "Harappa",
+    "exc": "H94-2217Figure 28.01",
+    "tokens": [
+      400,
+      740,
+      32,
+      840
+    ],
+    "y": 1,
+    "text": "+400-740-032-840+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8033526637160733,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1273.1",
+    "cisi": "H-248",
+    "site": "Harappa",
+    "exc": "12588371",
+    "tokens": [
+      400,
+      740,
+      920,
+      320,
+      233,
+      240,
+      798
+    ],
+    "y": 1,
+    "text": "+400-740-920-320-233-240-798+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.14021258993235527,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "570.2",
+    "cisi": "H-1797",
+    "site": "Harappa",
+    "exc": "H94-2254Figure 19.05",
+    "tokens": [
+      740,
+      690,
+      435,
+      255,
+      55
+    ],
+    "y": 1,
+    "text": "+740-690-435-255-055+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.37132039564321195,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1834.1",
+    "cisi": "H-954",
+    "site": "Harappa",
+    "exc": "2702467",
+    "tokens": [
+      90,
+      740,
+      235,
+      240
+    ],
+    "y": 1,
+    "text": "+090-740-235-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.28026223428918173,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "578.2",
+    "cisi": "H-2197",
+    "site": "Harappa",
+    "exc": "H94-2267Figure 22.02",
+    "tokens": [
+      400,
+      90,
+      740,
+      100,
+      390,
+      231
+    ],
+    "y": 1,
+    "text": "+400-090-740-100-390-231+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6143832475963327,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "592.1",
+    "cisi": "H-1999",
+    "site": "Harappa",
+    "exc": "H94-2406Figure 20.a",
+    "tokens": [
+      400,
+      154,
+      806,
+      467
+    ],
+    "y": 1,
+    "text": "+400-154-806-467+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3519093308593876,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "593.2",
+    "cisi": "H-1839",
+    "site": "Harappa",
+    "exc": "H95-2431Figure 21.05",
+    "tokens": [
+      740,
+      100,
+      175,
+      630,
+      705
+    ],
+    "y": 1,
+    "text": "+740-100-175-630-705+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5984342761817562,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "594.1",
+    "cisi": "H-2022",
+    "site": "Harappa",
+    "exc": "H95-2433Figure 20.04",
+    "tokens": [
+      32,
+      850,
+      31
+    ],
+    "y": 1,
+    "text": "+032-850-031+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.24997006581456718,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "596.2",
+    "cisi": "H-2139",
+    "site": "Harappa",
+    "exc": "H95-2440Figure 18.06",
+    "tokens": [
+      740,
+      176,
+      33,
+      705,
+      235
+    ],
+    "y": 1,
+    "text": "+740-176-033-705-235+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.818067385178385,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "597.1",
+    "cisi": "H-2039",
+    "site": "Harappa",
+    "exc": "H95-2496Figure 21.06",
+    "tokens": [
+      740,
+      690,
+      436,
+      255
+    ],
+    "y": 1,
+    "text": "+740-690-436-255+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4438500043349999,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "599.2",
+    "cisi": "H-1864",
+    "site": "Harappa",
+    "exc": "H94-2511Figure 17.03",
+    "tokens": [
+      740,
+      142,
+      62,
+      2,
+      817
+    ],
+    "y": 1,
+    "text": "+740-142-062-002-817+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1267054699371814,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "601.1",
+    "cisi": "H-2021",
+    "site": "Harappa",
+    "exc": "H95-2523Figure 20.01",
+    "tokens": [
+      740,
+      752,
+      70,
+      255,
+      832
+    ],
+    "y": 1,
+    "text": "+740-752-070-255-832+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.09510812315924522,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "622.1",
+    "cisi": "H-1709",
+    "site": "Harappa",
+    "exc": "H94-2322Figure 19.03",
+    "tokens": [
+      158,
+      838,
+      470
+    ],
+    "y": 0,
+    "text": "+158-838-470+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7387179753241327,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "623.1",
+    "cisi": "H-1706",
+    "site": "Harappa",
+    "exc": "H95-2324Figure 19.02",
+    "tokens": [
+      405,
+      3,
+      2,
+      293,
+      360
+    ],
+    "y": 0,
+    "text": "+405-003-002-293-360+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.10834264362444446,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "624.2",
+    "cisi": "H-1817",
+    "site": "Harappa",
+    "exc": "H94-2326Figure 26.06",
+    "tokens": [
+      400,
+      525,
+      554
+    ],
+    "y": 1,
+    "text": "+400-525-554+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7490875446060659,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "626.1",
+    "cisi": "H-1662",
+    "site": "Harappa",
+    "exc": "H95-2410Figure 21.03",
+    "tokens": [
+      33,
+      33,
+      740,
+      142,
+      61,
+      140,
+      2,
+      546
+    ],
+    "y": 0,
+    "text": "+033-033/740-142-061-140-002-546+",
+    "length_only": {
+      "probability_tablet": 0.44597740709770806,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.21081231811109222,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "627.2",
+    "cisi": "H-1917",
+    "site": "Harappa",
+    "exc": "H95-2411Figure 22.05",
+    "tokens": [
+      400,
+      151,
+      97
+    ],
+    "y": 1,
+    "text": "+400-151-097+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4951052961976525,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "631.2",
+    "cisi": "H-1842",
+    "site": "Harappa",
+    "exc": "H95-2416Figure 26.07",
+    "tokens": [
+      740,
+      690,
+      435,
+      176,
+      233,
+      803
+    ],
+    "y": 1,
+    "text": "+740-690-435-176-233-803+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.9702251767161515,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "632.1",
+    "cisi": "H-2193",
+    "site": "Harappa",
+    "exc": "H95-2417Figure 29.01",
+    "tokens": [
+      590,
+      32,
+      220
+    ],
+    "y": 1,
+    "text": "+590-032-220+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6047139147490654,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "638.2",
+    "cisi": "H-2209",
+    "site": "Harappa",
+    "exc": "H95-2423",
+    "tokens": [
+      400,
+      740,
+      32,
+      25
+    ],
+    "y": 1,
+    "text": "+400-740-032-025+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5706904952436824,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "640.2",
+    "cisi": "H-2108",
+    "site": "Harappa",
+    "exc": "H95-2426Figure 27.02",
+    "tokens": [
+      400,
+      740,
+      32,
+      14
+    ],
+    "y": 1,
+    "text": "+400-740-032-014+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5677933344914694,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "643.1",
+    "cisi": "H-2198",
+    "site": "Harappa",
+    "exc": "H95-2429Figure 29.07",
+    "tokens": [
+      740,
+      255,
+      32
+    ],
+    "y": 1,
+    "text": "+740-255-032+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.48375738178647265,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "646.2",
+    "cisi": "H-1824",
+    "site": "Harappa",
+    "exc": "H95-2434Figure 26.10",
+    "tokens": [
+      740,
+      176,
+      31,
+      60,
+      201
+    ],
+    "y": 1,
+    "text": "+740-176-031-060-201+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.12278432475101704,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "649.2",
+    "cisi": "H-1823",
+    "site": "Harappa",
+    "exc": "H95-2438Figure 28.14",
+    "tokens": [
+      400,
+      740,
+      798,
+      365,
+      415,
+      1
+    ],
+    "y": 1,
+    "text": "+400-740-798-365-415-001+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6826621297047806,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "652.2",
+    "cisi": "H-1841",
+    "site": "Harappa",
+    "exc": "H95-2442Figure 28.13",
+    "tokens": [
+      740,
+      540,
+      204,
+      255
+    ],
+    "y": 1,
+    "text": "+740-540-204-255+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5402960188754552,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "654.1",
+    "cisi": "H-1863",
+    "site": "Harappa",
+    "exc": "H95-2444Figure 29.09",
+    "tokens": [
+      400,
+      740,
+      388
+    ],
+    "y": 1,
+    "text": "+400-740-388+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6079481447193005,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "662.1",
+    "cisi": "H-1951",
+    "site": "Harappa",
+    "exc": "H95-2485Figure 24.01",
+    "tokens": [
+      617,
+      550,
+      3,
+      790
+    ],
+    "y": 1,
+    "text": "+617-550-003-790+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2874687411262974,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "664.1",
+    "cisi": "H-1975",
+    "site": "Harappa",
+    "exc": "H95-2487Figure 30.01",
+    "tokens": [
+      740,
+      760,
+      61,
+      60,
+      692
+    ],
+    "y": 1,
+    "text": "+740-760-061-060-692+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.019923756589421124,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "668.1",
+    "cisi": "H-1672",
+    "site": "Harappa",
+    "exc": "H95-2491Figure 25.10",
+    "tokens": [
+      740,
+      400,
+      142,
+      61,
+      33
+    ],
+    "y": 0,
+    "text": "+740-400-142-061-033+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7576300926756487,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "675.2",
+    "cisi": "H-1903",
+    "site": "Harappa",
+    "exc": "H95-2516Figure 22.09",
+    "tokens": [
+      740,
+      923,
+      235
+    ],
+    "y": 1,
+    "text": "+740-923-235+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5599946615244982,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "677.1",
+    "cisi": "H-2024",
+    "site": "Harappa",
+    "exc": "H95-2519Figure 26.03",
+    "tokens": [
+      90,
+      740,
+      176,
+      741,
+      347
+    ],
+    "y": 1,
+    "text": "+090-740-176-741-347+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.12392546232800514,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "679.2",
+    "cisi": "H-2217",
+    "site": "Harappa",
+    "exc": "H95-2521Figure 27.09",
+    "tokens": [
+      400,
+      854,
+      32
+    ],
+    "y": 1,
+    "text": "+400-854-032+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4420501848983278,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1256.1",
+    "cisi": "H-229",
+    "site": "Harappa",
+    "exc": "5974674",
+    "tokens": [
+      400,
+      740,
+      892,
+      617
+    ],
+    "y": 1,
+    "text": "+400-740-892-617+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.44154221851321596,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1719.1",
+    "cisi": "H-833",
+    "site": "Harappa",
+    "exc": "J394370",
+    "tokens": [
+      526,
+      554,
+      2,
+      820
+    ],
+    "y": 1,
+    "text": "+526-554-002-820+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.008304337178597309,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "688.1",
+    "cisi": "H-1684",
+    "site": "Harappa",
+    "exc": "H95-2598Figure 25.08",
+    "tokens": [
+      682,
+      413,
+      840,
+      740,
+      61
+    ],
+    "y": 0,
+    "text": "+682-413-840/740-061+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.32521314707065774,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1695.1",
+    "cisi": "H-806",
+    "site": "Harappa",
+    "exc": "1646343",
+    "tokens": [
+      740,
+      482,
+      240,
+      2,
+      861
+    ],
+    "y": 1,
+    "text": "+740-482-240-002-861+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.08602787016427953,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1208.1",
+    "cisi": "H-174",
+    "site": "Harappa",
+    "exc": "4309338",
+    "tokens": [
+      400,
+      740,
+      17,
+      503
+    ],
+    "y": 1,
+    "text": "+400-740-017-503+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4779012038460414,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "731.1",
+    "cisi": "H-1670",
+    "site": "Harappa",
+    "exc": "H96-2736Figure 16.07",
+    "tokens": [
+      740,
+      760,
+      33,
+      33,
+      240,
+      2,
+      824
+    ],
+    "y": 0,
+    "text": "+740-760-033-033-240-002-824+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.14081664410449848,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1614.1",
+    "cisi": "H-709",
+    "site": "Harappa",
+    "exc": "7055",
+    "tokens": [
+      400,
+      740,
+      16,
+      503
+    ],
+    "y": 1,
+    "text": "+400-740-016-503+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7296834728947003,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "740.1",
+    "cisi": "-",
+    "site": "Harappa",
+    "exc": "H96-2765bFigure 18.02",
+    "tokens": [
+      90,
+      740,
+      792
+    ],
+    "y": 1,
+    "text": "+090-740-792+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5977468864524997,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "745.1",
+    "cisi": "H-1980",
+    "site": "Harappa",
+    "exc": "H96-2771Figure 17.06",
+    "tokens": [
+      400,
+      158,
+      806,
+      475
+    ],
+    "y": 1,
+    "text": "+400-158-806-475+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6610784674334399,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "746.1",
+    "cisi": "H-2200",
+    "site": "Harappa",
+    "exc": "H96-2772Figure 18.06",
+    "tokens": [
+      400,
+      740,
+      176,
+      240
+    ],
+    "y": 1,
+    "text": "+400-740-176-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7606556044320341,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "749.2",
+    "cisi": "H-2183",
+    "site": "Harappa",
+    "exc": "H96-2776Figure 17.12",
+    "tokens": [
+      400,
+      740,
+      575,
+      17,
+      798
+    ],
+    "y": 1,
+    "text": "+400-740-575-017-798+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.28876029395362995,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "3969.1",
+    "cisi": "H-1124",
+    "site": "Harappa",
+    "exc": "-451",
+    "tokens": [
+      400,
+      236,
+      220
+    ],
+    "y": 1,
+    "text": "+400-236-220+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.39572144563867123,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "760.1",
+    "cisi": "H-2040",
+    "site": "Harappa",
+    "exc": "H96-2790Figure 18.07",
+    "tokens": [
+      740,
+      803,
+      60,
+      550
+    ],
+    "y": 1,
+    "text": "+740-803-060-550+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3882568526940163,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "765.2",
+    "cisi": "H-1936",
+    "site": "Harappa",
+    "exc": "H96-2798Figure 18.08",
+    "tokens": [
+      511,
+      32,
+      142
+    ],
+    "y": 1,
+    "text": "+511-032-142+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5612318389474847,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "771.1",
+    "cisi": "H-1930",
+    "site": "Harappa",
+    "exc": "H96-3049Figure 18.10",
+    "tokens": [
+      32,
+      700,
+      601
+    ],
+    "y": 1,
+    "text": "+032-700-601+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7270660047788962,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "775.1",
+    "cisi": "H-1666",
+    "site": "Harappa",
+    "exc": "H96-3054Figure 18.17",
+    "tokens": [
+      161,
+      97,
+      741,
+      140
+    ],
+    "y": 0,
+    "text": "+161-097-741-140+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.04381728688071859,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1207.1",
+    "cisi": "H-172",
+    "site": "Harappa",
+    "exc": "XXXII-22",
+    "tokens": [
+      712,
+      840,
+      400,
+      740,
+      440
+    ],
+    "y": 1,
+    "text": "+712-840-400-740-440+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5111532620298078,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "780.2",
+    "cisi": "H-1844",
+    "site": "Harappa",
+    "exc": "H96-3106Figure 21.06",
+    "tokens": [
+      400,
+      154,
+      690
+    ],
+    "y": 1,
+    "text": "+400-154-690+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4004068027456084,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "784.2",
+    "cisi": "H-1871",
+    "site": "Harappa",
+    "exc": "H96-3110Figure 21.04",
+    "tokens": [
+      151,
+      740,
+      235
+    ],
+    "y": 1,
+    "text": "+151-740-235+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3644723985287395,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "787.1",
+    "cisi": "H-1983",
+    "site": "Harappa",
+    "exc": "H96-3113Figure 18.12",
+    "tokens": [
+      405,
+      4,
+      13,
+      817
+    ],
+    "y": 1,
+    "text": "+405-004-013-817+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.09133711557277895,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "788.1",
+    "cisi": "H-1840",
+    "site": "Harappa",
+    "exc": "H96-3115Figure 21.03",
+    "tokens": [
+      90,
+      740,
+      255,
+      705,
+      60,
+      550
+    ],
+    "y": 1,
+    "text": "+090-740-255-705-060-550+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.08016586281155456,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "790.1",
+    "cisi": "H-1961",
+    "site": "Harappa",
+    "exc": "H96-3120Figure 20.14",
+    "tokens": [
+      400,
+      740,
+      440
+    ],
+    "y": 1,
+    "text": "+400-740-440+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4055313857084381,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1052.1",
+    "cisi": "-",
+    "site": "Harappa",
+    "exc": "J229510",
+    "tokens": [
+      400,
+      740,
+      817,
+      491
+    ],
+    "y": 1,
+    "text": "+400-740-817-491+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.24580041779816308,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "805.1",
+    "cisi": "H-1788",
+    "site": "Harappa",
+    "exc": "H96-3152Figure 18.13",
+    "tokens": [
+      154,
+      806,
+      470,
+      2,
+      861
+    ],
+    "y": 1,
+    "text": "+154-806-470-002-861+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.03888138073928528,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "806.2",
+    "cisi": "H-2189",
+    "site": "Harappa",
+    "exc": "H96-3162Figure 20.04",
+    "tokens": [
+      400,
+      740,
+      152,
+      240
+    ],
+    "y": 1,
+    "text": "+400-740-152-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.48529943990159274,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "810.1",
+    "cisi": "H-1682",
+    "site": "Harappa",
+    "exc": "H96-2796Figure 20.02",
+    "tokens": [
+      154,
+      3,
+      617,
+      33
+    ],
+    "y": 0,
+    "text": "+154-003-617-033+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5488315134614543,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1221.1",
+    "cisi": "H-188",
+    "site": "Harappa",
+    "exc": "5617325",
+    "tokens": [
+      400,
+      90,
+      740,
+      100,
+      415
+    ],
+    "y": 1,
+    "text": "+400-090-740-100-415+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7363621307586499,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "814.1",
+    "cisi": "H-2134",
+    "site": "Harappa",
+    "exc": "H96-3175Figure 19.07",
+    "tokens": [
+      1,
+      480,
+      388,
+      32
+    ],
+    "y": 1,
+    "text": "+001-480-388-032+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2534807328780559,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "824.1",
+    "cisi": "H-1775",
+    "site": "Harappa",
+    "exc": "H97-3251Figure 13.06",
+    "tokens": [
+      740,
+      100,
+      415,
+      176,
+      792,
+      102
+    ],
+    "y": 1,
+    "text": "+740-100-415-176-792-102+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.9058276328935427,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "827.2",
+    "cisi": "H-2145",
+    "site": "Harappa",
+    "exc": "H97-3283Figure 16.04",
+    "tokens": [
+      74,
+      220,
+      415
+    ],
+    "y": 1,
+    "text": "+074-220-415+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4924534328489399,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "829.2",
+    "cisi": "H-2211",
+    "site": "Harappa",
+    "exc": "H97-3285Figure 16.02",
+    "tokens": [
+      700,
+      840,
+      32,
+      741
+    ],
+    "y": 1,
+    "text": "+700-840-032-741+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3838824991823374,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "830.1",
+    "cisi": "H-2104",
+    "site": "Harappa",
+    "exc": "H97-3286Figure 16.01",
+    "tokens": [
+      740,
+      797,
+      688
+    ],
+    "y": 1,
+    "text": "+740-797-688+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.44593371642223517,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "834.2",
+    "cisi": "H-2185",
+    "site": "Harappa",
+    "exc": "H97-3292Figure 16.06",
+    "tokens": [
+      400,
+      158,
+      690
+    ],
+    "y": 1,
+    "text": "+400-158-690+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8295897032417898,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "838.1",
+    "cisi": "H-2190",
+    "site": "Harappa",
+    "exc": "H97-3297Figure 16.10",
+    "tokens": [
+      90,
+      740,
+      327
+    ],
+    "y": 1,
+    "text": "+090-740-327+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.44566946714461836,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1327.1",
+    "cisi": "H-305",
+    "site": "Harappa",
+    "exc": "13833",
+    "tokens": [
+      3,
+      861,
+      31
+    ],
+    "y": 1,
+    "text": "+003-861-031+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.21197082241939175,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "843.1",
+    "cisi": "H-2109",
+    "site": "Harappa",
+    "exc": "H97-3303Figure 16.25",
+    "tokens": [
+      690,
+      32,
+      25
+    ],
+    "y": 1,
+    "text": "+690-032-025+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5450032547686625,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "862.2",
+    "cisi": "H-2070",
+    "site": "Harappa",
+    "exc": "H97-3324Figure 16.19",
+    "tokens": [
+      400,
+      740,
+      817,
+      276
+    ],
+    "y": 1,
+    "text": "+400-740-817-276+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.29777579137497817,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "866.2",
+    "cisi": "H-2133",
+    "site": "Harappa",
+    "exc": "H97-3328Figure 16.05",
+    "tokens": [
+      31,
+      480,
+      388,
+      32
+    ],
+    "y": 1,
+    "text": "+031-480-388-032+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.08371630877176323,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "871.2",
+    "cisi": "H-2206",
+    "site": "Harappa",
+    "exc": "H97-3334Figure 15.05",
+    "tokens": [
+      740,
+      32,
+      25
+    ],
+    "y": 1,
+    "text": "+740-032-025+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5501088210350014,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "885.1",
+    "cisi": "H-1711",
+    "site": "Harappa",
+    "exc": "H97-3351Figure 14.02",
+    "tokens": [
+      740,
+      840,
+      13,
+      745,
+      31,
+      370
+    ],
+    "y": 0,
+    "text": "+740-840-013-745-031-370+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.07837770479076554,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "894.1",
+    "cisi": "H-2135",
+    "site": "Harappa",
+    "exc": "H97-3370Figure 15.16",
+    "tokens": [
+      740,
+      920,
+      318,
+      700,
+      692
+    ],
+    "y": 1,
+    "text": "+740-920-318-700-692+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.19664116387026362,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1244.1",
+    "cisi": "H-213",
+    "site": "Harappa",
+    "exc": "13011",
+    "tokens": [
+      400,
+      520,
+      400,
+      352
+    ],
+    "y": 1,
+    "text": "+400-520-400-352+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.11121665660361275,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "920.1",
+    "cisi": "H-1678",
+    "site": "Harappa",
+    "exc": "H97-3433Figure 17.03",
+    "tokens": [
+      520,
+      233,
+      240,
+      220,
+      32
+    ],
+    "y": 0,
+    "text": "+520-233-240-220-032+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.15227665093485845,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "922.2",
+    "cisi": "H-1902",
+    "site": "Harappa",
+    "exc": "H98-3436Figure 25.12",
+    "tokens": [
+      158,
+      3,
+      494
+    ],
+    "y": 1,
+    "text": "+158-003-494+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6618914671102895,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "923.2",
+    "cisi": "H-1945",
+    "site": "Harappa",
+    "exc": "H98-3437Figure 25.11",
+    "tokens": [
+      400,
+      740,
+      388,
+      717,
+      705
+    ],
+    "y": 1,
+    "text": "+400-740-388-717-705+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.332858134017434,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "930.2",
+    "cisi": "H-1883",
+    "site": "Harappa",
+    "exc": "H98-3498Figure 24.10",
+    "tokens": [
+      740,
+      790,
+      32
+    ],
+    "y": 1,
+    "text": "+740-790-032+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4056912959320498,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "932.1",
+    "cisi": "H-1710",
+    "site": "Harappa",
+    "exc": "H98-3491Figure 23.07",
+    "tokens": [
+      90,
+      326,
+      700,
+      920,
+      125,
+      1,
+      55,
+      920,
+      140
+    ],
+    "y": 0,
+    "text": "+090-326-700-920-125-001-055-920-140+",
+    "length_only": {
+      "probability_tablet": 0.43251368394001455,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.20117499145973822,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "939.1",
+    "cisi": "H-1705",
+    "site": "Harappa",
+    "exc": "H98-3507Figure 24.13",
+    "tokens": [
+      740,
+      904,
+      231,
+      240,
+      798,
+      60,
+      692
+    ],
+    "y": 0,
+    "text": "+740-904-231-240-798-060-692+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.20622154055716377,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "943.1",
+    "cisi": "H-1667",
+    "site": "Harappa",
+    "exc": "H98-3511Figure 24.07",
+    "tokens": [
+      740,
+      540,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+740-540-002-817+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.16721046214603338,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1845.2",
+    "cisi": "H-968",
+    "site": "Harappa",
+    "exc": "H88-1199",
+    "tokens": [
+      526,
+      550,
+      233
+    ],
+    "y": 1,
+    "text": "+526-550-233+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2710658665656213,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1004.1",
+    "cisi": "H-1966",
+    "site": "Harappa",
+    "exc": "H99-3818Figure 34.07",
+    "tokens": [
+      520,
+      233,
+      49,
+      2,
+      861
+    ],
+    "y": 1,
+    "text": "+520-233-049-002-861+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.02283097085786358,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1011.1",
+    "cisi": "H-1713",
+    "site": "Harappa",
+    "exc": "H99-3828Figure 32.03",
+    "tokens": [
+      426,
+      3,
+      13,
+      817
+    ],
+    "y": 0,
+    "text": "+426-003-013-817+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.08024432472696984,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1020.1",
+    "cisi": "H-1657",
+    "site": "Harappa",
+    "exc": "H99-4064Figure 32.07",
+    "tokens": [
+      740,
+      405,
+      590,
+      32,
+      900,
+      3,
+      806,
+      235,
+      220,
+      32,
+      2,
+      690,
+      921
+    ],
+    "y": 0,
+    "text": "+740-405-590-032-900-003-806-235-220-032-002-690-921+",
+    "length_only": {
+      "probability_tablet": 0.39119991930303794,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6765671947663824,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1021.1",
+    "cisi": "H-1774",
+    "site": "Harappa",
+    "exc": "H99-4066Figure 33.11",
+    "tokens": [
+      400,
+      740,
+      335,
+      482,
+      175
+    ],
+    "y": 1,
+    "text": "+400-740-335-482-175+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.48834774462027725,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1023.1",
+    "cisi": "H-1793",
+    "site": "Harappa",
+    "exc": "H99-4072Figure 34.09",
+    "tokens": [
+      740,
+      752,
+      482,
+      240
+    ],
+    "y": 1,
+    "text": "+740-752-482-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2840638768744118,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1024.2",
+    "cisi": "H-1851",
+    "site": "Harappa",
+    "exc": "H99-4073Figure 34.06",
+    "tokens": [
+      740,
+      803,
+      892,
+      31,
+      2,
+      861
+    ],
+    "y": 1,
+    "text": "+740-803-892-031-002-861+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.0560998188596262,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1034.1",
+    "cisi": "H-1979",
+    "site": "Harappa",
+    "exc": "H99-4215Figure 33.03",
+    "tokens": [
+      740,
+      158,
+      806,
+      467
+    ],
+    "y": 1,
+    "text": "+740-158-806-467+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8593366771166299,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1051.1",
+    "cisi": "H-1182",
+    "site": "Harappa",
+    "exc": "J229492",
+    "tokens": [
+      400,
+      740,
+      817,
+      175
+    ],
+    "y": 1,
+    "text": "+400-740-817-175+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.27406495722902474,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1057.1",
+    "cisi": "H-733",
+    "site": "Harappa",
+    "exc": "J533911",
+    "tokens": [
+      740,
+      390,
+      590,
+      240
+    ],
+    "y": 1,
+    "text": "+740-390-590-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.34866062010930016,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1058.1",
+    "cisi": "H-1308",
+    "site": "Harappa",
+    "exc": "J582445",
+    "tokens": [
+      740,
+      690,
+      636,
+      240
+    ],
+    "y": 1,
+    "text": "+740-690-636-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.562862077088495,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1060.1",
+    "cisi": "H-1050",
+    "site": "Harappa",
+    "exc": "PI-4117",
+    "tokens": [
+      804,
+      235,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+804-235-002-817+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.014214623410486522,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1061.1",
+    "cisi": "H-1294",
+    "site": "Harappa",
+    "exc": "PII-1499",
+    "tokens": [
+      527,
+      550,
+      233
+    ],
+    "y": 1,
+    "text": "+527-550-233+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.17261976187564598,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1062.1",
+    "cisi": "H-1",
+    "site": "Harappa",
+    "exc": "Ae106010",
+    "tokens": [
+      820,
+      595,
+      575,
+      692
+    ],
+    "y": 0,
+    "text": "+820-595-575-692+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.00670375282316197,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1063.1",
+    "cisi": "H-2",
+    "site": "Harappa",
+    "exc": "5880012",
+    "tokens": [
+      232,
+      740,
+      176,
+      745,
+      440,
+      617
+    ],
+    "y": 0,
+    "text": "+232-740-176-745-440-617+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.24654814377287193,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1064.1",
+    "cisi": "H-3",
+    "site": "Harappa",
+    "exc": "1056002",
+    "tokens": [
+      740,
+      585,
+      17,
+      2,
+      611,
+      615,
+      703
+    ],
+    "y": 0,
+    "text": "+740-585-017-002-611-615-703+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.49613090444535407,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1065.1",
+    "cisi": "H-4",
+    "site": "Harappa",
+    "exc": "12751693",
+    "tokens": [
+      220,
+      63,
+      51
+    ],
+    "y": 0,
+    "text": "+220-063-051+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4192154044335205,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1066.1",
+    "cisi": "H-5",
+    "site": "Harappa",
+    "exc": "PI-42004",
+    "tokens": [
+      920,
+      706,
+      193,
+      384,
+      32,
+      920,
+      140,
+      902
+    ],
+    "y": 0,
+    "text": "+920-706-193-384-032-920-140-902+",
+    "length_only": {
+      "probability_tablet": 0.44597740709770806,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.09669157507888058,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1067.1",
+    "cisi": "H-6",
+    "site": "Harappa",
+    "exc": "PI-39006",
+    "tokens": [
+      317,
+      890,
+      1,
+      32,
+      776,
+      625
+    ],
+    "y": 0,
+    "text": "+317-890-001-032-776-625+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.10212218002725164,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1068.1",
+    "cisi": "H-7",
+    "site": "Harappa",
+    "exc": "PI-41008",
+    "tokens": [
+      920,
+      440,
+      692,
+      1,
+      542,
+      250
+    ],
+    "y": 0,
+    "text": "+920-440-692-001-542-250+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.005904630274194764,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1069.1",
+    "cisi": "H-8",
+    "site": "Harappa",
+    "exc": "3716001",
+    "tokens": [
+      354,
+      1,
+      740,
+      405,
+      590,
+      33,
+      706,
+      2,
+      690,
+      921
+    ],
+    "y": 0,
+    "text": "+354-001-740-405-590-033-706-002-690-921+",
+    "length_only": {
+      "probability_tablet": 0.4205532590122243,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.38320490546143865,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1071.1",
+    "cisi": "H-10",
+    "site": "Harappa",
+    "exc": "PI-40003",
+    "tokens": [
+      820,
+      302,
+      596,
+      18,
+      125,
+      381
+    ],
+    "y": 0,
+    "text": "+820-302-596-018-125-381+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.012174035323938853,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1073.1",
+    "cisi": "H-12",
+    "site": "Harappa",
+    "exc": "116005",
+    "tokens": [
+      740,
+      690,
+      435,
+      255,
+      803,
+      220,
+      240,
+      235,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+740-690-435-255-803-220-240-235-002-817+",
+    "length_only": {
+      "probability_tablet": 0.4205532590122243,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.31932931497961065,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1074.1",
+    "cisi": "H-13",
+    "site": "Harappa",
+    "exc": "12995",
+    "tokens": [
+      740,
+      760,
+      615,
+      503,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+740-760-615-503-002-817+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.14953007742544952,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1075.1",
+    "cisi": "H-14",
+    "site": "Harappa",
+    "exc": "J579106",
+    "tokens": [
+      740,
+      772,
+      240,
+      60,
+      415,
+      56
+    ],
+    "y": 0,
+    "text": "+740-772-240-060-415-056+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.061308798639861835,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1077.1",
+    "cisi": "H-17",
+    "site": "Harappa",
+    "exc": "11369052",
+    "tokens": [
+      520,
+      233,
+      240,
+      60,
+      201
+    ],
+    "y": 0,
+    "text": "+520-233-240-060-201+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.022055365008871546,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1080.1",
+    "cisi": "H-20",
+    "site": "Harappa",
+    "exc": "3170019",
+    "tokens": [
+      740,
+      176,
+      690,
+      435,
+      255,
+      220,
+      32,
+      806,
+      60,
+      550
+    ],
+    "y": 0,
+    "text": "+740-176-690-435-255-220-032-806-060-550+",
+    "length_only": {
+      "probability_tablet": 0.4205532590122243,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7360297678381278,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1081.1",
+    "cisi": "H-21",
+    "site": "Harappa",
+    "exc": "3725022",
+    "tokens": [
+      405,
+      61,
+      527,
+      555,
+      233,
+      235,
+      806,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+405-061-527-555-233-235-806-002-817+",
+    "length_only": {
+      "probability_tablet": 0.43251368394001455,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.004074912517494909,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1082.1",
+    "cisi": "H-22",
+    "site": "Harappa",
+    "exc": "180023",
+    "tokens": [
+      740,
+      920,
+      320,
+      233,
+      806,
+      2,
+      405,
+      321
+    ],
+    "y": 0,
+    "text": "+740-920-320-233-806-002-405-321+",
+    "length_only": {
+      "probability_tablet": 0.44597740709770806,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.03987199225270048,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1083.1",
+    "cisi": "H-23",
+    "site": "Harappa",
+    "exc": "12414k047",
+    "tokens": [
+      740,
+      100,
+      176,
+      405,
+      19
+    ],
+    "y": 0,
+    "text": "+740-100-176-405-019+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8643369194603364,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1084.1",
+    "cisi": "H-24",
+    "site": "Harappa",
+    "exc": "8718013",
+    "tokens": [
+      740,
+      626,
+      176,
+      33,
+      705,
+      233
+    ],
+    "y": 0,
+    "text": "+740-626-176-033-705-233+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8302867193694766,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1085.1",
+    "cisi": "H-25",
+    "site": "Harappa",
+    "exc": "11942081",
+    "tokens": [
+      740,
+      900,
+      3,
+      806,
+      33,
+      705,
+      235,
+      55
+    ],
+    "y": 0,
+    "text": "+740-900-003-806-033-705-235-055+",
+    "length_only": {
+      "probability_tablet": 0.44597740709770806,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5803681685573907,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1086.1",
+    "cisi": "H-26",
+    "site": "Harappa",
+    "exc": "145016",
+    "tokens": [
+      740,
+      388,
+      231,
+      240,
+      798,
+      1,
+      820
+    ],
+    "y": 0,
+    "text": "+740-388-231-240-798-001-820+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.10659693942563557,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1087.1",
+    "cisi": "H-27",
+    "site": "Harappa",
+    "exc": "3545017",
+    "tokens": [
+      154,
+      806,
+      468,
+      1,
+      740,
+      877,
+      32
+    ],
+    "y": 0,
+    "text": "+154-806-468-001-740-877-032+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.0956617734494949,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1089.1",
+    "cisi": "H-29",
+    "site": "Harappa",
+    "exc": "Bg7042",
+    "tokens": [
+      595,
+      140,
+      640
+    ],
+    "y": 0,
+    "text": "+595-140-640+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.36913643141968944,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1095.1",
+    "cisi": "H-36",
+    "site": "Harappa",
+    "exc": "J500113",
+    "tokens": [
+      740,
+      798,
+      220,
+      742,
+      146
+    ],
+    "y": 0,
+    "text": "+740-798-220-742-146+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.31268317265661755,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1098.1",
+    "cisi": "H-39",
+    "site": "Harappa",
+    "exc": "J273104",
+    "tokens": [
+      740,
+      390,
+      590,
+      231,
+      240,
+      235,
+      745,
+      60,
+      920
+    ],
+    "y": 0,
+    "text": "+740-390-590-231-240-235-745-060-920+",
+    "length_only": {
+      "probability_tablet": 0.43251368394001455,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.014119697438165608,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1099.1",
+    "cisi": "H-40",
+    "site": "Harappa",
+    "exc": "10011072",
+    "tokens": [
+      740,
+      798,
+      235,
+      1,
+      368,
+      831,
+      165
+    ],
+    "y": 0,
+    "text": "+740-798-235-001-368-831-165+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3943854603152625,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1101.1",
+    "cisi": "H-42",
+    "site": "Harappa",
+    "exc": "1240057",
+    "tokens": [
+      740,
+      380,
+      235,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+740-380-235-002-817+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.027492036307542052,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1102.1",
+    "cisi": "H-43",
+    "site": "Harappa",
+    "exc": "10927077",
+    "tokens": [
+      405,
+      690,
+      32
+    ],
+    "y": 0,
+    "text": "+405-690-032+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.615797109659093,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1103.1",
+    "cisi": "H-44",
+    "site": "Harappa",
+    "exc": "12493028",
+    "tokens": [
+      520,
+      33,
+      706,
+      235,
+      798,
+      803,
+      2,
+      31,
+      892
+    ],
+    "y": 0,
+    "text": "+520-033-706-235-798-803-002-031-892+",
+    "length_only": {
+      "probability_tablet": 0.43251368394001455,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.012851880345781344,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1104.1",
+    "cisi": "H-45",
+    "site": "Harappa",
+    "exc": "7663043",
+    "tokens": [
+      90,
+      740,
+      101,
+      2,
+      820
+    ],
+    "y": 0,
+    "text": "+090-740-101-002-820+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.007846055872635257,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1105.1",
+    "cisi": "H-46",
+    "site": "Harappa",
+    "exc": "1697076",
+    "tokens": [
+      740,
+      920,
+      320,
+      235
+    ],
+    "y": 0,
+    "text": "+740-920-320-235+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.07261390281896872,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1106.1",
+    "cisi": "H-47",
+    "site": "Harappa",
+    "exc": "868030",
+    "tokens": [
+      740,
+      752,
+      482
+    ],
+    "y": 0,
+    "text": "+740-752-482+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3828093625620422,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1109.1",
+    "cisi": "H-50",
+    "site": "Harappa",
+    "exc": "J548131",
+    "tokens": [
+      740,
+      406,
+      590,
+      741,
+      406,
+      125
+    ],
+    "y": 0,
+    "text": "+740-406-590-741-406-125+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.055252527216619086,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1110.1",
+    "cisi": "H-51",
+    "site": "Harappa",
+    "exc": "10185a090",
+    "tokens": [
+      740,
+      643,
+      240,
+      2,
+      861
+    ],
+    "y": 0,
+    "text": "+740-643-240-002-861+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.10026209849498507,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1113.1",
+    "cisi": "H-54",
+    "site": "Harappa",
+    "exc": "A214085",
+    "tokens": [
+      390,
+      3,
+      368,
+      817
+    ],
+    "y": 0,
+    "text": "+390-003-368-817+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.07134499904972846,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1114.1",
+    "cisi": "H-55",
+    "site": "Harappa",
+    "exc": "3757107",
+    "tokens": [
+      390,
+      4,
+      2,
+      861,
+      125
+    ],
+    "y": 0,
+    "text": "+390-004-002-861-125+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.05271307550462405,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1115.1",
+    "cisi": "H-56",
+    "site": "Harappa",
+    "exc": "3482110",
+    "tokens": [
+      740,
+      176,
+      60,
+      692
+    ],
+    "y": 0,
+    "text": "+740-176-060-692+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1792475566283665,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1117.1",
+    "cisi": "H-58",
+    "site": "Harappa",
+    "exc": "A336105",
+    "tokens": [
+      158,
+      806,
+      468,
+      740,
+      752,
+      231,
+      235
+    ],
+    "y": 0,
+    "text": "+158-806-468-740-752-231-235+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6250756308254463,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1119.1",
+    "cisi": "H-60",
+    "site": "Harappa",
+    "exc": "-",
+    "tokens": [
+      621,
+      740,
+      900,
+      3,
+      2,
+      820
+    ],
+    "y": 0,
+    "text": "+621-740-900-003/002-820+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.036745297474681554,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1120.1",
+    "cisi": "H-61",
+    "site": "Harappa",
+    "exc": "12537118",
+    "tokens": [
+      740,
+      690,
+      435,
+      255,
+      1,
+      60,
+      201
+    ],
+    "y": 0,
+    "text": "+740-690-435-255-001-060-201+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3006025924440444,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1122.1",
+    "cisi": "H-63",
+    "site": "Harappa",
+    "exc": "3803142",
+    "tokens": [
+      740,
+      100,
+      717
+    ],
+    "y": 0,
+    "text": "+740-100-717+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5903754085088683,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1123.1",
+    "cisi": "H-64",
+    "site": "Harappa",
+    "exc": "1009125",
+    "tokens": [
+      520,
+      70,
+      921,
+      240
+    ],
+    "y": 0,
+    "text": "+520-070-921-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.03498115396391137,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1124.1",
+    "cisi": "H-65",
+    "site": "Harappa",
+    "exc": "10061094",
+    "tokens": [
+      740,
+      32,
+      28
+    ],
+    "y": 0,
+    "text": "+740-032-028+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5501088210350014,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1125.1",
+    "cisi": "H-66",
+    "site": "Harappa",
+    "exc": "517130",
+    "tokens": [
+      617,
+      243,
+      950
+    ],
+    "y": 0,
+    "text": "+617-243-950+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2596199185851329,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1127.1",
+    "cisi": "H-68",
+    "site": "Harappa",
+    "exc": "11849141",
+    "tokens": [
+      90,
+      740,
+      220,
+      3,
+      2,
+      390,
+      72
+    ],
+    "y": 0,
+    "text": "+090-740-220-003-002-390-072+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.11948564448501173,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1129.1",
+    "cisi": "H-70",
+    "site": "Harappa",
+    "exc": "4015122",
+    "tokens": [
+      390,
+      3,
+      491
+    ],
+    "y": 0,
+    "text": "+390-003-491+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.26355682360428034,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1132.1",
+    "cisi": "H-74",
+    "site": "Harappa",
+    "exc": "B234135",
+    "tokens": [
+      2,
+      610,
+      125,
+      32
+    ],
+    "y": 0,
+    "text": "+002-610-125-032+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.10092279398478964,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1134.1",
+    "cisi": "H-76",
+    "site": "Harappa",
+    "exc": "8650a241",
+    "tokens": [
+      740,
+      100,
+      240,
+      235,
+      741,
+      175,
+      132
+    ],
+    "y": 0,
+    "text": "+740-100-240-235-741-175-132+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.059758338389958435,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1137.1",
+    "cisi": "H-80",
+    "site": "Harappa",
+    "exc": "J361245",
+    "tokens": [
+      595,
+      820,
+      100,
+      415,
+      741,
+      315,
+      850
+    ],
+    "y": 0,
+    "text": "+595-820-100-415-741-315-850+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.020704924738654856,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1139.1",
+    "cisi": "H-82",
+    "site": "Harappa",
+    "exc": "4042238",
+    "tokens": [
+      390,
+      17,
+      2,
+      220,
+      455,
+      741
+    ],
+    "y": 0,
+    "text": "+390-017-002-220-455-741+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.0047147793467282526,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1141.1",
+    "cisi": "H-85",
+    "site": "Harappa",
+    "exc": "10310232",
+    "tokens": [
+      520,
+      219,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+520-219-002-817+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.009138888184649934,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1142.1",
+    "cisi": "H-86",
+    "site": "Harappa",
+    "exc": "9080233",
+    "tokens": [
+      520,
+      460,
+      31
+    ],
+    "y": 0,
+    "text": "+520-460-031+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.017036750657005776,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1144.1",
+    "cisi": "H-88",
+    "site": "Harappa",
+    "exc": "5534253",
+    "tokens": [
+      740,
+      32,
+      840,
+      820
+    ],
+    "y": 0,
+    "text": "+740-032-840-820+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.24754358202825189,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1145.1",
+    "cisi": "H-89",
+    "site": "Harappa",
+    "exc": "13397",
+    "tokens": [
+      232,
+      240,
+      741,
+      60,
+      920
+    ],
+    "y": 0,
+    "text": "+232-240-741-060-920+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.0014992330455493306,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1146.1",
+    "cisi": "H-90",
+    "site": "Harappa",
+    "exc": "7786227",
+    "tokens": [
+      521,
+      368,
+      280,
+      192,
+      440
+    ],
+    "y": 0,
+    "text": "+521-368-280-192-440+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.0337952361093675,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1147.1",
+    "cisi": "H-91",
+    "site": "Harappa",
+    "exc": "3771230",
+    "tokens": [
+      520,
+      70,
+      253,
+      60,
+      692
+    ],
+    "y": 0,
+    "text": "+520-070-253-060-692+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.0033522486031948777,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1148.1",
+    "cisi": "H-92",
+    "site": "Harappa",
+    "exc": "10185b229",
+    "tokens": [
+      156,
+      176,
+      518,
+      220,
+      416,
+      2,
+      615
+    ],
+    "y": 0,
+    "text": "+156-176-518-220-416-002-615+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.24475607762360949,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1151.1",
+    "cisi": "H-96",
+    "site": "Harappa",
+    "exc": "5211249",
+    "tokens": [
+      368,
+      740,
+      870
+    ],
+    "y": 0,
+    "text": "+368-740-870+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.34447618383606576,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1152.1",
+    "cisi": "H-97",
+    "site": "Harappa",
+    "exc": "113251",
+    "tokens": [
+      65,
+      599,
+      798,
+      706,
+      928
+    ],
+    "y": 0,
+    "text": "+065-599/798-706-928+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.16705377248330214,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1153.1",
+    "cisi": "H-98",
+    "site": "Harappa",
+    "exc": "10102256",
+    "tokens": [
+      861,
+      920,
+      520,
+      220,
+      16
+    ],
+    "y": 0,
+    "text": "+861-920/520-220-016+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.08856668383717257,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1161.1",
+    "cisi": "H-101",
+    "site": "Harappa",
+    "exc": "13692",
+    "tokens": [
+      740,
+      760,
+      440
+    ],
+    "y": 0,
+    "text": "+740-760-440+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.25331252735034054,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1168.2",
+    "cisi": "H-102",
+    "site": "Harappa",
+    "exc": "13341",
+    "tokens": [
+      740,
+      630,
+      240,
+      741,
+      861
+    ],
+    "y": 0,
+    "text": "+740-630-240-741-861+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.04779777283805125,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1169.1",
+    "cisi": "H-103",
+    "site": "Harappa",
+    "exc": "2789254",
+    "tokens": [
+      159,
+      97,
+      520,
+      33,
+      705,
+      740,
+      717,
+      220,
+      415,
+      806
+    ],
+    "y": 0,
+    "text": "+159-097/520-033-705/740-717-220-415-806+",
+    "length_only": {
+      "probability_tablet": 0.4205532590122243,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4033765185610997,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1170.1",
+    "cisi": "H-129",
+    "site": "Harappa",
+    "exc": "Ab130269",
+    "tokens": [
+      409,
+      61,
+      740,
+      235,
+      220,
+      31,
+      2,
+      861,
+      244,
+      165
+    ],
+    "y": 0,
+    "text": "+409-061-740-235-220-031-002-861-244-165+",
+    "length_only": {
+      "probability_tablet": 0.4205532590122243,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.00967794070793146,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1171.1",
+    "cisi": "H-130",
+    "site": "Harappa",
+    "exc": "12889",
+    "tokens": [
+      409,
+      32,
+      845,
+      33,
+      705,
+      231,
+      806,
+      2,
+      595,
+      812,
+      125,
+      717
+    ],
+    "y": 0,
+    "text": "+409-032-845-033-705-231-806-002-595-812-125-717+",
+    "length_only": {
+      "probability_tablet": 0.40008240599270484,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.32874435494355,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1173.1",
+    "cisi": "H-132",
+    "site": "Harappa",
+    "exc": "12881",
+    "tokens": [
+      154,
+      806,
+      471,
+      407,
+      845,
+      740,
+      233,
+      231,
+      798
+    ],
+    "y": 0,
+    "text": "+154-806-471-407-845-740-233-231-798+",
+    "length_only": {
+      "probability_tablet": 0.43251368394001455,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.941565228293824,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1174.1",
+    "cisi": "H-133",
+    "site": "Harappa",
+    "exc": "8360261",
+    "tokens": [
+      740,
+      554,
+      220,
+      415,
+      798,
+      60,
+      692
+    ],
+    "y": 0,
+    "text": "+740-554-220-415-798-060-692+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.11699857943850589,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1175.1",
+    "cisi": "H-134",
+    "site": "Harappa",
+    "exc": "5436264",
+    "tokens": [
+      740,
+      405,
+      590,
+      220,
+      3,
+      2,
+      861
+    ],
+    "y": 0,
+    "text": "+740-405-590-220-003-002-861+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.46427362704346514,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1176.1",
+    "cisi": "H-135",
+    "site": "Harappa",
+    "exc": "114270",
+    "tokens": [
+      740,
+      773,
+      231,
+      806,
+      2,
+      861
+    ],
+    "y": 0,
+    "text": "+740-773-231-806-002-861+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.38520694757034085,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1178.1",
+    "cisi": "H-137",
+    "site": "Harappa",
+    "exc": "13487",
+    "tokens": [
+      740,
+      443,
+      388,
+      33,
+      705,
+      233,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+740-443-388-033-705-233-002-817+",
+    "length_only": {
+      "probability_tablet": 0.44597740709770806,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.13047772279781625,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1180.1",
+    "cisi": "H-139",
+    "site": "Harappa",
+    "exc": "5542267",
+    "tokens": [
+      368,
+      861,
+      503
+    ],
+    "y": 0,
+    "text": "+368-861-503+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.21997286413179476,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1181.1",
+    "cisi": "H-140",
+    "site": "Harappa",
+    "exc": "4058268",
+    "tokens": [
+      740,
+      384,
+      32,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+740-384-032-002-817+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.17968790767868642,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1182.1",
+    "cisi": "H-141",
+    "site": "Harappa",
+    "exc": "Ab553274",
+    "tokens": [
+      405,
+      32,
+      900,
+      3,
+      70,
+      2,
+      233,
+      235
+    ],
+    "y": 0,
+    "text": "+405-032-900-003-070-002-233-235+",
+    "length_only": {
+      "probability_tablet": 0.44597740709770806,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.10769724943203643,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1183.1",
+    "cisi": "H-142",
+    "site": "Harappa",
+    "exc": "PI-2272",
+    "tokens": [
+      740,
+      267,
+      811,
+      832,
+      60,
+      692
+    ],
+    "y": 0,
+    "text": "+740-267-811-832-060-692+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.01772667643237552,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1184.1",
+    "cisi": "H-143",
+    "site": "Harappa",
+    "exc": "XXXI-21",
+    "tokens": [
+      154,
+      806,
+      469,
+      1,
+      740,
+      877,
+      32
+    ],
+    "y": 0,
+    "text": "+154-806-469-001-740-877-032+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.10923979014229519,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1185.1",
+    "cisi": "H-144",
+    "site": "Harappa",
+    "exc": "2187280",
+    "tokens": [
+      203,
+      892,
+      193
+    ],
+    "y": 0,
+    "text": "+203-892-193+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.15573130739526592,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1187.1",
+    "cisi": "H-146",
+    "site": "Harappa",
+    "exc": "H637628",
+    "tokens": [
+      154,
+      806,
+      467,
+      31
+    ],
+    "y": 0,
+    "text": "+154-806-467-031+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.0870352596327691,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1189.1",
+    "cisi": "H-148",
+    "site": "Harappa",
+    "exc": "4396285",
+    "tokens": [
+      520,
+      240,
+      235
+    ],
+    "y": 0,
+    "text": "+520-240-235+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.07619852835889047,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1190.1",
+    "cisi": "H-149",
+    "site": "Harappa",
+    "exc": "Ab922275",
+    "tokens": [
+      405,
+      61,
+      33,
+      706,
+      794,
+      630,
+      220,
+      2,
+      820
+    ],
+    "y": 0,
+    "text": "+405-061-033-706-794-630-220-002-820+",
+    "length_only": {
+      "probability_tablet": 0.43251368394001455,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.006923440287091961,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1191.1",
+    "cisi": "H-150",
+    "site": "Harappa",
+    "exc": "21283",
+    "tokens": [
+      63,
+      740,
+      918
+    ],
+    "y": 0,
+    "text": "+063-740-918+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.48268835026150314,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1192.1",
+    "cisi": "H-151",
+    "site": "Harappa",
+    "exc": "13418",
+    "tokens": [
+      407,
+      17,
+      60,
+      193
+    ],
+    "y": 0,
+    "text": "+407-017-060-193+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3625272330532421,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1194.1",
+    "cisi": "H-153",
+    "site": "Harappa",
+    "exc": "12752627",
+    "tokens": [
+      64,
+      706,
+      140
+    ],
+    "y": 0,
+    "text": "+064-706-140+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.15691869410046133,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1195.1",
+    "cisi": "H-154",
+    "site": "Harappa",
+    "exc": "8350282",
+    "tokens": [
+      154,
+      806,
+      467,
+      13,
+      817
+    ],
+    "y": 0,
+    "text": "+154-806-467-013-817+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.0531431123504453,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1196.1",
+    "cisi": "H-155",
+    "site": "Harappa",
+    "exc": "H605630",
+    "tokens": [
+      740,
+      176,
+      1,
+      367,
+      861,
+      216
+    ],
+    "y": 0,
+    "text": "+740-176-001-367-861-216+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5889153308750327,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1198.1",
+    "cisi": "H-157",
+    "site": "Harappa",
+    "exc": "581284",
+    "tokens": [
+      154,
+      615,
+      503
+    ],
+    "y": 0,
+    "text": "+154-615-503+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.46930227065905133,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1199.1",
+    "cisi": "H-158",
+    "site": "Harappa",
+    "exc": "H80297",
+    "tokens": [
+      154,
+      806,
+      472,
+      1,
+      740,
+      405,
+      590
+    ],
+    "y": 0,
+    "text": "+154-806-472-001-740-405-590+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2952663029968059,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1201.1",
+    "cisi": "H-160",
+    "site": "Harappa",
+    "exc": "2630276",
+    "tokens": [
+      400,
+      154,
+      806,
+      468
+    ],
+    "y": 0,
+    "text": "+400-154-806-468+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.19063524670497003,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1204.1",
+    "cisi": "H-164",
+    "site": "Harappa",
+    "exc": "11442",
+    "tokens": [
+      161,
+      97,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+161-097-002-817+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.04937394689254055,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1205.1",
+    "cisi": "H-170",
+    "site": "Harappa",
+    "exc": "8150701",
+    "tokens": [
+      511,
+      630,
+      336,
+      827
+    ],
+    "y": 1,
+    "text": "+511-630-336-827+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.15882418797922204,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1209.1",
+    "cisi": "H-175",
+    "site": "Harappa",
+    "exc": "12721319",
+    "tokens": [
+      167,
+      705,
+      368,
+      5,
+      741,
+      60,
+      920
+    ],
+    "y": 1,
+    "text": "+167-705-368-005-741-060-920+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.001587497890086435,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1211.1",
+    "cisi": "H-177",
+    "site": "Harappa",
+    "exc": "G107316",
+    "tokens": [
+      700,
+      33,
+      151,
+      706,
+      31,
+      2,
+      817
+    ],
+    "y": 1,
+    "text": "+700-033-151-706-031-002-817+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.044879324320672154,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1214.1",
+    "cisi": "H-180",
+    "site": "Harappa",
+    "exc": "649304",
+    "tokens": [
+      151,
+      390,
+      590,
+      741,
+      330,
+      368
+    ],
+    "y": 1,
+    "text": "+151-390-590-741-330-368+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.006952871178462131,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1216.1",
+    "cisi": "H-183",
+    "site": "Harappa",
+    "exc": "12415a327",
+    "tokens": [
+      400,
+      202,
+      892,
+      220,
+      920
+    ],
+    "y": 1,
+    "text": "+400-202-892-220-920+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.07975071313242313,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1220.1",
+    "cisi": "H-187",
+    "site": "Harappa",
+    "exc": "13668140",
+    "tokens": [
+      400,
+      740,
+      463,
+      495
+    ],
+    "y": 1,
+    "text": "+400-740-463-495+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.40039019522654873,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1222.1",
+    "cisi": "H-189",
+    "site": "Harappa",
+    "exc": "10103341",
+    "tokens": [
+      400,
+      158,
+      806,
+      470
+    ],
+    "y": 1,
+    "text": "+400-158-806-470+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6656241628890837,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1223.1",
+    "cisi": "H-190",
+    "site": "Harappa",
+    "exc": "7098323",
+    "tokens": [
+      158,
+      806,
+      465
+    ],
+    "y": 1,
+    "text": "+158-806-465+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6307039035889531,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1224.1",
+    "cisi": "H-191",
+    "site": "Harappa",
+    "exc": "J10332",
+    "tokens": [
+      740,
+      798,
+      463,
+      354
+    ],
+    "y": 1,
+    "text": "+740-798-463-354+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4166574893750386,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1227.1",
+    "cisi": "H-196",
+    "site": "Harappa",
+    "exc": "2262309",
+    "tokens": [
+      407,
+      590,
+      740,
+      72
+    ],
+    "y": 1,
+    "text": "+407-590-740-072+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.86839127088195,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1237.1",
+    "cisi": "H-206",
+    "site": "Harappa",
+    "exc": "J462345",
+    "tokens": [
+      740,
+      642,
+      240,
+      204,
+      705,
+      621
+    ],
+    "y": 1,
+    "text": "+740-642-240-204-705-621+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.20523884922393545,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1239.1",
+    "cisi": "H-208",
+    "site": "Harappa",
+    "exc": "14333",
+    "tokens": [
+      400,
+      158,
+      806,
+      472
+    ],
+    "y": 1,
+    "text": "+400-158-806-472+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6511985253627608,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1240.1",
+    "cisi": "H-209",
+    "site": "Harappa",
+    "exc": "10242348",
+    "tokens": [
+      400,
+      921,
+      690,
+      435,
+      255,
+      55
+    ],
+    "y": 1,
+    "text": "+400-921-690-435-255-055+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.20789688316407076,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1241.1",
+    "cisi": "H-210",
+    "site": "Harappa",
+    "exc": "J494355",
+    "tokens": [
+      740,
+      100,
+      176,
+      101
+    ],
+    "y": 1,
+    "text": "+740-100-176-101+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7824375549636438,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1242.1",
+    "cisi": "H-211",
+    "site": "Harappa",
+    "exc": "13419",
+    "tokens": [
+      400,
+      740,
+      898,
+      617
+    ],
+    "y": 1,
+    "text": "+400-740-898-617+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6109259663315989,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1243.1",
+    "cisi": "H-212",
+    "site": "Harappa",
+    "exc": "3890357",
+    "tokens": [
+      400,
+      156,
+      118
+    ],
+    "y": 1,
+    "text": "+400-156-118+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.26657354481401285,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1245.1",
+    "cisi": "H-214",
+    "site": "Harappa",
+    "exc": "1032684",
+    "tokens": [
+      400,
+      520,
+      400,
+      353
+    ],
+    "y": 1,
+    "text": "+400-520-400-353+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.10072403213229604,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1249.1",
+    "cisi": "H-218",
+    "site": "Harappa",
+    "exc": "14063",
+    "tokens": [
+      740,
+      336,
+      176
+    ],
+    "y": 1,
+    "text": "+740-336-176+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7309330139229507,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1250.1",
+    "cisi": "H-219",
+    "site": "Harappa",
+    "exc": "12952",
+    "tokens": [
+      415,
+      35,
+      171
+    ],
+    "y": 1,
+    "text": "+415-035-171+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.17533717319608733,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1253.1",
+    "cisi": "H-226",
+    "site": "Harappa",
+    "exc": "1791 (1)",
+    "tokens": [
+      400,
+      158,
+      904,
+      736
+    ],
+    "y": 1,
+    "text": "+400-158-904-736+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8010922279984721,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1257.1",
+    "cisi": "H-230",
+    "site": "Harappa",
+    "exc": "9059324",
+    "tokens": [
+      520,
+      72,
+      219
+    ],
+    "y": 1,
+    "text": "+520-072-219+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.0830655486148732,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1258.1",
+    "cisi": "H-231",
+    "site": "Harappa",
+    "exc": "11381673",
+    "tokens": [
+      520,
+      220,
+      240,
+      2,
+      820
+    ],
+    "y": 1,
+    "text": "+520-220-240-002-820+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.003764735575667596,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1259.1",
+    "cisi": "H-232",
+    "site": "Harappa",
+    "exc": "H550368",
+    "tokens": [
+      400,
+      740,
+      177,
+      519
+    ],
+    "y": 1,
+    "text": "+400-740-177-519+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.46710214317616583,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1264.1",
+    "cisi": "H-239",
+    "site": "Harappa",
+    "exc": "3855386",
+    "tokens": [
+      390,
+      60,
+      740,
+      500,
+      91
+    ],
+    "y": 1,
+    "text": "+390-060/740-500-091+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.04735207843842658,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1269.1",
+    "cisi": "H-244",
+    "site": "Harappa",
+    "exc": "11449665",
+    "tokens": [
+      104,
+      2,
+      820
+    ],
+    "y": 1,
+    "text": "+104-002-820+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.032444476438561076,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1270.1",
+    "cisi": "H-245",
+    "site": "Harappa",
+    "exc": "H297702",
+    "tokens": [
+      400,
+      807,
+      740,
+      219
+    ],
+    "y": 1,
+    "text": "+400-807-740-219+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4528919297773073,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1277.1",
+    "cisi": "H-252",
+    "site": "Harappa",
+    "exc": "G256/4",
+    "tokens": [
+      520,
+      240,
+      2,
+      405,
+      501
+    ],
+    "y": 1,
+    "text": "+520-240-002-405-501+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.018726249649350227,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1293.1",
+    "cisi": "H-268",
+    "site": "Harappa",
+    "exc": "PIV-114020",
+    "tokens": [
+      740,
+      585,
+      17,
+      33,
+      706,
+      803,
+      2,
+      220,
+      455,
+      920
+    ],
+    "y": 0,
+    "text": "+740-585-017-033-706-803-002-220-455-920+",
+    "length_only": {
+      "probability_tablet": 0.4205532590122243,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5819226466254823,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1294.1",
+    "cisi": "H-270",
+    "site": "Harappa",
+    "exc": "7411014",
+    "tokens": [
+      740,
+      482,
+      55,
+      220,
+      415,
+      798,
+      803,
+      742,
+      617
+    ],
+    "y": 0,
+    "text": "+740-482-055-220-415-798-803-742-617+",
+    "length_only": {
+      "probability_tablet": 0.43251368394001455,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.26324082712565705,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1295.1",
+    "cisi": "H-271",
+    "site": "Harappa",
+    "exc": "5383069",
+    "tokens": [
+      595,
+      420,
+      717,
+      745
+    ],
+    "y": 0,
+    "text": "+595-420-717-745+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.09006777095866433,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1296.1",
+    "cisi": "H-272",
+    "site": "Harappa",
+    "exc": "11453619",
+    "tokens": [
+      740,
+      585,
+      17,
+      240,
+      2,
+      305,
+      32,
+      904
+    ],
+    "y": 0,
+    "text": "+740-585-017-240-002-305-032-904+",
+    "length_only": {
+      "probability_tablet": 0.44597740709770806,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4882369794902539,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1311.1",
+    "cisi": "H-289",
+    "site": "Harappa",
+    "exc": "8650h862",
+    "tokens": [
+      740,
+      783,
+      4
+    ],
+    "y": 1,
+    "text": "+740-783-004+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5504978193657082,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1318.1",
+    "cisi": "H-296",
+    "site": "Harappa",
+    "exc": "12534457",
+    "tokens": [
+      400,
+      740,
+      575,
+      17,
+      920
+    ],
+    "y": 1,
+    "text": "+400-740-575-017-920+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.07119831200918512,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1319.1",
+    "cisi": "H-297",
+    "site": "Harappa",
+    "exc": "-",
+    "tokens": [
+      400,
+      151,
+      336,
+      630,
+      706
+    ],
+    "y": 1,
+    "text": "+400-151-336-630-706+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1479580945036485,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1320.1",
+    "cisi": "H-298",
+    "site": "Harappa",
+    "exc": "13177",
+    "tokens": [
+      400,
+      740,
+      636,
+      240
+    ],
+    "y": 1,
+    "text": "+400-740-636-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4599457014962031,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1326.2",
+    "cisi": "H-304",
+    "site": "Harappa",
+    "exc": "J235",
+    "tokens": [
+      740,
+      32,
+      59
+    ],
+    "y": 1,
+    "text": "+740-032-059+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5501088210350014,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1332.1",
+    "cisi": "H-310",
+    "site": "Harappa",
+    "exc": "13280",
+    "tokens": [
+      740,
+      231,
+      3
+    ],
+    "y": 1,
+    "text": "+740-231-003+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7839548223718436,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1333.1",
+    "cisi": "H-311",
+    "site": "Harappa",
+    "exc": "2356",
+    "tokens": [
+      400,
+      740,
+      178
+    ],
+    "y": 1,
+    "text": "+400-740-178+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.59578472130825,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1343.1",
+    "cisi": "H-321",
+    "site": "Harappa",
+    "exc": "J575",
+    "tokens": [
+      740,
+      690,
+      630,
+      240
+    ],
+    "y": 1,
+    "text": "+740-690-630-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5598288396436435,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1345.1",
+    "cisi": "H-323",
+    "site": "Harappa",
+    "exc": "10186497",
+    "tokens": [
+      740,
+      100,
+      240
+    ],
+    "y": 1,
+    "text": "+740-100-240+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7328925058415896,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1350.2",
+    "cisi": "H-328",
+    "site": "Harappa",
+    "exc": "J321415",
+    "tokens": [
+      400,
+      741,
+      717,
+      235
+    ],
+    "y": 1,
+    "text": "+400-741-717-235+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.016724870320695244,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1353.1",
+    "cisi": "H-331",
+    "site": "Harappa",
+    "exc": "1203422",
+    "tokens": [
+      400,
+      892,
+      829
+    ],
+    "y": 1,
+    "text": "+400-892-829+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.22881302334797152,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1362.1",
+    "cisi": "H-341",
+    "site": "Harappa",
+    "exc": "4080419",
+    "tokens": [
+      400,
+      740,
+      336,
+      176
+    ],
+    "y": 1,
+    "text": "+400-740-336-176+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7470461633876015,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1363.1",
+    "cisi": "H-343",
+    "site": "Harappa",
+    "exc": "Af113549",
+    "tokens": [
+      740,
+      861,
+      877
+    ],
+    "y": 1,
+    "text": "+740-861-877+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.32027738169959113,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1364.1",
+    "cisi": "H-344",
+    "site": "Harappa",
+    "exc": "9014410",
+    "tokens": [
+      526,
+      550,
+      220
+    ],
+    "y": 1,
+    "text": "+526-550-220+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.35632989866297116,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1365.1",
+    "cisi": "H-345",
+    "site": "Harappa",
+    "exc": "4269550",
+    "tokens": [
+      90,
+      740,
+      362
+    ],
+    "y": 1,
+    "text": "+090-740-362+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.44309814361399236,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1369.1",
+    "cisi": "H-350",
+    "site": "Harappa",
+    "exc": "3534a576",
+    "tokens": [
+      740,
+      690,
+      642,
+      240
+    ],
+    "y": 1,
+    "text": "+740-690-642-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5877151538410194,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1370.1",
+    "cisi": "H-351",
+    "site": "Harappa",
+    "exc": "2429581",
+    "tokens": [
+      400,
+      740,
+      32,
+      60,
+      13
+    ],
+    "y": 1,
+    "text": "+400-740-032-060-013+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1512354390069249,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1381.1",
+    "cisi": "H-362",
+    "site": "Harappa",
+    "exc": "11371",
+    "tokens": [
+      740,
+      760,
+      797
+    ],
+    "y": 1,
+    "text": "+740-760-797+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.42296310212837945,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1382.1",
+    "cisi": "H-363",
+    "site": "Harappa",
+    "exc": "13030",
+    "tokens": [
+      565,
+      741,
+      263
+    ],
+    "y": 1,
+    "text": "+565-741-263+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.023628082292739192,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1388.1",
+    "cisi": "H-369",
+    "site": "Harappa",
+    "exc": "7121409a",
+    "tokens": [
+      368,
+      33,
+      705,
+      31,
+      741,
+      390,
+      741
+    ],
+    "y": 0,
+    "text": "+368-033-705-031-741-390-741+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.004600997874450321,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1400.1",
+    "cisi": "H-386",
+    "site": "Harappa",
+    "exc": "PII-21025",
+    "tokens": [
+      527,
+      555,
+      740,
+      55,
+      240,
+      415,
+      798,
+      60,
+      201
+    ],
+    "y": 0,
+    "text": "+527-555-740-055-240-415-798-060-201+",
+    "length_only": {
+      "probability_tablet": 0.43251368394001455,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.01727165606174797,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1401.1",
+    "cisi": "H-388",
+    "site": "Harappa",
+    "exc": "13563",
+    "tokens": [
+      520,
+      33,
+      706,
+      231,
+      806,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+520-033-706-231-806-002-817+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.029376364615469917,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1402.1",
+    "cisi": "H-389",
+    "site": "Harappa",
+    "exc": "12855",
+    "tokens": [
+      740,
+      405,
+      590,
+      235,
+      2,
+      31,
+      480,
+      625
+    ],
+    "y": 0,
+    "text": "+740-405-590-235-002-031-480-625+",
+    "length_only": {
+      "probability_tablet": 0.44597740709770806,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.02641489599724146,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1404.1",
+    "cisi": "H-391",
+    "site": "Harappa",
+    "exc": "13632",
+    "tokens": [
+      740,
+      31,
+      504,
+      235,
+      60,
+      920
+    ],
+    "y": 0,
+    "text": "+740-031-504-235-060-920+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.006672122913476342,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1410.1",
+    "cisi": "H-405",
+    "site": "Harappa",
+    "exc": "12776",
+    "tokens": [
+      236,
+      806,
+      2,
+      863
+    ],
+    "y": 0,
+    "text": "+236-806-002-863+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.05565781994305321,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1413.1",
+    "cisi": "H-408",
+    "site": "Harappa",
+    "exc": "H220079",
+    "tokens": [
+      740,
+      176,
+      240,
+      2,
+      702,
+      503
+    ],
+    "y": 0,
+    "text": "+740-176-240-002-702-503+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.17920399404671628,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1414.1",
+    "cisi": "H-410",
+    "site": "Harappa",
+    "exc": "10779080",
+    "tokens": [
+      368,
+      840,
+      830,
+      2,
+      861
+    ],
+    "y": 0,
+    "text": "+368-840-830-002-861+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.09483690446815465,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1415.1",
+    "cisi": "H-411",
+    "site": "Harappa",
+    "exc": "117078",
+    "tokens": [
+      740,
+      440,
+      240,
+      1,
+      820
+    ],
+    "y": 0,
+    "text": "+740-440-240-001-820+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.02649665983544369,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1416.1",
+    "cisi": "H-412",
+    "site": "Harappa",
+    "exc": "4079036",
+    "tokens": [
+      161,
+      233,
+      220,
+      32,
+      741,
+      831
+    ],
+    "y": 0,
+    "text": "+161-233-220-032-741-831+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1338799134171648,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1422.1",
+    "cisi": "H-420",
+    "site": "Harappa",
+    "exc": "5399614",
+    "tokens": [
+      407,
+      4,
+      1,
+      740,
+      443,
+      388,
+      140
+    ],
+    "y": 0,
+    "text": "+407-004-001-740-443-388-140+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7683308881648708,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1423.1",
+    "cisi": "H-421",
+    "site": "Harappa",
+    "exc": "8921026",
+    "tokens": [
+      679,
+      740,
+      240,
+      60,
+      550
+    ],
+    "y": 0,
+    "text": "+679-740-240-060-550+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.05210727987912243,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1430.1",
+    "cisi": "H-440",
+    "site": "Harappa",
+    "exc": "11266c615",
+    "tokens": [
+      90,
+      740,
+      240,
+      31
+    ],
+    "y": 0,
+    "text": "+090-740-240-031+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.126822713888047,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1434.1",
+    "cisi": "H-444",
+    "site": "Harappa",
+    "exc": "13340",
+    "tokens": [
+      241,
+      220,
+      32,
+      2,
+      861
+    ],
+    "y": 0,
+    "text": "+241-220-032-002-861+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.08823879694052914,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1436.1",
+    "cisi": "H-446",
+    "site": "Harappa",
+    "exc": "4991034",
+    "tokens": [
+      740,
+      585,
+      798,
+      2,
+      861,
+      216
+    ],
+    "y": 0,
+    "text": "+740-585-798-002-861-216+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4836079247592,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1439.1",
+    "cisi": "H-449",
+    "site": "Harappa",
+    "exc": "1055082",
+    "tokens": [
+      740,
+      390,
+      590,
+      240,
+      741,
+      390,
+      728
+    ],
+    "y": 0,
+    "text": "+740-390-590-240-741-390-728+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.027362389013873212,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1440.1",
+    "cisi": "H-450",
+    "site": "Harappa",
+    "exc": "474084",
+    "tokens": [
+      740,
+      100,
+      240,
+      741,
+      702,
+      900,
+      3
+    ],
+    "y": 0,
+    "text": "+740-100-240-741-702-900-003+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.20895791748447376,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1444.1",
+    "cisi": "H-454",
+    "site": "Harappa",
+    "exc": "12164132",
+    "tokens": [
+      740,
+      390,
+      590,
+      742,
+      700
+    ],
+    "y": 0,
+    "text": "+740-390-590-742-700+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4306092143602799,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1445.1",
+    "cisi": "H-455",
+    "site": "Harappa",
+    "exc": "11379055",
+    "tokens": [
+      520,
+      33,
+      705,
+      2,
+      172,
+      32
+    ],
+    "y": 0,
+    "text": "+520-033-705-002-172-032+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.060518641996176764,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1446.1",
+    "cisi": "H-456",
+    "site": "Harappa",
+    "exc": "1591083",
+    "tokens": [
+      520,
+      33,
+      706,
+      2,
+      817,
+      808
+    ],
+    "y": 0,
+    "text": "+520-033-706-002-817-808+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.012041378845238924,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1447.1",
+    "cisi": "H-457",
+    "site": "Harappa",
+    "exc": "13857",
+    "tokens": [
+      740,
+      798,
+      3,
+      2,
+      416
+    ],
+    "y": 0,
+    "text": "+740-798-003-002-416+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2459277287388197,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1448.1",
+    "cisi": "H-458",
+    "site": "Harappa",
+    "exc": "12715050",
+    "tokens": [
+      368,
+      861,
+      575
+    ],
+    "y": 0,
+    "text": "+368-861-575+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.0896865327681174,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1449.1",
+    "cisi": "H-459",
+    "site": "Harappa",
+    "exc": "1199092",
+    "tokens": [
+      527,
+      555,
+      231,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+527-555-231-002-817+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.015553592472454445,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1456.1",
+    "cisi": "H-468",
+    "site": "Harappa",
+    "exc": "11331087",
+    "tokens": [
+      740,
+      900,
+      3,
+      2,
+      940,
+      705
+    ],
+    "y": 0,
+    "text": "+740-900-003-002-940-705+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.36301456802338916,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1457.1",
+    "cisi": "H-469",
+    "site": "Harappa",
+    "exc": "12035138",
+    "tokens": [
+      740,
+      760,
+      840,
+      13
+    ],
+    "y": 0,
+    "text": "+740-760-840-013+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.44623502244215396,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1459.1",
+    "cisi": "H-472",
+    "site": "Harappa",
+    "exc": "J28152",
+    "tokens": [
+      740,
+      585,
+      900,
+      14,
+      820
+    ],
+    "y": 0,
+    "text": "+740-585-900-014-820+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3605279323276746,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1460.1",
+    "cisi": "H-473",
+    "site": "Harappa",
+    "exc": "PIV-99096",
+    "tokens": [
+      861,
+      576,
+      545
+    ],
+    "y": 0,
+    "text": "+861-576-545+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.19128771363621966,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1461.1",
+    "cisi": "H-474",
+    "site": "Harappa",
+    "exc": "1244188",
+    "tokens": [
+      740,
+      900,
+      482,
+      484,
+      900
+    ],
+    "y": 0,
+    "text": "+740-900-482-484-900+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.37546128870913686,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1465.1",
+    "cisi": "H-477",
+    "site": "Harappa",
+    "exc": "H87-262Figure 13.13 (1)",
+    "tokens": [
+      138,
+      1,
+      595,
+      752,
+      455
+    ],
+    "y": 0,
+    "text": "+138-001-595-752-455+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2858088779246394,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1466.1",
+    "cisi": "H-478",
+    "site": "Harappa",
+    "exc": "945088",
+    "tokens": [
+      740,
+      770,
+      235,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+740-770-235-002-817+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.037021663153026095,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1467.1",
+    "cisi": "H-479",
+    "site": "Harappa",
+    "exc": "PII-23099",
+    "tokens": [
+      740,
+      405,
+      590,
+      790
+    ],
+    "y": 0,
+    "text": "+740-405-590-790+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4279913667048817,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1471.1",
+    "cisi": "H-483",
+    "site": "Harappa",
+    "exc": "12749",
+    "tokens": [
+      740,
+      32,
+      840,
+      233,
+      60,
+      550
+    ],
+    "y": 0,
+    "text": "+740-032-840-233-060-550+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.34574473416104623,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1480.1",
+    "cisi": "H-502",
+    "site": "Harappa",
+    "exc": "5634143",
+    "tokens": [
+      90,
+      740,
+      220,
+      32
+    ],
+    "y": 0,
+    "text": "+090-740-220-032+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5820274272497248,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1484.1",
+    "cisi": "H-506",
+    "site": "Harappa",
+    "exc": "5082097",
+    "tokens": [
+      294,
+      350,
+      595,
+      820,
+      2,
+      820
+    ],
+    "y": 0,
+    "text": "+294-350-595-820-002-820+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.005123078405766482,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1487.1",
+    "cisi": "H-510",
+    "site": "Harappa",
+    "exc": "2266139",
+    "tokens": [
+      740,
+      390,
+      590,
+      60,
+      795
+    ],
+    "y": 0,
+    "text": "+740-390-590-060-795+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1252839661156405,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1490.1",
+    "cisi": "H-513",
+    "site": "Harappa",
+    "exc": "J20163",
+    "tokens": [
+      111,
+      833,
+      528
+    ],
+    "y": 0,
+    "text": "+111-833-528+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2577210599268717,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1491.1",
+    "cisi": "H-514",
+    "site": "Harappa",
+    "exc": "2463116",
+    "tokens": [
+      151,
+      220,
+      16,
+      2,
+      820
+    ],
+    "y": 0,
+    "text": "+151-220-016-002-820+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.024260902890480756,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1492.1",
+    "cisi": "H-515",
+    "site": "Harappa",
+    "exc": "12066162",
+    "tokens": [
+      740,
+      798,
+      463,
+      350,
+      741,
+      590,
+      32
+    ],
+    "y": 0,
+    "text": "+740-798-463-350-741-590-032+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.04692781034404897,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1496.1",
+    "cisi": "H-519",
+    "site": "Harappa",
+    "exc": "2961147",
+    "tokens": [
+      740,
+      904,
+      33,
+      741,
+      700
+    ],
+    "y": 0,
+    "text": "+740-904-033-741-700+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.711133768505809,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1501.1",
+    "cisi": "H-530",
+    "site": "Harappa",
+    "exc": "11304148",
+    "tokens": [
+      520,
+      400,
+      350,
+      31
+    ],
+    "y": 0,
+    "text": "+520-400-350-031+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.020164405978668202,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1510.1",
+    "cisi": "H-550",
+    "site": "Harappa",
+    "exc": "11233211",
+    "tokens": [
+      520,
+      33,
+      706,
+      31
+    ],
+    "y": 0,
+    "text": "+520-033-706-031+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.05572118728199931,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1530.1",
+    "cisi": "H-580",
+    "site": "Harappa",
+    "exc": "13275",
+    "tokens": [
+      740,
+      269,
+      511,
+      60,
+      690
+    ],
+    "y": 0,
+    "text": "+740-269-511-060-690+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.22168450225214986,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1533.1",
+    "cisi": "H-586",
+    "site": "Harappa",
+    "exc": "12132237",
+    "tokens": [
+      740,
+      877,
+      32
+    ],
+    "y": 0,
+    "text": "+740-877-032+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3524892341399848,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1534.1",
+    "cisi": "H-589",
+    "site": "Harappa",
+    "exc": "3611239",
+    "tokens": [
+      740,
+      900,
+      5,
+      33
+    ],
+    "y": 0,
+    "text": "+740-900-005-033+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8457626226847494,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1535.1",
+    "cisi": "H-591",
+    "site": "Harappa",
+    "exc": "1692228",
+    "tokens": [
+      400,
+      221,
+      31,
+      741
+    ],
+    "y": 0,
+    "text": "+400-221-031-741+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.012600322580043422,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1536.1",
+    "cisi": "H-592",
+    "site": "Harappa",
+    "exc": "13987",
+    "tokens": [
+      740,
+      575,
+      17,
+      220,
+      415,
+      803
+    ],
+    "y": 0,
+    "text": "+740-575-017-220-415-803+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5239242486781903,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1540.1",
+    "cisi": "H-597",
+    "site": "Harappa",
+    "exc": "2540075",
+    "tokens": [
+      740,
+      390,
+      590,
+      70,
+      32,
+      2,
+      861
+    ],
+    "y": 0,
+    "text": "+740-390-590-070-032-002-861+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.05987960174494746,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1541.2",
+    "cisi": "H-598",
+    "site": "Harappa",
+    "exc": "13751",
+    "tokens": [
+      740,
+      639,
+      240,
+      2,
+      435,
+      255,
+      777
+    ],
+    "y": 0,
+    "text": "+740-639-240-002-435-255-777+",
+    "length_only": {
+      "probability_tablet": 0.46133670301184126,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.12164895317728479,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1543.1",
+    "cisi": "H-600",
+    "site": "Harappa",
+    "exc": "11554156",
+    "tokens": [
+      2,
+      368,
+      260
+    ],
+    "y": 0,
+    "text": "+002-368-260+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.042988846246660016,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1544.1",
+    "cisi": "H-601",
+    "site": "Harappa",
+    "exc": "10625044",
+    "tokens": [
+      740,
+      717,
+      233,
+      220,
+      32
+    ],
+    "y": 0,
+    "text": "+740-717-233-220-032+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.42895032168976627,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1545.1",
+    "cisi": "H-602",
+    "site": "Harappa",
+    "exc": "7113169",
+    "tokens": [
+      832,
+      904,
+      1
+    ],
+    "y": 0,
+    "text": "+832-904-001+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.38086572629595505,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1548.1",
+    "cisi": "H-608",
+    "site": "Harappa",
+    "exc": "2394225",
+    "tokens": [
+      140,
+      220,
+      530
+    ],
+    "y": 0,
+    "text": "+140-220/530+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3739416228060941,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1551.1",
+    "cisi": "H-611",
+    "site": "Harappa",
+    "exc": "2731260",
+    "tokens": [
+      527,
+      550,
+      2,
+      125,
+      590
+    ],
+    "y": 0,
+    "text": "+527-550-002-125-590+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.04328171713099162,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1552.1",
+    "cisi": "H-612",
+    "site": "Harappa",
+    "exc": "2785123",
+    "tokens": [
+      740,
+      615,
+      495,
+      2,
+      825
+    ],
+    "y": 0,
+    "text": "+740-615-495-002-825+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3319713801054697,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1557.1",
+    "cisi": "H-642",
+    "site": "Harappa",
+    "exc": "PIII-7266",
+    "tokens": [
+      1,
+      304,
+      354,
+      125,
+      812,
+      33
+    ],
+    "y": 0,
+    "text": "+001-304-354-125-812-033+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2332021506880545,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1560.1",
+    "cisi": "H-645",
+    "site": "Harappa",
+    "exc": "7546265",
+    "tokens": [
+      595,
+      632,
+      740,
+      550
+    ],
+    "y": 0,
+    "text": "+595-632-740-550+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.33886861898181836,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1564.1",
+    "cisi": "H-649",
+    "site": "Harappa",
+    "exc": "10695281",
+    "tokens": [
+      520,
+      33,
+      705,
+      233,
+      240,
+      806,
+      2,
+      820
+    ],
+    "y": 0,
+    "text": "+520-033-705-233-240-806-002-820+",
+    "length_only": {
+      "probability_tablet": 0.44597740709770806,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.007534973722288869,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1569.1",
+    "cisi": "H-654",
+    "site": "Harappa",
+    "exc": "3523",
+    "tokens": [
+      405,
+      61,
+      740,
+      806
+    ],
+    "y": 0,
+    "text": "+405-061-740-806+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3932198885946892,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1574.1",
+    "cisi": "H-659",
+    "site": "Harappa",
+    "exc": "13762",
+    "tokens": [
+      407,
+      845,
+      140,
+      740,
+      233,
+      240,
+      798,
+      365,
+      263
+    ],
+    "y": 0,
+    "text": "+407-845-140-740-233-240-798-365-263+",
+    "length_only": {
+      "probability_tablet": 0.43251368394001455,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.939733432912355,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1575.1",
+    "cisi": "H-660",
+    "site": "Harappa",
+    "exc": "14208",
+    "tokens": [
+      520,
+      95,
+      33,
+      706,
+      240,
+      798
+    ],
+    "y": 0,
+    "text": "+520-095-033-706-240-798+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6795278428388714,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1580.1",
+    "cisi": "H-665",
+    "site": "Harappa",
+    "exc": "12915",
+    "tokens": [
+      407,
+      4,
+      60,
+      692
+    ],
+    "y": 0,
+    "text": "+407-004-060-692+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.22532925193783007,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1581.1",
+    "cisi": "H-666",
+    "site": "Harappa",
+    "exc": "B-Summit631",
+    "tokens": [
+      740,
+      7,
+      503,
+      626,
+      484
+    ],
+    "y": 0,
+    "text": "+740-007-503-626-484+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.24041726038074102,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1584.1",
+    "cisi": "H-669",
+    "site": "Harappa",
+    "exc": "PI-44289",
+    "tokens": [
+      740,
+      220,
+      32
+    ],
+    "y": 0,
+    "text": "+740-220-032+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7013340524685845,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1587.1",
+    "cisi": "H-680",
+    "site": "Harappa",
+    "exc": "12797",
+    "tokens": [
+      527,
+      554,
+      104
+    ],
+    "y": 0,
+    "text": "+527-554-104+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.32501431536614284,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1594.1",
+    "cisi": "H-688",
+    "site": "Harappa",
+    "exc": "-",
+    "tokens": [
+      520,
+      233,
+      2,
+      861,
+      831,
+      165
+    ],
+    "y": 0,
+    "text": "+520-233-002-861-831-165+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.05088783652726717,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1599.1",
+    "cisi": "H-694",
+    "site": "Harappa",
+    "exc": "-",
+    "tokens": [
+      740,
+      390,
+      590,
+      235,
+      368,
+      806
+    ],
+    "y": 1,
+    "text": "+740-390-590-235-368-806+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.17218995922444727,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1607.1",
+    "cisi": "H-702",
+    "site": "Harappa",
+    "exc": "2276601",
+    "tokens": [
+      137,
+      2,
+      820
+    ],
+    "y": 1,
+    "text": "+137-002-820+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.011986379357496147,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1611.1",
+    "cisi": "H-706",
+    "site": "Harappa",
+    "exc": "9041340",
+    "tokens": [
+      700,
+      33,
+      137,
+      2,
+      820
+    ],
+    "y": 1,
+    "text": "+700-033-137-002-820+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.08861795020918031,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1619.1",
+    "cisi": "H-715",
+    "site": "Harappa",
+    "exc": "12993",
+    "tokens": [
+      526,
+      550,
+      60,
+      820
+    ],
+    "y": 1,
+    "text": "+526-550-060-820+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.008586248482113423,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1621.1",
+    "cisi": "H-718",
+    "site": "Harappa",
+    "exc": "4076328",
+    "tokens": [
+      31,
+      480,
+      165,
+      900
+    ],
+    "y": 1,
+    "text": "+031-480-165-900+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.10349839849550634,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1622.1",
+    "cisi": "H-719",
+    "site": "Harappa",
+    "exc": "94326",
+    "tokens": [
+      405,
+      4,
+      2,
+      861
+    ],
+    "y": 1,
+    "text": "+405-004-002-861+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.12592674349246105,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1630.1",
+    "cisi": "H-728",
+    "site": "Harappa",
+    "exc": "-",
+    "tokens": [
+      740,
+      798,
+      460,
+      15
+    ],
+    "y": 1,
+    "text": "+740-798-460-015+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.34243867614409296,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1649.1",
+    "cisi": "H-756",
+    "site": "Harappa",
+    "exc": "1876669",
+    "tokens": [
+      407,
+      5,
+      741,
+      500,
+      561
+    ],
+    "y": 1,
+    "text": "+407-005-741-500-561+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1498087519258304,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1650.1",
+    "cisi": "H-757",
+    "site": "Harappa",
+    "exc": "5724655",
+    "tokens": [
+      740,
+      100,
+      440
+    ],
+    "y": 1,
+    "text": "+740-100-440+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5729611545812525,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1656.2",
+    "cisi": "H-764",
+    "site": "Harappa",
+    "exc": "13167",
+    "tokens": [
+      740,
+      717,
+      790
+    ],
+    "y": 1,
+    "text": "+740-717-790+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.20276128062146864,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1662.1",
+    "cisi": "H-770",
+    "site": "Harappa",
+    "exc": "2177353",
+    "tokens": [
+      151,
+      840,
+      416
+    ],
+    "y": 1,
+    "text": "+151-840-416+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.38373531712253867,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1663.1",
+    "cisi": "H-771",
+    "site": "Harappa",
+    "exc": "657678",
+    "tokens": [
+      32,
+      257,
+      840
+    ],
+    "y": 1,
+    "text": "+032-257-840+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5194803757569288,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1667.1",
+    "cisi": "H-776",
+    "site": "Harappa",
+    "exc": "J463350",
+    "tokens": [
+      740,
+      803,
+      741,
+      31,
+      32,
+      716
+    ],
+    "y": 1,
+    "text": "+740-803-741-031-032-716+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.05244168325836496,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1668.2",
+    "cisi": "H-777",
+    "site": "Harappa",
+    "exc": "H86-01",
+    "tokens": [
+      390,
+      4,
+      104
+    ],
+    "y": 1,
+    "text": "+390-004-104+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4113391786913416,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1669.2",
+    "cisi": "H-778",
+    "site": "Harappa",
+    "exc": "12994",
+    "tokens": [
+      390,
+      4,
+      817
+    ],
+    "y": 1,
+    "text": "+390-004-817+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1060033192775148,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1681.1",
+    "cisi": "H-790",
+    "site": "Harappa",
+    "exc": "12416605",
+    "tokens": [
+      400,
+      740,
+      384,
+      33
+    ],
+    "y": 1,
+    "text": "+400-740-384-033+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8993268968807225,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1683.1",
+    "cisi": "H-792",
+    "site": "Harappa",
+    "exc": "3483692",
+    "tokens": [
+      400,
+      154,
+      896
+    ],
+    "y": 1,
+    "text": "+400-154-896+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.21544171128713438,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1685.1",
+    "cisi": "H-794",
+    "site": "Harappa",
+    "exc": "12933",
+    "tokens": [
+      400,
+      232,
+      235
+    ],
+    "y": 1,
+    "text": "+400-232-235+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.23581274596740764,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1690.1",
+    "cisi": "H-799",
+    "site": "Harappa",
+    "exc": "11022603",
+    "tokens": [
+      32,
+      820,
+      100,
+      415
+    ],
+    "y": 1,
+    "text": "+032-820-100-415+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.15734730949768283,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1691.1",
+    "cisi": "H-800",
+    "site": "Harappa",
+    "exc": "J228689",
+    "tokens": [
+      740,
+      337,
+      692,
+      490
+    ],
+    "y": 1,
+    "text": "+740-337-692-490+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.11173693994343226,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1703.1",
+    "cisi": "H-814",
+    "site": "Harappa",
+    "exc": "11417606",
+    "tokens": [
+      400,
+      820,
+      100,
+      415
+    ],
+    "y": 1,
+    "text": "+400-820-100-415+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.18372999151797392,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1706.1",
+    "cisi": "H-817",
+    "site": "Harappa",
+    "exc": "1235369",
+    "tokens": [
+      400,
+      740,
+      336,
+      18
+    ],
+    "y": 1,
+    "text": "+400-740-336-018+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4041155955737103,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1707.1",
+    "cisi": "H-818",
+    "site": "Harappa",
+    "exc": "J449376",
+    "tokens": [
+      740,
+      336,
+      18
+    ],
+    "y": 1,
+    "text": "+740-336-018+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.38416563162889034,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1710.2",
+    "cisi": "H-821",
+    "site": "Harappa",
+    "exc": "13858",
+    "tokens": [
+      740,
+      642,
+      240,
+      1,
+      692
+    ],
+    "y": 1,
+    "text": "+740-642-240-001-692+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.12157944861474883,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1717.1",
+    "cisi": "H-829",
+    "site": "Harappa",
+    "exc": "12882",
+    "tokens": [
+      139,
+      2,
+      820
+    ],
+    "y": 1,
+    "text": "+139-002-820+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.01131768742503107,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1724.1",
+    "cisi": "H-838",
+    "site": "Harappa",
+    "exc": "11333375",
+    "tokens": [
+      740,
+      615,
+      495,
+      2,
+      817
+    ],
+    "y": 1,
+    "text": "+740-615-495-002-817+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1896357618529859,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1727.1",
+    "cisi": "H-841",
+    "site": "Harappa",
+    "exc": "3707379",
+    "tokens": [
+      400,
+      740,
+      790
+    ],
+    "y": 1,
+    "text": "+400-740-790+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4514076142030146,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1728.1",
+    "cisi": "H-842",
+    "site": "Harappa",
+    "exc": "11452",
+    "tokens": [
+      400,
+      740,
+      861
+    ],
+    "y": 1,
+    "text": "+400-740-861+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6299590989055529,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1729.1",
+    "cisi": "H-843",
+    "site": "Harappa",
+    "exc": "14307",
+    "tokens": [
+      400,
+      527,
+      195
+    ],
+    "y": 1,
+    "text": "+400-527-195+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.2382979786532796,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1732.1",
+    "cisi": "H-846",
+    "site": "Harappa",
+    "exc": "12750641",
+    "tokens": [
+      400,
+      740,
+      100,
+      31,
+      705
+    ],
+    "y": 1,
+    "text": "+400-740-100-031-705+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.4601071050868764,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1738.2",
+    "cisi": "H-852",
+    "site": "Harappa",
+    "exc": "11511596",
+    "tokens": [
+      740,
+      760,
+      268,
+      233,
+      220
+    ],
+    "y": 1,
+    "text": "+740-760-268-233-220+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.44502270855726644,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1739.1",
+    "cisi": "H-853",
+    "site": "Harappa",
+    "exc": "13556",
+    "tokens": [
+      740,
+      177,
+      231
+    ],
+    "y": 1,
+    "text": "+740-177-231+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6189268675465976,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1740.1",
+    "cisi": "H-854",
+    "site": "Harappa",
+    "exc": "10010647",
+    "tokens": [
+      400,
+      740,
+      335,
+      3
+    ],
+    "y": 1,
+    "text": "+400-740-335-003+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.8280774596075445,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1741.1",
+    "cisi": "H-857",
+    "site": "Harappa",
+    "exc": "13546",
+    "tokens": [
+      740,
+      390,
+      590,
+      235
+    ],
+    "y": 1,
+    "text": "+740-390-590-235+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.299818570361547,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1758.1",
+    "cisi": "H-875",
+    "site": "Harappa",
+    "exc": "Ae279651",
+    "tokens": [
+      400,
+      740,
+      840,
+      13
+    ],
+    "y": 1,
+    "text": "+400-740-840-013+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6183754342798912,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1775.1",
+    "cisi": "H-893",
+    "site": "Harappa",
+    "exc": "12581522",
+    "tokens": [
+      400,
+      740,
+      337
+    ],
+    "y": 1,
+    "text": "+400-740-337+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.49546226072822264,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1786.1",
+    "cisi": "H-904",
+    "site": "Harappa",
+    "exc": "J213 (D)477",
+    "tokens": [
+      740,
+      32,
+      840,
+      2
+    ],
+    "y": 1,
+    "text": "+740-032-840-002+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.41522450245361653,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1796.1",
+    "cisi": "H-916",
+    "site": "Harappa",
+    "exc": "12516456",
+    "tokens": [
+      400,
+      740,
+      32,
+      59
+    ],
+    "y": 1,
+    "text": "+400-740-032-059+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5706904952436824,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1810.1",
+    "cisi": "H-930",
+    "site": "Harappa",
+    "exc": "J30520",
+    "tokens": [
+      740,
+      900,
+      4
+    ],
+    "y": 1,
+    "text": "+740-900-004+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.7139705821940941,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1822.1",
+    "cisi": "H-942",
+    "site": "Harappa",
+    "exc": "5152490",
+    "tokens": [
+      520,
+      220,
+      16
+    ],
+    "y": 1,
+    "text": "+520-220-016+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3417988191964449,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1823.1",
+    "cisi": "H-943",
+    "site": "Harappa",
+    "exc": "3668461",
+    "tokens": [
+      400,
+      158,
+      592
+    ],
+    "y": 1,
+    "text": "+400-158-592+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6088418902538644,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "1828.1",
+    "cisi": "H-948",
+    "site": "Harappa",
+    "exc": "8650b489",
+    "tokens": [
+      400,
+      151,
+      229
+    ],
+    "y": 1,
+    "text": "+400-151-229+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3292157974408021,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1830.1",
+    "cisi": "H-950",
+    "site": "Harappa",
+    "exc": "2431463",
+    "tokens": [
+      710,
+      455,
+      220,
+      32
+    ],
+    "y": 1,
+    "text": "+710-455-220-032+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.41934112752739955,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1831.1",
+    "cisi": "H-951",
+    "site": "Harappa",
+    "exc": "9082498",
+    "tokens": [
+      388,
+      134,
+      368,
+      590
+    ],
+    "y": 1,
+    "text": "+388-134-368-590+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.1957749514216972,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1852.1",
+    "cisi": "H-975",
+    "site": "Harappa",
+    "exc": "2256402",
+    "tokens": [
+      740,
+      760,
+      382
+    ],
+    "y": 1,
+    "text": "+740-760-382+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.3811700498217447,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "1859.1",
+    "cisi": "H-983",
+    "site": "Harappa",
+    "exc": "2528582",
+    "tokens": [
+      400,
+      740,
+      637,
+      240
+    ],
+    "y": 1,
+    "text": "+400-740-637-240+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.46965481478901483,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "3915.1",
+    "cisi": "H-1021",
+    "site": "Harappa",
+    "exc": "087",
+    "tokens": [
+      90,
+      740,
+      235,
+      741,
+      572,
+      368
+    ],
+    "y": 0,
+    "text": "+090-740-235-741-572-368+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.013752780151539459,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "3916.1",
+    "cisi": "H-1022",
+    "site": "Harappa",
+    "exc": "583",
+    "tokens": [
+      368,
+      861,
+      501,
+      31
+    ],
+    "y": 0,
+    "text": "+368-861-501-031+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.04197180169507544,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "3918.1",
+    "cisi": "H-1024",
+    "site": "Harappa",
+    "exc": "057",
+    "tokens": [
+      740,
+      443,
+      388,
+      231
+    ],
+    "y": 0,
+    "text": "+740-443-388-231+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.5359391718849259,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "3921.1",
+    "cisi": "H-1036",
+    "site": "Harappa",
+    "exc": "13795148",
+    "tokens": [
+      153,
+      31,
+      700
+    ],
+    "y": 0,
+    "text": "+153-031-700+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.28672231599300135,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "3925.1",
+    "cisi": "H-1048",
+    "site": "Harappa",
+    "exc": "-086",
+    "tokens": [
+      740,
+      32,
+      840,
+      235,
+      2,
+      817
+    ],
+    "y": 0,
+    "text": "+740-032-840-235-002-817+",
+    "length_only": {
+      "probability_tablet": 0.47915756396723264,
+      "prediction": 0
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.11641033269454597,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "3926.1",
+    "cisi": "H-1049",
+    "site": "Harappa",
+    "exc": "13721471",
+    "tokens": [
+      405,
+      4,
+      2,
+      933
+    ],
+    "y": 0,
+    "text": "+405-004-002-933+",
+    "length_only": {
+      "probability_tablet": 0.5261676959084155,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.11090073045191304,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "3927.1",
+    "cisi": "H-1075",
+    "site": "Harappa",
+    "exc": "-058",
+    "tokens": [
+      742,
+      440,
+      556
+    ],
+    "y": 0,
+    "text": "+742-440-556+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.043689276014265734,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "3930.1",
+    "cisi": "H-1076",
+    "site": "Harappa",
+    "exc": "-085",
+    "tokens": [
+      740,
+      611,
+      706,
+      2,
+      820
+    ],
+    "y": 0,
+    "text": "+740-611-706-002-820+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.014109903357233633,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "4059.1",
+    "cisi": "H-1198",
+    "site": "Harappa",
+    "exc": "-463",
+    "tokens": [
+      740,
+      61,
+      1,
+      31,
+      820
+    ],
+    "y": 1,
+    "text": "+740-061-001-031-820+",
+    "length_only": {
+      "probability_tablet": 0.5003002631744127,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.00923975181223595,
+      "prediction": 0
+    }
+  },
+  {
+    "id": "4084.1",
+    "cisi": "H-1342",
+    "site": "Harappa",
+    "exc": "1665578",
+    "tokens": [
+      90,
+      740,
+      220
+    ],
+    "y": 1,
+    "text": "+090-740-220+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6069154215132402,
+      "prediction": 1
+    }
+  },
+  {
+    "id": "5389.1",
+    "cisi": "H-2585",
+    "site": "Harappa",
+    "exc": "-",
+    "tokens": [
+      400,
+      740,
+      32
+    ],
+    "y": 1,
+    "text": "+400-740-032+",
+    "length_only": {
+      "probability_tablet": 0.5592911180552237,
+      "prediction": 1
+    },
+    "signs_and_length": {
+      "probability_tablet": 0.6629399647433221,
+      "prediction": 1
+    }
+  }
+]

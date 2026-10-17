@@ -1,0 +1,385 @@
+{
+  "source_sha256": "cdf76bb0205c25d09a25943d471249f82f90f8dbccc6fbcd7a097aaa761dc616",
+  "pooled": {
+    "records": 825,
+    "concepts": 89,
+    "target_segments": 3539,
+    "scores": {
+      "copy": {
+        "exact": 100,
+        "edits": 2197
+      },
+      "segment": {
+        "exact": 105,
+        "edits": 2136
+      },
+      "context": {
+        "exact": 105,
+        "edits": 2143
+      }
+    }
+  },
+  "languages": [
+    {
+      "language": "Badga",
+      "records": 54,
+      "target_segments": 226,
+      "scores": {
+        "copy": {
+          "exact": 11,
+          "edits": 109
+        },
+        "segment": {
+          "exact": 10,
+          "edits": 105
+        },
+        "context": {
+          "exact": 10,
+          "edits": 105
+        }
+      }
+    },
+    {
+      "language": "Betta_Kurumba",
+      "records": 53,
+      "target_segments": 242,
+      "scores": {
+        "copy": {
+          "exact": 5,
+          "edits": 136
+        },
+        "segment": {
+          "exact": 4,
+          "edits": 135
+        },
+        "context": {
+          "exact": 3,
+          "edits": 135
+        }
+      }
+    },
+    {
+      "language": "Brahui",
+      "records": 23,
+      "target_segments": 95,
+      "scores": {
+        "copy": {
+          "exact": 0,
+          "edits": 96
+        },
+        "segment": {
+          "exact": 0,
+          "edits": 93
+        },
+        "context": {
+          "exact": 0,
+          "edits": 93
+        }
+      }
+    },
+    {
+      "language": "Gondi",
+      "records": 34,
+      "target_segments": 129,
+      "scores": {
+        "copy": {
+          "exact": 4,
+          "edits": 84
+        },
+        "segment": {
+          "exact": 5,
+          "edits": 77
+        },
+        "context": {
+          "exact": 5,
+          "edits": 77
+        }
+      }
+    },
+    {
+      "language": "Kannada",
+      "records": 61,
+      "target_segments": 275,
+      "scores": {
+        "copy": {
+          "exact": 7,
+          "edits": 158
+        },
+        "segment": {
+          "exact": 12,
+          "edits": 130
+        },
+        "context": {
+          "exact": 12,
+          "edits": 131
+        }
+      }
+    },
+    {
+      "language": "Kodava",
+      "records": 61,
+      "target_segments": 265,
+      "scores": {
+        "copy": {
+          "exact": 17,
+          "edits": 129
+        },
+        "segment": {
+          "exact": 19,
+          "edits": 125
+        },
+        "context": {
+          "exact": 19,
+          "edits": 125
+        }
+      }
+    },
+    {
+      "language": "Kolami",
+      "records": 30,
+      "target_segments": 112,
+      "scores": {
+        "copy": {
+          "exact": 0,
+          "edits": 84
+        },
+        "segment": {
+          "exact": 1,
+          "edits": 82
+        },
+        "context": {
+          "exact": 1,
+          "edits": 83
+        }
+      }
+    },
+    {
+      "language": "Kota",
+      "records": 56,
+      "target_segments": 254,
+      "scores": {
+        "copy": {
+          "exact": 10,
+          "edits": 139
+        },
+        "segment": {
+          "exact": 9,
+          "edits": 146
+        },
+        "context": {
+          "exact": 9,
+          "edits": 147
+        }
+      }
+    },
+    {
+      "language": "Koya",
+      "records": 36,
+      "target_segments": 151,
+      "scores": {
+        "copy": {
+          "exact": 2,
+          "edits": 108
+        },
+        "segment": {
+          "exact": 3,
+          "edits": 107
+        },
+        "context": {
+          "exact": 3,
+          "edits": 107
+        }
+      }
+    },
+    {
+      "language": "Kurukh",
+      "records": 27,
+      "target_segments": 100,
+      "scores": {
+        "copy": {
+          "exact": 1,
+          "edits": 97
+        },
+        "segment": {
+          "exact": 2,
+          "edits": 85
+        },
+        "context": {
+          "exact": 2,
+          "edits": 85
+        }
+      }
+    },
+    {
+      "language": "Kuwi",
+      "records": 20,
+      "target_segments": 87,
+      "scores": {
+        "copy": {
+          "exact": 0,
+          "edits": 65
+        },
+        "segment": {
+          "exact": 0,
+          "edits": 68
+        },
+        "context": {
+          "exact": 0,
+          "edits": 68
+        }
+      }
+    },
+    {
+      "language": "Malayalam",
+      "records": 82,
+      "target_segments": 395,
+      "scores": {
+        "copy": {
+          "exact": 19,
+          "edits": 169
+        },
+        "segment": {
+          "exact": 16,
+          "edits": 167
+        },
+        "context": {
+          "exact": 16,
+          "edits": 172
+        }
+      }
+    },
+    {
+      "language": "Malto",
+      "records": 22,
+      "target_segments": 103,
+      "scores": {
+        "copy": {
+          "exact": 0,
+          "edits": 95
+        },
+        "segment": {
+          "exact": 0,
+          "edits": 108
+        },
+        "context": {
+          "exact": 0,
+          "edits": 108
+        }
+      }
+    },
+    {
+      "language": "Ollari_Gadba",
+      "records": 25,
+      "target_segments": 92,
+      "scores": {
+        "copy": {
+          "exact": 1,
+          "edits": 68
+        },
+        "segment": {
+          "exact": 0,
+          "edits": 72
+        },
+        "context": {
+          "exact": 0,
+          "edits": 73
+        }
+      }
+    },
+    {
+      "language": "Parji",
+      "records": 37,
+      "target_segments": 122,
+      "scores": {
+        "copy": {
+          "exact": 0,
+          "edits": 111
+        },
+        "segment": {
+          "exact": 1,
+          "edits": 100
+        },
+        "context": {
+          "exact": 1,
+          "edits": 101
+        }
+      }
+    },
+    {
+      "language": "Telugu",
+      "records": 45,
+      "target_segments": 203,
+      "scores": {
+        "copy": {
+          "exact": 1,
+          "edits": 138
+        },
+        "segment": {
+          "exact": 5,
+          "edits": 129
+        },
+        "context": {
+          "exact": 5,
+          "edits": 129
+        }
+      }
+    },
+    {
+      "language": "Toda",
+      "records": 50,
+      "target_segments": 199,
+      "scores": {
+        "copy": {
+          "exact": 5,
+          "edits": 131
+        },
+        "segment": {
+          "exact": 3,
+          "edits": 136
+        },
+        "context": {
+          "exact": 5,
+          "edits": 134
+        }
+      }
+    },
+    {
+      "language": "Tulu",
+      "records": 47,
+      "target_segments": 222,
+      "scores": {
+        "copy": {
+          "exact": 4,
+          "edits": 145
+        },
+        "segment": {
+          "exact": 3,
+          "edits": 143
+        },
+        "context": {
+          "exact": 3,
+          "edits": 141
+        }
+      }
+    },
+    {
+      "language": "Yeruva",
+      "records": 62,
+      "target_segments": 267,
+      "scores": {
+        "copy": {
+          "exact": 13,
+          "edits": 135
+        },
+        "segment": {
+          "exact": 12,
+          "edits": 128
+        },
+        "context": {
+          "exact": 11,
+          "edits": 129
+        }
+      }
+    }
+  ]
+}

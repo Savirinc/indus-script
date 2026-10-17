@@ -1,0 +1,9 @@
+# Whole-word prediction protocol
+
+Fixed before first execution. This extends round22, using an already inspected dataset, not a fresh external validation corpus.
+
+Use round21 imported cognate groups with Tamil and each of 19 target languages. Choose the lexicographically first unique segmented form independently for each language/group, to handle synonyms deterministically without choosing the best matching pair. Remove '+' boundary tokens only. Record all alternatives. Retain multiple cognate groups per concept, but hold all groups of a concept out together in five SHA256(concept) modulo five folds.
+
+Fit on training concepts only. Align training pairs with unit-cost Levenshtein distance, preferring diagonal, deletion, then insertion on ties. Assign target insertions to the preceding source segment; prepend initial insertions to the first segment. Count emitted target sequences for each source segment, and separately for each (previous, current, next) source context with word boundaries. Predict each segment's modal emission with lexical tie-breaking; prefer copying on tied counts. The contextual model requires three context observations; otherwise back off to the segment-only model, which requires two observations; otherwise copy. Thresholds are fixed, not tuned against held-out performance.
+
+Compare whole-word exact accuracy and total segment edit distance divided by total target length for (1) copying Tamil, (2) segment-only mapping and (3) contextual mapping. Predict freely without a target dictionary, target length or test-target alignment. Include every eligible language/group, report all directions and pooled counts. No significance claims: cognates, languages and folds are dependent. Deterministic synonym selection may penalise valid alternatives; this is an engineering diagnostic, not a definitive linguistic assessment. No ancestral reconstruction or Indus reading follows.

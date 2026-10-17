@@ -1,0 +1,4749 @@
+[
+  {
+    "sequence": "3 156",
+    "records": 31,
+    "sites": [
+      "Harappa",
+      "Lothal",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:I": 22,
+      "SEAL:S": 7,
+      "TAG:L": 2
+    },
+    "motifs": {
+      "[unrecorded]": 22,
+      "Gaur": 1,
+      "Fish": 1,
+      "Bull1:S": 2,
+      "Bull1:J": 1,
+      "Bull1": 3,
+      "Bull1:L": 1
+    },
+    "objects": [
+      "H-2238",
+      "H-2239",
+      "H-2229",
+      "H-2221",
+      "H-2222",
+      "H-2223",
+      "H-2236",
+      "H-2230",
+      "H-2220",
+      "H-2226",
+      "H-2227",
+      "H-2225",
+      "H-2228",
+      "H-2219",
+      "H-2224",
+      "H-2218",
+      "H-2231",
+      "H-2232",
+      "H-2234",
+      "H-2235",
+      "H-2233",
+      "H-81",
+      "H-288",
+      "H-499",
+      "L-42",
+      "M-1779",
+      "M-429",
+      "M-838",
+      "M-919",
+      "M-1232",
+      "M-1388"
+    ]
+  },
+  {
+    "sequence": "176 740 400",
+    "records": 30,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:I": 24,
+      "TAB:B": 3,
+      "SEAL:R": 2,
+      "ROD": 1
+    },
+    "motifs": {
+      "[unrecorded]": 21,
+      "Bull": 1,
+      "Bult": 8
+    },
+    "objects": [
+      "ICIT:260",
+      "H-1273",
+      "H-1827",
+      "H-1954",
+      "H-233",
+      "H-308",
+      "H-309",
+      "H-312",
+      "H-313",
+      "H-314",
+      "H-315",
+      "H-316",
+      "H-317",
+      "H-352",
+      "H-353",
+      "H-354",
+      "H-355",
+      "H-356",
+      "H-357",
+      "H-933",
+      "H-934",
+      "H-935",
+      "H-936",
+      "H-960",
+      "H-962",
+      "H-978",
+      "H-979",
+      "H-987",
+      "M-2097",
+      "H-1345"
+    ]
+  },
+  {
+    "sequence": "501 405 2 240 520",
+    "records": 29,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 29
+    },
+    "motifs": {
+      "Bull1:I": 24,
+      "Bull1": 3,
+      "Bull1:U": 2
+    },
+    "objects": [
+      "H-252",
+      "H-253",
+      "H-254",
+      "H-255",
+      "H-256",
+      "H-257",
+      "H-258",
+      "H-259",
+      "H-260",
+      "H-261",
+      "H-262",
+      "H-263",
+      "H-264",
+      "H-265",
+      "H-276",
+      "H-277",
+      "H-859",
+      "H-860",
+      "H-861",
+      "H-862",
+      "H-863",
+      "H-864",
+      "H-865",
+      "H-866",
+      "H-867",
+      "H-868",
+      "H-869",
+      "H-870",
+      "H-1155"
+    ]
+  },
+  {
+    "sequence": "503 615 752 740",
+    "records": 29,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 29
+    },
+    "motifs": {
+      "Othr": 28,
+      "Gaur": 1
+    },
+    "objects": [
+      "ICIT:2275",
+      "ICIT:2308",
+      "ICIT:2458",
+      "ICIT:2520",
+      "M-551",
+      "M-552",
+      "M-553",
+      "M-554",
+      "M-555",
+      "M-556",
+      "M-557",
+      "M-558",
+      "M-559",
+      "M-560",
+      "M-561",
+      "M-562",
+      "M-563",
+      "M-564",
+      "M-565",
+      "M-1503",
+      "M-1504",
+      "M-1505",
+      "M-1506",
+      "M-1507",
+      "M-1508",
+      "M-1509",
+      "M-1512",
+      "M-1513",
+      "M-2046"
+    ]
+  },
+  {
+    "sequence": "33 700",
+    "records": 16,
+    "sites": [
+      "Harappa",
+      "Rajanpur"
+    ],
+    "types": {
+      "TAB:B": 4,
+      "POT:T:g": 2,
+      "TAB:I": 10
+    },
+    "motifs": {
+      "[unrecorded]": 12,
+      "Bult": 3,
+      "Maze": 1
+    },
+    "objects": [
+      "H-1905",
+      "H-2272",
+      "H-245",
+      "H-345",
+      "H-372",
+      "H-948",
+      "H-951",
+      "H-1124",
+      "H-1198",
+      "H-1302",
+      "H-1303",
+      "H-1344",
+      "H-1346",
+      "H-1347",
+      "ICIT:4290",
+      "H-1304"
+    ]
+  },
+  {
+    "sequence": "235 705 33 845 407 321 407",
+    "records": 12,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 12
+    },
+    "motifs": {
+      "Hare": 12
+    },
+    "objects": [
+      "M-534",
+      "M-535",
+      "M-536",
+      "M-537",
+      "M-538",
+      "M-539",
+      "M-541",
+      "M-542",
+      "M-1491",
+      "M-1492",
+      "M-1493",
+      "M-1494"
+    ]
+  },
+  {
+    "sequence": "803 415 220 318 920 255 436 690 590 407 740",
+    "records": 11,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 11
+    },
+    "motifs": {
+      "Gavi": 11
+    },
+    "objects": [
+      "ICIT:291",
+      "H-278",
+      "H-279",
+      "H-280",
+      "H-281",
+      "H-282",
+      "H-283",
+      "H-284",
+      "H-871",
+      "H-872",
+      "H-873"
+    ]
+  },
+  {
+    "sequence": "817 2 48 740",
+    "records": 11,
+    "sites": [
+      "Lothal",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAG:B": 10,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "Elep": 10,
+      "Bull1": 1
+    },
+    "objects": [
+      "L-161",
+      "L-162",
+      "L-163",
+      "L-164",
+      "L-165",
+      "L-166",
+      "L-167",
+      "L-168",
+      "L-169",
+      "L-170",
+      "M-895"
+    ]
+  },
+  {
+    "sequence": "415 220 520",
+    "records": 10,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:I": 7,
+      "TAB:B": 2,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "Bult": 1,
+      "Bull1": 1,
+      "[unrecorded]": 6,
+      "Fish": 1,
+      "Bull1:S": 1
+    },
+    "objects": [
+      "H-1326",
+      "H-1992",
+      "H-319",
+      "H-346",
+      "H-364",
+      "H-786",
+      "H-938",
+      "H-939",
+      "H-941",
+      "M-37"
+    ]
+  },
+  {
+    "sequence": "630 740",
+    "records": 10,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 10
+    },
+    "motifs": {
+      "[unrecorded]": 3,
+      "Crs": 5,
+      "Cros": 1,
+      "Xcrs": 1
+    },
+    "objects": [
+      "H-1947",
+      "M-457",
+      "M-459",
+      "M-460",
+      "M-461",
+      "M-463",
+      "M-1409",
+      "M-1410",
+      "M-1411",
+      "M-1412"
+    ]
+  },
+  {
+    "sequence": "806 845 61 407 850 900 740",
+    "records": 10,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 10
+    },
+    "motifs": {
+      "Anth": 10
+    },
+    "objects": [
+      "M-582",
+      "M-583",
+      "M-585",
+      "M-586",
+      "M-587",
+      "M-588",
+      "M-1535",
+      "M-1536",
+      "M-1540",
+      "M-2050"
+    ]
+  },
+  {
+    "sequence": "840 32 740",
+    "records": 9,
+    "sites": [
+      "Harappa",
+      "Lothal",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 6,
+      "TAB:I": 2,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "Mult": 1,
+      "[unrecorded]": 5,
+      "Scene": 2,
+      "Phyt": 1
+    },
+    "objects": [
+      "H-1977",
+      "H-2187",
+      "H-182",
+      "H-306",
+      "H-723",
+      "H-825",
+      "L-59",
+      "ICIT:2511",
+      "H-1140"
+    ]
+  },
+  {
+    "sequence": "137 400",
+    "records": 8,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 5,
+      "TAB:I": 2,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 4,
+      "Mult": 2,
+      "Gaur": 1,
+      "Fish": 1
+    },
+    "objects": [
+      "H-1858",
+      "H-1859",
+      "H-1956",
+      "H-2104",
+      "H-215",
+      "H-584",
+      "H-976",
+      "ICIT:5396"
+    ]
+  },
+  {
+    "sequence": "176 740",
+    "records": 8,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "POT:T:g": 2,
+      "TAB:B": 1,
+      "TAB:I": 2,
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "[unrecorded]": 5,
+      "Bull1": 1,
+      "Bull1:I": 1,
+      "CompBull": 1
+    },
+    "objects": [
+      "H-2368",
+      "ICIT:719",
+      "H-696",
+      "H-961",
+      "H-963",
+      "M-1819",
+      "M-301",
+      "M-1195"
+    ]
+  },
+  {
+    "sequence": "347 741 176 740 90",
+    "records": 8,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 8
+    },
+    "motifs": {
+      "Mult": 8
+    },
+    "objects": [
+      "H-2024",
+      "H-1935",
+      "H-1934",
+      "H-2026",
+      "H-2028",
+      "H-2029",
+      "H-2027",
+      "H-2030"
+    ]
+  },
+  {
+    "sequence": "413 575 335 711 33 700",
+    "records": 8,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 8
+    },
+    "motifs": {
+      "[unrecorded]": 8
+    },
+    "objects": [
+      "ICIT:300",
+      "H-1990",
+      "H-1813",
+      "H-1989",
+      "H-1988",
+      "H-1812",
+      "H-1811",
+      "H-774"
+    ]
+  },
+  {
+    "sequence": "806 235 590 405 740 400",
+    "records": 8,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 8
+    },
+    "motifs": {
+      "[unrecorded]": 8
+    },
+    "objects": [
+      "H-204",
+      "H-750",
+      "H-751",
+      "H-752",
+      "H-753",
+      "H-754",
+      "M-472",
+      "H-1114"
+    ]
+  },
+  {
+    "sequence": "91 56 2 417 890 892",
+    "records": 8,
+    "sites": [
+      "Kalibangan"
+    ],
+    "types": {
+      "TAG": 8
+    },
+    "motifs": {
+      "Bull1": 7,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "K-69",
+      "K-70",
+      "K-71",
+      "K-72",
+      "K-73",
+      "K-74",
+      "K-75",
+      "K-156"
+    ]
+  },
+  {
+    "sequence": "",
+    "records": 7,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 2,
+      "TAB:I": 4,
+      "TAG:P": 1
+    },
+    "motifs": {
+      "[unrecorded]": 6,
+      "Bull1": 1
+    },
+    "objects": [
+      "ICIT:212",
+      "H-2215",
+      "H-827",
+      "H-931",
+      "M-1385",
+      "H-1281",
+      "H-1295"
+    ]
+  },
+  {
+    "sequence": "104 645 590 235 240 740 90",
+    "records": 7,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 7
+    },
+    "motifs": {
+      "Cros": 7
+    },
+    "objects": [
+      "M-2026",
+      "M-464",
+      "M-465",
+      "M-466",
+      "M-467",
+      "M-1415",
+      "M-1416"
+    ]
+  },
+  {
+    "sequence": "13 840 740",
+    "records": 7,
+    "sites": [
+      "Harappa",
+      "Lothal",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:R": 1,
+      "TAB:I": 3,
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "[unrecorded]": 4,
+      "Bull1:U": 2,
+      "Elep": 1
+    },
+    "objects": [
+      "H-147",
+      "H-326",
+      "H-924",
+      "H-925",
+      "L-22",
+      "M-1915",
+      "M-1774"
+    ]
+  },
+  {
+    "sequence": "240 520",
+    "records": 7,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 3,
+      "TAB:I": 1,
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "[unrecorded]": 4,
+      "Bull1:J": 2,
+      "Bull1:W": 1
+    },
+    "objects": [
+      "H-1912",
+      "H-1908",
+      "H-320",
+      "H-819",
+      "M-186",
+      "M-208",
+      "M-657"
+    ]
+  },
+  {
+    "sequence": "32 700",
+    "records": 7,
+    "sites": [
+      "Harappa",
+      "Kalibangan",
+      "Unknown"
+    ],
+    "types": {
+      "TAB:I": 3,
+      "TAB:B": 4
+    },
+    "motifs": {
+      "[unrecorded]": 4,
+      "Scene": 1,
+      "Bull1": 1,
+      "Bull2": 1
+    },
+    "objects": [
+      "H-2198",
+      "H-2146",
+      "H-1774",
+      "K-68",
+      "?-6",
+      "H-1100",
+      "H-1320"
+    ]
+  },
+  {
+    "sequence": "34 700",
+    "records": 7,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 4,
+      "TAB:B": 3
+    },
+    "motifs": {
+      "Bult": 1,
+      "[unrecorded]": 6
+    },
+    "objects": [
+      "H-1354",
+      "ICIT:621",
+      "ICIT:740",
+      "H-1907",
+      "H-1829",
+      "H-1828",
+      "H-1284"
+    ]
+  },
+  {
+    "sequence": "705 500 741 1 55 220 740 90",
+    "records": 7,
+    "sites": [
+      "Lothal"
+    ],
+    "types": {
+      "TAG:L": 5,
+      "TAG": 1,
+      "TAG:W": 1
+    },
+    "motifs": {
+      "[unrecorded]": 4,
+      "Bull1": 3
+    },
+    "objects": [
+      "L-124",
+      "L-125",
+      "L-126",
+      "L-128",
+      "L-129",
+      "L-206",
+      "L-127"
+    ]
+  },
+  {
+    "sequence": "706 33 923 740",
+    "records": 7,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 7
+    },
+    "motifs": {
+      "Elep": 7
+    },
+    "objects": [
+      "M-1482",
+      "M-1483",
+      "M-1484",
+      "M-1485",
+      "M-1486",
+      "M-1488",
+      "M-2042"
+    ]
+  },
+  {
+    "sequence": "817 2",
+    "records": 7,
+    "sites": [
+      "Banawali",
+      "Harappa",
+      "Kalibangan"
+    ],
+    "types": {
+      "SEAL:S": 4,
+      "TAB:I": 3
+    },
+    "motifs": {
+      "Bull3": 1,
+      "Buff": 1,
+      "Rhin": 1,
+      "[unrecorded]": 3,
+      "Bull2": 1
+    },
+    "objects": [
+      "B-5",
+      "B-7",
+      "B-15",
+      "H-292",
+      "H-293",
+      "H-887",
+      "K-27"
+    ]
+  },
+  {
+    "sequence": "142 617",
+    "records": 6,
+    "sites": [
+      "Dholavira",
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:R": 2,
+      "SEAL:S": 1,
+      "TAB:B": 3
+    },
+    "motifs": {
+      "[unrecorded]": 5,
+      "Bull1:W": 1
+    },
+    "objects": [
+      "ICIT:137",
+      "H-72",
+      "H-185",
+      "M-2028",
+      "M-382",
+      "M-476"
+    ]
+  },
+  {
+    "sequence": "16 390",
+    "records": 6,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 5,
+      "SEAL:R": 1
+    },
+    "motifs": {
+      "Bull1:I": 1,
+      "Bull1:S": 2,
+      "Bull1:L": 1,
+      "Bull1": 1,
+      "Othr": 1
+    },
+    "objects": [
+      "H-71",
+      "M-1799",
+      "M-178",
+      "M-822",
+      "M-987",
+      "M-1365"
+    ]
+  },
+  {
+    "sequence": "3 390",
+    "records": 6,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 4,
+      "TAB:I": 1,
+      "TAG:O": 1
+    },
+    "motifs": {
+      "Zebu": 1,
+      "Bult": 1,
+      "[unrecorded]": 1,
+      "Bull1": 2,
+      "Bull1:S": 1
+    },
+    "objects": [
+      "H-585",
+      "H-2210",
+      "H-596",
+      "M-1857",
+      "M-2010",
+      "M-179"
+    ]
+  },
+  {
+    "sequence": "31 156",
+    "records": 6,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 5,
+      "MISC": 1
+    },
+    "motifs": {
+      "Bull1:I": 1,
+      "Bull1:S": 2,
+      "Bull1:J": 1,
+      "Bull1:X": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-516",
+      "M-1735",
+      "M-188",
+      "M-229",
+      "M-995",
+      "M-1235"
+    ]
+  },
+  {
+    "sequence": "605 760 740 400",
+    "records": 6,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 5,
+      "TAB:B": 1
+    },
+    "motifs": {
+      "Gavi": 6
+    },
+    "objects": [
+      "H-1158",
+      "H-287",
+      "H-879",
+      "H-880",
+      "H-881",
+      "H-882"
+    ]
+  },
+  {
+    "sequence": "777",
+    "records": 6,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 6
+    },
+    "motifs": {
+      "[unrecorded]": 6
+    },
+    "objects": [
+      "M-603",
+      "M-604",
+      "M-1555",
+      "M-1556",
+      "M-1557",
+      "M-1558"
+    ]
+  },
+  {
+    "sequence": "798 240 845 61 407",
+    "records": 6,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 6
+    },
+    "motifs": {
+      "Gaur": 1,
+      "Tigr": 2,
+      "[unrecorded]": 1,
+      "Othr": 2
+    },
+    "objects": [
+      "M-567",
+      "M-568",
+      "M-569",
+      "M-1515",
+      "M-1516",
+      "M-1517"
+    ]
+  },
+  {
+    "sequence": "905 32 597 142 617",
+    "records": 6,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 6
+    },
+    "motifs": {
+      "Othr": 5,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "M-575",
+      "M-576",
+      "M-1528",
+      "M-1530",
+      "M-1531",
+      "M-1532"
+    ]
+  },
+  {
+    "sequence": "235 220 176 740",
+    "records": 5,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 5
+    },
+    "motifs": {
+      "[unrecorded]": 5
+    },
+    "objects": [
+      "H-806",
+      "H-807",
+      "H-808",
+      "H-1130",
+      "H-1131"
+    ]
+  },
+  {
+    "sequence": "255 435 690 740",
+    "records": 5,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 3,
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bult": 2,
+      "Scene": 1,
+      "Bull1": 2
+    },
+    "objects": [
+      "H-1938",
+      "H-1937",
+      "M-455",
+      "M-857",
+      "M-950"
+    ]
+  },
+  {
+    "sequence": "27 32 740 400",
+    "records": 5,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 5
+    },
+    "motifs": {
+      "Fish": 3,
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-2208",
+      "H-2207",
+      "H-2204",
+      "H-303",
+      "H-917"
+    ]
+  },
+  {
+    "sequence": "3 220 740",
+    "records": 5,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 1,
+      "TAB:B": 2,
+      "SEAL:R": 2
+    },
+    "motifs": {
+      "Scene": 1,
+      "[unrecorded]": 4
+    },
+    "objects": [
+      "M-294",
+      "M-1439",
+      "M-1441",
+      "M-1442",
+      "M-1443"
+    ]
+  },
+  {
+    "sequence": "416 861 2",
+    "records": 5,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 5
+    },
+    "motifs": {
+      "[unrecorded]": 5
+    },
+    "objects": [
+      "H-2094",
+      "H-2097",
+      "H-2095",
+      "H-2096",
+      "H-910"
+    ]
+  },
+  {
+    "sequence": "465 806 158",
+    "records": 5,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 5
+    },
+    "motifs": {
+      "Phyt": 5
+    },
+    "objects": [
+      "H-190",
+      "H-724",
+      "H-726",
+      "H-1104",
+      "H-1105"
+    ]
+  },
+  {
+    "sequence": "61 740",
+    "records": 5,
+    "sites": [
+      "Banawali",
+      "Harappa",
+      "Lakhanjo-daro",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 5
+    },
+    "motifs": {
+      "Goat:4": 1,
+      "Bull1:I": 1,
+      "Bull1": 2,
+      "Bull1:S": 1
+    },
+    "objects": [
+      "B-8",
+      "H-69",
+      "H-521",
+      "M-1856",
+      "ICIT:5234"
+    ]
+  },
+  {
+    "sequence": "798 415 220 740 400",
+    "records": 5,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 5
+    },
+    "motifs": {
+      "[unrecorded]": 3,
+      "Box": 1,
+      "Xhch": 1
+    },
+    "objects": [
+      "H-203",
+      "H-748",
+      "H-767",
+      "M-468",
+      "M-469"
+    ]
+  },
+  {
+    "sequence": "900 368",
+    "records": 5,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 5
+    },
+    "motifs": {
+      "[unrecorded]": 5
+    },
+    "objects": [
+      "H-2131",
+      "H-307",
+      "H-927",
+      "H-928",
+      "H-929"
+    ]
+  },
+  {
+    "sequence": "98 400",
+    "records": 5,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 5
+    },
+    "motifs": {
+      "[unrecorded]": 3,
+      "Goat": 2
+    },
+    "objects": [
+      "H-1331",
+      "H-2034",
+      "H-2033",
+      "H-347",
+      "H-1332"
+    ]
+  },
+  {
+    "sequence": "17 585 388 740",
+    "records": 4,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 4
+    },
+    "motifs": {
+      "Comp": 1,
+      "Othr": 3
+    },
+    "objects": [
+      "M-578",
+      "M-580",
+      "M-581",
+      "M-1534"
+    ]
+  },
+  {
+    "sequence": "220 520",
+    "records": 4,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:I": 2,
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2,
+      "Bull1:L": 1,
+      "Bull1": 1
+    },
+    "objects": [
+      "H-1330",
+      "H-329",
+      "M-185",
+      "M-978"
+    ]
+  },
+  {
+    "sequence": "235 233 222 740",
+    "records": 4,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 4
+    },
+    "motifs": {
+      "Othr": 2,
+      "Rhin": 2
+    },
+    "objects": [
+      "M-572",
+      "M-574",
+      "M-1521",
+      "M-1522"
+    ]
+  },
+  {
+    "sequence": "255 435 156 400",
+    "records": 4,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 4
+    },
+    "motifs": {
+      "[unrecorded]": 4
+    },
+    "objects": [
+      "ICIT:234",
+      "H-2063",
+      "H-2066",
+      "H-299"
+    ]
+  },
+  {
+    "sequence": "33 33 520",
+    "records": 4,
+    "sites": [
+      "Dholavira",
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 3,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 3,
+      "Bull1:S": 1
+    },
+    "objects": [
+      "H-1899",
+      "H-1880",
+      "H-1879",
+      "ICIT:4149"
+    ]
+  },
+  {
+    "sequence": "4 700 97 400",
+    "records": 4,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 4
+    },
+    "motifs": {
+      "Mult": 4
+    },
+    "objects": [
+      "M-478",
+      "M-479",
+      "M-480",
+      "M-1425"
+    ]
+  },
+  {
+    "sequence": "416 740",
+    "records": 4,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:I": 1,
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:W": 2,
+      "Bull1:S": 1
+    },
+    "objects": [
+      "H-2119",
+      "H-475",
+      "M-938",
+      "M-182"
+    ]
+  },
+  {
+    "sequence": "440 740 400 840 712",
+    "records": 4,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 4
+    },
+    "motifs": {
+      "Gavi": 3,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-1958",
+      "H-1959",
+      "H-172",
+      "H-705"
+    ]
+  },
+  {
+    "sequence": "468 806 154",
+    "records": 4,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:R": 4
+    },
+    "motifs": {
+      "[unrecorded]": 4
+    },
+    "objects": [
+      "H-152",
+      "H-670",
+      "H-681",
+      "M-1986"
+    ]
+  },
+  {
+    "sequence": "5 405",
+    "records": 4,
+    "sites": [
+      "Harappa",
+      "Kalibangan",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "SEAL:S": 2,
+      "SEAL:R": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2,
+      "Bull1:W": 2
+    },
+    "objects": [
+      "H-1996",
+      "K-19",
+      "M-224",
+      "M-404"
+    ]
+  },
+  {
+    "sequence": "5 900 740",
+    "records": 4,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 3,
+      "SEAL:R": 1
+    },
+    "motifs": {
+      "Bull1:I": 1,
+      "Bull1:J": 1,
+      "[unrecorded]": 1,
+      "Bull1": 1
+    },
+    "objects": [
+      "H-512",
+      "M-138",
+      "M-1368",
+      "M-1852"
+    ]
+  },
+  {
+    "sequence": "550 60 690 740",
+    "records": 4,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:I": 3,
+      "SEAL:R": 1
+    },
+    "motifs": {
+      "[unrecorded]": 4
+    },
+    "objects": [
+      "M-2041",
+      "M-2040",
+      "M-501",
+      "M-1444"
+    ]
+  },
+  {
+    "sequence": "61 142 400 740",
+    "records": 4,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 3,
+      "TAB:B": 1
+    },
+    "motifs": {
+      "Bull1:W": 2,
+      "[unrecorded]": 1,
+      "Bull1:J": 1
+    },
+    "objects": [
+      "H-1679",
+      "H-451",
+      "H-780",
+      "M-879"
+    ]
+  },
+  {
+    "sequence": "692 60 240 636 740",
+    "records": 4,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 3,
+      "TAB:I": 1
+    },
+    "motifs": {
+      "[unrecorded]": 3,
+      "Bult": 1
+    },
+    "objects": [
+      "H-1845",
+      "H-237",
+      "H-360",
+      "H-823"
+    ]
+  },
+  {
+    "sequence": "706 33 923 740 1",
+    "records": 4,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 4
+    },
+    "motifs": {
+      "Elep": 4
+    },
+    "objects": [
+      "M-527",
+      "M-528",
+      "M-529",
+      "M-530"
+    ]
+  },
+  {
+    "sequence": "736 904 158 400",
+    "records": 4,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 4
+    },
+    "motifs": {
+      "Mult": 3,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-226",
+      "H-227",
+      "H-228",
+      "H-810"
+    ]
+  },
+  {
+    "sequence": "817 2 4 390",
+    "records": 4,
+    "sites": [
+      "Dholavira",
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "Mult": 1,
+      "Bull1:U": 2,
+      "Bull1": 1
+    },
+    "objects": [
+      "H-2003",
+      "ICIT:951",
+      "M-1844",
+      "M-984"
+    ]
+  },
+  {
+    "sequence": "820 2 3 390",
+    "records": 4,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro",
+      "Nausharo"
+    ],
+    "types": {
+      "SEAL:S": 4
+    },
+    "motifs": {
+      "Bull1:W": 2,
+      "Bull1:J": 1,
+      "Bull1:S": 1
+    },
+    "objects": [
+      "H-1680",
+      "M-1729",
+      "Ns-7",
+      "M-1806"
+    ]
+  },
+  {
+    "sequence": "100 740",
+    "records": 3,
+    "sites": [
+      "Chanhujo-daro",
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 1,
+      "TAB:B": 1,
+      "SEAL": 1
+    },
+    "motifs": {
+      "Bull1:I": 1,
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "C-17",
+      "H-848",
+      "M-444"
+    ]
+  },
+  {
+    "sequence": "125 700",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 3
+    },
+    "objects": [
+      "H-1946",
+      "H-894",
+      "H-1178"
+    ]
+  },
+  {
+    "sequence": "140 1 31 740",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 3
+    },
+    "motifs": {
+      "Goat:4": 3
+    },
+    "objects": [
+      "H-1771",
+      "H-1773",
+      "H-1772"
+    ]
+  },
+  {
+    "sequence": "171 32 31 240 636 740 400",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 3
+    },
+    "motifs": {
+      "[unrecorded]": 2,
+      "Bult": 1
+    },
+    "objects": [
+      "H-301",
+      "H-905",
+      "H-988"
+    ]
+  },
+  {
+    "sequence": "176 100 740",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "SEAL:R": 1,
+      "TAB:B": 1,
+      "TAB:I": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2,
+      "Scene": 1
+    },
+    "objects": [
+      "H-1080",
+      "H-179",
+      "H-2137"
+    ]
+  },
+  {
+    "sequence": "176 156",
+    "records": 3,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 2,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 3
+    },
+    "objects": [
+      "H-1831",
+      "H-1830",
+      "M-330"
+    ]
+  },
+  {
+    "sequence": "231 17 585 95 520 32 407",
+    "records": 3,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 3
+    },
+    "motifs": {
+      "Othr": 1,
+      "Goat:8": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "M-547",
+      "M-548",
+      "M-549"
+    ]
+  },
+  {
+    "sequence": "231 798 176 740",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 3
+    },
+    "motifs": {
+      "Bull": 1,
+      "Zebu": 2
+    },
+    "objects": [
+      "H-171",
+      "H-699",
+      "H-700"
+    ]
+  },
+  {
+    "sequence": "233 520",
+    "records": 3,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:I": 2
+    },
+    "objects": [
+      "H-249",
+      "M-1827",
+      "M-1836"
+    ]
+  },
+  {
+    "sequence": "233 520 400",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 3
+    },
+    "motifs": {
+      "Gaur": 2,
+      "Pipal": 1
+    },
+    "objects": [
+      "H-1770",
+      "H-243",
+      "H-698"
+    ]
+  },
+  {
+    "sequence": "234 400",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 3
+    },
+    "motifs": {
+      "Bult": 1,
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-888",
+      "H-945",
+      "H-946"
+    ]
+  },
+  {
+    "sequence": "235 482 740",
+    "records": 3,
+    "sites": [
+      "Chanhujo-daro",
+      "Lothal",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "Bull1:V": 1,
+      "Bull1:W": 1,
+      "Bull1:L": 1
+    },
+    "objects": [
+      "C-59",
+      "L-23",
+      "M-1001"
+    ]
+  },
+  {
+    "sequence": "240 590 390 740",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 3
+    },
+    "motifs": {
+      "[unrecorded]": 2,
+      "Phyt": 1
+    },
+    "objects": [
+      "H-733",
+      "H-194",
+      "H-734"
+    ]
+  },
+  {
+    "sequence": "240 636 690 740",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 3
+    },
+    "motifs": {
+      "[unrecorded]": 3
+    },
+    "objects": [
+      "H-1308",
+      "H-965",
+      "H-966"
+    ]
+  },
+  {
+    "sequence": "240 760 740",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 3
+    },
+    "motifs": {
+      "[unrecorded]": 3
+    },
+    "objects": [
+      "H-2076",
+      "H-2077",
+      "H-903"
+    ]
+  },
+  {
+    "sequence": "255 435 690 740 900 3 422",
+    "records": 3,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 3
+    },
+    "motifs": {
+      "Buff": 1,
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "M-1476",
+      "M-1479",
+      "M-1480"
+    ]
+  },
+  {
+    "sequence": "255 740",
+    "records": 3,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 2,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2,
+      "Bull1": 1
+    },
+    "objects": [
+      "H-785",
+      "H-788",
+      "M-1855"
+    ]
+  },
+  {
+    "sequence": "28 32 740 400",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 3
+    },
+    "motifs": {
+      "[unrecorded]": 3
+    },
+    "objects": [
+      "H-2115",
+      "H-322",
+      "H-967"
+    ]
+  },
+  {
+    "sequence": "3 140 100 740",
+    "records": 3,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "Bull1:W": 2,
+      "Zebu": 1
+    },
+    "objects": [
+      "H-1032",
+      "H-62",
+      "M-1108"
+    ]
+  },
+  {
+    "sequence": "3 421 176 100 740 790",
+    "records": 3,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 3
+    },
+    "motifs": {
+      "Goat:8": 3
+    },
+    "objects": [
+      "M-543",
+      "M-544",
+      "M-545"
+    ]
+  },
+  {
+    "sequence": "3 550 617",
+    "records": 3,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "SEAL:S": 1,
+      "SEAL:R": 1
+    },
+    "motifs": {
+      "Zebu": 1,
+      "Bull1:S": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-1767",
+      "H-49",
+      "M-401"
+    ]
+  },
+  {
+    "sequence": "3 861",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 3
+    },
+    "objects": [
+      "H-1882",
+      "H-2190",
+      "H-2123"
+    ]
+  },
+  {
+    "sequence": "31 520",
+    "records": 3,
+    "sites": [
+      "Harappa",
+      "Kanmer"
+    ],
+    "types": {
+      "TAB:I": 2,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2,
+      "Ass": 1
+    },
+    "objects": [
+      "H-922",
+      "H-923",
+      "ICIT:5421"
+    ]
+  },
+  {
+    "sequence": "4 390",
+    "records": 3,
+    "sites": [
+      "Banawali",
+      "Kalibangan",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "Goat:3": 1,
+      "Comp": 1,
+      "Bull1:W": 1
+    },
+    "objects": [
+      "B-9",
+      "K-50",
+      "M-1742"
+    ]
+  },
+  {
+    "sequence": "415 220 845 407",
+    "records": 3,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 3
+    },
+    "motifs": {
+      "Loop": 3
+    },
+    "objects": [
+      "M-507",
+      "M-508",
+      "M-1456"
+    ]
+  },
+  {
+    "sequence": "484 337 740",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2,
+      "Bull1:W": 1
+    },
+    "objects": [
+      "H-216",
+      "H-217",
+      "H-441"
+    ]
+  },
+  {
+    "sequence": "491 817 740 400",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 3
+    },
+    "motifs": {
+      "[unrecorded]": 3
+    },
+    "objects": [
+      "H-2173",
+      "ICIT:1052",
+      "H-900"
+    ]
+  },
+  {
+    "sequence": "5 706",
+    "records": 3,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 3
+    },
+    "motifs": {
+      "[unrecorded]": 3
+    },
+    "objects": [
+      "M-513",
+      "M-514",
+      "M-515"
+    ]
+  },
+  {
+    "sequence": "503 16 740 400",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 3
+    },
+    "motifs": {
+      "Gavi": 3
+    },
+    "objects": [
+      "H-1964",
+      "H-709",
+      "H-710"
+    ]
+  },
+  {
+    "sequence": "519 740",
+    "records": 3,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:I": 1,
+      "SEAL:S": 1,
+      "SEAL:R": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2,
+      "Zebu": 1
+    },
+    "objects": [
+      "H-1177",
+      "M-264",
+      "M-388"
+    ]
+  },
+  {
+    "sequence": "550 527",
+    "records": 3,
+    "sites": [
+      "Lothal",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:W": 1,
+      "Bull1:J": 1
+    },
+    "objects": [
+      "L-52",
+      "M-1800",
+      "M-939"
+    ]
+  },
+  {
+    "sequence": "61 151",
+    "records": 3,
+    "sites": [
+      "Kalibangan",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "Bull1:S": 1,
+      "Bull1:W": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "M-1740",
+      "M-201",
+      "K-153"
+    ]
+  },
+  {
+    "sequence": "617 892 740 400",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 3
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Fish": 2
+    },
+    "objects": [
+      "H-229",
+      "H-849",
+      "H-850"
+    ]
+  },
+  {
+    "sequence": "692 60 240 603 740",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 3
+    },
+    "motifs": {
+      "[unrecorded]": 3
+    },
+    "objects": [
+      "H-1138",
+      "H-1846",
+      "H-1137"
+    ]
+  },
+  {
+    "sequence": "705 33 520",
+    "records": 3,
+    "sites": [
+      "Lothal",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAG:O": 1,
+      "SEAL:S": 1,
+      "SEAL": 1
+    },
+    "motifs": {
+      "Bull1": 1,
+      "Bull1:J": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "L-146",
+      "M-122",
+      "M-1359"
+    ]
+  },
+  {
+    "sequence": "717 740 400",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2,
+      "TAB:I": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2,
+      "Anth": 1
+    },
+    "objects": [
+      "H-1854",
+      "H-2136",
+      "H-178"
+    ]
+  },
+  {
+    "sequence": "790 900 165",
+    "records": 3,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 3
+    },
+    "motifs": {
+      "[unrecorded]": 3
+    },
+    "objects": [
+      "M-509",
+      "M-510",
+      "M-1458"
+    ]
+  },
+  {
+    "sequence": "792 740",
+    "records": 3,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "POT:T:s": 2,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2,
+      "Bull1:J": 1
+    },
+    "objects": [
+      "M-424",
+      "M-953",
+      "M-1382"
+    ]
+  },
+  {
+    "sequence": "803 740",
+    "records": 3,
+    "sites": [
+      "Banawali",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:W": 1,
+      "Bull1:X": 1
+    },
+    "objects": [
+      "B-19",
+      "M-1797",
+      "M-977"
+    ]
+  },
+  {
+    "sequence": "806 235 233 705 33 585 407",
+    "records": 3,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 3
+    },
+    "motifs": {
+      "Comp": 2,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "ICIT:2523",
+      "M-1523",
+      "M-1524"
+    ]
+  },
+  {
+    "sequence": "817 2 3 390",
+    "records": 3,
+    "sites": [
+      "Chanhujo-daro",
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "Bull1:W": 2,
+      "Bull1:J": 1
+    },
+    "objects": [
+      "C-66",
+      "H-407",
+      "M-32"
+    ]
+  },
+  {
+    "sequence": "861 2 3 390",
+    "records": 3,
+    "sites": [
+      "Kalibangan",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAG:L": 1,
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1": 1,
+      "Bull1:W": 2
+    },
+    "objects": [
+      "K-82",
+      "M-1697",
+      "M-712"
+    ]
+  },
+  {
+    "sequence": "90 400",
+    "records": 3,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2,
+      "TAB:I": 1
+    },
+    "motifs": {
+      "Mult": 2,
+      "Goat:2": 1
+    },
+    "objects": [
+      "H-1957",
+      "H-286",
+      "H-1101"
+    ]
+  },
+  {
+    "sequence": "910 740",
+    "records": 3,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 3
+    },
+    "motifs": {
+      "Bull1": 1,
+      "Gaur": 1,
+      "Bull1:S": 1
+    },
+    "objects": [
+      "H-59",
+      "H-79",
+      "M-946"
+    ]
+  },
+  {
+    "sequence": "140 61 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull2": 1
+    },
+    "objects": [
+      "H-1894",
+      "H-1929"
+    ]
+  },
+  {
+    "sequence": "16 220",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "POT:T:s": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:W": 1
+    },
+    "objects": [
+      "H-1086",
+      "H-1028"
+    ]
+  },
+  {
+    "sequence": "16 840 2 803 140 850",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Scene": 2
+    },
+    "objects": [
+      "M-490",
+      "M-491"
+    ]
+  },
+  {
+    "sequence": "17 405",
+    "records": 2,
+    "sites": [
+      "Alamgirpur",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "POT:T:g": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:W": 1
+    },
+    "objects": [
+      "Agr-3",
+      "M-673"
+    ]
+  },
+  {
+    "sequence": "17 410",
+    "records": 2,
+    "sites": [
+      "Alamgirpur"
+    ],
+    "types": {
+      "POT:T:g": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "Agr-1",
+      "Agr-2"
+    ]
+  },
+  {
+    "sequence": "171 35",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "POT:T:g": 1,
+      "TAG:C": 1
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Mult": 1
+    },
+    "objects": [
+      "M-2067",
+      "M-2036"
+    ]
+  },
+  {
+    "sequence": "171 35 415",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-219",
+      "H-801"
+    ]
+  },
+  {
+    "sequence": "175 176 100 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-741",
+      "H-742"
+    ]
+  },
+  {
+    "sequence": "175 520",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:J": 1,
+      "Bull1:I": 1
+    },
+    "objects": [
+      "H-503",
+      "M-1829"
+    ]
+  },
+  {
+    "sequence": "176 336 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-341",
+      "H-892"
+    ]
+  },
+  {
+    "sequence": "178 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-311",
+      "H-959"
+    ]
+  },
+  {
+    "sequence": "19 156",
+    "records": 2,
+    "sites": [
+      "Dholavira"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:S": 2
+    },
+    "objects": [
+      "ICIT:128",
+      "ICIT:4225"
+    ]
+  },
+  {
+    "sequence": "219 72 520",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Phyt": 1,
+      "Othr": 1
+    },
+    "objects": [
+      "H-230",
+      "H-815"
+    ]
+  },
+  {
+    "sequence": "220 236 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bult": 1
+    },
+    "objects": [
+      "H-1872",
+      "H-1941"
+    ]
+  },
+  {
+    "sequence": "220 32 590 690",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Gavi": 2
+    },
+    "objects": [
+      "H-2020",
+      "H-2019"
+    ]
+  },
+  {
+    "sequence": "220 440 154 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Fish": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-1142",
+      "H-761"
+    ]
+  },
+  {
+    "sequence": "220 550 526",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bult": 1
+    },
+    "objects": [
+      "H-344",
+      "H-359"
+    ]
+  },
+  {
+    "sequence": "222 740 151",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-1869",
+      "H-1868"
+    ]
+  },
+  {
+    "sequence": "226 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bult": 1
+    },
+    "objects": [
+      "H-2154",
+      "H-889"
+    ]
+  },
+  {
+    "sequence": "229 151",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-906",
+      "H-949"
+    ]
+  },
+  {
+    "sequence": "231 176 740 565",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-2141",
+      "H-2140"
+    ]
+  },
+  {
+    "sequence": "233 176 740",
+    "records": 2,
+    "sites": [
+      "Lothal"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:J": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "L-35",
+      "L-55"
+    ]
+  },
+  {
+    "sequence": "233 550 526",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "TAB:I": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-2142",
+      "H-968"
+    ]
+  },
+  {
+    "sequence": "235 240 740 90",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "S590": 2
+    },
+    "objects": [
+      "H-2055",
+      "H-2054"
+    ]
+  },
+  {
+    "sequence": "235 520",
+    "records": 2,
+    "sites": [
+      "Dholavira",
+      "Harappa"
+    ],
+    "types": {
+      "POT:T:g": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:J": 1
+    },
+    "objects": [
+      "ICIT:613",
+      "ICIT:4232"
+    ]
+  },
+  {
+    "sequence": "235 590 390 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Phyt": 1
+    },
+    "objects": [
+      "H-857",
+      "H-1107"
+    ]
+  },
+  {
+    "sequence": "235 798 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:U": 1,
+      "Bull1:W": 1
+    },
+    "objects": [
+      "M-1809",
+      "M-1705"
+    ]
+  },
+  {
+    "sequence": "236 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-2155",
+      "H-947"
+    ]
+  },
+  {
+    "sequence": "240 100 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Gaur": 1
+    },
+    "objects": [
+      "H-1895",
+      "H-251"
+    ]
+  },
+  {
+    "sequence": "240 13 840 740 400",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "ROD": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "M-2108",
+      "M-2107"
+    ]
+  },
+  {
+    "sequence": "240 176 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "Fish": 2
+    },
+    "objects": [
+      "H-2200",
+      "H-2201"
+    ]
+  },
+  {
+    "sequence": "240 233 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-1921",
+      "H-779"
+    ]
+  },
+  {
+    "sequence": "240 636 740",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:I": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:J": 1
+    },
+    "objects": [
+      "H-919",
+      "M-228"
+    ]
+  },
+  {
+    "sequence": "240 838 585 740 400",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "ROD": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "M-2106",
+      "M-1651"
+    ]
+  },
+  {
+    "sequence": "240 904 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "ICIT:316",
+      "H-781"
+    ]
+  },
+  {
+    "sequence": "255 435 156",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:I": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:J": 1
+    },
+    "objects": [
+      "H-985",
+      "M-97"
+    ]
+  },
+  {
+    "sequence": "3 154",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Fish": 1
+    },
+    "objects": [
+      "H-2237",
+      "H-366"
+    ]
+  },
+  {
+    "sequence": "3 405",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Kalibangan"
+    ],
+    "types": {
+      "SEAL:S": 1,
+      "POT:T:g": 1
+    },
+    "motifs": {
+      "Bull1:W": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-1664",
+      "K-97"
+    ]
+  },
+  {
+    "sequence": "3 422 176 100 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Othr": 1
+    },
+    "objects": [
+      "M-1497",
+      "M-1499"
+    ]
+  },
+  {
+    "sequence": "31 384 156 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 1,
+      "SEAL:CY": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-324",
+      "H-368"
+    ]
+  },
+  {
+    "sequence": "31 592",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:II": 1,
+      "Zebu": 1
+    },
+    "objects": [
+      "H-67",
+      "M-1897"
+    ]
+  },
+  {
+    "sequence": "32",
+    "records": 2,
+    "sites": [
+      "Kalibangan",
+      "Lothal"
+    ],
+    "types": {
+      "POT:T:g": 1,
+      "TAG": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "K-90",
+      "L-197"
+    ]
+  },
+  {
+    "sequence": "32 220",
+    "records": 2,
+    "sites": [
+      "Farmana",
+      "Harappa"
+    ],
+    "types": {
+      "SEAL:S": 1,
+      "POT:T:s": 1
+    },
+    "motifs": {
+      "Buff": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "ICIT:151",
+      "H-1084"
+    ]
+  },
+  {
+    "sequence": "32 220 176 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "M-511",
+      "M-512"
+    ]
+  },
+  {
+    "sequence": "32 71 407",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 2
+    },
+    "motifs": {
+      "Gaur": 2
+    },
+    "objects": [
+      "M-523",
+      "M-524"
+    ]
+  },
+  {
+    "sequence": "32 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-918",
+      "H-2585"
+    ]
+  },
+  {
+    "sequence": "320 920 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 1,
+      "POT:T:g": 1
+    },
+    "motifs": {
+      "Bull1:S": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "M-935",
+      "M-1601"
+    ]
+  },
+  {
+    "sequence": "33 142",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-197",
+      "H-198"
+    ]
+  },
+  {
+    "sequence": "33 151",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 1,
+      "POT:T:g": 1
+    },
+    "motifs": {
+      "Bull1:I": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "M-215",
+      "M-1626"
+    ]
+  },
+  {
+    "sequence": "33 220",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "POT:T:s": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-1737",
+      "H-1736"
+    ]
+  },
+  {
+    "sequence": "33 590 416",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-911",
+      "H-2099"
+    ]
+  },
+  {
+    "sequence": "337 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "TAB:I": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-802",
+      "H-893"
+    ]
+  },
+  {
+    "sequence": "34 390",
+    "records": 2,
+    "sites": [
+      "Amri",
+      "Harappa"
+    ],
+    "types": {
+      "POT:T:g": 1,
+      "TAB:I": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "Ai-7",
+      "H-335"
+    ]
+  },
+  {
+    "sequence": "341",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "M-516",
+      "M-517"
+    ]
+  },
+  {
+    "sequence": "352 400 520 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Gavi": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-1933",
+      "H-213"
+    ]
+  },
+  {
+    "sequence": "354 460 798 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Phyt": 2
+    },
+    "objects": [
+      "H-191",
+      "H-729"
+    ]
+  },
+  {
+    "sequence": "370 2 550 527",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "POT:T:s": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "M-1371",
+      "M-1381"
+    ]
+  },
+  {
+    "sequence": "384 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "Mult": 1,
+      "Bull1": 1
+    },
+    "objects": [
+      "M-1430",
+      "M-1782"
+    ]
+  },
+  {
+    "sequence": "4 783 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "Pipal": 2
+    },
+    "objects": [
+      "H-289",
+      "H-290"
+    ]
+  },
+  {
+    "sequence": "415 100 740",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Gaur": 1
+    },
+    "objects": [
+      "H-1991",
+      "M-1886"
+    ]
+  },
+  {
+    "sequence": "415 100 740 90 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Phyt": 2
+    },
+    "objects": [
+      "H-1978",
+      "H-188"
+    ]
+  },
+  {
+    "sequence": "416 151",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:I": 1,
+      "Bull1": 1
+    },
+    "objects": [
+      "M-741",
+      "M-1222"
+    ]
+  },
+  {
+    "sequence": "440 100 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-757",
+      "H-758"
+    ]
+  },
+  {
+    "sequence": "460 520",
+    "records": 2,
+    "sites": [
+      "Dholavira",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:J": 1
+    },
+    "objects": [
+      "ICIT:133",
+      "M-936"
+    ]
+  },
+  {
+    "sequence": "472 806 158 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-208",
+      "H-775"
+    ]
+  },
+  {
+    "sequence": "479 749",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "ICIT:2465",
+      "M-1548"
+    ]
+  },
+  {
+    "sequence": "49 740",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:R": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:W": 1
+    },
+    "objects": [
+      "H-156",
+      "M-1775"
+    ]
+  },
+  {
+    "sequence": "491 817 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Gavi": 1
+    },
+    "objects": [
+      "H-1909",
+      "H-1778"
+    ]
+  },
+  {
+    "sequence": "495 776 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Kalibangan"
+    ],
+    "types": {
+      "TAB:I": 1,
+      "SEAL:R": 1
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-300",
+      "K-63"
+    ]
+  },
+  {
+    "sequence": "5 156",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:S": 1,
+      "Bull1:W": 1
+    },
+    "objects": [
+      "M-187",
+      "M-193"
+    ]
+  },
+  {
+    "sequence": "503 17 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Gavi": 2
+    },
+    "objects": [
+      "ICIT:730",
+      "H-174"
+    ]
+  },
+  {
+    "sequence": "503 460 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:R": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "M-1980",
+      "M-1307"
+    ]
+  },
+  {
+    "sequence": "503 615 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 1,
+      "TAB:C": 1
+    },
+    "motifs": {
+      "Bull1:I": 1,
+      "Rhin": 1
+    },
+    "objects": [
+      "M-1803",
+      "ICIT:2522"
+    ]
+  },
+  {
+    "sequence": "516 775 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-1877",
+      "H-1876"
+    ]
+  },
+  {
+    "sequence": "531 740",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Kalibangan"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:S": 1,
+      "Bull1:I": 1
+    },
+    "objects": [
+      "H-37",
+      "K-17"
+    ]
+  },
+  {
+    "sequence": "554 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-1513",
+      "H-1512"
+    ]
+  },
+  {
+    "sequence": "590 390 740",
+    "records": 2,
+    "sites": [
+      "Allahdino",
+      "Chanhujo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1": 1,
+      "Bull1:L": 1
+    },
+    "objects": [
+      "Ad-1",
+      "C-2"
+    ]
+  },
+  {
+    "sequence": "590 390 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "SEAL:S": 1,
+      "TAB:B": 1
+    },
+    "motifs": {
+      "Bull1:I": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-75",
+      "H-816"
+    ]
+  },
+  {
+    "sequence": "590 705 868",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-2062",
+      "H-896"
+    ]
+  },
+  {
+    "sequence": "590 706 868",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-1181",
+      "H-897"
+    ]
+  },
+  {
+    "sequence": "590 892",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1": 1
+    },
+    "objects": [
+      "H-1691",
+      "M-1854"
+    ]
+  },
+  {
+    "sequence": "592 158 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-943",
+      "H-944"
+    ]
+  },
+  {
+    "sequence": "61 171 35 740 90",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Zebu": 1
+    },
+    "objects": [
+      "H-565",
+      "M-265"
+    ]
+  },
+  {
+    "sequence": "61 255 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-305",
+      "H-921"
+    ]
+  },
+  {
+    "sequence": "679 840 32 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Fish": 1
+    },
+    "objects": [
+      "H-236",
+      "H-1141"
+    ]
+  },
+  {
+    "sequence": "690 740",
+    "records": 2,
+    "sites": [
+      "Kalibangan",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:R": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:J": 1
+    },
+    "objects": [
+      "K-61",
+      "M-176"
+    ]
+  },
+  {
+    "sequence": "692 1 240 636 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-821",
+      "H-822"
+    ]
+  },
+  {
+    "sequence": "700 892",
+    "records": 2,
+    "sites": [
+      "Chanhujo-daro",
+      "Harappa"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:W": 1,
+      "Elep": 1
+    },
+    "objects": [
+      "C-80",
+      "H-93"
+    ]
+  },
+  {
+    "sequence": "703 615 740",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Buff": 1,
+      "Bull1:I": 1
+    },
+    "objects": [
+      "H-87",
+      "M-1815"
+    ]
+  },
+  {
+    "sequence": "705 33 590 390 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "M-431",
+      "M-432"
+    ]
+  },
+  {
+    "sequence": "706 33 520",
+    "records": 2,
+    "sites": [
+      "Dholavira",
+      "Harappa"
+    ],
+    "types": {
+      "SEAL:S": 1,
+      "SEAL:R": 1
+    },
+    "motifs": {
+      "Bull1:I": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-53",
+      "ICIT:4167"
+    ]
+  },
+  {
+    "sequence": "706 740",
+    "records": 2,
+    "sites": [
+      "Lakhanjo-daro"
+    ],
+    "types": {
+      "TAG": 2
+    },
+    "motifs": {
+      "Bull1": 2
+    },
+    "objects": [
+      "ICIT:5244",
+      "ICIT:5245"
+    ]
+  },
+  {
+    "sequence": "740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 1,
+      "TAB:B": 1
+    },
+    "motifs": {
+      "Bult": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-361",
+      "H-969"
+    ]
+  },
+  {
+    "sequence": "744 760 95 595 1 142 617",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 2
+    },
+    "motifs": {
+      "Bull1:W": 2
+    },
+    "objects": [
+      "M-519",
+      "M-520"
+    ]
+  },
+  {
+    "sequence": "749",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "M-597",
+      "M-1550"
+    ]
+  },
+  {
+    "sequence": "790 740 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-841",
+      "H-1149"
+    ]
+  },
+  {
+    "sequence": "799 840 760 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bult": 1
+    },
+    "objects": [
+      "H-2213",
+      "H-2246"
+    ]
+  },
+  {
+    "sequence": "803 335 760 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "M-2024",
+      "M-1407"
+    ]
+  },
+  {
+    "sequence": "806 233 176 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:C": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Othr": 1
+    },
+    "objects": [
+      "M-503",
+      "M-1449"
+    ]
+  },
+  {
+    "sequence": "806 368 235 590 390 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Bull1:S": 2
+    },
+    "objects": [
+      "H-694",
+      "H-695"
+    ]
+  },
+  {
+    "sequence": "817 2 240 904 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Bull": 1,
+      "Bull2": 1
+    },
+    "objects": [
+      "ICIT:280",
+      "H-697"
+    ]
+  },
+  {
+    "sequence": "817 2 61 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:S": 2
+    },
+    "objects": [
+      "M-204",
+      "M-823"
+    ]
+  },
+  {
+    "sequence": "817 2 803 233 520",
+    "records": 2,
+    "sites": [
+      "Chanhujo-daro",
+      "Harappa"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:S": 1,
+      "Bull1": 1
+    },
+    "objects": [
+      "C-67",
+      "H-501"
+    ]
+  },
+  {
+    "sequence": "820 2 137",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Mult": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-702",
+      "H-829"
+    ]
+  },
+  {
+    "sequence": "820 2 554 526",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-1146",
+      "H-833"
+    ]
+  },
+  {
+    "sequence": "821 740",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "Scene": 1,
+      "Bull1:L": 1
+    },
+    "objects": [
+      "H-176",
+      "M-1811"
+    ]
+  },
+  {
+    "sequence": "829 892 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-331",
+      "H-334"
+    ]
+  },
+  {
+    "sequence": "831 892 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-1133",
+      "H-1896"
+    ]
+  },
+  {
+    "sequence": "838 482 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "ROD": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "M-2086",
+      "M-2102"
+    ]
+  },
+  {
+    "sequence": "861 2 16 390",
+    "records": 2,
+    "sites": [
+      "Dholavira"
+    ],
+    "types": {
+      "SEAL:R": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "ICIT:136",
+      "ICIT:4260"
+    ]
+  },
+  {
+    "sequence": "861 2 235 222 740 / 31 32",
+    "records": 2,
+    "sites": [
+      "Chanhujo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1": 2
+    },
+    "objects": [
+      "C-53",
+      "C-58"
+    ]
+  },
+  {
+    "sequence": "861 2 236",
+    "records": 2,
+    "sites": [
+      "Lothal"
+    ],
+    "types": {
+      "TAG": 2
+    },
+    "motifs": {
+      "Bull1": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "L-130",
+      "L-131"
+    ]
+  },
+  {
+    "sequence": "861 2 240 482 740",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Bull1": 2
+    },
+    "objects": [
+      "H-2010",
+      "H-2011"
+    ]
+  },
+  {
+    "sequence": "861 2 4 407",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "Phyt": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "H-1785",
+      "M-1063"
+    ]
+  },
+  {
+    "sequence": "861 2 415 100 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:L": 1,
+      "Bull1:S": 1
+    },
+    "objects": [
+      "M-850",
+      "M-869"
+    ]
+  },
+  {
+    "sequence": "877 159 400",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 1,
+      "SEAL:R": 1
+    },
+    "motifs": {
+      "Bull1:W": 1,
+      "[unrecorded]": 1
+    },
+    "objects": [
+      "M-874",
+      "M-1305"
+    ]
+  },
+  {
+    "sequence": "896 154 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-792",
+      "H-793"
+    ]
+  },
+  {
+    "sequence": "91 368",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-1863",
+      "H-1861"
+    ]
+  },
+  {
+    "sequence": "912 740",
+    "records": 2,
+    "sites": [
+      "Lothal",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1:W": 1
+    },
+    "objects": [
+      "L-56",
+      "M-1734"
+    ]
+  },
+  {
+    "sequence": "920 220 892 202 400",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:B": 2
+    },
+    "motifs": {
+      "Phyt": 2
+    },
+    "objects": [
+      "H-183",
+      "H-184"
+    ]
+  },
+  {
+    "sequence": "920 60 741 350 504",
+    "records": 2,
+    "sites": [
+      "Harappa"
+    ],
+    "types": {
+      "TAB:I": 2
+    },
+    "motifs": {
+      "[unrecorded]": 2
+    },
+    "objects": [
+      "H-2127",
+      "H-2128"
+    ]
+  },
+  {
+    "sequence": "920 60 741 592",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:J": 1,
+      "Bull1": 1
+    },
+    "objects": [
+      "M-1790",
+      "M-854"
+    ]
+  },
+  {
+    "sequence": "923 740",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:W": 1,
+      "Bull1": 1
+    },
+    "objects": [
+      "H-32",
+      "M-846"
+    ]
+  },
+  {
+    "sequence": "927 740",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 1,
+      "TAB:B": 1
+    },
+    "motifs": {
+      "Goat:3": 1,
+      "Mult": 1
+    },
+    "objects": [
+      "M-1179",
+      "M-2021"
+    ]
+  },
+  {
+    "sequence": "97 151",
+    "records": 2,
+    "sites": [
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "SEAL:S": 2
+    },
+    "motifs": {
+      "Bull1:I": 1,
+      "Bull1": 1
+    },
+    "objects": [
+      "M-1839",
+      "M-1816"
+    ]
+  },
+  {
+    "sequence": "97 400",
+    "records": 2,
+    "sites": [
+      "Harappa",
+      "Mohenjo-daro"
+    ],
+    "types": {
+      "TAB:B": 1,
+      "SEAL:S": 1
+    },
+    "motifs": {
+      "[unrecorded]": 1,
+      "Bull1": 1
+    },
+    "objects": [
+      "H-1860",
+      "M-830"
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+# Data card
+
+## Source
+
+This project pins `data/raw/inscriptions.csv` from [`horus84/Computational_Linguistics`](https://github.com/horus84/Computational_Linguistics) at commit `ac44f08c835de3b709875441eea9d60d1811e3cf`.
+
+- SHA-256: `c368f290d8d784093d804243100de27ae6ad09df3ae37cab7432a0205d4ec9ef`
+- rows: 5,679
+- columns: 38
+- upstream license: MIT; copied to `data/raw/UPSTREAM_LICENSE`
+
+The upstream file is a secondary machine-readable transcription with ICIT-style sign identifiers and metadata. It is not a substitute for checking artifact photographs, excavation reports, or a primary concordance.
+
+## Analytic unit
+
+The main analytic unit is one line from a record that is:
+
+1. marked complete (`complete == Y`);
+2. marked with a known horizontal direction (`R/L` or `L/R`);
+3. non-empty after removing the encoded damage/gap IDs `000` and `999`.
+
+`R/L` strings are reversed from visual storage order into reading order. Multi-line records are split. This produces 3,219 lines; exact-string deduplication produces 2,082 unique sequences.
+
+## Excluded fields
+
+The upstream `sanskrit` and `translation` columns are never used. They contain proposed readings and would leak a particular decipherment theory into an ostensibly unsupervised analysis.
+
+## Quality risks
+
+| Risk | Evidence | Consequence |
+|---|---:|---|
+| Exact repetition | 35.3% of analytic line records | Random row splits would leak formulas across train/test |
+| Sparse sign inventory | 395/606 types occur fewer than five times | Rare-sign posteriors are unstable |
+| Hapax signs | 215/606 types occur once | No distributional semantics can be estimated reliably |
+| Declared/parsed count mismatch | 13 source rows | Parser or source conventions need image-level review |
+| Damage codes in complete records | 8 complete rows | “Complete” is not perfectly consistent with token encoding |
+| Missing motif | 46.4% of source rows | Motif-conditioned conclusions have selective coverage |
+| Missing cult field | 59.8% of source rows | Cult/category comparisons are weakly supported |
+| Sign inventory uncertainty | 606 observed IDs vs smaller classic sign lists | Allographs and compounds may inflate vocabulary |
+
+## Intended use
+
+Suitable for reproducible sequence-structure experiments, null-model tests, hypothesis ranking, and building an inspection interface. Not suitable on its own for secure phonetic readings, language identification, or artifact-level claims that require photographs and excavation context.

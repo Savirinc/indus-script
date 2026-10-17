@@ -1,0 +1,15 @@
+{
+  "CISI1": {
+    "url": "https://rarebooksocietyofindia.org/book_archive/CorpusVol1.pdf",
+    "printed_page": 142,
+    "pdf_page": 178,
+    "sha256": "8278d815450cb23cf04ffb1ffb43f62a6206bfc75f9a61f505b92eb41c627908"
+  },
+  "CISI2": {
+    "local_source": "indus-lab/raw/cisi-v2-searchable.pdf",
+    "printed_page": 217,
+    "pdf_page": 252,
+    "sha256": "e79d3f92ba25fbd696d42d3a1b059b8927a55a40ce2285cae61f9d0b901b0704",
+    "limitation": "Searchable derivative; poor image detail. Original source previously recorded as https://archive.org/download/corpus-vol-2_202409/CorpusVol2.pdf; not freshly retrieved in this round."
+  }
+}

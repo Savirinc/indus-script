@@ -1,0 +1,154 @@
+{
+  "inregion_round_cyl_M1": {
+    "n": 6,
+    "mean_percentile": 0.6627480884686189,
+    "p_one_sided": 0.08579571021448927,
+    "null_mean": 0.49972783148439004,
+    "null_q99": 0.768150327647366,
+    "per_text": [
+      {
+        "id": "114.1",
+        "site": "Chanhu-daro",
+        "len": 4,
+        "value": 9.03623249975566,
+        "percentile": 0.9583333333333334
+      },
+      {
+        "id": "1387.1",
+        "site": "Harappa",
+        "len": 4,
+        "value": 3.914841626628006,
+        "percentile": 0.30952380952380953
+      },
+      {
+        "id": "1388.1",
+        "site": "Harappa",
+        "len": 7,
+        "value": 6.903759876192982,
+        "percentile": 0.7647058823529411
+      },
+      {
+        "id": "1388.2",
+        "site": "Harappa",
+        "len": 2,
+        "value": 4.493392069602277,
+        "percentile": 0.20689655172413793
+      },
+      {
+        "id": "2911.1",
+        "site": "Mohenjo-daro",
+        "len": 2,
+        "value": 9.259506186864852,
+        "percentile": 0.8551724137931035
+      },
+      {
+        "id": "2912.1",
+        "site": "Mohenjo-daro",
+        "len": 5,
+        "value": 8.240047470469761,
+        "percentile": 0.8818565400843882
+      }
+    ]
+  },
+  "inregion_round_cyl_M3": {
+    "n": 6,
+    "mean_percentile": 0.6852382878074844,
+    "p_one_sided": 0.05944702764861757,
+    "null_mean": 0.5003664397853468,
+    "null_q99": 0.7697079084917187,
+    "per_text": [
+      {
+        "id": "114.1",
+        "site": "Chanhu-daro",
+        "len": 4,
+        "value": 3.166511394638837,
+        "percentile": 0.9226190476190477
+      },
+      {
+        "id": "1387.1",
+        "site": "Harappa",
+        "len": 4,
+        "value": -4.484749086943184,
+        "percentile": 0.35714285714285715
+      },
+      {
+        "id": "1388.1",
+        "site": "Harappa",
+        "len": 7,
+        "value": 7.32575485688184,
+        "percentile": 0.9705882352941176
+      },
+      {
+        "id": "1388.2",
+        "site": "Harappa",
+        "len": 2,
+        "value": -0.16124086817622718,
+        "percentile": 0.6758620689655173
+      },
+      {
+        "id": "2911.1",
+        "site": "Mohenjo-daro",
+        "len": 2,
+        "value": -0.9830184478878969,
+        "percentile": 0.3793103448275862
+      },
+      {
+        "id": "2912.1",
+        "site": "Mohenjo-daro",
+        "len": 5,
+        "value": -0.24037731974094623,
+        "percentile": 0.8059071729957806
+      }
+    ]
+  },
+  "within_FC": {
+    "observed_initial_pairs": 4,
+    "observed_shared_bigrams": 0,
+    "p_initial": 0.012549372531373431,
+    "p_bigram": 1.0,
+    "null_mean_initial": 0.78295,
+    "null_mean_bigram": 0.3301
+  },
+  "sign_positions": {
+    "091": {
+      "core_texts_with": 2,
+      "core_initial": 2,
+      "core_total": 1078,
+      "FC_texts_with": 4,
+      "FC_initial": 3,
+      "FC_total": 8
+    },
+    "055": {
+      "core_texts_with": 18,
+      "core_initial": 6,
+      "core_total": 1078,
+      "FC_texts_with": 3,
+      "FC_initial": 2,
+      "FC_total": 8
+    },
+    "031": {
+      "core_texts_with": 78,
+      "core_initial": 24,
+      "core_total": 1078,
+      "FC_texts_with": 3,
+      "FC_initial": 0,
+      "FC_total": 8
+    },
+    "220": {
+      "core_texts_with": 137,
+      "core_initial": 7,
+      "core_total": 1078,
+      "FC_texts_with": 3,
+      "FC_initial": 0,
+      "FC_total": 8
+    },
+    "001": {
+      "core_texts_with": 61,
+      "core_initial": 2,
+      "core_total": 1078,
+      "FC_texts_with": 3,
+      "FC_initial": 0,
+      "FC_total": 8
+    }
+  }
+}

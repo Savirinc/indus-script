@@ -1,0 +1,152 @@
+[
+  {
+    "type": "BNGL",
+    "records": 4,
+    "distinct_sequences": 4,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "IMPL",
+    "records": 8,
+    "distinct_sequences": 8,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "MISC",
+    "records": 13,
+    "distinct_sequences": 13,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "Oth",
+    "records": 1,
+    "distinct_sequences": 1,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "POT:T:g",
+    "records": 47,
+    "distinct_sequences": 44,
+    "excess_copy_fraction": 0.0638
+  },
+  {
+    "type": "POT:T:p",
+    "records": 2,
+    "distinct_sequences": 2,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "POT:T:s",
+    "records": 21,
+    "distinct_sequences": 18,
+    "excess_copy_fraction": 0.1429
+  },
+  {
+    "type": "ROD",
+    "records": 17,
+    "distinct_sequences": 14,
+    "excess_copy_fraction": 0.1765
+  },
+  {
+    "type": "SEAL",
+    "records": 11,
+    "distinct_sequences": 11,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "SEAL:C",
+    "records": 11,
+    "distinct_sequences": 11,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "SEAL:CY",
+    "records": 3,
+    "distinct_sequences": 3,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "SEAL:L",
+    "records": 1,
+    "distinct_sequences": 1,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "SEAL:R",
+    "records": 232,
+    "distinct_sequences": 224,
+    "excess_copy_fraction": 0.0345
+  },
+  {
+    "type": "SEAL:S",
+    "records": 1211,
+    "distinct_sequences": 1127,
+    "excess_copy_fraction": 0.0694
+  },
+  {
+    "type": "TAB:B",
+    "records": 456,
+    "distinct_sequences": 274,
+    "excess_copy_fraction": 0.3991
+  },
+  {
+    "type": "TAB:C",
+    "records": 149,
+    "distinct_sequences": 49,
+    "excess_copy_fraction": 0.6711
+  },
+  {
+    "type": "TAB:I",
+    "records": 292,
+    "distinct_sequences": 156,
+    "excess_copy_fraction": 0.4658
+  },
+  {
+    "type": "TAG",
+    "records": 26,
+    "distinct_sequences": 17,
+    "excess_copy_fraction": 0.3462
+  },
+  {
+    "type": "TAG:B",
+    "records": 10,
+    "distinct_sequences": 1,
+    "excess_copy_fraction": 0.9
+  },
+  {
+    "type": "TAG:C",
+    "records": 1,
+    "distinct_sequences": 1,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "TAG:L",
+    "records": 12,
+    "distinct_sequences": 7,
+    "excess_copy_fraction": 0.4167
+  },
+  {
+    "type": "TAG:O",
+    "records": 3,
+    "distinct_sequences": 3,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "TAG:P",
+    "records": 9,
+    "distinct_sequences": 9,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "TAG:R",
+    "records": 1,
+    "distinct_sequences": 1,
+    "excess_copy_fraction": 0.0
+  },
+  {
+    "type": "TAG:W",
+    "records": 2,
+    "distinct_sequences": 2,
+    "excess_copy_fraction": 0.0
+  }
+]

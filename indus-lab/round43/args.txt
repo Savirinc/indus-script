@@ -1,0 +1,1 @@
+/tmp/claude-0/-home-claude/9c80a2c9-382f-522b-9621-b5cf62df3711/scratchpad/substrate/kuiper.txt /home/claude/ext/moli-mandala_data ../external/dravidian_db_v1.1 /home/claude/ext/lexibank_ids /home/claude/j-luo93/neurodecipher/data/linear_b-greek.cog

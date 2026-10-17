@@ -1,0 +1,14 @@
+{
+  "records": 2543,
+  "sites": 52,
+  "records_with_cisi": 2375,
+  "distinct_object_sequences": 1903,
+  "tokens_without_expanding_compounds": 11134,
+  "motif_recorded": 1622,
+  "source_transcription": "Bourdeau corpus.tsv, ICIT-derived; not independently read from photographs",
+  "exact_sequence_repeat_groups": 233,
+  "cross_site_repeat_groups": 75,
+  "eligible_complete_direction_records": 2543,
+  "single_substitution_edges": 771,
+  "image_views_reviewed": 0
+}

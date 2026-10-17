@@ -1,0 +1,37 @@
+# external clones created by setup/setup_external.sh (~1 GB)
+ext/
+# manual inputs the user supplies locally
+data/kuiper.txt
+data/sources/*
+!data/sources/.keep
+# caches
+__pycache__/
+*.pyc
+.DS_Store
+# files deliberately not redistributed; see docs/excluded-files-manifest.json
+indus-lab/raw/*.ttf
+indus-lab/raw/*.pdf
+indus-lab/review08/photos/*.jpg
+indus-lab/review08/photos/*.png
+indus-lab/round10/photos/cisi*
+indus-lab/round10/photos/parpola*
+indus-lab/round11/cisi1-page*.png
+indus-lab/round13/cisi1-page*.png
+indus-lab/round17/photos/*
+!indus-lab/round17/photos/.gitkeep
+indus-lab/round18/images/*
+!indus-lab/round18/images/.gitkeep
+indus-lab/round24/plates/*
+!indus-lab/round24/plates/.gitkeep
+indus-lab/round25/plates/*
+!indus-lab/round25/plates/.gitkeep
+indus-lab/round26/images/*
+!indus-lab/round26/images/.gitkeep
+indus-lab/round31/images/gadd*
+indus-lab/round31/images/mahadevan*
+indus-lab/round46-brahmi-coverage/app.js
+indus-lab/round46-brahmi-coverage/explorer.html
+indus-lab/round46-brahmi-coverage/icit.js
+indus-lab/round46-brahmi-coverage/signs.js
+indus-lab/round46-brahmi-coverage/tree.json
+indus-lab/round46-brahmi-coverage/lipi-index.vue

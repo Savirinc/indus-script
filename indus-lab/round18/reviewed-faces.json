@@ -1,0 +1,525 @@
+[
+  {
+    "face_id": "M-1543-A",
+    "object_id": "M-1543",
+    "catalogue_face_label": "A",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1543-A.png",
+    "bbox_xyxy_native_pixels": [
+      75,
+      120,
+      351,
+      324
+    ],
+    "pixel_dimensions": [
+      276,
+      204
+    ],
+    "crop_sha256": "8061b2786df323beb365ad30998b2f48fe375c5ae091c60c90cd9bcad06a1d6d",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false,
+    "reviews": [
+      {
+        "reviewer": "a",
+        "visible_features": "Dark, roughly rectangular face with dense mottling and fine surface striations. Scattered short linear and curved traces are faintly visible, especially toward the lower portion, but do not form a securely traceable row.",
+        "full_sequence_readable": false,
+        "full_sequence": null,
+        "rationale": "Low contrast and surface texture prevent reliable identification of all intentional strokes, their boundaries, or their order. An unreadable sequence is not evidence of an empty face."
+      },
+      {
+        "reviewer": "b",
+        "visible_features": [
+          "Broad rectangular face with rounded corners and very dark, mottled surface reproduction.",
+          "Scattered pale speckles and faint irregular linear or curved traces; no securely separable complete row of marks."
+        ],
+        "full_sequence_readable": false,
+        "sequence": null,
+        "rationale": "Abstain. At the supplied native image resolution, surface texture and possible grooves cannot be reliably separated across the whole face. This is unknown content, not an observation of an empty face."
+      }
+    ],
+    "full_sequence_readability_agreement": true,
+    "needs_better_image": true,
+    "consensus_status": "abstain: full sequence not readable"
+  },
+  {
+    "face_id": "M-1543-B",
+    "object_id": "M-1543",
+    "catalogue_face_label": "B",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1543-B.png",
+    "bbox_xyxy_native_pixels": [
+      451,
+      119,
+      724,
+      326
+    ],
+    "pixel_dimensions": [
+      273,
+      207
+    ],
+    "crop_sha256": "39c6141324a5a58f1ce37e3f4f1767183e4398fb73ac9afea122b234a00ee6fc",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false,
+    "reviews": [
+      {
+        "reviewer": "a",
+        "visible_features": "A largely dark, mottled rectangular face. A small dark angular marking lies near the lower edge; other fine linear traces are weak and scattered. No complete ordered series can be followed visually.",
+        "full_sequence_readable": false,
+        "full_sequence": null,
+        "rationale": "The lower marking cannot be securely classified or integrated with the indistinct surface traces. A full set of engraved units and their boundaries is not visible."
+      },
+      {
+        "reviewer": "b",
+        "visible_features": [
+          "Dark rectangular face with uneven tonal patches and faint approximately vertical and transverse traces.",
+          "A group of darker short marks is visible near the lower edge, but the image does not establish whether these are grooves or surface-applied markings."
+        ],
+        "full_sequence_readable": false,
+        "sequence": null,
+        "rationale": "Abstain. Neither the extent of an incised sequence nor the boundaries of its units are secure. Lower-edge contrast is insufficient to recover a full sequence."
+      }
+    ],
+    "full_sequence_readability_agreement": true,
+    "needs_better_image": true,
+    "consensus_status": "abstain: full sequence not readable"
+  },
+  {
+    "face_id": "M-1544-A",
+    "object_id": "M-1544",
+    "catalogue_face_label": "A",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1544-A.png",
+    "bbox_xyxy_native_pixels": [
+      74,
+      388,
+      371,
+      636
+    ],
+    "pixel_dimensions": [
+      297,
+      248
+    ],
+    "crop_sha256": "884523897cdab515316226b44e4f2a2252dfe9013db5ea10a84bbac58687b88a",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false,
+    "reviews": [
+      {
+        "reviewer": "a",
+        "visible_features": "Irregular-edged, heavily mottled face with scattered short upright, oblique, and curved-looking traces. Some central oblique traces appear to intersect, but their continuity is unclear. The right edge has a projecting irregular section.",
+        "full_sequence_readable": false,
+        "full_sequence": null,
+        "rationale": "Texture and damage obscure junctions and endpoints. Neither a complete line nor a defensible set of unit boundaries can be recovered."
+      },
+      {
+        "reviewer": "b",
+        "visible_features": [
+          "Rough, densely mottled surface with uneven edges and a projection along the right side.",
+          "Numerous small ridges, pits and irregular linear traces overlap visually."
+        ],
+        "full_sequence_readable": false,
+        "sequence": null,
+        "rationale": "Abstain. The surface is visible, but a complete set of intentional marks cannot be isolated from its irregular texture. No empty-sequence inference is warranted."
+      }
+    ],
+    "full_sequence_readability_agreement": true,
+    "needs_better_image": true,
+    "consensus_status": "abstain: full sequence not readable"
+  },
+  {
+    "face_id": "M-1544-B",
+    "object_id": "M-1544",
+    "catalogue_face_label": "B",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1544-B.png",
+    "bbox_xyxy_native_pixels": [
+      436,
+      388,
+      729,
+      636
+    ],
+    "pixel_dimensions": [
+      293,
+      248
+    ],
+    "crop_sha256": "b2cebc677926a54306556936ac95d00404ad175e6218eb7f1778b42a2f4da37b",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false,
+    "reviews": [
+      {
+        "reviewer": "a",
+        "visible_features": "Rough, irregular-edged face with diffuse light and dark patches. Partial curving and angular traces occur toward the upper-left and central regions, but none can be followed as a complete ordered sequence.",
+        "full_sequence_readable": false,
+        "full_sequence": null,
+        "rationale": "The visible fragments are insufficient to separate intentional markings from surface relief or to reconstruct all missing connections."
+      },
+      {
+        "reviewer": "b",
+        "visible_features": [
+          "Rough face with rounded depressions near its upper area, uneven patches and a strongly irregular left edge.",
+          "Short dark and light traces occur throughout, without a reliably traceable complete arrangement."
+        ],
+        "full_sequence_readable": false,
+        "sequence": null,
+        "rationale": "Abstain. Surface relief and image grain prevent dependable separation of deliberate grooves, damage and texture over the whole face."
+      }
+    ],
+    "full_sequence_readability_agreement": true,
+    "needs_better_image": true,
+    "consensus_status": "abstain: full sequence not readable"
+  },
+  {
+    "face_id": "M-1545-A",
+    "object_id": "M-1545",
+    "catalogue_face_label": "A",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1545-A.png",
+    "bbox_xyxy_native_pixels": [
+      39,
+      695,
+      223,
+      844
+    ],
+    "pixel_dimensions": [
+      184,
+      149
+    ],
+    "crop_sha256": "34df110e8f612ded2b08914479668f18497858f9ab42ad9faedfabab5fa0b190",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false,
+    "reviews": [
+      {
+        "reviewer": "a",
+        "visible_features": "Broken rectangular fragment with conspicuous bright jagged lines crossing the upper portion and descending near the right side. Finer upright and curved traces appear within the remaining surface, especially around the middle and lower-left, but are interrupted.",
+        "full_sequence_readable": false,
+        "full_sequence": null,
+        "rationale": "Fracture-like lines and incomplete fine traces cannot be cleanly separated throughout the face. The preserved image does not support a complete transcription."
+      },
+      {
+        "reviewer": "b",
+        "visible_features": [
+          "Dark, approximately rectangular fragment with an irregular upper-left outline.",
+          "A conspicuous pale irregular line runs near the right side from the upper area toward the bottom; branching or crossing irregular lines occur above the middle.",
+          "Fine transverse surface banding and other faint short traces are visible."
+        ],
+        "full_sequence_readable": false,
+        "sequence": null,
+        "rationale": "Abstain. The prominent irregular lines are compatible with cracks or damage and cannot safely be treated as a complete sequence of incisions. Other possible marks are insufficiently resolved."
+      }
+    ],
+    "full_sequence_readability_agreement": true,
+    "needs_better_image": true,
+    "consensus_status": "abstain: full sequence not readable"
+  },
+  {
+    "face_id": "M-1545-B",
+    "object_id": "M-1545",
+    "catalogue_face_label": "B",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1545-B.png",
+    "bbox_xyxy_native_pixels": [
+      277,
+      691,
+      459,
+      844
+    ],
+    "pixel_dimensions": [
+      182,
+      153
+    ],
+    "crop_sha256": "b326176db83fd5dd88c14b3cac1d4a9f724243dfa52e43a73830a63502d14260",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false,
+    "reviews": [
+      {
+        "reviewer": "a",
+        "visible_features": "Irregular fragment with bright fracture-like traces near the upper edge, a short upright or kinked pale trace near the upper-left, and a partial arc around the center-right. Additional fine marks are diffuse.",
+        "full_sequence_readable": false,
+        "full_sequence": null,
+        "rationale": "Some local forms can be described, but their membership, connections, and sequence boundaries are unresolved. Broken margins further limit completeness."
+      },
+      {
+        "reviewer": "b",
+        "visible_features": [
+          "Fragment with uneven upper and right edges and a mottled dark surface.",
+          "Several fine curved or angular traces cross its upper and middle areas, with brighter irregular lines near the top."
+        ],
+        "full_sequence_readable": false,
+        "sequence": null,
+        "rationale": "Abstain. Some local traces can be followed briefly, but their junctions, endpoints and distinction from damage are uncertain. A full sequence is not recoverable from this view."
+      }
+    ],
+    "full_sequence_readability_agreement": true,
+    "needs_better_image": true,
+    "consensus_status": "abstain: full sequence not readable"
+  },
+  {
+    "face_id": "M-1546-A",
+    "object_id": "M-1546",
+    "catalogue_face_label": "A",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1546-A.png",
+    "bbox_xyxy_native_pixels": [
+      508,
+      697,
+      614,
+      823
+    ],
+    "pixel_dimensions": [
+      106,
+      126
+    ],
+    "crop_sha256": "3ba463cfd5e5ace65863bf1a761b000278ca74973a342e4bfc61d8dc5c2e9b85",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false,
+    "reviews": [
+      {
+        "reviewer": "a",
+        "visible_features": "Small fragment with a broad upper edge and narrowed lower end. Its surface is dark and mottled; a few short pale angular or curved traces are visible near the lower-middle area.",
+        "full_sequence_readable": false,
+        "full_sequence": null,
+        "rationale": "Only fragmentary traces are discernible. They cannot be organized into a complete sequence, and the broken outline prevents assuming completeness."
+      },
+      {
+        "reviewer": "b",
+        "visible_features": [
+          "Small dark fragment narrowing to an irregular lower point, with a notched left edge.",
+          "A few short pale curved or angular traces appear in the lower-middle region; the remaining surface is weakly differentiated."
+        ],
+        "full_sequence_readable": false,
+        "sequence": null,
+        "rationale": "Abstain. The fragment occupies few image pixels and its local traces do not define an unambiguous complete sequence. Missing or indistinct portions cannot be reconstructed."
+      }
+    ],
+    "full_sequence_readability_agreement": true,
+    "needs_better_image": true,
+    "consensus_status": "abstain: full sequence not readable"
+  },
+  {
+    "face_id": "M-1546-B",
+    "object_id": "M-1546",
+    "catalogue_face_label": "B",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1546-B.png",
+    "bbox_xyxy_native_pixels": [
+      656,
+      697,
+      768,
+      823
+    ],
+    "pixel_dimensions": [
+      112,
+      126
+    ],
+    "crop_sha256": "e5d2d889e7b231d8d774cdefedbc9f4a4f2925c3df7ab8f6e6d04d128fb4ff37",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false,
+    "reviews": [
+      {
+        "reviewer": "a",
+        "visible_features": "Small irregular fragment with a prominent pale rough patch near the center-right and fine approximately horizontal surface striations. No continuous ordered line of distinct forms is resolved.",
+        "full_sequence_readable": false,
+        "full_sequence": null,
+        "rationale": "The pale patch and surface texture do not provide securely bounded units. No full transcription is supportable from this view."
+      },
+      {
+        "reviewer": "b",
+        "visible_features": [
+          "Small dark fragment with an irregular lower edge and an uneven right side.",
+          "A broad bright patch dominates the central-to-lower area, with surrounding speckled texture."
+        ],
+        "full_sequence_readable": false,
+        "sequence": null,
+        "rationale": "Abstain. The bright patch and dark surrounding surface do not resolve into a clearly bounded arrangement of incisions. The face cannot be classified as blank from this reproduction."
+      }
+    ],
+    "full_sequence_readability_agreement": true,
+    "needs_better_image": true,
+    "consensus_status": "abstain: full sequence not readable"
+  },
+  {
+    "face_id": "M-1547-A",
+    "object_id": "M-1547",
+    "catalogue_face_label": "A",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1547-A.png",
+    "bbox_xyxy_native_pixels": [
+      93,
+      909,
+      355,
+      1046
+    ],
+    "pixel_dimensions": [
+      262,
+      137
+    ],
+    "crop_sha256": "a5ac922e03bebde739617893b34c3f9c6532d2c9719e31598f22aec061646833",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false,
+    "reviews": [
+      {
+        "reviewer": "a",
+        "visible_features": "Elongated rectangular face with faint linear marks across its lower-middle region. A strong dark diagonal fracture-like feature descends from the upper edge through the central area. A small group of short uprights is visible right of center, with weaker curved and angular traces nearby and farther left.",
+        "full_sequence_readable": false,
+        "full_sequence": null,
+        "rationale": "The central interruption and weak surrounding marks prevent a complete position-by-position tracing. A few local features are visible, but missing units must not be supplied from comparisons."
+      },
+      {
+        "reviewer": "b",
+        "visible_features": [
+          "Elongated rectangular face with a prominent dark irregular diagonal line descending from near the upper middle.",
+          "A shallow curved trace and several short approximately vertical traces appear around the lower-middle/right area.",
+          "An isolated short pale vertical trace appears farther left; a bright patch occurs at the upper-right corner."
+        ],
+        "full_sequence_readable": false,
+        "sequence": null,
+        "rationale": "Abstain. This face offers several more recognizable local traces, but their full boundaries and relationships remain uncertain. The diagonal discontinuity and low contrast prevent a confident complete sequence."
+      }
+    ],
+    "full_sequence_readability_agreement": true,
+    "needs_better_image": true,
+    "consensus_status": "abstain: full sequence not readable"
+  },
+  {
+    "face_id": "M-1547-B",
+    "object_id": "M-1547",
+    "catalogue_face_label": "B",
+    "source_id": "CISI2-1991-scan",
+    "pdf_page_1based": 261,
+    "printed_page": "226",
+    "source_image": "images/cisi2-pdf261-original.jpg",
+    "crop_image": "images/M-1547-B.png",
+    "bbox_xyxy_native_pixels": [
+      436,
+      909,
+      699,
+      1050
+    ],
+    "pixel_dimensions": [
+      263,
+      141
+    ],
+    "crop_sha256": "d99e6c6a068b880348c9709973bb65b000cd001e60809b439cc9bce1389e17a1",
+    "orientation": "as published; no rotation or mirroring",
+    "reading_direction": null,
+    "transcription": null,
+    "transcription_status": "not independently recovered",
+    "missing_or_unreadable_is_not_blank": true,
+    "segmentation": null,
+    "catalogue_link_method": "manual pairing of printed A/B captions; not physical-object authentication",
+    "production_family_id": null,
+    "group_membership_verified": false,
+    "reviews": [
+      {
+        "reviewer": "a",
+        "visible_features": "Elongated face with a narrow upright, partly enclosed or U-like outline near the center and short crosswise or oblique marks within or beside it. A broad dark vertical band overlaps this area. Additional weak curved or upright traces occur to the right.",
+        "full_sequence_readable": false,
+        "full_sequence": null,
+        "rationale": "The central form is only partly traceable, its internal connections are uncertain, and the other marks are indistinct. A complete ordered sequence cannot be certified."
+      },
+      {
+        "reviewer": "b",
+        "visible_features": [
+          "Elongated rectangular face with a broad dark, roughly vertical irregular band near its center.",
+          "Narrow pale traces run beside the central band, and lighter irregular streaks occur toward the right.",
+          "Most of the surface remains finely mottled with low local contrast."
+        ],
+        "full_sequence_readable": false,
+        "sequence": null,
+        "rationale": "Abstain. The central discontinuity appears compatible with damage, while adjacent potential grooves are incomplete or poorly separated from surface texture. Full-sequence recovery is not defensible at this resolution."
+      }
+    ],
+    "full_sequence_readability_agreement": true,
+    "needs_better_image": true,
+    "consensus_status": "abstain: full sequence not readable"
+  }
+]

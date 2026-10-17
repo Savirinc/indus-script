@@ -1,0 +1,307 @@
+{
+  "status": "Exploratory, selected sign and imagery label; nominal p values not selection-adjusted.",
+  "protocol_sha256": "5cea29a798650f686791c7a58428fada2a3e7d40337cdbe0bf36169e5780f3c9",
+  "category_definition": "Gavi label vs other specific labels; raw Mult, Othr, None, missing separated. Label is not actual motif presence or absence.",
+  "by_site": {
+    "Harappa": {
+      "raw_label_counts": {
+        "-": {
+          "without400": 1,
+          "with400": 1,
+          "total": 2
+        },
+        "Anth": {
+          "without400": 1,
+          "with400": 1,
+          "total": 2
+        },
+        "Bird": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Bull": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Bull1": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Bull1:I": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Bull1:S": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Bull2": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Bult": {
+          "without400": 5,
+          "with400": 2,
+          "total": 7
+        },
+        "Elep": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Fish": {
+          "without400": 0,
+          "with400": 1,
+          "total": 1
+        },
+        "Gaur": {
+          "without400": 1,
+          "with400": 1,
+          "total": 2
+        },
+        "Gavi": {
+          "without400": 3,
+          "with400": 6,
+          "total": 9
+        },
+        "Goat:4": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Mult": {
+          "without400": 5,
+          "with400": 3,
+          "total": 8
+        },
+        "None": {
+          "without400": 59,
+          "with400": 41,
+          "total": 100
+        },
+        "Othr": {
+          "without400": 0,
+          "with400": 1,
+          "total": 1
+        },
+        "Phyt": {
+          "without400": 11,
+          "with400": 4,
+          "total": 15
+        },
+        "Pipal": {
+          "without400": 0,
+          "with400": 1,
+          "total": 1
+        },
+        "Scene": {
+          "without400": 3,
+          "with400": 1,
+          "total": 4
+        },
+        "T-A-T": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Xhch": {
+          "without400": 0,
+          "with400": 1,
+          "total": 1
+        },
+        "Zebu": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        }
+      },
+      "category_counts": {
+        "Gavi_label": {
+          "without400": 3,
+          "with400": 6,
+          "total": 9
+        },
+        "Mult": {
+          "without400": 5,
+          "with400": 3,
+          "total": 8
+        },
+        "Othr": {
+          "without400": 0,
+          "with400": 1,
+          "total": 1
+        },
+        "missing": {
+          "without400": 1,
+          "with400": 1,
+          "total": 2
+        },
+        "other_specific_label": {
+          "without400": 31,
+          "with400": 12,
+          "total": 43
+        },
+        "raw_None": {
+          "without400": 59,
+          "with400": 41,
+          "total": 100
+        }
+      },
+      "comparisons": {
+        "specific_labels": {
+          "status": "estimated",
+          "groups": 52,
+          "table_rows_Gavi_other_cols_400_present_absent": [
+            [
+              6,
+              3
+            ],
+            [
+              12,
+              31
+            ]
+          ],
+          "length_conditioned": {
+            "exact_two_sided_p": 0.04667558104090616,
+            "mantel_haenszel_odds_ratio": 6.555178268251274,
+            "informative_strata": 3,
+            "informative_groups": 46,
+            "conditional_common_odds_ratio": 5.76888790552822,
+            "conditional_exact_95pct_ci": [
+              0.9107091721714887,
+              63.88778695431829
+            ],
+            "observed_Gavi_with_sign": 6,
+            "null_expected_Gavi_with_sign": 3.1298245614035083,
+            "equal_tail_two_sided_p": 0.06667814469672058
+          }
+        },
+        "include_Mult_Othr": {
+          "status": "estimated",
+          "groups": 61,
+          "table_rows_Gavi_other_cols_400_present_absent": [
+            [
+              6,
+              3
+            ],
+            [
+              16,
+              36
+            ]
+          ],
+          "length_conditioned": {
+            "exact_two_sided_p": 0.04659895730867599,
+            "mantel_haenszel_odds_ratio": 7.1918446601941755,
+            "informative_strata": 3,
+            "informative_groups": 55,
+            "conditional_common_odds_ratio": 5.836654515050442,
+            "conditional_exact_95pct_ci": [
+              0.9169201788546649,
+              65.30321693535163
+            ],
+            "observed_Gavi_with_sign": 6,
+            "null_expected_Gavi_with_sign": 3.11420814479638,
+            "equal_tail_two_sided_p": 0.06534625221325993
+          }
+        }
+      }
+    },
+    "Mohenjo-daro": {
+      "raw_label_counts": {
+        "-": {
+          "without400": 3,
+          "with400": 0,
+          "total": 3
+        },
+        "Anth": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Bull1": {
+          "without400": 3,
+          "with400": 0,
+          "total": 3
+        },
+        "Cros": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Gaur": {
+          "without400": 1,
+          "with400": 0,
+          "total": 1
+        },
+        "Mult": {
+          "without400": 5,
+          "with400": 4,
+          "total": 9
+        },
+        "None": {
+          "without400": 5,
+          "with400": 3,
+          "total": 8
+        },
+        "Scene": {
+          "without400": 3,
+          "with400": 0,
+          "total": 3
+        }
+      },
+      "category_counts": {
+        "Mult": {
+          "without400": 5,
+          "with400": 4,
+          "total": 9
+        },
+        "missing": {
+          "without400": 3,
+          "with400": 0,
+          "total": 3
+        },
+        "other_specific_label": {
+          "without400": 9,
+          "with400": 0,
+          "total": 9
+        },
+        "raw_None": {
+          "without400": 5,
+          "with400": 3,
+          "total": 8
+        }
+      },
+      "comparisons": {
+        "specific_labels": {
+          "status": "not_estimable_no_both_label_classes",
+          "groups": 9,
+          "Gavi_groups": 0
+        },
+        "include_Mult_Othr": {
+          "status": "not_estimable_no_both_label_classes",
+          "groups": 18,
+          "Gavi_groups": 0
+        }
+      }
+    }
+  },
+  "M482_audit": {
+    "raw": {
+      "id": "2966.1",
+      "cisi": "M-482",
+      "symbol": "Mult",
+      "type": "TAB:B",
+      "text": "+400-740-803+",
+      "sides": "1"
+    },
+    "observation": "Coordinator reports photographic Gavi on M-482. This agent has not independently inspected that photograph.",
+    "interpretation": "Mult is not a negative Gavi label: one image category cannot express all motifs on an object. This does not by itself prove a catalogue error.",
+    "consequence": "Neither Gavi vs other labels nor raw None vs labelled picture constitutes validated motif presence/absence."
+  }
+}

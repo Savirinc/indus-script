@@ -1,0 +1,72 @@
+[
+  {
+    "face_id": "M-1543-A",
+    "priority": "next",
+    "reason": "Resolve an unmatched catalogue object and its visible markings",
+    "requested_evidence": "higher-resolution original photo or independent early plate; retain catalogue caption and accession ID",
+    "no_model_filling": true
+  },
+  {
+    "face_id": "M-1543-B",
+    "priority": "next",
+    "reason": "Resolve an unmatched catalogue object and its visible markings",
+    "requested_evidence": "higher-resolution original photo or independent early plate; retain catalogue caption and accession ID",
+    "no_model_filling": true
+  },
+  {
+    "face_id": "M-1544-A",
+    "priority": "next",
+    "reason": "Resolve an unmatched catalogue object and its visible markings",
+    "requested_evidence": "higher-resolution original photo or independent early plate; retain catalogue caption and accession ID",
+    "no_model_filling": true
+  },
+  {
+    "face_id": "M-1544-B",
+    "priority": "next",
+    "reason": "Resolve an unmatched catalogue object and its visible markings",
+    "requested_evidence": "higher-resolution original photo or independent early plate; retain catalogue caption and accession ID",
+    "no_model_filling": true
+  },
+  {
+    "face_id": "M-1545-A",
+    "priority": "next",
+    "reason": "Resolve an unmatched catalogue object and its visible markings",
+    "requested_evidence": "higher-resolution original photo or independent early plate; retain catalogue caption and accession ID",
+    "no_model_filling": true
+  },
+  {
+    "face_id": "M-1545-B",
+    "priority": "next",
+    "reason": "Resolve an unmatched catalogue object and its visible markings",
+    "requested_evidence": "higher-resolution original photo or independent early plate; retain catalogue caption and accession ID",
+    "no_model_filling": true
+  },
+  {
+    "face_id": "M-1546-A",
+    "priority": "next",
+    "reason": "Resolve an unmatched catalogue object and its visible markings",
+    "requested_evidence": "higher-resolution original photo or independent early plate; retain catalogue caption and accession ID",
+    "no_model_filling": true
+  },
+  {
+    "face_id": "M-1546-B",
+    "priority": "next",
+    "reason": "Resolve an unmatched catalogue object and its visible markings",
+    "requested_evidence": "higher-resolution original photo or independent early plate; retain catalogue caption and accession ID",
+    "no_model_filling": true
+  },
+  {
+    "face_id": "M-1547-A",
+    "priority": "first",
+    "reason": "Resolve existing imported sequence and proposed paired-reverse constraint",
+    "requested_evidence": "higher-resolution original photo or independent early plate; retain catalogue caption and accession ID",
+    "no_model_filling": true
+  },
+  {
+    "face_id": "M-1547-B",
+    "priority": "first",
+    "reason": "Resolve existing imported sequence and proposed paired-reverse constraint",
+    "requested_evidence": "higher-resolution original photo or independent early plate; retain catalogue caption and accession ID",
+    "no_model_filling": true
+  }
+]

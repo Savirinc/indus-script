@@ -1,0 +1,5399 @@
+[
+  {
+    "left": "104 4 390",
+    "right": "260 4 390",
+    "position": 1,
+    "left_sign": "104",
+    "right_sign": "260"
+  },
+  {
+    "left": "104 4 390",
+    "right": "491 4 390",
+    "position": 1,
+    "left_sign": "104",
+    "right_sign": "491"
+  },
+  {
+    "left": "104 4 390",
+    "right": "817 4 390",
+    "position": 1,
+    "left_sign": "104",
+    "right_sign": "817"
+  },
+  {
+    "left": "260 4 390",
+    "right": "491 4 390",
+    "position": 1,
+    "left_sign": "260",
+    "right_sign": "491"
+  },
+  {
+    "left": "260 4 390",
+    "right": "817 4 390",
+    "position": 1,
+    "left_sign": "260",
+    "right_sign": "817"
+  },
+  {
+    "left": "491 4 390",
+    "right": "817 4 390",
+    "position": 1,
+    "left_sign": "491",
+    "right_sign": "817"
+  },
+  {
+    "left": "104 4 390",
+    "right": "104 4 405",
+    "position": 3,
+    "left_sign": "390",
+    "right_sign": "405"
+  },
+  {
+    "left": "104 4 405",
+    "right": "747 4 405",
+    "position": 1,
+    "left_sign": "104",
+    "right_sign": "747"
+  },
+  {
+    "left": "118 153 400",
+    "right": "118 156 400",
+    "position": 2,
+    "left_sign": "153",
+    "right_sign": "156"
+  },
+  {
+    "left": "125 861 740",
+    "right": "140 861 740",
+    "position": 1,
+    "left_sign": "125",
+    "right_sign": "140"
+  },
+  {
+    "left": "125 861 740",
+    "right": "877 861 740",
+    "position": 1,
+    "left_sign": "125",
+    "right_sign": "877"
+  },
+  {
+    "left": "140 861 740",
+    "right": "877 861 740",
+    "position": 1,
+    "left_sign": "140",
+    "right_sign": "877"
+  },
+  {
+    "left": "13 840 740",
+    "right": "2 840 740",
+    "position": 1,
+    "left_sign": "13",
+    "right_sign": "2"
+  },
+  {
+    "left": "13 840 740",
+    "right": "416 840 740",
+    "position": 1,
+    "left_sign": "13",
+    "right_sign": "416"
+  },
+  {
+    "left": "2 840 740",
+    "right": "416 840 740",
+    "position": 1,
+    "left_sign": "2",
+    "right_sign": "416"
+  },
+  {
+    "left": "13 840 760 740",
+    "right": "799 840 760 740",
+    "position": 1,
+    "left_sign": "13",
+    "right_sign": "799"
+  },
+  {
+    "left": "133 31 156",
+    "right": "240 31 156",
+    "position": 1,
+    "left_sign": "133",
+    "right_sign": "240"
+  },
+  {
+    "left": "14 32 740 400",
+    "right": "15 32 740 400",
+    "position": 1,
+    "left_sign": "14",
+    "right_sign": "15"
+  },
+  {
+    "left": "14 32 740 400",
+    "right": "25 32 740 400",
+    "position": 1,
+    "left_sign": "14",
+    "right_sign": "25"
+  },
+  {
+    "left": "14 32 740 400",
+    "right": "27 32 740 400",
+    "position": 1,
+    "left_sign": "14",
+    "right_sign": "27"
+  },
+  {
+    "left": "14 32 740 400",
+    "right": "28 32 740 400",
+    "position": 1,
+    "left_sign": "14",
+    "right_sign": "28"
+  },
+  {
+    "left": "14 32 740 400",
+    "right": "59 32 740 400",
+    "position": 1,
+    "left_sign": "14",
+    "right_sign": "59"
+  },
+  {
+    "left": "14 32 740 400",
+    "right": "840 32 740 400",
+    "position": 1,
+    "left_sign": "14",
+    "right_sign": "840"
+  },
+  {
+    "left": "15 32 740 400",
+    "right": "25 32 740 400",
+    "position": 1,
+    "left_sign": "15",
+    "right_sign": "25"
+  },
+  {
+    "left": "15 32 740 400",
+    "right": "27 32 740 400",
+    "position": 1,
+    "left_sign": "15",
+    "right_sign": "27"
+  },
+  {
+    "left": "15 32 740 400",
+    "right": "28 32 740 400",
+    "position": 1,
+    "left_sign": "15",
+    "right_sign": "28"
+  },
+  {
+    "left": "15 32 740 400",
+    "right": "59 32 740 400",
+    "position": 1,
+    "left_sign": "15",
+    "right_sign": "59"
+  },
+  {
+    "left": "15 32 740 400",
+    "right": "840 32 740 400",
+    "position": 1,
+    "left_sign": "15",
+    "right_sign": "840"
+  },
+  {
+    "left": "25 32 740 400",
+    "right": "27 32 740 400",
+    "position": 1,
+    "left_sign": "25",
+    "right_sign": "27"
+  },
+  {
+    "left": "25 32 740 400",
+    "right": "28 32 740 400",
+    "position": 1,
+    "left_sign": "25",
+    "right_sign": "28"
+  },
+  {
+    "left": "25 32 740 400",
+    "right": "59 32 740 400",
+    "position": 1,
+    "left_sign": "25",
+    "right_sign": "59"
+  },
+  {
+    "left": "25 32 740 400",
+    "right": "840 32 740 400",
+    "position": 1,
+    "left_sign": "25",
+    "right_sign": "840"
+  },
+  {
+    "left": "27 32 740 400",
+    "right": "28 32 740 400",
+    "position": 1,
+    "left_sign": "27",
+    "right_sign": "28"
+  },
+  {
+    "left": "27 32 740 400",
+    "right": "59 32 740 400",
+    "position": 1,
+    "left_sign": "27",
+    "right_sign": "59"
+  },
+  {
+    "left": "27 32 740 400",
+    "right": "840 32 740 400",
+    "position": 1,
+    "left_sign": "27",
+    "right_sign": "840"
+  },
+  {
+    "left": "28 32 740 400",
+    "right": "59 32 740 400",
+    "position": 1,
+    "left_sign": "28",
+    "right_sign": "59"
+  },
+  {
+    "left": "28 32 740 400",
+    "right": "840 32 740 400",
+    "position": 1,
+    "left_sign": "28",
+    "right_sign": "840"
+  },
+  {
+    "left": "59 32 740 400",
+    "right": "840 32 740 400",
+    "position": 1,
+    "left_sign": "59",
+    "right_sign": "840"
+  },
+  {
+    "left": "140 176 740 400",
+    "right": "235 176 740 400",
+    "position": 1,
+    "left_sign": "140",
+    "right_sign": "235"
+  },
+  {
+    "left": "140 176 740 400",
+    "right": "240 176 740 400",
+    "position": 1,
+    "left_sign": "140",
+    "right_sign": "240"
+  },
+  {
+    "left": "140 176 740 400",
+    "right": "519 176 740 400",
+    "position": 1,
+    "left_sign": "140",
+    "right_sign": "519"
+  },
+  {
+    "left": "140 176 740 400",
+    "right": "791 176 740 400",
+    "position": 1,
+    "left_sign": "140",
+    "right_sign": "791"
+  },
+  {
+    "left": "235 176 740 400",
+    "right": "240 176 740 400",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "240"
+  },
+  {
+    "left": "235 176 740 400",
+    "right": "519 176 740 400",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "519"
+  },
+  {
+    "left": "235 176 740 400",
+    "right": "791 176 740 400",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "791"
+  },
+  {
+    "left": "240 176 740 400",
+    "right": "519 176 740 400",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "519"
+  },
+  {
+    "left": "240 176 740 400",
+    "right": "791 176 740 400",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "791"
+  },
+  {
+    "left": "519 176 740 400",
+    "right": "791 176 740 400",
+    "position": 1,
+    "left_sign": "519",
+    "right_sign": "791"
+  },
+  {
+    "left": "140 176 740 400",
+    "right": "140 61 740 400",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "61"
+  },
+  {
+    "left": "141 740 400",
+    "right": "176 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "176"
+  },
+  {
+    "left": "141 740 400",
+    "right": "178 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "178"
+  },
+  {
+    "left": "141 740 400",
+    "right": "220 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "220"
+  },
+  {
+    "left": "141 740 400",
+    "right": "32 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "32"
+  },
+  {
+    "left": "141 740 400",
+    "right": "335 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "335"
+  },
+  {
+    "left": "141 740 400",
+    "right": "337 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "337"
+  },
+  {
+    "left": "141 740 400",
+    "right": "382 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "382"
+  },
+  {
+    "left": "141 740 400",
+    "right": "440 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "440"
+  },
+  {
+    "left": "141 740 400",
+    "right": "455 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "455"
+  },
+  {
+    "left": "141 740 400",
+    "right": "637 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "637"
+  },
+  {
+    "left": "141 740 400",
+    "right": "681 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "681"
+  },
+  {
+    "left": "141 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "690"
+  },
+  {
+    "left": "141 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "717"
+  },
+  {
+    "left": "141 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "790"
+  },
+  {
+    "left": "141 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "803"
+  },
+  {
+    "left": "141 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "861"
+  },
+  {
+    "left": "141 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "141",
+    "right_sign": "920"
+  },
+  {
+    "left": "176 740 400",
+    "right": "178 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "178"
+  },
+  {
+    "left": "176 740 400",
+    "right": "220 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "220"
+  },
+  {
+    "left": "176 740 400",
+    "right": "32 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "32"
+  },
+  {
+    "left": "176 740 400",
+    "right": "335 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "335"
+  },
+  {
+    "left": "176 740 400",
+    "right": "337 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "337"
+  },
+  {
+    "left": "176 740 400",
+    "right": "382 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "382"
+  },
+  {
+    "left": "176 740 400",
+    "right": "440 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "440"
+  },
+  {
+    "left": "176 740 400",
+    "right": "455 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "455"
+  },
+  {
+    "left": "176 740 400",
+    "right": "637 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "637"
+  },
+  {
+    "left": "176 740 400",
+    "right": "681 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "681"
+  },
+  {
+    "left": "176 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "690"
+  },
+  {
+    "left": "176 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "717"
+  },
+  {
+    "left": "176 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "790"
+  },
+  {
+    "left": "176 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "803"
+  },
+  {
+    "left": "176 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "861"
+  },
+  {
+    "left": "176 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "920"
+  },
+  {
+    "left": "178 740 400",
+    "right": "220 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "220"
+  },
+  {
+    "left": "178 740 400",
+    "right": "32 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "32"
+  },
+  {
+    "left": "178 740 400",
+    "right": "335 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "335"
+  },
+  {
+    "left": "178 740 400",
+    "right": "337 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "337"
+  },
+  {
+    "left": "178 740 400",
+    "right": "382 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "382"
+  },
+  {
+    "left": "178 740 400",
+    "right": "440 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "440"
+  },
+  {
+    "left": "178 740 400",
+    "right": "455 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "455"
+  },
+  {
+    "left": "178 740 400",
+    "right": "637 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "637"
+  },
+  {
+    "left": "178 740 400",
+    "right": "681 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "681"
+  },
+  {
+    "left": "178 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "690"
+  },
+  {
+    "left": "178 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "717"
+  },
+  {
+    "left": "178 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "790"
+  },
+  {
+    "left": "178 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "803"
+  },
+  {
+    "left": "178 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "861"
+  },
+  {
+    "left": "178 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "178",
+    "right_sign": "920"
+  },
+  {
+    "left": "220 740 400",
+    "right": "32 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "32"
+  },
+  {
+    "left": "220 740 400",
+    "right": "335 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "335"
+  },
+  {
+    "left": "220 740 400",
+    "right": "337 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "337"
+  },
+  {
+    "left": "220 740 400",
+    "right": "382 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "382"
+  },
+  {
+    "left": "220 740 400",
+    "right": "440 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "440"
+  },
+  {
+    "left": "220 740 400",
+    "right": "455 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "455"
+  },
+  {
+    "left": "220 740 400",
+    "right": "637 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "637"
+  },
+  {
+    "left": "220 740 400",
+    "right": "681 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "681"
+  },
+  {
+    "left": "220 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "690"
+  },
+  {
+    "left": "220 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "717"
+  },
+  {
+    "left": "220 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "790"
+  },
+  {
+    "left": "220 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "803"
+  },
+  {
+    "left": "220 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "861"
+  },
+  {
+    "left": "220 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "920"
+  },
+  {
+    "left": "32 740 400",
+    "right": "335 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "335"
+  },
+  {
+    "left": "32 740 400",
+    "right": "337 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "337"
+  },
+  {
+    "left": "32 740 400",
+    "right": "382 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "382"
+  },
+  {
+    "left": "32 740 400",
+    "right": "440 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "440"
+  },
+  {
+    "left": "32 740 400",
+    "right": "455 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "455"
+  },
+  {
+    "left": "32 740 400",
+    "right": "637 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "637"
+  },
+  {
+    "left": "32 740 400",
+    "right": "681 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "681"
+  },
+  {
+    "left": "32 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "690"
+  },
+  {
+    "left": "32 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "717"
+  },
+  {
+    "left": "32 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "790"
+  },
+  {
+    "left": "32 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "803"
+  },
+  {
+    "left": "32 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "861"
+  },
+  {
+    "left": "32 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "920"
+  },
+  {
+    "left": "335 740 400",
+    "right": "337 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "337"
+  },
+  {
+    "left": "335 740 400",
+    "right": "382 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "382"
+  },
+  {
+    "left": "335 740 400",
+    "right": "440 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "440"
+  },
+  {
+    "left": "335 740 400",
+    "right": "455 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "455"
+  },
+  {
+    "left": "335 740 400",
+    "right": "637 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "637"
+  },
+  {
+    "left": "335 740 400",
+    "right": "681 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "681"
+  },
+  {
+    "left": "335 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "690"
+  },
+  {
+    "left": "335 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "717"
+  },
+  {
+    "left": "335 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "790"
+  },
+  {
+    "left": "335 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "803"
+  },
+  {
+    "left": "335 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "861"
+  },
+  {
+    "left": "335 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "335",
+    "right_sign": "920"
+  },
+  {
+    "left": "337 740 400",
+    "right": "382 740 400",
+    "position": 1,
+    "left_sign": "337",
+    "right_sign": "382"
+  },
+  {
+    "left": "337 740 400",
+    "right": "440 740 400",
+    "position": 1,
+    "left_sign": "337",
+    "right_sign": "440"
+  },
+  {
+    "left": "337 740 400",
+    "right": "455 740 400",
+    "position": 1,
+    "left_sign": "337",
+    "right_sign": "455"
+  },
+  {
+    "left": "337 740 400",
+    "right": "637 740 400",
+    "position": 1,
+    "left_sign": "337",
+    "right_sign": "637"
+  },
+  {
+    "left": "337 740 400",
+    "right": "681 740 400",
+    "position": 1,
+    "left_sign": "337",
+    "right_sign": "681"
+  },
+  {
+    "left": "337 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "337",
+    "right_sign": "690"
+  },
+  {
+    "left": "337 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "337",
+    "right_sign": "717"
+  },
+  {
+    "left": "337 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "337",
+    "right_sign": "790"
+  },
+  {
+    "left": "337 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "337",
+    "right_sign": "803"
+  },
+  {
+    "left": "337 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "337",
+    "right_sign": "861"
+  },
+  {
+    "left": "337 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "337",
+    "right_sign": "920"
+  },
+  {
+    "left": "382 740 400",
+    "right": "440 740 400",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "440"
+  },
+  {
+    "left": "382 740 400",
+    "right": "455 740 400",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "455"
+  },
+  {
+    "left": "382 740 400",
+    "right": "637 740 400",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "637"
+  },
+  {
+    "left": "382 740 400",
+    "right": "681 740 400",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "681"
+  },
+  {
+    "left": "382 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "690"
+  },
+  {
+    "left": "382 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "717"
+  },
+  {
+    "left": "382 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "790"
+  },
+  {
+    "left": "382 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "803"
+  },
+  {
+    "left": "382 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "861"
+  },
+  {
+    "left": "382 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "920"
+  },
+  {
+    "left": "440 740 400",
+    "right": "455 740 400",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "455"
+  },
+  {
+    "left": "440 740 400",
+    "right": "637 740 400",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "637"
+  },
+  {
+    "left": "440 740 400",
+    "right": "681 740 400",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "681"
+  },
+  {
+    "left": "440 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "690"
+  },
+  {
+    "left": "440 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "717"
+  },
+  {
+    "left": "440 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "790"
+  },
+  {
+    "left": "440 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "803"
+  },
+  {
+    "left": "440 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "861"
+  },
+  {
+    "left": "440 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "920"
+  },
+  {
+    "left": "455 740 400",
+    "right": "637 740 400",
+    "position": 1,
+    "left_sign": "455",
+    "right_sign": "637"
+  },
+  {
+    "left": "455 740 400",
+    "right": "681 740 400",
+    "position": 1,
+    "left_sign": "455",
+    "right_sign": "681"
+  },
+  {
+    "left": "455 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "455",
+    "right_sign": "690"
+  },
+  {
+    "left": "455 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "455",
+    "right_sign": "717"
+  },
+  {
+    "left": "455 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "455",
+    "right_sign": "790"
+  },
+  {
+    "left": "455 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "455",
+    "right_sign": "803"
+  },
+  {
+    "left": "455 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "455",
+    "right_sign": "861"
+  },
+  {
+    "left": "455 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "455",
+    "right_sign": "920"
+  },
+  {
+    "left": "637 740 400",
+    "right": "681 740 400",
+    "position": 1,
+    "left_sign": "637",
+    "right_sign": "681"
+  },
+  {
+    "left": "637 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "637",
+    "right_sign": "690"
+  },
+  {
+    "left": "637 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "637",
+    "right_sign": "717"
+  },
+  {
+    "left": "637 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "637",
+    "right_sign": "790"
+  },
+  {
+    "left": "637 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "637",
+    "right_sign": "803"
+  },
+  {
+    "left": "637 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "637",
+    "right_sign": "861"
+  },
+  {
+    "left": "637 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "637",
+    "right_sign": "920"
+  },
+  {
+    "left": "681 740 400",
+    "right": "690 740 400",
+    "position": 1,
+    "left_sign": "681",
+    "right_sign": "690"
+  },
+  {
+    "left": "681 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "681",
+    "right_sign": "717"
+  },
+  {
+    "left": "681 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "681",
+    "right_sign": "790"
+  },
+  {
+    "left": "681 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "681",
+    "right_sign": "803"
+  },
+  {
+    "left": "681 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "681",
+    "right_sign": "861"
+  },
+  {
+    "left": "681 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "681",
+    "right_sign": "920"
+  },
+  {
+    "left": "690 740 400",
+    "right": "717 740 400",
+    "position": 1,
+    "left_sign": "690",
+    "right_sign": "717"
+  },
+  {
+    "left": "690 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "690",
+    "right_sign": "790"
+  },
+  {
+    "left": "690 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "690",
+    "right_sign": "803"
+  },
+  {
+    "left": "690 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "690",
+    "right_sign": "861"
+  },
+  {
+    "left": "690 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "690",
+    "right_sign": "920"
+  },
+  {
+    "left": "717 740 400",
+    "right": "790 740 400",
+    "position": 1,
+    "left_sign": "717",
+    "right_sign": "790"
+  },
+  {
+    "left": "717 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "717",
+    "right_sign": "803"
+  },
+  {
+    "left": "717 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "717",
+    "right_sign": "861"
+  },
+  {
+    "left": "717 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "717",
+    "right_sign": "920"
+  },
+  {
+    "left": "790 740 400",
+    "right": "803 740 400",
+    "position": 1,
+    "left_sign": "790",
+    "right_sign": "803"
+  },
+  {
+    "left": "790 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "790",
+    "right_sign": "861"
+  },
+  {
+    "left": "790 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "790",
+    "right_sign": "920"
+  },
+  {
+    "left": "803 740 400",
+    "right": "861 740 400",
+    "position": 1,
+    "left_sign": "803",
+    "right_sign": "861"
+  },
+  {
+    "left": "803 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "803",
+    "right_sign": "920"
+  },
+  {
+    "left": "861 740 400",
+    "right": "920 740 400",
+    "position": 1,
+    "left_sign": "861",
+    "right_sign": "920"
+  },
+  {
+    "left": "142 151 400",
+    "right": "97 151 400",
+    "position": 1,
+    "left_sign": "142",
+    "right_sign": "97"
+  },
+  {
+    "left": "15 460 798 740",
+    "right": "354 460 798 740",
+    "position": 1,
+    "left_sign": "15",
+    "right_sign": "354"
+  },
+  {
+    "left": "16 220 520",
+    "right": "3 220 520",
+    "position": 1,
+    "left_sign": "16",
+    "right_sign": "3"
+  },
+  {
+    "left": "16 220 520",
+    "right": "415 220 520",
+    "position": 1,
+    "left_sign": "16",
+    "right_sign": "415"
+  },
+  {
+    "left": "16 220 520",
+    "right": "6 220 520",
+    "position": 1,
+    "left_sign": "16",
+    "right_sign": "6"
+  },
+  {
+    "left": "3 220 520",
+    "right": "415 220 520",
+    "position": 1,
+    "left_sign": "3",
+    "right_sign": "415"
+  },
+  {
+    "left": "3 220 520",
+    "right": "6 220 520",
+    "position": 1,
+    "left_sign": "3",
+    "right_sign": "6"
+  },
+  {
+    "left": "415 220 520",
+    "right": "6 220 520",
+    "position": 1,
+    "left_sign": "415",
+    "right_sign": "6"
+  },
+  {
+    "left": "165 32 740",
+    "right": "25 32 740",
+    "position": 1,
+    "left_sign": "165",
+    "right_sign": "25"
+  },
+  {
+    "left": "165 32 740",
+    "right": "28 32 740",
+    "position": 1,
+    "left_sign": "165",
+    "right_sign": "28"
+  },
+  {
+    "left": "165 32 740",
+    "right": "59 32 740",
+    "position": 1,
+    "left_sign": "165",
+    "right_sign": "59"
+  },
+  {
+    "left": "165 32 740",
+    "right": "840 32 740",
+    "position": 1,
+    "left_sign": "165",
+    "right_sign": "840"
+  },
+  {
+    "left": "25 32 740",
+    "right": "28 32 740",
+    "position": 1,
+    "left_sign": "25",
+    "right_sign": "28"
+  },
+  {
+    "left": "25 32 740",
+    "right": "59 32 740",
+    "position": 1,
+    "left_sign": "25",
+    "right_sign": "59"
+  },
+  {
+    "left": "25 32 740",
+    "right": "840 32 740",
+    "position": 1,
+    "left_sign": "25",
+    "right_sign": "840"
+  },
+  {
+    "left": "28 32 740",
+    "right": "59 32 740",
+    "position": 1,
+    "left_sign": "28",
+    "right_sign": "59"
+  },
+  {
+    "left": "28 32 740",
+    "right": "840 32 740",
+    "position": 1,
+    "left_sign": "28",
+    "right_sign": "840"
+  },
+  {
+    "left": "59 32 740",
+    "right": "840 32 740",
+    "position": 1,
+    "left_sign": "59",
+    "right_sign": "840"
+  },
+  {
+    "left": "17 575 740",
+    "right": "17 585 740",
+    "position": 2,
+    "left_sign": "575",
+    "right_sign": "585"
+  },
+  {
+    "left": "17 575 740",
+    "right": "17 590 740",
+    "position": 2,
+    "left_sign": "575",
+    "right_sign": "590"
+  },
+  {
+    "left": "17 585 740",
+    "right": "17 590 740",
+    "position": 2,
+    "left_sign": "585",
+    "right_sign": "590"
+  },
+  {
+    "left": "175 741 233 798 740",
+    "right": "175 742 233 798 740",
+    "position": 2,
+    "left_sign": "741",
+    "right_sign": "742"
+  },
+  {
+    "left": "176 100 740",
+    "right": "220 100 740",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "220"
+  },
+  {
+    "left": "176 100 740",
+    "right": "240 100 740",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "240"
+  },
+  {
+    "left": "176 100 740",
+    "right": "31 100 740",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "31"
+  },
+  {
+    "left": "176 100 740",
+    "right": "415 100 740",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "415"
+  },
+  {
+    "left": "176 100 740",
+    "right": "440 100 740",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "440"
+  },
+  {
+    "left": "176 100 740",
+    "right": "717 100 740",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "717"
+  },
+  {
+    "left": "220 100 740",
+    "right": "240 100 740",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "240"
+  },
+  {
+    "left": "220 100 740",
+    "right": "31 100 740",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "31"
+  },
+  {
+    "left": "220 100 740",
+    "right": "415 100 740",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "415"
+  },
+  {
+    "left": "220 100 740",
+    "right": "440 100 740",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "440"
+  },
+  {
+    "left": "220 100 740",
+    "right": "717 100 740",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "717"
+  },
+  {
+    "left": "240 100 740",
+    "right": "31 100 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "31"
+  },
+  {
+    "left": "240 100 740",
+    "right": "415 100 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "415"
+  },
+  {
+    "left": "240 100 740",
+    "right": "440 100 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "440"
+  },
+  {
+    "left": "240 100 740",
+    "right": "717 100 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "717"
+  },
+  {
+    "left": "31 100 740",
+    "right": "415 100 740",
+    "position": 1,
+    "left_sign": "31",
+    "right_sign": "415"
+  },
+  {
+    "left": "31 100 740",
+    "right": "440 100 740",
+    "position": 1,
+    "left_sign": "31",
+    "right_sign": "440"
+  },
+  {
+    "left": "31 100 740",
+    "right": "717 100 740",
+    "position": 1,
+    "left_sign": "31",
+    "right_sign": "717"
+  },
+  {
+    "left": "415 100 740",
+    "right": "440 100 740",
+    "position": 1,
+    "left_sign": "415",
+    "right_sign": "440"
+  },
+  {
+    "left": "415 100 740",
+    "right": "717 100 740",
+    "position": 1,
+    "left_sign": "415",
+    "right_sign": "717"
+  },
+  {
+    "left": "440 100 740",
+    "right": "717 100 740",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "717"
+  },
+  {
+    "left": "176 100 740",
+    "right": "176 336 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "336"
+  },
+  {
+    "left": "176 100 740",
+    "right": "176 337 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "337"
+  },
+  {
+    "left": "176 336 740",
+    "right": "176 337 740",
+    "position": 2,
+    "left_sign": "336",
+    "right_sign": "337"
+  },
+  {
+    "left": "176 336 740",
+    "right": "18 336 740",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "18"
+  },
+  {
+    "left": "176 336 740 400",
+    "right": "18 336 740 400",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "18"
+  },
+  {
+    "left": "176 337 740",
+    "right": "484 337 740",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "484"
+  },
+  {
+    "left": "176 705 33 520",
+    "right": "240 705 33 520",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "240"
+  },
+  {
+    "left": "176 705 33 520",
+    "right": "31 705 33 520",
+    "position": 1,
+    "left_sign": "176",
+    "right_sign": "31"
+  },
+  {
+    "left": "240 705 33 520",
+    "right": "31 705 33 520",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "31"
+  },
+  {
+    "left": "176 740 400",
+    "right": "176 740 436",
+    "position": 3,
+    "left_sign": "400",
+    "right_sign": "436"
+  },
+  {
+    "left": "2 825 740",
+    "right": "2 840 740",
+    "position": 2,
+    "left_sign": "825",
+    "right_sign": "840"
+  },
+  {
+    "left": "2 840 32 740",
+    "right": "679 840 32 740",
+    "position": 1,
+    "left_sign": "2",
+    "right_sign": "679"
+  },
+  {
+    "left": "2 840 32 740",
+    "right": "803 840 32 740",
+    "position": 1,
+    "left_sign": "2",
+    "right_sign": "803"
+  },
+  {
+    "left": "2 840 32 740",
+    "right": "820 840 32 740",
+    "position": 1,
+    "left_sign": "2",
+    "right_sign": "820"
+  },
+  {
+    "left": "679 840 32 740",
+    "right": "803 840 32 740",
+    "position": 1,
+    "left_sign": "679",
+    "right_sign": "803"
+  },
+  {
+    "left": "679 840 32 740",
+    "right": "820 840 32 740",
+    "position": 1,
+    "left_sign": "679",
+    "right_sign": "820"
+  },
+  {
+    "left": "803 840 32 740",
+    "right": "820 840 32 740",
+    "position": 1,
+    "left_sign": "803",
+    "right_sign": "820"
+  },
+  {
+    "left": "219 72 520",
+    "right": "921 72 520",
+    "position": 1,
+    "left_sign": "219",
+    "right_sign": "921"
+  },
+  {
+    "left": "220 100 151",
+    "right": "220 100 740",
+    "position": 3,
+    "left_sign": "151",
+    "right_sign": "740"
+  },
+  {
+    "left": "220 100 740",
+    "right": "220 176 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "176"
+  },
+  {
+    "left": "220 100 740",
+    "right": "220 235 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "235"
+  },
+  {
+    "left": "220 176 740",
+    "right": "220 235 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "235"
+  },
+  {
+    "left": "220 176 740",
+    "right": "233 176 740",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "233"
+  },
+  {
+    "left": "220 176 740",
+    "right": "235 176 740",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "235"
+  },
+  {
+    "left": "220 176 740",
+    "right": "31 176 740",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "31"
+  },
+  {
+    "left": "233 176 740",
+    "right": "235 176 740",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "235"
+  },
+  {
+    "left": "233 176 740",
+    "right": "31 176 740",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "31"
+  },
+  {
+    "left": "235 176 740",
+    "right": "31 176 740",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "31"
+  },
+  {
+    "left": "220 236 400",
+    "right": "233 236 400",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "233"
+  },
+  {
+    "left": "220 236 400",
+    "right": "220 740 400",
+    "position": 2,
+    "left_sign": "236",
+    "right_sign": "740"
+  },
+  {
+    "left": "220 240 740 90",
+    "right": "235 240 740 90",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "235"
+  },
+  {
+    "left": "220 240 740 90",
+    "right": "31 240 740 90",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "31"
+  },
+  {
+    "left": "235 240 740 90",
+    "right": "31 240 740 90",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "31"
+  },
+  {
+    "left": "220 550 525",
+    "right": "220 550 526",
+    "position": 3,
+    "left_sign": "525",
+    "right_sign": "526"
+  },
+  {
+    "left": "220 550 526",
+    "right": "233 550 526",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "233"
+  },
+  {
+    "left": "220 740 400",
+    "right": "220 740 90",
+    "position": 3,
+    "left_sign": "400",
+    "right_sign": "90"
+  },
+  {
+    "left": "220 740 90",
+    "right": "792 740 90",
+    "position": 1,
+    "left_sign": "220",
+    "right_sign": "792"
+  },
+  {
+    "left": "221 740 151",
+    "right": "222 740 151",
+    "position": 1,
+    "left_sign": "221",
+    "right_sign": "222"
+  },
+  {
+    "left": "221 740 151",
+    "right": "231 740 151",
+    "position": 1,
+    "left_sign": "221",
+    "right_sign": "231"
+  },
+  {
+    "left": "221 740 151",
+    "right": "235 740 151",
+    "position": 1,
+    "left_sign": "221",
+    "right_sign": "235"
+  },
+  {
+    "left": "222 740 151",
+    "right": "231 740 151",
+    "position": 1,
+    "left_sign": "222",
+    "right_sign": "231"
+  },
+  {
+    "left": "222 740 151",
+    "right": "235 740 151",
+    "position": 1,
+    "left_sign": "222",
+    "right_sign": "235"
+  },
+  {
+    "left": "231 740 151",
+    "right": "235 740 151",
+    "position": 1,
+    "left_sign": "231",
+    "right_sign": "235"
+  },
+  {
+    "left": "233 176 740",
+    "right": "233 803 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "803"
+  },
+  {
+    "left": "233 176 740",
+    "right": "233 879 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "879"
+  },
+  {
+    "left": "233 176 740",
+    "right": "233 923 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "923"
+  },
+  {
+    "left": "233 803 740",
+    "right": "233 879 740",
+    "position": 2,
+    "left_sign": "803",
+    "right_sign": "879"
+  },
+  {
+    "left": "233 803 740",
+    "right": "233 923 740",
+    "position": 2,
+    "left_sign": "803",
+    "right_sign": "923"
+  },
+  {
+    "left": "233 879 740",
+    "right": "233 923 740",
+    "position": 2,
+    "left_sign": "879",
+    "right_sign": "923"
+  },
+  {
+    "left": "233 236 400",
+    "right": "233 520 400",
+    "position": 2,
+    "left_sign": "236",
+    "right_sign": "520"
+  },
+  {
+    "left": "233 236 400",
+    "right": "233 804 400",
+    "position": 2,
+    "left_sign": "236",
+    "right_sign": "804"
+  },
+  {
+    "left": "233 520 400",
+    "right": "233 804 400",
+    "position": 2,
+    "left_sign": "520",
+    "right_sign": "804"
+  },
+  {
+    "left": "233 255 435 690 740",
+    "right": "55 255 435 690 740",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "55"
+  },
+  {
+    "left": "233 32 877 740",
+    "right": "235 32 877 740",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "235"
+  },
+  {
+    "left": "233 388 527",
+    "right": "233 550 527",
+    "position": 2,
+    "left_sign": "388",
+    "right_sign": "550"
+  },
+  {
+    "left": "233 520 400",
+    "right": "897 520 400",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "897"
+  },
+  {
+    "left": "233 550 526",
+    "right": "233 550 527",
+    "position": 3,
+    "left_sign": "526",
+    "right_sign": "527"
+  },
+  {
+    "left": "233 550 527",
+    "right": "235 550 527",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "235"
+  },
+  {
+    "left": "233 706 33 520",
+    "right": "31 706 33 520",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "31"
+  },
+  {
+    "left": "233 706 33 520",
+    "right": "806 706 33 520",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "806"
+  },
+  {
+    "left": "31 706 33 520",
+    "right": "806 706 33 520",
+    "position": 1,
+    "left_sign": "31",
+    "right_sign": "806"
+  },
+  {
+    "left": "233 803 740",
+    "right": "235 803 740",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "235"
+  },
+  {
+    "left": "233 923 740",
+    "right": "235 923 740",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "235"
+  },
+  {
+    "left": "233 923 740",
+    "right": "803 923 740",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "803"
+  },
+  {
+    "left": "233 923 740",
+    "right": "806 923 740",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "806"
+  },
+  {
+    "left": "233 923 740",
+    "right": "838 923 740",
+    "position": 1,
+    "left_sign": "233",
+    "right_sign": "838"
+  },
+  {
+    "left": "235 923 740",
+    "right": "803 923 740",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "803"
+  },
+  {
+    "left": "235 923 740",
+    "right": "806 923 740",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "806"
+  },
+  {
+    "left": "235 923 740",
+    "right": "838 923 740",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "838"
+  },
+  {
+    "left": "803 923 740",
+    "right": "806 923 740",
+    "position": 1,
+    "left_sign": "803",
+    "right_sign": "806"
+  },
+  {
+    "left": "803 923 740",
+    "right": "838 923 740",
+    "position": 1,
+    "left_sign": "803",
+    "right_sign": "838"
+  },
+  {
+    "left": "806 923 740",
+    "right": "838 923 740",
+    "position": 1,
+    "left_sign": "806",
+    "right_sign": "838"
+  },
+  {
+    "left": "235 176 740",
+    "right": "235 242 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "242"
+  },
+  {
+    "left": "235 176 740",
+    "right": "235 388 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "388"
+  },
+  {
+    "left": "235 176 740",
+    "right": "235 482 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "482"
+  },
+  {
+    "left": "235 176 740",
+    "right": "235 772 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "772"
+  },
+  {
+    "left": "235 176 740",
+    "right": "235 798 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "798"
+  },
+  {
+    "left": "235 176 740",
+    "right": "235 803 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "803"
+  },
+  {
+    "left": "235 176 740",
+    "right": "235 923 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "923"
+  },
+  {
+    "left": "235 242 740",
+    "right": "235 388 740",
+    "position": 2,
+    "left_sign": "242",
+    "right_sign": "388"
+  },
+  {
+    "left": "235 242 740",
+    "right": "235 482 740",
+    "position": 2,
+    "left_sign": "242",
+    "right_sign": "482"
+  },
+  {
+    "left": "235 242 740",
+    "right": "235 772 740",
+    "position": 2,
+    "left_sign": "242",
+    "right_sign": "772"
+  },
+  {
+    "left": "235 242 740",
+    "right": "235 798 740",
+    "position": 2,
+    "left_sign": "242",
+    "right_sign": "798"
+  },
+  {
+    "left": "235 242 740",
+    "right": "235 803 740",
+    "position": 2,
+    "left_sign": "242",
+    "right_sign": "803"
+  },
+  {
+    "left": "235 242 740",
+    "right": "235 923 740",
+    "position": 2,
+    "left_sign": "242",
+    "right_sign": "923"
+  },
+  {
+    "left": "235 388 740",
+    "right": "235 482 740",
+    "position": 2,
+    "left_sign": "388",
+    "right_sign": "482"
+  },
+  {
+    "left": "235 388 740",
+    "right": "235 772 740",
+    "position": 2,
+    "left_sign": "388",
+    "right_sign": "772"
+  },
+  {
+    "left": "235 388 740",
+    "right": "235 798 740",
+    "position": 2,
+    "left_sign": "388",
+    "right_sign": "798"
+  },
+  {
+    "left": "235 388 740",
+    "right": "235 803 740",
+    "position": 2,
+    "left_sign": "388",
+    "right_sign": "803"
+  },
+  {
+    "left": "235 388 740",
+    "right": "235 923 740",
+    "position": 2,
+    "left_sign": "388",
+    "right_sign": "923"
+  },
+  {
+    "left": "235 482 740",
+    "right": "235 772 740",
+    "position": 2,
+    "left_sign": "482",
+    "right_sign": "772"
+  },
+  {
+    "left": "235 482 740",
+    "right": "235 798 740",
+    "position": 2,
+    "left_sign": "482",
+    "right_sign": "798"
+  },
+  {
+    "left": "235 482 740",
+    "right": "235 803 740",
+    "position": 2,
+    "left_sign": "482",
+    "right_sign": "803"
+  },
+  {
+    "left": "235 482 740",
+    "right": "235 923 740",
+    "position": 2,
+    "left_sign": "482",
+    "right_sign": "923"
+  },
+  {
+    "left": "235 772 740",
+    "right": "235 798 740",
+    "position": 2,
+    "left_sign": "772",
+    "right_sign": "798"
+  },
+  {
+    "left": "235 772 740",
+    "right": "235 803 740",
+    "position": 2,
+    "left_sign": "772",
+    "right_sign": "803"
+  },
+  {
+    "left": "235 772 740",
+    "right": "235 923 740",
+    "position": 2,
+    "left_sign": "772",
+    "right_sign": "923"
+  },
+  {
+    "left": "235 798 740",
+    "right": "235 803 740",
+    "position": 2,
+    "left_sign": "798",
+    "right_sign": "803"
+  },
+  {
+    "left": "235 798 740",
+    "right": "235 923 740",
+    "position": 2,
+    "left_sign": "798",
+    "right_sign": "923"
+  },
+  {
+    "left": "235 803 740",
+    "right": "235 923 740",
+    "position": 2,
+    "left_sign": "803",
+    "right_sign": "923"
+  },
+  {
+    "left": "235 220 176 740",
+    "right": "32 220 176 740",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "32"
+  },
+  {
+    "left": "235 220 176 740",
+    "right": "235 220 222 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "222"
+  },
+  {
+    "left": "235 220 222 740",
+    "right": "235 233 222 740",
+    "position": 2,
+    "left_sign": "220",
+    "right_sign": "233"
+  },
+  {
+    "left": "235 231 520",
+    "right": "235 240 520",
+    "position": 2,
+    "left_sign": "231",
+    "right_sign": "240"
+  },
+  {
+    "left": "235 240 220 520",
+    "right": "235 415 220 520",
+    "position": 2,
+    "left_sign": "240",
+    "right_sign": "415"
+  },
+  {
+    "left": "235 240 455 740",
+    "right": "235 240 904 740",
+    "position": 3,
+    "left_sign": "455",
+    "right_sign": "904"
+  },
+  {
+    "left": "235 240 520",
+    "right": "806 240 520",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "806"
+  },
+  {
+    "left": "235 388 740",
+    "right": "31 388 740",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "31"
+  },
+  {
+    "left": "235 415 220 520",
+    "right": "240 415 220 520",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "240"
+  },
+  {
+    "left": "235 415 220 520",
+    "right": "519 415 220 520",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "519"
+  },
+  {
+    "left": "235 415 220 520",
+    "right": "798 415 220 520",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "798"
+  },
+  {
+    "left": "240 415 220 520",
+    "right": "519 415 220 520",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "519"
+  },
+  {
+    "left": "240 415 220 520",
+    "right": "798 415 220 520",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "798"
+  },
+  {
+    "left": "519 415 220 520",
+    "right": "798 415 220 520",
+    "position": 1,
+    "left_sign": "519",
+    "right_sign": "798"
+  },
+  {
+    "left": "235 482 740",
+    "right": "838 482 740",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "838"
+  },
+  {
+    "left": "235 550 527",
+    "right": "235 555 527",
+    "position": 2,
+    "left_sign": "550",
+    "right_sign": "555"
+  },
+  {
+    "left": "235 555 526",
+    "right": "235 555 527",
+    "position": 3,
+    "left_sign": "526",
+    "right_sign": "527"
+  },
+  {
+    "left": "235 590 390 740",
+    "right": "240 590 390 740",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "240"
+  },
+  {
+    "left": "235 590 390 740",
+    "right": "235 590 405 740",
+    "position": 3,
+    "left_sign": "390",
+    "right_sign": "405"
+  },
+  {
+    "left": "235 590 405 740",
+    "right": "790 590 405 740",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "790"
+  },
+  {
+    "left": "235 705 33 176 740",
+    "right": "235 705 33 904 740",
+    "position": 4,
+    "left_sign": "176",
+    "right_sign": "904"
+  },
+  {
+    "left": "235 740 151",
+    "right": "235 740 565",
+    "position": 3,
+    "left_sign": "151",
+    "right_sign": "565"
+  },
+  {
+    "left": "235 772 740",
+    "right": "240 772 740",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "240"
+  },
+  {
+    "left": "235 798 740",
+    "right": "820 798 740",
+    "position": 1,
+    "left_sign": "235",
+    "right_sign": "820"
+  },
+  {
+    "left": "240 100 740",
+    "right": "240 233 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "233"
+  },
+  {
+    "left": "240 100 740",
+    "right": "240 636 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "636"
+  },
+  {
+    "left": "240 100 740",
+    "right": "240 639 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "639"
+  },
+  {
+    "left": "240 100 740",
+    "right": "240 760 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "760"
+  },
+  {
+    "left": "240 100 740",
+    "right": "240 772 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "772"
+  },
+  {
+    "left": "240 100 740",
+    "right": "240 904 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "904"
+  },
+  {
+    "left": "240 233 740",
+    "right": "240 636 740",
+    "position": 2,
+    "left_sign": "233",
+    "right_sign": "636"
+  },
+  {
+    "left": "240 233 740",
+    "right": "240 639 740",
+    "position": 2,
+    "left_sign": "233",
+    "right_sign": "639"
+  },
+  {
+    "left": "240 233 740",
+    "right": "240 760 740",
+    "position": 2,
+    "left_sign": "233",
+    "right_sign": "760"
+  },
+  {
+    "left": "240 233 740",
+    "right": "240 772 740",
+    "position": 2,
+    "left_sign": "233",
+    "right_sign": "772"
+  },
+  {
+    "left": "240 233 740",
+    "right": "240 904 740",
+    "position": 2,
+    "left_sign": "233",
+    "right_sign": "904"
+  },
+  {
+    "left": "240 636 740",
+    "right": "240 639 740",
+    "position": 2,
+    "left_sign": "636",
+    "right_sign": "639"
+  },
+  {
+    "left": "240 636 740",
+    "right": "240 760 740",
+    "position": 2,
+    "left_sign": "636",
+    "right_sign": "760"
+  },
+  {
+    "left": "240 636 740",
+    "right": "240 772 740",
+    "position": 2,
+    "left_sign": "636",
+    "right_sign": "772"
+  },
+  {
+    "left": "240 636 740",
+    "right": "240 904 740",
+    "position": 2,
+    "left_sign": "636",
+    "right_sign": "904"
+  },
+  {
+    "left": "240 639 740",
+    "right": "240 760 740",
+    "position": 2,
+    "left_sign": "639",
+    "right_sign": "760"
+  },
+  {
+    "left": "240 639 740",
+    "right": "240 772 740",
+    "position": 2,
+    "left_sign": "639",
+    "right_sign": "772"
+  },
+  {
+    "left": "240 639 740",
+    "right": "240 904 740",
+    "position": 2,
+    "left_sign": "639",
+    "right_sign": "904"
+  },
+  {
+    "left": "240 760 740",
+    "right": "240 772 740",
+    "position": 2,
+    "left_sign": "760",
+    "right_sign": "772"
+  },
+  {
+    "left": "240 760 740",
+    "right": "240 904 740",
+    "position": 2,
+    "left_sign": "760",
+    "right_sign": "904"
+  },
+  {
+    "left": "240 772 740",
+    "right": "240 904 740",
+    "position": 2,
+    "left_sign": "772",
+    "right_sign": "904"
+  },
+  {
+    "left": "240 100 740 151",
+    "right": "240 100 740 400",
+    "position": 4,
+    "left_sign": "151",
+    "right_sign": "400"
+  },
+  {
+    "left": "240 100 740 400",
+    "right": "415 100 740 400",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "415"
+  },
+  {
+    "left": "240 100 740 400",
+    "right": "240 152 740 400",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "152"
+  },
+  {
+    "left": "240 100 740 400",
+    "right": "240 176 740 400",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "176"
+  },
+  {
+    "left": "240 100 740 400",
+    "right": "240 636 740 400",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "636"
+  },
+  {
+    "left": "240 100 740 400",
+    "right": "240 637 740 400",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "637"
+  },
+  {
+    "left": "240 100 740 400",
+    "right": "240 904 740 400",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "904"
+  },
+  {
+    "left": "240 152 740 400",
+    "right": "240 176 740 400",
+    "position": 2,
+    "left_sign": "152",
+    "right_sign": "176"
+  },
+  {
+    "left": "240 152 740 400",
+    "right": "240 636 740 400",
+    "position": 2,
+    "left_sign": "152",
+    "right_sign": "636"
+  },
+  {
+    "left": "240 152 740 400",
+    "right": "240 637 740 400",
+    "position": 2,
+    "left_sign": "152",
+    "right_sign": "637"
+  },
+  {
+    "left": "240 152 740 400",
+    "right": "240 904 740 400",
+    "position": 2,
+    "left_sign": "152",
+    "right_sign": "904"
+  },
+  {
+    "left": "240 176 740 400",
+    "right": "240 636 740 400",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "636"
+  },
+  {
+    "left": "240 176 740 400",
+    "right": "240 637 740 400",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "637"
+  },
+  {
+    "left": "240 176 740 400",
+    "right": "240 904 740 400",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "904"
+  },
+  {
+    "left": "240 636 740 400",
+    "right": "240 637 740 400",
+    "position": 2,
+    "left_sign": "636",
+    "right_sign": "637"
+  },
+  {
+    "left": "240 636 740 400",
+    "right": "240 904 740 400",
+    "position": 2,
+    "left_sign": "636",
+    "right_sign": "904"
+  },
+  {
+    "left": "240 637 740 400",
+    "right": "240 904 740 400",
+    "position": 2,
+    "left_sign": "637",
+    "right_sign": "904"
+  },
+  {
+    "left": "240 233 503",
+    "right": "240 233 740",
+    "position": 3,
+    "left_sign": "503",
+    "right_sign": "740"
+  },
+  {
+    "left": "240 503 70 520",
+    "right": "240 921 70 520",
+    "position": 2,
+    "left_sign": "503",
+    "right_sign": "921"
+  },
+  {
+    "left": "240 630 690 740",
+    "right": "240 636 690 740",
+    "position": 2,
+    "left_sign": "630",
+    "right_sign": "636"
+  },
+  {
+    "left": "240 630 690 740",
+    "right": "240 639 690 740",
+    "position": 2,
+    "left_sign": "630",
+    "right_sign": "639"
+  },
+  {
+    "left": "240 636 690 740",
+    "right": "240 639 690 740",
+    "position": 2,
+    "left_sign": "636",
+    "right_sign": "639"
+  },
+  {
+    "left": "240 760 740",
+    "right": "315 760 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "315"
+  },
+  {
+    "left": "240 760 740",
+    "right": "32 760 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "32"
+  },
+  {
+    "left": "240 760 740",
+    "right": "382 760 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "382"
+  },
+  {
+    "left": "240 760 740",
+    "right": "440 760 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "440"
+  },
+  {
+    "left": "240 760 740",
+    "right": "445 760 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "445"
+  },
+  {
+    "left": "240 760 740",
+    "right": "605 760 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "605"
+  },
+  {
+    "left": "240 760 740",
+    "right": "742 760 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "742"
+  },
+  {
+    "left": "240 760 740",
+    "right": "797 760 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "797"
+  },
+  {
+    "left": "315 760 740",
+    "right": "32 760 740",
+    "position": 1,
+    "left_sign": "315",
+    "right_sign": "32"
+  },
+  {
+    "left": "315 760 740",
+    "right": "382 760 740",
+    "position": 1,
+    "left_sign": "315",
+    "right_sign": "382"
+  },
+  {
+    "left": "315 760 740",
+    "right": "440 760 740",
+    "position": 1,
+    "left_sign": "315",
+    "right_sign": "440"
+  },
+  {
+    "left": "315 760 740",
+    "right": "445 760 740",
+    "position": 1,
+    "left_sign": "315",
+    "right_sign": "445"
+  },
+  {
+    "left": "315 760 740",
+    "right": "605 760 740",
+    "position": 1,
+    "left_sign": "315",
+    "right_sign": "605"
+  },
+  {
+    "left": "315 760 740",
+    "right": "742 760 740",
+    "position": 1,
+    "left_sign": "315",
+    "right_sign": "742"
+  },
+  {
+    "left": "315 760 740",
+    "right": "797 760 740",
+    "position": 1,
+    "left_sign": "315",
+    "right_sign": "797"
+  },
+  {
+    "left": "32 760 740",
+    "right": "382 760 740",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "382"
+  },
+  {
+    "left": "32 760 740",
+    "right": "440 760 740",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "440"
+  },
+  {
+    "left": "32 760 740",
+    "right": "445 760 740",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "445"
+  },
+  {
+    "left": "32 760 740",
+    "right": "605 760 740",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "605"
+  },
+  {
+    "left": "32 760 740",
+    "right": "742 760 740",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "742"
+  },
+  {
+    "left": "32 760 740",
+    "right": "797 760 740",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "797"
+  },
+  {
+    "left": "382 760 740",
+    "right": "440 760 740",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "440"
+  },
+  {
+    "left": "382 760 740",
+    "right": "445 760 740",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "445"
+  },
+  {
+    "left": "382 760 740",
+    "right": "605 760 740",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "605"
+  },
+  {
+    "left": "382 760 740",
+    "right": "742 760 740",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "742"
+  },
+  {
+    "left": "382 760 740",
+    "right": "797 760 740",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "797"
+  },
+  {
+    "left": "440 760 740",
+    "right": "445 760 740",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "445"
+  },
+  {
+    "left": "440 760 740",
+    "right": "605 760 740",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "605"
+  },
+  {
+    "left": "440 760 740",
+    "right": "742 760 740",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "742"
+  },
+  {
+    "left": "440 760 740",
+    "right": "797 760 740",
+    "position": 1,
+    "left_sign": "440",
+    "right_sign": "797"
+  },
+  {
+    "left": "445 760 740",
+    "right": "605 760 740",
+    "position": 1,
+    "left_sign": "445",
+    "right_sign": "605"
+  },
+  {
+    "left": "445 760 740",
+    "right": "742 760 740",
+    "position": 1,
+    "left_sign": "445",
+    "right_sign": "742"
+  },
+  {
+    "left": "445 760 740",
+    "right": "797 760 740",
+    "position": 1,
+    "left_sign": "445",
+    "right_sign": "797"
+  },
+  {
+    "left": "605 760 740",
+    "right": "742 760 740",
+    "position": 1,
+    "left_sign": "605",
+    "right_sign": "742"
+  },
+  {
+    "left": "605 760 740",
+    "right": "797 760 740",
+    "position": 1,
+    "left_sign": "605",
+    "right_sign": "797"
+  },
+  {
+    "left": "742 760 740",
+    "right": "797 760 740",
+    "position": 1,
+    "left_sign": "742",
+    "right_sign": "797"
+  },
+  {
+    "left": "240 904 740",
+    "right": "690 904 740",
+    "position": 1,
+    "left_sign": "240",
+    "right_sign": "690"
+  },
+  {
+    "left": "255 435 154",
+    "right": "255 435 156",
+    "position": 3,
+    "left_sign": "154",
+    "right_sign": "156"
+  },
+  {
+    "left": "255 435 690 740",
+    "right": "255 436 690 740",
+    "position": 2,
+    "left_sign": "435",
+    "right_sign": "436"
+  },
+  {
+    "left": "255 435 690 740 900 1 3 423",
+    "right": "255 435 690 740 900 1 3 424",
+    "position": 8,
+    "left_sign": "423",
+    "right_sign": "424"
+  },
+  {
+    "left": "276 817 740 400",
+    "right": "491 817 740 400",
+    "position": 1,
+    "left_sign": "276",
+    "right_sign": "491"
+  },
+  {
+    "left": "3 1 435",
+    "right": "31 1 435",
+    "position": 1,
+    "left_sign": "3",
+    "right_sign": "31"
+  },
+  {
+    "left": "3 122 617",
+    "right": "3 550 617",
+    "position": 2,
+    "left_sign": "122",
+    "right_sign": "550"
+  },
+  {
+    "left": "3 140 100 740",
+    "right": "3 233 100 740",
+    "position": 2,
+    "left_sign": "140",
+    "right_sign": "233"
+  },
+  {
+    "left": "3 158 400",
+    "right": "592 158 400",
+    "position": 1,
+    "left_sign": "3",
+    "right_sign": "592"
+  },
+  {
+    "left": "3 158 400",
+    "right": "690 158 400",
+    "position": 1,
+    "left_sign": "3",
+    "right_sign": "690"
+  },
+  {
+    "left": "592 158 400",
+    "right": "690 158 400",
+    "position": 1,
+    "left_sign": "592",
+    "right_sign": "690"
+  },
+  {
+    "left": "3 220 520",
+    "right": "3 220 740",
+    "position": 3,
+    "left_sign": "520",
+    "right_sign": "740"
+  },
+  {
+    "left": "3 220 740",
+    "right": "32 220 740",
+    "position": 1,
+    "left_sign": "3",
+    "right_sign": "32"
+  },
+  {
+    "left": "3 220 740",
+    "right": "3 231 740",
+    "position": 2,
+    "left_sign": "220",
+    "right_sign": "231"
+  },
+  {
+    "left": "3 3 390",
+    "right": "491 3 390",
+    "position": 1,
+    "left_sign": "3",
+    "right_sign": "491"
+  },
+  {
+    "left": "3 3 390",
+    "right": "3 832 390",
+    "position": 2,
+    "left_sign": "3",
+    "right_sign": "832"
+  },
+  {
+    "left": "3 550 617",
+    "right": "33 550 617",
+    "position": 1,
+    "left_sign": "3",
+    "right_sign": "33"
+  },
+  {
+    "left": "31 100 740",
+    "right": "31 176 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "176"
+  },
+  {
+    "left": "31 100 740",
+    "right": "31 384 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "384"
+  },
+  {
+    "left": "31 100 740",
+    "right": "31 388 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "388"
+  },
+  {
+    "left": "31 176 740",
+    "right": "31 384 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "384"
+  },
+  {
+    "left": "31 176 740",
+    "right": "31 388 740",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "388"
+  },
+  {
+    "left": "31 384 740",
+    "right": "31 388 740",
+    "position": 2,
+    "left_sign": "384",
+    "right_sign": "388"
+  },
+  {
+    "left": "31 101 740 90",
+    "right": "853 101 740 90",
+    "position": 1,
+    "left_sign": "31",
+    "right_sign": "853"
+  },
+  {
+    "left": "31 101 740 90",
+    "right": "31 240 740 90",
+    "position": 2,
+    "left_sign": "101",
+    "right_sign": "240"
+  },
+  {
+    "left": "31 240 100 740",
+    "right": "31 240 927 740",
+    "position": 3,
+    "left_sign": "100",
+    "right_sign": "927"
+  },
+  {
+    "left": "31 460 520",
+    "right": "495 460 520",
+    "position": 1,
+    "left_sign": "31",
+    "right_sign": "495"
+  },
+  {
+    "left": "31 460 520",
+    "right": "510 460 520",
+    "position": 1,
+    "left_sign": "31",
+    "right_sign": "510"
+  },
+  {
+    "left": "495 460 520",
+    "right": "510 460 520",
+    "position": 1,
+    "left_sign": "495",
+    "right_sign": "510"
+  },
+  {
+    "left": "31 502 2 806 240 520 1 3",
+    "right": "31 502 2 806 240 520 1 416",
+    "position": 8,
+    "left_sign": "3",
+    "right_sign": "416"
+  },
+  {
+    "left": "31 705 33 520",
+    "right": "31 706 33 520",
+    "position": 2,
+    "left_sign": "705",
+    "right_sign": "706"
+  },
+  {
+    "left": "32 220 153",
+    "right": "32 220 740",
+    "position": 3,
+    "left_sign": "153",
+    "right_sign": "740"
+  },
+  {
+    "left": "32 220 176 740",
+    "right": "32 220 773 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "773"
+  },
+  {
+    "left": "32 220 176 740",
+    "right": "32 220 923 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "923"
+  },
+  {
+    "left": "32 220 773 740",
+    "right": "32 220 923 740",
+    "position": 3,
+    "left_sign": "773",
+    "right_sign": "923"
+  },
+  {
+    "left": "32 220 740",
+    "right": "32 760 740",
+    "position": 2,
+    "left_sign": "220",
+    "right_sign": "760"
+  },
+  {
+    "left": "32 220 740",
+    "right": "32 790 740",
+    "position": 2,
+    "left_sign": "220",
+    "right_sign": "790"
+  },
+  {
+    "left": "32 220 740",
+    "right": "32 877 740",
+    "position": 2,
+    "left_sign": "220",
+    "right_sign": "877"
+  },
+  {
+    "left": "32 760 740",
+    "right": "32 790 740",
+    "position": 2,
+    "left_sign": "760",
+    "right_sign": "790"
+  },
+  {
+    "left": "32 760 740",
+    "right": "32 877 740",
+    "position": 2,
+    "left_sign": "760",
+    "right_sign": "877"
+  },
+  {
+    "left": "32 790 740",
+    "right": "32 877 740",
+    "position": 2,
+    "left_sign": "790",
+    "right_sign": "877"
+  },
+  {
+    "left": "32 226 400",
+    "right": "415 226 400",
+    "position": 1,
+    "left_sign": "32",
+    "right_sign": "415"
+  },
+  {
+    "left": "32 226 400",
+    "right": "32 740 400",
+    "position": 2,
+    "left_sign": "226",
+    "right_sign": "740"
+  },
+  {
+    "left": "32 71 407",
+    "right": "32 790 407",
+    "position": 2,
+    "left_sign": "71",
+    "right_sign": "790"
+  },
+  {
+    "left": "32 790 407",
+    "right": "32 790 740",
+    "position": 3,
+    "left_sign": "407",
+    "right_sign": "740"
+  },
+  {
+    "left": "320 920 740",
+    "right": "323 920 740",
+    "position": 1,
+    "left_sign": "320",
+    "right_sign": "323"
+  },
+  {
+    "left": "323 920 390",
+    "right": "323 920 740",
+    "position": 3,
+    "left_sign": "390",
+    "right_sign": "740"
+  },
+  {
+    "left": "33 33 520",
+    "right": "705 33 520",
+    "position": 1,
+    "left_sign": "33",
+    "right_sign": "705"
+  },
+  {
+    "left": "33 33 520",
+    "right": "706 33 520",
+    "position": 1,
+    "left_sign": "33",
+    "right_sign": "706"
+  },
+  {
+    "left": "705 33 520",
+    "right": "706 33 520",
+    "position": 1,
+    "left_sign": "705",
+    "right_sign": "706"
+  },
+  {
+    "left": "33 5 900 740",
+    "right": "877 5 900 740",
+    "position": 1,
+    "left_sign": "33",
+    "right_sign": "877"
+  },
+  {
+    "left": "351 368 1",
+    "right": "767 368 1",
+    "position": 1,
+    "left_sign": "351",
+    "right_sign": "767"
+  },
+  {
+    "left": "352 400 520 400",
+    "right": "353 400 520 400",
+    "position": 1,
+    "left_sign": "352",
+    "right_sign": "353"
+  },
+  {
+    "left": "382 760 740 400",
+    "right": "605 760 740 400",
+    "position": 1,
+    "left_sign": "382",
+    "right_sign": "605"
+  },
+  {
+    "left": "4 390 400",
+    "right": "844 390 400",
+    "position": 1,
+    "left_sign": "4",
+    "right_sign": "844"
+  },
+  {
+    "left": "4 783 740",
+    "right": "4 785 740",
+    "position": 2,
+    "left_sign": "783",
+    "right_sign": "785"
+  },
+  {
+    "left": "4 783 740",
+    "right": "4 900 740",
+    "position": 2,
+    "left_sign": "783",
+    "right_sign": "900"
+  },
+  {
+    "left": "4 785 740",
+    "right": "4 900 740",
+    "position": 2,
+    "left_sign": "785",
+    "right_sign": "900"
+  },
+  {
+    "left": "4 900 740",
+    "right": "5 900 740",
+    "position": 1,
+    "left_sign": "4",
+    "right_sign": "5"
+  },
+  {
+    "left": "4 900 740",
+    "right": "803 900 740",
+    "position": 1,
+    "left_sign": "4",
+    "right_sign": "803"
+  },
+  {
+    "left": "5 900 740",
+    "right": "803 900 740",
+    "position": 1,
+    "left_sign": "5",
+    "right_sign": "803"
+  },
+  {
+    "left": "413 575 335 711 33 700",
+    "right": "413 575 335 711 33 740",
+    "position": 6,
+    "left_sign": "700",
+    "right_sign": "740"
+  },
+  {
+    "left": "415 100 740 400",
+    "right": "415 100 820 400",
+    "position": 3,
+    "left_sign": "740",
+    "right_sign": "820"
+  },
+  {
+    "left": "415 100 820 32",
+    "right": "415 100 820 400",
+    "position": 4,
+    "left_sign": "32",
+    "right_sign": "400"
+  },
+  {
+    "left": "416 220 760 740 400",
+    "right": "416 220 767 740 400",
+    "position": 3,
+    "left_sign": "760",
+    "right_sign": "767"
+  },
+  {
+    "left": "416 840 151",
+    "right": "416 840 740",
+    "position": 3,
+    "left_sign": "151",
+    "right_sign": "740"
+  },
+  {
+    "left": "416 861 2",
+    "right": "698 861 2",
+    "position": 1,
+    "left_sign": "416",
+    "right_sign": "698"
+  },
+  {
+    "left": "416 861 2",
+    "right": "96 861 2",
+    "position": 1,
+    "left_sign": "416",
+    "right_sign": "96"
+  },
+  {
+    "left": "698 861 2",
+    "right": "96 861 2",
+    "position": 1,
+    "left_sign": "698",
+    "right_sign": "96"
+  },
+  {
+    "left": "440 100 740",
+    "right": "440 760 740",
+    "position": 2,
+    "left_sign": "100",
+    "right_sign": "760"
+  },
+  {
+    "left": "467 806 154 400",
+    "right": "468 806 154 400",
+    "position": 1,
+    "left_sign": "467",
+    "right_sign": "468"
+  },
+  {
+    "left": "468 806 154",
+    "right": "468 806 155",
+    "position": 3,
+    "left_sign": "154",
+    "right_sign": "155"
+  },
+  {
+    "left": "470 806 158 400",
+    "right": "472 806 158 400",
+    "position": 1,
+    "left_sign": "470",
+    "right_sign": "472"
+  },
+  {
+    "left": "470 806 158 400",
+    "right": "475 806 158 400",
+    "position": 1,
+    "left_sign": "470",
+    "right_sign": "475"
+  },
+  {
+    "left": "472 806 158 400",
+    "right": "475 806 158 400",
+    "position": 1,
+    "left_sign": "472",
+    "right_sign": "475"
+  },
+  {
+    "left": "480 142 740",
+    "right": "61 142 740",
+    "position": 1,
+    "left_sign": "480",
+    "right_sign": "61"
+  },
+  {
+    "left": "491 3 390",
+    "right": "491 4 390",
+    "position": 2,
+    "left_sign": "3",
+    "right_sign": "4"
+  },
+  {
+    "left": "491 3 390",
+    "right": "491 3 423",
+    "position": 3,
+    "left_sign": "390",
+    "right_sign": "423"
+  },
+  {
+    "left": "491 817 740",
+    "right": "556 817 740",
+    "position": 1,
+    "left_sign": "491",
+    "right_sign": "556"
+  },
+  {
+    "left": "495 33 740",
+    "right": "495 615 740",
+    "position": 2,
+    "left_sign": "33",
+    "right_sign": "615"
+  },
+  {
+    "left": "495 460 740 400",
+    "right": "495 776 740 400",
+    "position": 2,
+    "left_sign": "460",
+    "right_sign": "776"
+  },
+  {
+    "left": "495 615 740",
+    "right": "503 615 740",
+    "position": 1,
+    "left_sign": "495",
+    "right_sign": "503"
+  },
+  {
+    "left": "495 615 740",
+    "right": "703 615 740",
+    "position": 1,
+    "left_sign": "495",
+    "right_sign": "703"
+  },
+  {
+    "left": "503 615 740",
+    "right": "703 615 740",
+    "position": 1,
+    "left_sign": "503",
+    "right_sign": "703"
+  },
+  {
+    "left": "503 16 740 400",
+    "right": "503 17 740 400",
+    "position": 2,
+    "left_sign": "16",
+    "right_sign": "17"
+  },
+  {
+    "left": "503 16 740 400",
+    "right": "503 33 740 400",
+    "position": 2,
+    "left_sign": "16",
+    "right_sign": "33"
+  },
+  {
+    "left": "503 17 740 400",
+    "right": "503 33 740 400",
+    "position": 2,
+    "left_sign": "17",
+    "right_sign": "33"
+  },
+  {
+    "left": "503 17 740",
+    "right": "503 460 740",
+    "position": 2,
+    "left_sign": "17",
+    "right_sign": "460"
+  },
+  {
+    "left": "503 17 740",
+    "right": "503 615 740",
+    "position": 2,
+    "left_sign": "17",
+    "right_sign": "615"
+  },
+  {
+    "left": "503 17 740",
+    "right": "503 7 740",
+    "position": 2,
+    "left_sign": "17",
+    "right_sign": "7"
+  },
+  {
+    "left": "503 460 740",
+    "right": "503 615 740",
+    "position": 2,
+    "left_sign": "460",
+    "right_sign": "615"
+  },
+  {
+    "left": "503 460 740",
+    "right": "503 7 740",
+    "position": 2,
+    "left_sign": "460",
+    "right_sign": "7"
+  },
+  {
+    "left": "503 615 740",
+    "right": "503 7 740",
+    "position": 2,
+    "left_sign": "615",
+    "right_sign": "7"
+  },
+  {
+    "left": "503 460 740",
+    "right": "510 460 740",
+    "position": 1,
+    "left_sign": "503",
+    "right_sign": "510"
+  },
+  {
+    "left": "503 615 154",
+    "right": "503 615 740",
+    "position": 3,
+    "left_sign": "154",
+    "right_sign": "740"
+  },
+  {
+    "left": "503 861 368",
+    "right": "575 861 368",
+    "position": 1,
+    "left_sign": "503",
+    "right_sign": "575"
+  },
+  {
+    "left": "503 861 368",
+    "right": "903 861 368",
+    "position": 1,
+    "left_sign": "503",
+    "right_sign": "903"
+  },
+  {
+    "left": "575 861 368",
+    "right": "903 861 368",
+    "position": 1,
+    "left_sign": "575",
+    "right_sign": "903"
+  },
+  {
+    "left": "510 460 156",
+    "right": "510 460 520",
+    "position": 3,
+    "left_sign": "156",
+    "right_sign": "520"
+  },
+  {
+    "left": "510 460 156",
+    "right": "510 460 740",
+    "position": 3,
+    "left_sign": "156",
+    "right_sign": "740"
+  },
+  {
+    "left": "510 460 520",
+    "right": "510 460 740",
+    "position": 3,
+    "left_sign": "520",
+    "right_sign": "740"
+  },
+  {
+    "left": "519 176 740 400",
+    "right": "519 177 740 400",
+    "position": 2,
+    "left_sign": "176",
+    "right_sign": "177"
+  },
+  {
+    "left": "545 3 156",
+    "right": "877 3 156",
+    "position": 1,
+    "left_sign": "545",
+    "right_sign": "877"
+  },
+  {
+    "left": "55 368 400",
+    "right": "741 368 400",
+    "position": 1,
+    "left_sign": "55",
+    "right_sign": "741"
+  },
+  {
+    "left": "550 525 400",
+    "right": "554 525 400",
+    "position": 1,
+    "left_sign": "550",
+    "right_sign": "554"
+  },
+  {
+    "left": "550 60 165 740",
+    "right": "550 60 690 740",
+    "position": 3,
+    "left_sign": "165",
+    "right_sign": "690"
+  },
+  {
+    "left": "550 60 165 740",
+    "right": "550 60 803 740",
+    "position": 3,
+    "left_sign": "165",
+    "right_sign": "803"
+  },
+  {
+    "left": "550 60 690 740",
+    "right": "550 60 803 740",
+    "position": 3,
+    "left_sign": "690",
+    "right_sign": "803"
+  },
+  {
+    "left": "550 60 556",
+    "right": "550 60 679",
+    "position": 3,
+    "left_sign": "556",
+    "right_sign": "679"
+  },
+  {
+    "left": "550 60 590 390 740",
+    "right": "795 60 590 390 740",
+    "position": 1,
+    "left_sign": "550",
+    "right_sign": "795"
+  },
+  {
+    "left": "570 2 5 900 740",
+    "right": "820 2 5 900 740",
+    "position": 1,
+    "left_sign": "570",
+    "right_sign": "820"
+  },
+  {
+    "left": "575 590 740 240 520",
+    "right": "575 590 741 240 520",
+    "position": 3,
+    "left_sign": "740",
+    "right_sign": "741"
+  },
+  {
+    "left": "590 390 151",
+    "right": "590 390 740",
+    "position": 3,
+    "left_sign": "151",
+    "right_sign": "740"
+  },
+  {
+    "left": "590 390 151",
+    "right": "590 390 820",
+    "position": 3,
+    "left_sign": "151",
+    "right_sign": "820"
+  },
+  {
+    "left": "590 390 740",
+    "right": "590 390 820",
+    "position": 3,
+    "left_sign": "740",
+    "right_sign": "820"
+  },
+  {
+    "left": "590 390 740",
+    "right": "590 405 740",
+    "position": 2,
+    "left_sign": "390",
+    "right_sign": "405"
+  },
+  {
+    "left": "590 390 740",
+    "right": "590 407 740",
+    "position": 2,
+    "left_sign": "390",
+    "right_sign": "407"
+  },
+  {
+    "left": "590 405 740",
+    "right": "590 407 740",
+    "position": 2,
+    "left_sign": "405",
+    "right_sign": "407"
+  },
+  {
+    "left": "590 705 868",
+    "right": "590 706 868",
+    "position": 2,
+    "left_sign": "705",
+    "right_sign": "706"
+  },
+  {
+    "left": "61 142 400 740",
+    "right": "880 142 400 740",
+    "position": 1,
+    "left_sign": "61",
+    "right_sign": "880"
+  },
+  {
+    "left": "61 142 740",
+    "right": "61 255 740",
+    "position": 2,
+    "left_sign": "142",
+    "right_sign": "255"
+  },
+  {
+    "left": "61 255 740",
+    "right": "705 255 740",
+    "position": 1,
+    "left_sign": "61",
+    "right_sign": "705"
+  },
+  {
+    "left": "617 892 740 400",
+    "right": "617 898 740 400",
+    "position": 2,
+    "left_sign": "892",
+    "right_sign": "898"
+  },
+  {
+    "left": "690 154 400",
+    "right": "896 154 400",
+    "position": 1,
+    "left_sign": "690",
+    "right_sign": "896"
+  },
+  {
+    "left": "690 154 400",
+    "right": "690 158 400",
+    "position": 2,
+    "left_sign": "154",
+    "right_sign": "158"
+  },
+  {
+    "left": "690 154 400",
+    "right": "690 740 400",
+    "position": 2,
+    "left_sign": "154",
+    "right_sign": "740"
+  },
+  {
+    "left": "690 158 400",
+    "right": "690 740 400",
+    "position": 2,
+    "left_sign": "158",
+    "right_sign": "740"
+  },
+  {
+    "left": "692 1 240 636 740",
+    "right": "692 60 240 636 740",
+    "position": 2,
+    "left_sign": "1",
+    "right_sign": "60"
+  },
+  {
+    "left": "692 60 176 740",
+    "right": "692 60 531 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "531"
+  },
+  {
+    "left": "692 60 231 440 740",
+    "right": "692 60 231 803 740",
+    "position": 4,
+    "left_sign": "440",
+    "right_sign": "803"
+  },
+  {
+    "left": "692 60 231 440 740",
+    "right": "692 60 231 927 740",
+    "position": 4,
+    "left_sign": "440",
+    "right_sign": "927"
+  },
+  {
+    "left": "692 60 231 803 740",
+    "right": "692 60 231 927 740",
+    "position": 4,
+    "left_sign": "803",
+    "right_sign": "927"
+  },
+  {
+    "left": "692 60 240 603 740",
+    "right": "692 60 240 636 740",
+    "position": 4,
+    "left_sign": "603",
+    "right_sign": "636"
+  },
+  {
+    "left": "705 255 740",
+    "right": "705 50 740",
+    "position": 2,
+    "left_sign": "255",
+    "right_sign": "50"
+  },
+  {
+    "left": "705 33 923 740",
+    "right": "706 33 923 740",
+    "position": 1,
+    "left_sign": "705",
+    "right_sign": "706"
+  },
+  {
+    "left": "705 33 923 740 1",
+    "right": "706 33 923 740 1",
+    "position": 1,
+    "left_sign": "705",
+    "right_sign": "706"
+  },
+  {
+    "left": "705 717 388 154",
+    "right": "706 717 388 154",
+    "position": 1,
+    "left_sign": "705",
+    "right_sign": "706"
+  },
+  {
+    "left": "710 390 368",
+    "right": "831 390 368",
+    "position": 1,
+    "left_sign": "710",
+    "right_sign": "831"
+  },
+  {
+    "left": "798 17 575 740 400",
+    "right": "920 17 575 740 400",
+    "position": 1,
+    "left_sign": "798",
+    "right_sign": "920"
+  },
+  {
+    "left": "798 17 575 740 400",
+    "right": "798 17 575 740 679",
+    "position": 5,
+    "left_sign": "400",
+    "right_sign": "679"
+  },
+  {
+    "left": "798 240 845 61 407",
+    "right": "798 240 845 63 407",
+    "position": 4,
+    "left_sign": "61",
+    "right_sign": "63"
+  },
+  {
+    "left": "803 2 3 390",
+    "right": "817 2 3 390",
+    "position": 1,
+    "left_sign": "803",
+    "right_sign": "817"
+  },
+  {
+    "left": "803 2 3 390",
+    "right": "820 2 3 390",
+    "position": 1,
+    "left_sign": "803",
+    "right_sign": "820"
+  },
+  {
+    "left": "803 2 3 390",
+    "right": "861 2 3 390",
+    "position": 1,
+    "left_sign": "803",
+    "right_sign": "861"
+  },
+  {
+    "left": "817 2 3 390",
+    "right": "820 2 3 390",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "820"
+  },
+  {
+    "left": "817 2 3 390",
+    "right": "861 2 3 390",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "861"
+  },
+  {
+    "left": "820 2 3 390",
+    "right": "861 2 3 390",
+    "position": 1,
+    "left_sign": "820",
+    "right_sign": "861"
+  },
+  {
+    "left": "803 233 176 740",
+    "right": "806 233 176 740",
+    "position": 1,
+    "left_sign": "803",
+    "right_sign": "806"
+  },
+  {
+    "left": "803 233 176 740",
+    "right": "831 233 176 740",
+    "position": 1,
+    "left_sign": "803",
+    "right_sign": "831"
+  },
+  {
+    "left": "806 233 176 740",
+    "right": "831 233 176 740",
+    "position": 1,
+    "left_sign": "806",
+    "right_sign": "831"
+  },
+  {
+    "left": "803 900 740",
+    "right": "803 923 740",
+    "position": 2,
+    "left_sign": "900",
+    "right_sign": "923"
+  },
+  {
+    "left": "806 231 176 740",
+    "right": "806 233 176 740",
+    "position": 2,
+    "left_sign": "231",
+    "right_sign": "233"
+  },
+  {
+    "left": "806 233 176 740",
+    "right": "806 233 384 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "384"
+  },
+  {
+    "left": "806 235 520",
+    "right": "806 240 520",
+    "position": 2,
+    "left_sign": "235",
+    "right_sign": "240"
+  },
+  {
+    "left": "806 55 740",
+    "right": "806 923 740",
+    "position": 2,
+    "left_sign": "55",
+    "right_sign": "923"
+  },
+  {
+    "left": "817 2 104 615 740",
+    "right": "817 2 495 615 740",
+    "position": 3,
+    "left_sign": "104",
+    "right_sign": "495"
+  },
+  {
+    "left": "817 2 17 585 740",
+    "right": "820 2 17 585 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "820"
+  },
+  {
+    "left": "817 2 176 740",
+    "right": "861 2 176 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "861"
+  },
+  {
+    "left": "817 2 176 740",
+    "right": "817 2 222 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "222"
+  },
+  {
+    "left": "817 2 176 740",
+    "right": "817 2 354 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "354"
+  },
+  {
+    "left": "817 2 176 740",
+    "right": "817 2 48 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "48"
+  },
+  {
+    "left": "817 2 176 740",
+    "right": "817 2 540 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "540"
+  },
+  {
+    "left": "817 2 176 740",
+    "right": "817 2 61 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "61"
+  },
+  {
+    "left": "817 2 176 740",
+    "right": "817 2 760 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "760"
+  },
+  {
+    "left": "817 2 176 740",
+    "right": "817 2 772 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "772"
+  },
+  {
+    "left": "817 2 222 740",
+    "right": "817 2 354 740",
+    "position": 3,
+    "left_sign": "222",
+    "right_sign": "354"
+  },
+  {
+    "left": "817 2 222 740",
+    "right": "817 2 48 740",
+    "position": 3,
+    "left_sign": "222",
+    "right_sign": "48"
+  },
+  {
+    "left": "817 2 222 740",
+    "right": "817 2 540 740",
+    "position": 3,
+    "left_sign": "222",
+    "right_sign": "540"
+  },
+  {
+    "left": "817 2 222 740",
+    "right": "817 2 61 740",
+    "position": 3,
+    "left_sign": "222",
+    "right_sign": "61"
+  },
+  {
+    "left": "817 2 222 740",
+    "right": "817 2 760 740",
+    "position": 3,
+    "left_sign": "222",
+    "right_sign": "760"
+  },
+  {
+    "left": "817 2 222 740",
+    "right": "817 2 772 740",
+    "position": 3,
+    "left_sign": "222",
+    "right_sign": "772"
+  },
+  {
+    "left": "817 2 354 740",
+    "right": "817 2 48 740",
+    "position": 3,
+    "left_sign": "354",
+    "right_sign": "48"
+  },
+  {
+    "left": "817 2 354 740",
+    "right": "817 2 540 740",
+    "position": 3,
+    "left_sign": "354",
+    "right_sign": "540"
+  },
+  {
+    "left": "817 2 354 740",
+    "right": "817 2 61 740",
+    "position": 3,
+    "left_sign": "354",
+    "right_sign": "61"
+  },
+  {
+    "left": "817 2 354 740",
+    "right": "817 2 760 740",
+    "position": 3,
+    "left_sign": "354",
+    "right_sign": "760"
+  },
+  {
+    "left": "817 2 354 740",
+    "right": "817 2 772 740",
+    "position": 3,
+    "left_sign": "354",
+    "right_sign": "772"
+  },
+  {
+    "left": "817 2 48 740",
+    "right": "817 2 540 740",
+    "position": 3,
+    "left_sign": "48",
+    "right_sign": "540"
+  },
+  {
+    "left": "817 2 48 740",
+    "right": "817 2 61 740",
+    "position": 3,
+    "left_sign": "48",
+    "right_sign": "61"
+  },
+  {
+    "left": "817 2 48 740",
+    "right": "817 2 760 740",
+    "position": 3,
+    "left_sign": "48",
+    "right_sign": "760"
+  },
+  {
+    "left": "817 2 48 740",
+    "right": "817 2 772 740",
+    "position": 3,
+    "left_sign": "48",
+    "right_sign": "772"
+  },
+  {
+    "left": "817 2 540 740",
+    "right": "817 2 61 740",
+    "position": 3,
+    "left_sign": "540",
+    "right_sign": "61"
+  },
+  {
+    "left": "817 2 540 740",
+    "right": "817 2 760 740",
+    "position": 3,
+    "left_sign": "540",
+    "right_sign": "760"
+  },
+  {
+    "left": "817 2 540 740",
+    "right": "817 2 772 740",
+    "position": 3,
+    "left_sign": "540",
+    "right_sign": "772"
+  },
+  {
+    "left": "817 2 61 740",
+    "right": "817 2 760 740",
+    "position": 3,
+    "left_sign": "61",
+    "right_sign": "760"
+  },
+  {
+    "left": "817 2 61 740",
+    "right": "817 2 772 740",
+    "position": 3,
+    "left_sign": "61",
+    "right_sign": "772"
+  },
+  {
+    "left": "817 2 760 740",
+    "right": "817 2 772 740",
+    "position": 3,
+    "left_sign": "760",
+    "right_sign": "772"
+  },
+  {
+    "left": "817 2 19 760 740",
+    "right": "817 2 49 760 740",
+    "position": 3,
+    "left_sign": "19",
+    "right_sign": "49"
+  },
+  {
+    "left": "817 2 191 415 100 740",
+    "right": "817 2 240 415 100 740",
+    "position": 3,
+    "left_sign": "191",
+    "right_sign": "240"
+  },
+  {
+    "left": "817 2 219 520",
+    "right": "817 2 231 520",
+    "position": 3,
+    "left_sign": "219",
+    "right_sign": "231"
+  },
+  {
+    "left": "817 2 222 740",
+    "right": "820 2 222 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "820"
+  },
+  {
+    "left": "817 2 231 520",
+    "right": "820 2 231 520",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "820"
+  },
+  {
+    "left": "817 2 233 740 90",
+    "right": "817 2 792 740 90",
+    "position": 3,
+    "left_sign": "233",
+    "right_sign": "792"
+  },
+  {
+    "left": "817 2 235 100 740",
+    "right": "817 2 415 100 740",
+    "position": 3,
+    "left_sign": "235",
+    "right_sign": "415"
+  },
+  {
+    "left": "817 2 235 100 740",
+    "right": "817 2 235 380 740",
+    "position": 4,
+    "left_sign": "100",
+    "right_sign": "380"
+  },
+  {
+    "left": "817 2 235 100 740",
+    "right": "817 2 235 770 740",
+    "position": 4,
+    "left_sign": "100",
+    "right_sign": "770"
+  },
+  {
+    "left": "817 2 235 380 740",
+    "right": "817 2 235 770 740",
+    "position": 4,
+    "left_sign": "380",
+    "right_sign": "770"
+  },
+  {
+    "left": "817 2 235 550 527",
+    "right": "817 2 240 550 527",
+    "position": 3,
+    "left_sign": "235",
+    "right_sign": "240"
+  },
+  {
+    "left": "817 2 235 840 32 740",
+    "right": "861 2 235 840 32 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "861"
+  },
+  {
+    "left": "817 2 240 176 740",
+    "right": "817 2 240 904 740",
+    "position": 4,
+    "left_sign": "176",
+    "right_sign": "904"
+  },
+  {
+    "left": "817 2 240 176 740",
+    "right": "817 2 240 923 740",
+    "position": 4,
+    "left_sign": "176",
+    "right_sign": "923"
+  },
+  {
+    "left": "817 2 240 904 740",
+    "right": "817 2 240 923 740",
+    "position": 4,
+    "left_sign": "904",
+    "right_sign": "923"
+  },
+  {
+    "left": "817 2 240 415 100 740 90",
+    "right": "861 2 240 415 100 740 90",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "861"
+  },
+  {
+    "left": "817 2 255 435 690 740",
+    "right": "861 2 255 435 690 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "861"
+  },
+  {
+    "left": "817 2 3 390",
+    "right": "817 368 3 390",
+    "position": 2,
+    "left_sign": "2",
+    "right_sign": "368"
+  },
+  {
+    "left": "817 2 3 390",
+    "right": "817 2 4 390",
+    "position": 3,
+    "left_sign": "3",
+    "right_sign": "4"
+  },
+  {
+    "left": "817 2 3 390",
+    "right": "817 2 5 390",
+    "position": 3,
+    "left_sign": "3",
+    "right_sign": "5"
+  },
+  {
+    "left": "817 2 4 390",
+    "right": "817 2 5 390",
+    "position": 3,
+    "left_sign": "4",
+    "right_sign": "5"
+  },
+  {
+    "left": "817 2 350 400 520",
+    "right": "817 2 354 400 520",
+    "position": 3,
+    "left_sign": "350",
+    "right_sign": "354"
+  },
+  {
+    "left": "817 2 4 390",
+    "right": "820 2 4 390",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "820"
+  },
+  {
+    "left": "817 2 4 390",
+    "right": "861 2 4 390",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "861"
+  },
+  {
+    "left": "820 2 4 390",
+    "right": "861 2 4 390",
+    "position": 1,
+    "left_sign": "820",
+    "right_sign": "861"
+  },
+  {
+    "left": "817 2 415 100 740",
+    "right": "820 2 415 100 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "820"
+  },
+  {
+    "left": "817 2 415 100 740",
+    "right": "861 2 415 100 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "861"
+  },
+  {
+    "left": "820 2 415 100 740",
+    "right": "861 2 415 100 740",
+    "position": 1,
+    "left_sign": "820",
+    "right_sign": "861"
+  },
+  {
+    "left": "817 2 503 460 740",
+    "right": "880 2 503 460 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "880"
+  },
+  {
+    "left": "817 2 503 460 740",
+    "right": "817 2 503 7 740",
+    "position": 4,
+    "left_sign": "460",
+    "right_sign": "7"
+  },
+  {
+    "left": "817 2 503 460 740",
+    "right": "817 2 503 776 740",
+    "position": 4,
+    "left_sign": "460",
+    "right_sign": "776"
+  },
+  {
+    "left": "817 2 503 7 740",
+    "right": "817 2 503 776 740",
+    "position": 4,
+    "left_sign": "7",
+    "right_sign": "776"
+  },
+  {
+    "left": "817 2 540 740",
+    "right": "820 2 540 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "820"
+  },
+  {
+    "left": "817 2 590 390 740",
+    "right": "820 2 590 390 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "820"
+  },
+  {
+    "left": "817 2 590 390 740",
+    "right": "861 2 590 390 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "861"
+  },
+  {
+    "left": "820 2 590 390 740",
+    "right": "861 2 590 390 740",
+    "position": 1,
+    "left_sign": "820",
+    "right_sign": "861"
+  },
+  {
+    "left": "817 2 61 142 740",
+    "right": "861 2 61 142 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "861"
+  },
+  {
+    "left": "817 2 61 142 740",
+    "right": "817 2 62 142 740",
+    "position": 3,
+    "left_sign": "61",
+    "right_sign": "62"
+  },
+  {
+    "left": "817 2 61 407",
+    "right": "817 2 61 740",
+    "position": 4,
+    "left_sign": "407",
+    "right_sign": "740"
+  },
+  {
+    "left": "817 2 772 740",
+    "right": "861 2 772 740",
+    "position": 1,
+    "left_sign": "817",
+    "right_sign": "861"
+  },
+  {
+    "left": "817 2 803 233 520",
+    "right": "817 2 803 235 520",
+    "position": 4,
+    "left_sign": "233",
+    "right_sign": "235"
+  },
+  {
+    "left": "820 2 137",
+    "right": "820 2 236",
+    "position": 3,
+    "left_sign": "137",
+    "right_sign": "236"
+  },
+  {
+    "left": "820 2 14 220 740 90",
+    "right": "820 2 16 220 740 90",
+    "position": 3,
+    "left_sign": "14",
+    "right_sign": "16"
+  },
+  {
+    "left": "820 2 17 575 740",
+    "right": "820 2 17 585 740",
+    "position": 4,
+    "left_sign": "575",
+    "right_sign": "585"
+  },
+  {
+    "left": "820 2 222 740",
+    "right": "820 2 388 740",
+    "position": 3,
+    "left_sign": "222",
+    "right_sign": "388"
+  },
+  {
+    "left": "820 2 222 740",
+    "right": "820 2 42 740",
+    "position": 3,
+    "left_sign": "222",
+    "right_sign": "42"
+  },
+  {
+    "left": "820 2 222 740",
+    "right": "820 2 482 740",
+    "position": 3,
+    "left_sign": "222",
+    "right_sign": "482"
+  },
+  {
+    "left": "820 2 222 740",
+    "right": "820 2 540 740",
+    "position": 3,
+    "left_sign": "222",
+    "right_sign": "540"
+  },
+  {
+    "left": "820 2 222 740",
+    "right": "820 2 904 740",
+    "position": 3,
+    "left_sign": "222",
+    "right_sign": "904"
+  },
+  {
+    "left": "820 2 388 740",
+    "right": "820 2 42 740",
+    "position": 3,
+    "left_sign": "388",
+    "right_sign": "42"
+  },
+  {
+    "left": "820 2 388 740",
+    "right": "820 2 482 740",
+    "position": 3,
+    "left_sign": "388",
+    "right_sign": "482"
+  },
+  {
+    "left": "820 2 388 740",
+    "right": "820 2 540 740",
+    "position": 3,
+    "left_sign": "388",
+    "right_sign": "540"
+  },
+  {
+    "left": "820 2 388 740",
+    "right": "820 2 904 740",
+    "position": 3,
+    "left_sign": "388",
+    "right_sign": "904"
+  },
+  {
+    "left": "820 2 42 740",
+    "right": "820 2 482 740",
+    "position": 3,
+    "left_sign": "42",
+    "right_sign": "482"
+  },
+  {
+    "left": "820 2 42 740",
+    "right": "820 2 540 740",
+    "position": 3,
+    "left_sign": "42",
+    "right_sign": "540"
+  },
+  {
+    "left": "820 2 42 740",
+    "right": "820 2 904 740",
+    "position": 3,
+    "left_sign": "42",
+    "right_sign": "904"
+  },
+  {
+    "left": "820 2 482 740",
+    "right": "820 2 540 740",
+    "position": 3,
+    "left_sign": "482",
+    "right_sign": "540"
+  },
+  {
+    "left": "820 2 482 740",
+    "right": "820 2 904 740",
+    "position": 3,
+    "left_sign": "482",
+    "right_sign": "904"
+  },
+  {
+    "left": "820 2 540 740",
+    "right": "820 2 904 740",
+    "position": 3,
+    "left_sign": "540",
+    "right_sign": "904"
+  },
+  {
+    "left": "820 2 236",
+    "right": "861 2 236",
+    "position": 1,
+    "left_sign": "820",
+    "right_sign": "861"
+  },
+  {
+    "left": "820 2 3 390",
+    "right": "820 2 4 390",
+    "position": 3,
+    "left_sign": "3",
+    "right_sign": "4"
+  },
+  {
+    "left": "820 2 4 390",
+    "right": "820 2 4 407",
+    "position": 4,
+    "left_sign": "390",
+    "right_sign": "407"
+  },
+  {
+    "left": "820 2 4 407",
+    "right": "861 2 4 407",
+    "position": 1,
+    "left_sign": "820",
+    "right_sign": "861"
+  },
+  {
+    "left": "820 2 531 390 621",
+    "right": "820 2 844 390 621",
+    "position": 3,
+    "left_sign": "531",
+    "right_sign": "844"
+  },
+  {
+    "left": "820 2 554 526",
+    "right": "880 2 554 526",
+    "position": 1,
+    "left_sign": "820",
+    "right_sign": "880"
+  },
+  {
+    "left": "820 32 130",
+    "right": "905 32 130",
+    "position": 1,
+    "left_sign": "820",
+    "right_sign": "905"
+  },
+  {
+    "left": "820 60 220 798 740",
+    "right": "820 60 231 798 740",
+    "position": 3,
+    "left_sign": "220",
+    "right_sign": "231"
+  },
+  {
+    "left": "820 60 235 240 455 740",
+    "right": "820 60 235 240 923 740",
+    "position": 5,
+    "left_sign": "455",
+    "right_sign": "923"
+  },
+  {
+    "left": "820 60 415 220 520",
+    "right": "920 60 415 220 520",
+    "position": 1,
+    "left_sign": "820",
+    "right_sign": "920"
+  },
+  {
+    "left": "820 60 564 740",
+    "right": "820 60 61 740",
+    "position": 3,
+    "left_sign": "564",
+    "right_sign": "61"
+  },
+  {
+    "left": "820 60 564 740",
+    "right": "820 60 773 740",
+    "position": 3,
+    "left_sign": "564",
+    "right_sign": "773"
+  },
+  {
+    "left": "820 60 61 740",
+    "right": "820 60 773 740",
+    "position": 3,
+    "left_sign": "61",
+    "right_sign": "773"
+  },
+  {
+    "left": "824 2 16 390",
+    "right": "861 2 16 390",
+    "position": 1,
+    "left_sign": "824",
+    "right_sign": "861"
+  },
+  {
+    "left": "829 617 400",
+    "right": "829 892 400",
+    "position": 2,
+    "left_sign": "617",
+    "right_sign": "892"
+  },
+  {
+    "left": "829 892 400",
+    "right": "831 892 400",
+    "position": 1,
+    "left_sign": "829",
+    "right_sign": "831"
+  },
+  {
+    "left": "838 482 740",
+    "right": "838 923 740",
+    "position": 2,
+    "left_sign": "482",
+    "right_sign": "923"
+  },
+  {
+    "left": "861 2 103 740 90",
+    "right": "861 2 176 740 90",
+    "position": 3,
+    "left_sign": "103",
+    "right_sign": "176"
+  },
+  {
+    "left": "861 2 125",
+    "right": "861 2 16",
+    "position": 3,
+    "left_sign": "125",
+    "right_sign": "16"
+  },
+  {
+    "left": "861 2 125",
+    "right": "861 2 226",
+    "position": 3,
+    "left_sign": "125",
+    "right_sign": "226"
+  },
+  {
+    "left": "861 2 125",
+    "right": "861 2 236",
+    "position": 3,
+    "left_sign": "125",
+    "right_sign": "236"
+  },
+  {
+    "left": "861 2 16",
+    "right": "861 2 226",
+    "position": 3,
+    "left_sign": "16",
+    "right_sign": "226"
+  },
+  {
+    "left": "861 2 16",
+    "right": "861 2 236",
+    "position": 3,
+    "left_sign": "16",
+    "right_sign": "236"
+  },
+  {
+    "left": "861 2 226",
+    "right": "861 2 236",
+    "position": 3,
+    "left_sign": "226",
+    "right_sign": "236"
+  },
+  {
+    "left": "861 2 15 390",
+    "right": "861 2 16 390",
+    "position": 3,
+    "left_sign": "15",
+    "right_sign": "16"
+  },
+  {
+    "left": "861 2 15 390",
+    "right": "861 2 3 390",
+    "position": 3,
+    "left_sign": "15",
+    "right_sign": "3"
+  },
+  {
+    "left": "861 2 15 390",
+    "right": "861 2 4 390",
+    "position": 3,
+    "left_sign": "15",
+    "right_sign": "4"
+  },
+  {
+    "left": "861 2 15 390",
+    "right": "861 2 869 390",
+    "position": 3,
+    "left_sign": "15",
+    "right_sign": "869"
+  },
+  {
+    "left": "861 2 16 390",
+    "right": "861 2 3 390",
+    "position": 3,
+    "left_sign": "16",
+    "right_sign": "3"
+  },
+  {
+    "left": "861 2 16 390",
+    "right": "861 2 4 390",
+    "position": 3,
+    "left_sign": "16",
+    "right_sign": "4"
+  },
+  {
+    "left": "861 2 16 390",
+    "right": "861 2 869 390",
+    "position": 3,
+    "left_sign": "16",
+    "right_sign": "869"
+  },
+  {
+    "left": "861 2 3 390",
+    "right": "861 2 4 390",
+    "position": 3,
+    "left_sign": "3",
+    "right_sign": "4"
+  },
+  {
+    "left": "861 2 3 390",
+    "right": "861 2 869 390",
+    "position": 3,
+    "left_sign": "3",
+    "right_sign": "869"
+  },
+  {
+    "left": "861 2 4 390",
+    "right": "861 2 869 390",
+    "position": 3,
+    "left_sign": "4",
+    "right_sign": "869"
+  },
+  {
+    "left": "861 2 16 390",
+    "right": "861 2 16 405",
+    "position": 4,
+    "left_sign": "390",
+    "right_sign": "405"
+  },
+  {
+    "left": "861 2 16 405",
+    "right": "861 2 35 405",
+    "position": 3,
+    "left_sign": "16",
+    "right_sign": "35"
+  },
+  {
+    "left": "861 2 16 405",
+    "right": "861 2 4 405",
+    "position": 3,
+    "left_sign": "16",
+    "right_sign": "4"
+  },
+  {
+    "left": "861 2 35 405",
+    "right": "861 2 4 405",
+    "position": 3,
+    "left_sign": "35",
+    "right_sign": "4"
+  },
+  {
+    "left": "861 2 176 151",
+    "right": "861 2 61 151",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "61"
+  },
+  {
+    "left": "861 2 176 151",
+    "right": "861 2 176 740",
+    "position": 4,
+    "left_sign": "151",
+    "right_sign": "740"
+  },
+  {
+    "left": "861 2 176 740",
+    "right": "861 2 416 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "416"
+  },
+  {
+    "left": "861 2 176 740",
+    "right": "861 2 519 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "519"
+  },
+  {
+    "left": "861 2 176 740",
+    "right": "861 2 772 740",
+    "position": 3,
+    "left_sign": "176",
+    "right_sign": "772"
+  },
+  {
+    "left": "861 2 416 740",
+    "right": "861 2 519 740",
+    "position": 3,
+    "left_sign": "416",
+    "right_sign": "519"
+  },
+  {
+    "left": "861 2 416 740",
+    "right": "861 2 772 740",
+    "position": 3,
+    "left_sign": "416",
+    "right_sign": "772"
+  },
+  {
+    "left": "861 2 519 740",
+    "right": "861 2 772 740",
+    "position": 3,
+    "left_sign": "519",
+    "right_sign": "772"
+  },
+  {
+    "left": "861 2 220 520",
+    "right": "861 2 33 520",
+    "position": 3,
+    "left_sign": "220",
+    "right_sign": "33"
+  },
+  {
+    "left": "861 2 220 840 32 740",
+    "right": "861 2 235 840 32 740",
+    "position": 3,
+    "left_sign": "220",
+    "right_sign": "235"
+  },
+  {
+    "left": "861 2 235 555 526",
+    "right": "861 2 235 555 527",
+    "position": 5,
+    "left_sign": "526",
+    "right_sign": "527"
+  },
+  {
+    "left": "861 2 235 760 740",
+    "right": "861 2 605 760 740",
+    "position": 3,
+    "left_sign": "235",
+    "right_sign": "605"
+  },
+  {
+    "left": "861 2 240 482 740",
+    "right": "861 2 240 637 740",
+    "position": 4,
+    "left_sign": "482",
+    "right_sign": "637"
+  },
+  {
+    "left": "861 2 240 482 740",
+    "right": "861 2 240 639 740",
+    "position": 4,
+    "left_sign": "482",
+    "right_sign": "639"
+  },
+  {
+    "left": "861 2 240 637 740",
+    "right": "861 2 240 639 740",
+    "position": 4,
+    "left_sign": "637",
+    "right_sign": "639"
+  },
+  {
+    "left": "861 2 31 233 520",
+    "right": "861 2 49 233 520",
+    "position": 3,
+    "left_sign": "31",
+    "right_sign": "49"
+  },
+  {
+    "left": "861 2 32 220 241",
+    "right": "861 2 32 220 520",
+    "position": 5,
+    "left_sign": "241",
+    "right_sign": "520"
+  },
+  {
+    "left": "861 2 4 390",
+    "right": "861 2 4 405",
+    "position": 4,
+    "left_sign": "390",
+    "right_sign": "405"
+  },
+  {
+    "left": "861 2 4 390",
+    "right": "861 2 4 407",
+    "position": 4,
+    "left_sign": "390",
+    "right_sign": "407"
+  },
+  {
+    "left": "861 2 4 405",
+    "right": "861 2 4 407",
+    "position": 4,
+    "left_sign": "405",
+    "right_sign": "407"
+  },
+  {
+    "left": "861 2 4 405",
+    "right": "933 2 4 405",
+    "position": 1,
+    "left_sign": "861",
+    "right_sign": "933"
+  },
+  {
+    "left": "861 2 590 390 161",
+    "right": "861 2 590 390 740",
+    "position": 5,
+    "left_sign": "161",
+    "right_sign": "740"
+  },
+  {
+    "left": "861 2 590 390 161",
+    "right": "861 2 590 390 820",
+    "position": 5,
+    "left_sign": "161",
+    "right_sign": "820"
+  },
+  {
+    "left": "861 2 590 390 740",
+    "right": "861 2 590 390 820",
+    "position": 5,
+    "left_sign": "740",
+    "right_sign": "820"
+  },
+  {
+    "left": "877 61 740",
+    "right": "877 861 740",
+    "position": 2,
+    "left_sign": "61",
+    "right_sign": "861"
+  },
+  {
+    "left": "904 32 597 142 617",
+    "right": "905 32 597 142 617",
+    "position": 1,
+    "left_sign": "904",
+    "right_sign": "905"
+  },
+  {
+    "left": "920 60 415 220 520",
+    "right": "920 60 742 220 520",
+    "position": 3,
+    "left_sign": "415",
+    "right_sign": "742"
+  },
+  {
+    "left": "920 60 741 142 156",
+    "right": "920 60 741 176 156",
+    "position": 4,
+    "left_sign": "142",
+    "right_sign": "176"
+  },
+  {
+    "left": "920 60 741 415 100 740",
+    "right": "920 60 745 415 100 740",
+    "position": 3,
+    "left_sign": "741",
+    "right_sign": "745"
+  },
+  {
+    "left": "920 60 741 416 740",
+    "right": "920 60 741 42 740",
+    "position": 4,
+    "left_sign": "416",
+    "right_sign": "42"
+  },
+  {
+    "left": "920 60 741 416 740",
+    "right": "920 60 741 440 740",
+    "position": 4,
+    "left_sign": "416",
+    "right_sign": "440"
+  },
+  {
+    "left": "920 60 741 416 740",
+    "right": "920 60 741 460 740",
+    "position": 4,
+    "left_sign": "416",
+    "right_sign": "460"
+  },
+  {
+    "left": "920 60 741 416 740",
+    "right": "920 60 741 927 740",
+    "position": 4,
+    "left_sign": "416",
+    "right_sign": "927"
+  },
+  {
+    "left": "920 60 741 42 740",
+    "right": "920 60 741 440 740",
+    "position": 4,
+    "left_sign": "42",
+    "right_sign": "440"
+  },
+  {
+    "left": "920 60 741 42 740",
+    "right": "920 60 741 460 740",
+    "position": 4,
+    "left_sign": "42",
+    "right_sign": "460"
+  },
+  {
+    "left": "920 60 741 42 740",
+    "right": "920 60 741 927 740",
+    "position": 4,
+    "left_sign": "42",
+    "right_sign": "927"
+  },
+  {
+    "left": "920 60 741 440 740",
+    "right": "920 60 741 460 740",
+    "position": 4,
+    "left_sign": "440",
+    "right_sign": "460"
+  },
+  {
+    "left": "920 60 741 440 740",
+    "right": "920 60 741 927 740",
+    "position": 4,
+    "left_sign": "440",
+    "right_sign": "927"
+  },
+  {
+    "left": "920 60 741 460 740",
+    "right": "920 60 741 927 740",
+    "position": 4,
+    "left_sign": "460",
+    "right_sign": "927"
+  },
+  {
+    "left": "921 70 520",
+    "right": "921 72 520",
+    "position": 2,
+    "left_sign": "70",
+    "right_sign": "72"
+  }
+]

@@ -1,0 +1,7946 @@
+[
+  {
+    "index": 0,
+    "id": "Badga-1_i-1"
+  },
+  {
+    "index": 1,
+    "id": "Betta_Kurumba-1_i-1"
+  },
+  {
+    "index": 2,
+    "id": "Brahui-1_i-1"
+  },
+  {
+    "index": 3,
+    "id": "Gondi-1_i-1"
+  },
+  {
+    "index": 4,
+    "id": "Kannada-1_i-1"
+  },
+  {
+    "index": 5,
+    "id": "Kodava-1_i-1"
+  },
+  {
+    "index": 6,
+    "id": "Kolami-1_i-1"
+  },
+  {
+    "index": 7,
+    "id": "Kota-1_i-1"
+  },
+  {
+    "index": 8,
+    "id": "Koya-1_i-1"
+  },
+  {
+    "index": 9,
+    "id": "Kurukh-1_i-1"
+  },
+  {
+    "index": 10,
+    "id": "Kuwi-1_i-1"
+  },
+  {
+    "index": 11,
+    "id": "Kuwi-1_i-2"
+  },
+  {
+    "index": 12,
+    "id": "Malayalam-1_i-1"
+  },
+  {
+    "index": 13,
+    "id": "Malto-1_i-1"
+  },
+  {
+    "index": 14,
+    "id": "Ollari_Gadba-1_i-1"
+  },
+  {
+    "index": 15,
+    "id": "Parji-1_i-1"
+  },
+  {
+    "index": 16,
+    "id": "Tamil-1_i-1"
+  },
+  {
+    "index": 17,
+    "id": "Telugu-1_i-1"
+  },
+  {
+    "index": 18,
+    "id": "Toda-1_i-1"
+  },
+  {
+    "index": 19,
+    "id": "Tulu-1_i-1"
+  },
+  {
+    "index": 20,
+    "id": "Yeruva-1_i-1"
+  },
+  {
+    "index": 21,
+    "id": "Badga-2_all-1"
+  },
+  {
+    "index": 22,
+    "id": "Kannada-2_all-1"
+  },
+  {
+    "index": 23,
+    "id": "Kodava-2_all-1"
+  },
+  {
+    "index": 24,
+    "id": "Kota-2_all-1"
+  },
+  {
+    "index": 25,
+    "id": "Malayalam-2_all-1"
+  },
+  {
+    "index": 26,
+    "id": "Tamil-2_all-1"
+  },
+  {
+    "index": 27,
+    "id": "Koya-2_all-1"
+  },
+  {
+    "index": 28,
+    "id": "Telugu-2_all-1"
+  },
+  {
+    "index": 29,
+    "id": "Koya-2_all-2"
+  },
+  {
+    "index": 30,
+    "id": "Telugu-2_all-2"
+  },
+  {
+    "index": 31,
+    "id": "Toda-2_all-1"
+  },
+  {
+    "index": 32,
+    "id": "Telugu-2_all-3"
+  },
+  {
+    "index": 33,
+    "id": "Yeruva-2_all-1"
+  },
+  {
+    "index": 34,
+    "id": "Tulu-2_all-1"
+  },
+  {
+    "index": 35,
+    "id": "Betta_Kurumba-2_all-1"
+  },
+  {
+    "index": 36,
+    "id": "Kuwi-2_all-1"
+  },
+  {
+    "index": 37,
+    "id": "Brahui-2_all-1"
+  },
+  {
+    "index": 38,
+    "id": "Malto-2_all-1"
+  },
+  {
+    "index": 39,
+    "id": "Malto-2_all-2"
+  },
+  {
+    "index": 40,
+    "id": "Kurukh-2_all-1"
+  },
+  {
+    "index": 41,
+    "id": "Kolami-2_all-1"
+  },
+  {
+    "index": 42,
+    "id": "Gondi-2_all-1"
+  },
+  {
+    "index": 43,
+    "id": "Malayalam-3_ashes-1"
+  },
+  {
+    "index": 44,
+    "id": "Malayalam-3_ashes-2"
+  },
+  {
+    "index": 45,
+    "id": "Tamil-3_ashes-1"
+  },
+  {
+    "index": 46,
+    "id": "Badga-3_ashes-1"
+  },
+  {
+    "index": 47,
+    "id": "Betta_Kurumba-3_ashes-1"
+  },
+  {
+    "index": 48,
+    "id": "Kannada-3_ashes-1"
+  },
+  {
+    "index": 49,
+    "id": "Kodava-3_ashes-1"
+  },
+  {
+    "index": 50,
+    "id": "Kota-3_ashes-1"
+  },
+  {
+    "index": 51,
+    "id": "Koya-3_ashes-1"
+  },
+  {
+    "index": 52,
+    "id": "Telugu-3_ashes-1"
+  },
+  {
+    "index": 53,
+    "id": "Toda-3_ashes-1"
+  },
+  {
+    "index": 54,
+    "id": "Yeruva-3_ashes-1"
+  },
+  {
+    "index": 55,
+    "id": "Tulu-3_ashes-1"
+  },
+  {
+    "index": 56,
+    "id": "Tulu-3_ashes-2"
+  },
+  {
+    "index": 57,
+    "id": "Gondi-3_ashes-1"
+  },
+  {
+    "index": 58,
+    "id": "Ollari_Gadba-3_ashes-1"
+  },
+  {
+    "index": 59,
+    "id": "Parji-3_ashes-1"
+  },
+  {
+    "index": 60,
+    "id": "Brahui-3_ashes-1"
+  },
+  {
+    "index": 61,
+    "id": "Kolami-3_ashes-1"
+  },
+  {
+    "index": 62,
+    "id": "Kurukh-3_ashes-1"
+  },
+  {
+    "index": 63,
+    "id": "Badga-4_bark-1"
+  },
+  {
+    "index": 64,
+    "id": "Kodava-4_bark-1"
+  },
+  {
+    "index": 65,
+    "id": "Malayalam-4_bark-1"
+  },
+  {
+    "index": 66,
+    "id": "Tamil-4_bark-1"
+  },
+  {
+    "index": 67,
+    "id": "Telugu-4_bark-1"
+  },
+  {
+    "index": 68,
+    "id": "Kannada-4_bark-1"
+  },
+  {
+    "index": 69,
+    "id": "Kurukh-4_bark-1"
+  },
+  {
+    "index": 70,
+    "id": "Koya-4_bark-1"
+  },
+  {
+    "index": 71,
+    "id": "Telugu-4_bark-2"
+  },
+  {
+    "index": 72,
+    "id": "Kodava-4_bark-2"
+  },
+  {
+    "index": 73,
+    "id": "Koya-4_bark-2"
+  },
+  {
+    "index": 74,
+    "id": "Kannada-4_bark-2"
+  },
+  {
+    "index": 75,
+    "id": "Toda-4_bark-1"
+  },
+  {
+    "index": 76,
+    "id": "Tulu-4_bark-1"
+  },
+  {
+    "index": 77,
+    "id": "Gondi-4_bark-1"
+  },
+  {
+    "index": 78,
+    "id": "Yeruva-4_bark-1"
+  },
+  {
+    "index": 79,
+    "id": "Betta_Kurumba-4_bark-1"
+  },
+  {
+    "index": 80,
+    "id": "Malayalam-4_bark-2"
+  },
+  {
+    "index": 81,
+    "id": "Brahui-4_bark-1"
+  },
+  {
+    "index": 82,
+    "id": "Kolami-4_bark-1"
+  },
+  {
+    "index": 83,
+    "id": "Kota-4_bark-1"
+  },
+  {
+    "index": 84,
+    "id": "Malayalam-5_belly-1"
+  },
+  {
+    "index": 85,
+    "id": "Tamil-5_belly-1"
+  },
+  {
+    "index": 86,
+    "id": "Toda-5_belly-1"
+  },
+  {
+    "index": 87,
+    "id": "Tulu-5_belly-1"
+  },
+  {
+    "index": 88,
+    "id": "Yeruva-5_belly-1"
+  },
+  {
+    "index": 89,
+    "id": "Yeruva-5_belly-2"
+  },
+  {
+    "index": 90,
+    "id": "Badga-5_belly-1"
+  },
+  {
+    "index": 91,
+    "id": "Betta_Kurumba-5_belly-1"
+  },
+  {
+    "index": 92,
+    "id": "Kannada-5_belly-1"
+  },
+  {
+    "index": 93,
+    "id": "Kannada-5_belly-2"
+  },
+  {
+    "index": 94,
+    "id": "Kodava-5_belly-1"
+  },
+  {
+    "index": 95,
+    "id": "Malto-5_belly-1"
+  },
+  {
+    "index": 96,
+    "id": "Parji-5_belly-1"
+  },
+  {
+    "index": 97,
+    "id": "Telugu-5_belly-1"
+  },
+  {
+    "index": 98,
+    "id": "Telugu-5_belly-2"
+  },
+  {
+    "index": 99,
+    "id": "Koya-5_belly-1"
+  },
+  {
+    "index": 100,
+    "id": "Tamil-5_belly-2"
+  },
+  {
+    "index": 101,
+    "id": "Tamil-5_belly-3"
+  },
+  {
+    "index": 102,
+    "id": "Kurukh-5_belly-1"
+  },
+  {
+    "index": 103,
+    "id": "Brahui-5_belly-1"
+  },
+  {
+    "index": 104,
+    "id": "Gondi-5_belly-1"
+  },
+  {
+    "index": 105,
+    "id": "Ollari_Gadba-5_belly-1"
+  },
+  {
+    "index": 106,
+    "id": "Kuwi-5_belly-1"
+  },
+  {
+    "index": 107,
+    "id": "Kolami-5_belly-1"
+  },
+  {
+    "index": 108,
+    "id": "Kota-5_belly-1"
+  },
+  {
+    "index": 109,
+    "id": "Gondi-6_big-1"
+  },
+  {
+    "index": 110,
+    "id": "Koya-6_big-1"
+  },
+  {
+    "index": 111,
+    "id": "Kuwi-6_big-1"
+  },
+  {
+    "index": 112,
+    "id": "Malto-6_big-1"
+  },
+  {
+    "index": 113,
+    "id": "Parji-6_big-1"
+  },
+  {
+    "index": 114,
+    "id": "Tamil-6_big-1"
+  },
+  {
+    "index": 115,
+    "id": "Tamil-6_big-2"
+  },
+  {
+    "index": 116,
+    "id": "Telugu-6_big-1"
+  },
+  {
+    "index": 117,
+    "id": "Kodava-6_big-1"
+  },
+  {
+    "index": 118,
+    "id": "Malayalam-6_big-1"
+  },
+  {
+    "index": 119,
+    "id": "Yeruva-6_big-1"
+  },
+  {
+    "index": 120,
+    "id": "Badga-6_big-1"
+  },
+  {
+    "index": 121,
+    "id": "Kannada-6_big-1"
+  },
+  {
+    "index": 122,
+    "id": "Tulu-6_big-1"
+  },
+  {
+    "index": 123,
+    "id": "Toda-6_big-1"
+  },
+  {
+    "index": 124,
+    "id": "Betta_Kurumba-6_big-1"
+  },
+  {
+    "index": 125,
+    "id": "Brahui-6_big-1"
+  },
+  {
+    "index": 126,
+    "id": "Kurukh-6_big-1"
+  },
+  {
+    "index": 127,
+    "id": "Ollari_Gadba-6_big-1"
+  },
+  {
+    "index": 128,
+    "id": "Kota-6_big-1"
+  },
+  {
+    "index": 129,
+    "id": "Tamil-7_bird-1"
+  },
+  {
+    "index": 130,
+    "id": "Toda-7_bird-1"
+  },
+  {
+    "index": 131,
+    "id": "Gondi-7_bird-1"
+  },
+  {
+    "index": 132,
+    "id": "Kolami-7_bird-1"
+  },
+  {
+    "index": 133,
+    "id": "Koya-7_bird-1"
+  },
+  {
+    "index": 134,
+    "id": "Telugu-7_bird-2"
+  },
+  {
+    "index": 135,
+    "id": "Malayalam-7_bird-2"
+  },
+  {
+    "index": 136,
+    "id": "Malto-7_bird-1"
+  },
+  {
+    "index": 137,
+    "id": "Brahui-7_bird-1"
+  },
+  {
+    "index": 138,
+    "id": "Kurukh-7_bird-1"
+  },
+  {
+    "index": 139,
+    "id": "Ollari_Gadba-7_bird-1"
+  },
+  {
+    "index": 140,
+    "id": "Betta_Kurumba-8_bite-1"
+  },
+  {
+    "index": 141,
+    "id": "Betta_Kurumba-8_bite-2"
+  },
+  {
+    "index": 142,
+    "id": "Brahui-8_bite-1"
+  },
+  {
+    "index": 143,
+    "id": "Kannada-8_bite-1"
+  },
+  {
+    "index": 144,
+    "id": "Kodava-8_bite-1"
+  },
+  {
+    "index": 145,
+    "id": "Kota-8_bite-1"
+  },
+  {
+    "index": 146,
+    "id": "Malayalam-8_bite-1"
+  },
+  {
+    "index": 147,
+    "id": "Tamil-8_bite-1"
+  },
+  {
+    "index": 148,
+    "id": "Yeruva-8_bite-1"
+  },
+  {
+    "index": 149,
+    "id": "Toda-8_bite-1"
+  },
+  {
+    "index": 150,
+    "id": "Kolami-8_bite-1"
+  },
+  {
+    "index": 151,
+    "id": "Koya-8_bite-1"
+  },
+  {
+    "index": 152,
+    "id": "Parji-8_bite-1"
+  },
+  {
+    "index": 153,
+    "id": "Telugu-8_bite-1"
+  },
+  {
+    "index": 154,
+    "id": "Badga-8_bite-1"
+  },
+  {
+    "index": 155,
+    "id": "Gondi-8_bite-1"
+  },
+  {
+    "index": 156,
+    "id": "Kannada-8_bite-2"
+  },
+  {
+    "index": 157,
+    "id": "Koya-8_bite-2"
+  },
+  {
+    "index": 158,
+    "id": "Kurukh-8_bite-1"
+  },
+  {
+    "index": 159,
+    "id": "Kuwi-8_bite-1"
+  },
+  {
+    "index": 160,
+    "id": "Tulu-8_bite-1"
+  },
+  {
+    "index": 161,
+    "id": "Malto-8_bite-1"
+  },
+  {
+    "index": 162,
+    "id": "Badga-9_black-1"
+  },
+  {
+    "index": 163,
+    "id": "Betta_Kurumba-9_black-1"
+  },
+  {
+    "index": 164,
+    "id": "Gondi-9_black-1"
+  },
+  {
+    "index": 165,
+    "id": "Kannada-9_black-1"
+  },
+  {
+    "index": 166,
+    "id": "Kodava-9_black-1"
+  },
+  {
+    "index": 167,
+    "id": "Kota-9_black-1"
+  },
+  {
+    "index": 168,
+    "id": "Koya-9_black-1"
+  },
+  {
+    "index": 169,
+    "id": "Malayalam-9_black-1"
+  },
+  {
+    "index": 170,
+    "id": "Tamil-9_black-1"
+  },
+  {
+    "index": 171,
+    "id": "Toda-9_black-1"
+  },
+  {
+    "index": 172,
+    "id": "Tulu-9_black-1"
+  },
+  {
+    "index": 173,
+    "id": "Yeruva-9_black-1"
+  },
+  {
+    "index": 174,
+    "id": "Koya-9_black-2"
+  },
+  {
+    "index": 175,
+    "id": "Telugu-9_black-1"
+  },
+  {
+    "index": 176,
+    "id": "Telugu-9_black-2"
+  },
+  {
+    "index": 177,
+    "id": "Kuwi-9_black-1"
+  },
+  {
+    "index": 178,
+    "id": "Brahui-9_black-1"
+  },
+  {
+    "index": 179,
+    "id": "Kurukh-9_black-1"
+  },
+  {
+    "index": 180,
+    "id": "Kannada-9_black-2"
+  },
+  {
+    "index": 181,
+    "id": "Malto-9_black-1"
+  },
+  {
+    "index": 182,
+    "id": "Kolami-9_black-1"
+  },
+  {
+    "index": 183,
+    "id": "Badga-10_blood-2"
+  },
+  {
+    "index": 184,
+    "id": "Betta_Kurumba-10_blood-1"
+  },
+  {
+    "index": 185,
+    "id": "Brahui-10_blood-1"
+  },
+  {
+    "index": 186,
+    "id": "Gondi-10_blood-1"
+  },
+  {
+    "index": 187,
+    "id": "Kolami-10_blood-1"
+  },
+  {
+    "index": 188,
+    "id": "Kota-10_blood-1"
+  },
+  {
+    "index": 189,
+    "id": "Koya-10_blood-1"
+  },
+  {
+    "index": 190,
+    "id": "Kuwi-10_blood-1"
+  },
+  {
+    "index": 191,
+    "id": "Ollari_Gadba-10_blood-1"
+  },
+  {
+    "index": 192,
+    "id": "Parji-10_blood-1"
+  },
+  {
+    "index": 193,
+    "id": "Telugu-10_blood-2"
+  },
+  {
+    "index": 194,
+    "id": "Tulu-10_blood-1"
+  },
+  {
+    "index": 195,
+    "id": "Kurukh-10_blood-1"
+  },
+  {
+    "index": 196,
+    "id": "Kodava-10_blood-1"
+  },
+  {
+    "index": 197,
+    "id": "Malayalam-10_blood-2"
+  },
+  {
+    "index": 198,
+    "id": "Yeruva-10_blood-1"
+  },
+  {
+    "index": 199,
+    "id": "Toda-10_blood-1"
+  },
+  {
+    "index": 200,
+    "id": "Malto-10_blood-1"
+  },
+  {
+    "index": 201,
+    "id": "Badga-11_bone-1"
+  },
+  {
+    "index": 202,
+    "id": "Betta_Kurumba-11_bone-1"
+  },
+  {
+    "index": 203,
+    "id": "Kannada-11_bone-1"
+  },
+  {
+    "index": 204,
+    "id": "Kota-11_bone-1"
+  },
+  {
+    "index": 205,
+    "id": "Malayalam-11_bone-1"
+  },
+  {
+    "index": 206,
+    "id": "Tamil-11_bone-1"
+  },
+  {
+    "index": 207,
+    "id": "Telugu-11_bone-1"
+  },
+  {
+    "index": 208,
+    "id": "Toda-11_bone-1"
+  },
+  {
+    "index": 209,
+    "id": "Tulu-11_bone-1"
+  },
+  {
+    "index": 210,
+    "id": "Gondi-11_bone-1"
+  },
+  {
+    "index": 211,
+    "id": "Kolami-11_bone-1"
+  },
+  {
+    "index": 212,
+    "id": "Koya-11_bone-1"
+  },
+  {
+    "index": 213,
+    "id": "Koya-11_bone-2"
+  },
+  {
+    "index": 214,
+    "id": "Parji-11_bone-1"
+  },
+  {
+    "index": 215,
+    "id": "Telugu-11_bone-2"
+  },
+  {
+    "index": 216,
+    "id": "Malto-11_bone-1"
+  },
+  {
+    "index": 217,
+    "id": "Kannada-11_bone-2"
+  },
+  {
+    "index": 218,
+    "id": "Kodava-11_bone-1"
+  },
+  {
+    "index": 219,
+    "id": "Yeruva-11_bone-1"
+  },
+  {
+    "index": 220,
+    "id": "Malayalam-11_bone-2"
+  },
+  {
+    "index": 221,
+    "id": "Kurukh-11_bone-1"
+  },
+  {
+    "index": 222,
+    "id": "Brahui-11_bone-1"
+  },
+  {
+    "index": 223,
+    "id": "Badga-12_breast-1"
+  },
+  {
+    "index": 224,
+    "id": "Malayalam-12_breast-1"
+  },
+  {
+    "index": 225,
+    "id": "Tamil-12_breast-1"
+  },
+  {
+    "index": 226,
+    "id": "Tamil-12_breast-2"
+  },
+  {
+    "index": 227,
+    "id": "Kannada-12_breast-1"
+  },
+  {
+    "index": 228,
+    "id": "Koya-12_breast-1"
+  },
+  {
+    "index": 229,
+    "id": "Parji-12_breast-1"
+  },
+  {
+    "index": 230,
+    "id": "Telugu-12_breast-1"
+  },
+  {
+    "index": 231,
+    "id": "Toda-12_breast-1"
+  },
+  {
+    "index": 232,
+    "id": "Kodava-12_breast-1"
+  },
+  {
+    "index": 233,
+    "id": "Kota-12_breast-1"
+  },
+  {
+    "index": 234,
+    "id": "Malayalam-12_breast-2"
+  },
+  {
+    "index": 235,
+    "id": "Yeruva-12_breast-1"
+  },
+  {
+    "index": 236,
+    "id": "Kannada-12_breast-2"
+  },
+  {
+    "index": 237,
+    "id": "Malayalam-12_breast-3"
+  },
+  {
+    "index": 238,
+    "id": "Telugu-12_breast-2"
+  },
+  {
+    "index": 239,
+    "id": "Tulu-12_breast-1"
+  },
+  {
+    "index": 240,
+    "id": "Betta_Kurumba-12_breast-1"
+  },
+  {
+    "index": 241,
+    "id": "Brahui-12_breast-1"
+  },
+  {
+    "index": 242,
+    "id": "Malto-12_breast-1"
+  },
+  {
+    "index": 243,
+    "id": "Kurukh-12_breast-1"
+  },
+  {
+    "index": 244,
+    "id": "Kolami-12_breast-1"
+  },
+  {
+    "index": 245,
+    "id": "Gondi-12_breast-1"
+  },
+  {
+    "index": 246,
+    "id": "Ollari_Gadba-12_breast-1"
+  },
+  {
+    "index": 247,
+    "id": "Kuwi-12_breast-1"
+  },
+  {
+    "index": 248,
+    "id": "Betta_Kurumba-13_burn-1"
+  },
+  {
+    "index": 249,
+    "id": "Betta_Kurumba-13_burn-2"
+  },
+  {
+    "index": 250,
+    "id": "Telugu-13_burn-1"
+  },
+  {
+    "index": 251,
+    "id": "Kannada-13_burn-1"
+  },
+  {
+    "index": 252,
+    "id": "Kodava-13_burn-1"
+  },
+  {
+    "index": 253,
+    "id": "Yeruva-13_burn-1"
+  },
+  {
+    "index": 254,
+    "id": "Tamil-13_burn-1"
+  },
+  {
+    "index": 255,
+    "id": "Badga-13_burn-1"
+  },
+  {
+    "index": 256,
+    "id": "Betta_Kurumba-13_burn-3"
+  },
+  {
+    "index": 257,
+    "id": "Betta_Kurumba-13_burn-4"
+  },
+  {
+    "index": 258,
+    "id": "Kota-13_burn-1"
+  },
+  {
+    "index": 259,
+    "id": "Malayalam-13_burn-1"
+  },
+  {
+    "index": 260,
+    "id": "Toda-13_burn-1"
+  },
+  {
+    "index": 261,
+    "id": "Koya-13_burn-1"
+  },
+  {
+    "index": 262,
+    "id": "Telugu-13_burn-2"
+  },
+  {
+    "index": 263,
+    "id": "Tulu-13_burn-1"
+  },
+  {
+    "index": 264,
+    "id": "Brahui-13_burn-1"
+  },
+  {
+    "index": 265,
+    "id": "Gondi-13_burn-1"
+  },
+  {
+    "index": 266,
+    "id": "Malto-13_burn-1"
+  },
+  {
+    "index": 267,
+    "id": "Kurukh-13_burn-1"
+  },
+  {
+    "index": 268,
+    "id": "Kolami-13_burn-1"
+  },
+  {
+    "index": 269,
+    "id": "Badga-14_claw-1"
+  },
+  {
+    "index": 270,
+    "id": "Brahui-14_claw-1"
+  },
+  {
+    "index": 271,
+    "id": "Gondi-14_claw-1"
+  },
+  {
+    "index": 272,
+    "id": "Kannada-14_claw-1"
+  },
+  {
+    "index": 273,
+    "id": "Kodava-14_claw-1"
+  },
+  {
+    "index": 274,
+    "id": "Kolami-14_claw-1"
+  },
+  {
+    "index": 275,
+    "id": "Koya-14_claw-1"
+  },
+  {
+    "index": 276,
+    "id": "Kurukh-14_claw-1"
+  },
+  {
+    "index": 277,
+    "id": "Kuwi-14_claw-1"
+  },
+  {
+    "index": 278,
+    "id": "Malto-14_claw-1"
+  },
+  {
+    "index": 279,
+    "id": "Parji-14_claw-1"
+  },
+  {
+    "index": 280,
+    "id": "Telugu-14_claw-1"
+  },
+  {
+    "index": 281,
+    "id": "Toda-14_claw-1"
+  },
+  {
+    "index": 282,
+    "id": "Tulu-14_claw-1"
+  },
+  {
+    "index": 283,
+    "id": "Yeruva-14_claw-1"
+  },
+  {
+    "index": 284,
+    "id": "Betta_Kurumba-14_claw-1"
+  },
+  {
+    "index": 285,
+    "id": "Kota-14_claw-1"
+  },
+  {
+    "index": 286,
+    "id": "Brahui-14_claw-2"
+  },
+  {
+    "index": 287,
+    "id": "Ollari_Gadba-14_claw-1"
+  },
+  {
+    "index": 288,
+    "id": "Parji-15_cloud-1"
+  },
+  {
+    "index": 289,
+    "id": "Gondi-15_cloud-1"
+  },
+  {
+    "index": 290,
+    "id": "Koya-15_cloud-1"
+  },
+  {
+    "index": 291,
+    "id": "Telugu-15_cloud-2"
+  },
+  {
+    "index": 292,
+    "id": "Betta_Kurumba-15_cloud-1"
+  },
+  {
+    "index": 293,
+    "id": "Kannada-15_cloud-2"
+  },
+  {
+    "index": 294,
+    "id": "Kodava-15_cloud-1"
+  },
+  {
+    "index": 295,
+    "id": "Telugu-15_cloud-3"
+  },
+  {
+    "index": 296,
+    "id": "Tulu-15_cloud-1"
+  },
+  {
+    "index": 297,
+    "id": "Yeruva-15_cloud-1"
+  },
+  {
+    "index": 298,
+    "id": "Badga-15_cloud-1"
+  },
+  {
+    "index": 299,
+    "id": "Brahui-15_cloud-1"
+  },
+  {
+    "index": 300,
+    "id": "Kolami-15_cloud-1"
+  },
+  {
+    "index": 301,
+    "id": "Kuwi-15_cloud-1"
+  },
+  {
+    "index": 302,
+    "id": "Kuwi-15_cloud-2"
+  },
+  {
+    "index": 303,
+    "id": "Kannada-16_cold-1"
+  },
+  {
+    "index": 304,
+    "id": "Kodava-16_cold-1"
+  },
+  {
+    "index": 305,
+    "id": "Malayalam-16_cold-1"
+  },
+  {
+    "index": 306,
+    "id": "Yeruva-16_cold-1"
+  },
+  {
+    "index": 307,
+    "id": "Tamil-16_cold-1"
+  },
+  {
+    "index": 308,
+    "id": "Gondi-16_cold-1"
+  },
+  {
+    "index": 309,
+    "id": "Koya-16_cold-1"
+  },
+  {
+    "index": 310,
+    "id": "Telugu-16_cold-1"
+  },
+  {
+    "index": 311,
+    "id": "Tulu-16_cold-1"
+  },
+  {
+    "index": 312,
+    "id": "Kolami-16_cold-1"
+  },
+  {
+    "index": 313,
+    "id": "Malto-16_cold-1"
+  },
+  {
+    "index": 314,
+    "id": "Parji-16_cold-1"
+  },
+  {
+    "index": 315,
+    "id": "Kodava-16_cold-2"
+  },
+  {
+    "index": 316,
+    "id": "Toda-16_cold-1"
+  },
+  {
+    "index": 317,
+    "id": "Betta_Kurumba-16_cold-1"
+  },
+  {
+    "index": 318,
+    "id": "Badga-16_cold-1"
+  },
+  {
+    "index": 319,
+    "id": "Kota-16_cold-1"
+  },
+  {
+    "index": 320,
+    "id": "Kurukh-16_cold-1"
+  },
+  {
+    "index": 321,
+    "id": "Malto-16_cold-2"
+  },
+  {
+    "index": 322,
+    "id": "Brahui-16_cold-1"
+  },
+  {
+    "index": 323,
+    "id": "Brahui-16_cold-2"
+  },
+  {
+    "index": 324,
+    "id": "Badga-17_come-1"
+  },
+  {
+    "index": 325,
+    "id": "Betta_Kurumba-17_come-1"
+  },
+  {
+    "index": 326,
+    "id": "Betta_Kurumba-17_come-2"
+  },
+  {
+    "index": 327,
+    "id": "Betta_Kurumba-17_come-3"
+  },
+  {
+    "index": 328,
+    "id": "Brahui-17_come-1"
+  },
+  {
+    "index": 329,
+    "id": "Gondi-17_come-1"
+  },
+  {
+    "index": 330,
+    "id": "Kannada-17_come-1"
+  },
+  {
+    "index": 331,
+    "id": "Kannada-17_come-2"
+  },
+  {
+    "index": 332,
+    "id": "Kodava-17_come-1"
+  },
+  {
+    "index": 333,
+    "id": "Kolami-17_come-1"
+  },
+  {
+    "index": 334,
+    "id": "Koya-17_come-1"
+  },
+  {
+    "index": 335,
+    "id": "Koya-17_come-2"
+  },
+  {
+    "index": 336,
+    "id": "Kurukh-17_come-1"
+  },
+  {
+    "index": 337,
+    "id": "Malayalam-17_come-1"
+  },
+  {
+    "index": 338,
+    "id": "Malto-17_come-1"
+  },
+  {
+    "index": 339,
+    "id": "Ollari_Gadba-17_come-1"
+  },
+  {
+    "index": 340,
+    "id": "Parji-17_come-1"
+  },
+  {
+    "index": 341,
+    "id": "Tamil-17_come-1"
+  },
+  {
+    "index": 342,
+    "id": "Telugu-17_come-1"
+  },
+  {
+    "index": 343,
+    "id": "Telugu-17_come-2"
+  },
+  {
+    "index": 344,
+    "id": "Toda-17_come-1"
+  },
+  {
+    "index": 345,
+    "id": "Tulu-17_come-1"
+  },
+  {
+    "index": 346,
+    "id": "Yeruva-17_come-1"
+  },
+  {
+    "index": 347,
+    "id": "Badga-18_die-1"
+  },
+  {
+    "index": 348,
+    "id": "Brahui-18_die-1"
+  },
+  {
+    "index": 349,
+    "id": "Gondi-18_die-1"
+  },
+  {
+    "index": 350,
+    "id": "Kannada-18_die-1"
+  },
+  {
+    "index": 351,
+    "id": "Kodava-18_die-1"
+  },
+  {
+    "index": 352,
+    "id": "Kurukh-18_die-1"
+  },
+  {
+    "index": 353,
+    "id": "Malto-18_die-1"
+  },
+  {
+    "index": 354,
+    "id": "Parji-18_die-1"
+  },
+  {
+    "index": 355,
+    "id": "Tamil-18_die-1"
+  },
+  {
+    "index": 356,
+    "id": "Tamil-18_die-2"
+  },
+  {
+    "index": 357,
+    "id": "Telugu-18_die-1"
+  },
+  {
+    "index": 358,
+    "id": "Tulu-18_die-1"
+  },
+  {
+    "index": 359,
+    "id": "Yeruva-18_die-1"
+  },
+  {
+    "index": 360,
+    "id": "Koya-18_die-1"
+  },
+  {
+    "index": 361,
+    "id": "Toda-18_die-1"
+  },
+  {
+    "index": 362,
+    "id": "Kolami-18_die-1"
+  },
+  {
+    "index": 363,
+    "id": "Kota-18_die-1"
+  },
+  {
+    "index": 364,
+    "id": "Badga-19_dog-1"
+  },
+  {
+    "index": 365,
+    "id": "Betta_Kurumba-19_dog-1"
+  },
+  {
+    "index": 366,
+    "id": "Gondi-19_dog-1"
+  },
+  {
+    "index": 367,
+    "id": "Kannada-19_dog-1"
+  },
+  {
+    "index": 368,
+    "id": "Kodava-19_dog-1"
+  },
+  {
+    "index": 369,
+    "id": "Kolami-19_dog-1"
+  },
+  {
+    "index": 370,
+    "id": "Kota-19_dog-1"
+  },
+  {
+    "index": 371,
+    "id": "Koya-19_dog-1"
+  },
+  {
+    "index": 372,
+    "id": "Malayalam-19_dog-1"
+  },
+  {
+    "index": 373,
+    "id": "Ollari_Gadba-19_dog-1"
+  },
+  {
+    "index": 374,
+    "id": "Parji-19_dog-1"
+  },
+  {
+    "index": 375,
+    "id": "Tamil-19_dog-1"
+  },
+  {
+    "index": 376,
+    "id": "Toda-19_dog-1"
+  },
+  {
+    "index": 377,
+    "id": "Tulu-19_dog-1"
+  },
+  {
+    "index": 378,
+    "id": "Yeruva-19_dog-1"
+  },
+  {
+    "index": 379,
+    "id": "Malayalam-19_dog-2"
+  },
+  {
+    "index": 380,
+    "id": "Kurukh-19_dog-1"
+  },
+  {
+    "index": 381,
+    "id": "Brahui-19_dog-1"
+  },
+  {
+    "index": 382,
+    "id": "Malto-19_dog-1"
+  },
+  {
+    "index": 383,
+    "id": "Badga-20_drink-1"
+  },
+  {
+    "index": 384,
+    "id": "Betta_Kurumba-20_drink-1"
+  },
+  {
+    "index": 385,
+    "id": "Betta_Kurumba-20_drink-2"
+  },
+  {
+    "index": 386,
+    "id": "Kannada-20_drink-1"
+  },
+  {
+    "index": 387,
+    "id": "Kannada-20_drink-2"
+  },
+  {
+    "index": 388,
+    "id": "Kodava-20_drink-1"
+  },
+  {
+    "index": 389,
+    "id": "Malayalam-20_drink-1"
+  },
+  {
+    "index": 390,
+    "id": "Malayalam-20_drink-2"
+  },
+  {
+    "index": 391,
+    "id": "Tamil-20_drink-1"
+  },
+  {
+    "index": 392,
+    "id": "Yeruva-20_drink-1"
+  },
+  {
+    "index": 393,
+    "id": "Telugu-20_drink-1"
+  },
+  {
+    "index": 394,
+    "id": "Brahui-20_drink-1"
+  },
+  {
+    "index": 395,
+    "id": "Gondi-20_drink-1"
+  },
+  {
+    "index": 396,
+    "id": "Kota-20_drink-1"
+  },
+  {
+    "index": 397,
+    "id": "Koya-20_drink-1"
+  },
+  {
+    "index": 398,
+    "id": "Kurukh-20_drink-1"
+  },
+  {
+    "index": 399,
+    "id": "Malto-20_drink-1"
+  },
+  {
+    "index": 400,
+    "id": "Ollari_Gadba-20_drink-1"
+  },
+  {
+    "index": 401,
+    "id": "Parji-20_drink-1"
+  },
+  {
+    "index": 402,
+    "id": "Toda-20_drink-1"
+  },
+  {
+    "index": 403,
+    "id": "Tulu-20_drink-1"
+  },
+  {
+    "index": 404,
+    "id": "Kolami-20_drink-1"
+  },
+  {
+    "index": 405,
+    "id": "Tamil-21_dry-1"
+  },
+  {
+    "index": 406,
+    "id": "Yeruva-21_dry-1"
+  },
+  {
+    "index": 407,
+    "id": "Telugu-21_dry-1"
+  },
+  {
+    "index": 408,
+    "id": "Kota-21_dry-1"
+  },
+  {
+    "index": 409,
+    "id": "Kurukh-21_dry-1"
+  },
+  {
+    "index": 410,
+    "id": "Malto-21_dry-1"
+  },
+  {
+    "index": 411,
+    "id": "Tamil-21_dry-2"
+  },
+  {
+    "index": 412,
+    "id": "Tamil-21_dry-3"
+  },
+  {
+    "index": 413,
+    "id": "Brahui-21_dry-1"
+  },
+  {
+    "index": 414,
+    "id": "Gondi-21_dry-1"
+  },
+  {
+    "index": 415,
+    "id": "Kannada-21_dry-1"
+  },
+  {
+    "index": 416,
+    "id": "Koya-21_dry-1"
+  },
+  {
+    "index": 417,
+    "id": "Malayalam-21_dry-1"
+  },
+  {
+    "index": 418,
+    "id": "Badga-21_dry-1"
+  },
+  {
+    "index": 419,
+    "id": "Kannada-21_dry-2"
+  },
+  {
+    "index": 420,
+    "id": "Kodava-21_dry-1"
+  },
+  {
+    "index": 421,
+    "id": "Malayalam-21_dry-2"
+  },
+  {
+    "index": 422,
+    "id": "Toda-21_dry-1"
+  },
+  {
+    "index": 423,
+    "id": "Tulu-21_dry-1"
+  },
+  {
+    "index": 424,
+    "id": "Koya-21_dry-2"
+  },
+  {
+    "index": 425,
+    "id": "Telugu-21_dry-2"
+  },
+  {
+    "index": 426,
+    "id": "Betta_Kurumba-21_dry-1"
+  },
+  {
+    "index": 427,
+    "id": "Kolami-21_dry-1"
+  },
+  {
+    "index": 428,
+    "id": "Badga-22_ear-1"
+  },
+  {
+    "index": 429,
+    "id": "Betta_Kurumba-22_ear-1"
+  },
+  {
+    "index": 430,
+    "id": "Brahui-22_ear-1"
+  },
+  {
+    "index": 431,
+    "id": "Gondi-22_ear-1"
+  },
+  {
+    "index": 432,
+    "id": "Kannada-22_ear-1"
+  },
+  {
+    "index": 433,
+    "id": "Kodava-22_ear-1"
+  },
+  {
+    "index": 434,
+    "id": "Kolami-22_ear-1"
+  },
+  {
+    "index": 435,
+    "id": "Kota-22_ear-1"
+  },
+  {
+    "index": 436,
+    "id": "Koya-22_ear-1"
+  },
+  {
+    "index": 437,
+    "id": "Koya-22_ear-2"
+  },
+  {
+    "index": 438,
+    "id": "Kurukh-22_ear-1"
+  },
+  {
+    "index": 439,
+    "id": "Kuwi-22_ear-1"
+  },
+  {
+    "index": 440,
+    "id": "Malayalam-22_ear-1"
+  },
+  {
+    "index": 441,
+    "id": "Ollari_Gadba-22_ear-1"
+  },
+  {
+    "index": 442,
+    "id": "Parji-22_ear-1"
+  },
+  {
+    "index": 443,
+    "id": "Telugu-22_ear-1"
+  },
+  {
+    "index": 444,
+    "id": "Toda-22_ear-1"
+  },
+  {
+    "index": 445,
+    "id": "Tulu-22_ear-1"
+  },
+  {
+    "index": 446,
+    "id": "Yeruva-22_ear-1"
+  },
+  {
+    "index": 447,
+    "id": "Malayalam-22_ear-2"
+  },
+  {
+    "index": 448,
+    "id": "Tamil-22_ear-1"
+  },
+  {
+    "index": 449,
+    "id": "Malto-22_ear-1"
+  },
+  {
+    "index": 450,
+    "id": "Gondi-23_earth-1"
+  },
+  {
+    "index": 451,
+    "id": "Kannada-23_earth-1"
+  },
+  {
+    "index": 452,
+    "id": "Kodava-23_earth-1"
+  },
+  {
+    "index": 453,
+    "id": "Malayalam-23_earth-1"
+  },
+  {
+    "index": 454,
+    "id": "Tamil-23_earth-1"
+  },
+  {
+    "index": 455,
+    "id": "Telugu-23_earth-1"
+  },
+  {
+    "index": 456,
+    "id": "Tulu-23_earth-1"
+  },
+  {
+    "index": 457,
+    "id": "Ollari_Gadba-23_earth-1"
+  },
+  {
+    "index": 458,
+    "id": "Parji-23_earth-1"
+  },
+  {
+    "index": 459,
+    "id": "Kurukh-23_earth-1"
+  },
+  {
+    "index": 460,
+    "id": "Toda-23_earth-1"
+  },
+  {
+    "index": 461,
+    "id": "Koya-23_earth-1"
+  },
+  {
+    "index": 462,
+    "id": "Telugu-23_earth-2"
+  },
+  {
+    "index": 463,
+    "id": "Kota-23_earth-1"
+  },
+  {
+    "index": 464,
+    "id": "Kuwi-23_earth-2"
+  },
+  {
+    "index": 465,
+    "id": "Brahui-23_earth-1"
+  },
+  {
+    "index": 466,
+    "id": "Badga-24_eat-1"
+  },
+  {
+    "index": 467,
+    "id": "Betta_Kurumba-24_eat-1"
+  },
+  {
+    "index": 468,
+    "id": "Kannada-24_eat-1"
+  },
+  {
+    "index": 469,
+    "id": "Kodava-24_eat-1"
+  },
+  {
+    "index": 470,
+    "id": "Kota-24_eat-1"
+  },
+  {
+    "index": 471,
+    "id": "Koya-24_eat-1"
+  },
+  {
+    "index": 472,
+    "id": "Kuwi-24_eat-1"
+  },
+  {
+    "index": 473,
+    "id": "Malayalam-24_eat-1"
+  },
+  {
+    "index": 474,
+    "id": "Ollari_Gadba-24_eat-1"
+  },
+  {
+    "index": 475,
+    "id": "Parji-24_eat-1"
+  },
+  {
+    "index": 476,
+    "id": "Telugu-24_eat-1"
+  },
+  {
+    "index": 477,
+    "id": "Yeruva-24_eat-1"
+  },
+  {
+    "index": 478,
+    "id": "Tamil-24_eat-1"
+  },
+  {
+    "index": 479,
+    "id": "Tulu-24_eat-1"
+  },
+  {
+    "index": 480,
+    "id": "Kurukh-24_eat-1"
+  },
+  {
+    "index": 481,
+    "id": "Toda-24_eat-1"
+  },
+  {
+    "index": 482,
+    "id": "Brahui-24_eat-1"
+  },
+  {
+    "index": 483,
+    "id": "Malto-24_eat-1"
+  },
+  {
+    "index": 484,
+    "id": "Malto-24_eat-2"
+  },
+  {
+    "index": 485,
+    "id": "Kolami-24_eat-1"
+  },
+  {
+    "index": 486,
+    "id": "Gondi-24_eat-1"
+  },
+  {
+    "index": 487,
+    "id": "Badga-25_egg-1"
+  },
+  {
+    "index": 488,
+    "id": "Kannada-25_egg-1"
+  },
+  {
+    "index": 489,
+    "id": "Kodava-25_egg-1"
+  },
+  {
+    "index": 490,
+    "id": "Kota-25_egg-1"
+  },
+  {
+    "index": 491,
+    "id": "Malayalam-25_egg-1"
+  },
+  {
+    "index": 492,
+    "id": "Tamil-25_egg-1"
+  },
+  {
+    "index": 493,
+    "id": "Toda-25_egg-1"
+  },
+  {
+    "index": 494,
+    "id": "Yeruva-25_egg-1"
+  },
+  {
+    "index": 495,
+    "id": "Telugu-25_egg-1"
+  },
+  {
+    "index": 496,
+    "id": "Kannada-25_egg-2"
+  },
+  {
+    "index": 497,
+    "id": "Tulu-25_egg-1"
+  },
+  {
+    "index": 498,
+    "id": "Koya-25_egg-1"
+  },
+  {
+    "index": 499,
+    "id": "Ollari_Gadba-25_egg-1"
+  },
+  {
+    "index": 500,
+    "id": "Betta_Kurumba-25_egg-1"
+  },
+  {
+    "index": 501,
+    "id": "Brahui-25_egg-1"
+  },
+  {
+    "index": 502,
+    "id": "Brahui-25_egg-2"
+  },
+  {
+    "index": 503,
+    "id": "Malto-25_egg-1"
+  },
+  {
+    "index": 504,
+    "id": "Kurukh-25_egg-1"
+  },
+  {
+    "index": 505,
+    "id": "Kolami-25_egg-1"
+  },
+  {
+    "index": 506,
+    "id": "Gondi-25_egg-1"
+  },
+  {
+    "index": 507,
+    "id": "Kuwi-25_egg-1"
+  },
+  {
+    "index": 508,
+    "id": "Badga-26_eye-1"
+  },
+  {
+    "index": 509,
+    "id": "Betta_Kurumba-26_eye-1"
+  },
+  {
+    "index": 510,
+    "id": "Brahui-26_eye-1"
+  },
+  {
+    "index": 511,
+    "id": "Kannada-26_eye-1"
+  },
+  {
+    "index": 512,
+    "id": "Kodava-26_eye-1"
+  },
+  {
+    "index": 513,
+    "id": "Kolami-26_eye-1"
+  },
+  {
+    "index": 514,
+    "id": "Kota-26_eye-1"
+  },
+  {
+    "index": 515,
+    "id": "Koya-26_eye-1"
+  },
+  {
+    "index": 516,
+    "id": "Kurukh-26_eye-1"
+  },
+  {
+    "index": 517,
+    "id": "Kuwi-26_eye-1"
+  },
+  {
+    "index": 518,
+    "id": "Malayalam-26_eye-1"
+  },
+  {
+    "index": 519,
+    "id": "Malto-26_eye-1"
+  },
+  {
+    "index": 520,
+    "id": "Ollari_Gadba-26_eye-1"
+  },
+  {
+    "index": 521,
+    "id": "Parji-26_eye-1"
+  },
+  {
+    "index": 522,
+    "id": "Tamil-26_eye-1"
+  },
+  {
+    "index": 523,
+    "id": "Telugu-26_eye-1"
+  },
+  {
+    "index": 524,
+    "id": "Toda-26_eye-1"
+  },
+  {
+    "index": 525,
+    "id": "Tulu-26_eye-1"
+  },
+  {
+    "index": 526,
+    "id": "Yeruva-26_eye-1"
+  },
+  {
+    "index": 527,
+    "id": "Gondi-26_eye-1"
+  },
+  {
+    "index": 528,
+    "id": "Badga-27_fat-1"
+  },
+  {
+    "index": 529,
+    "id": "Gondi-27_fat-1"
+  },
+  {
+    "index": 530,
+    "id": "Kannada-27_fat-1"
+  },
+  {
+    "index": 531,
+    "id": "Kota-27_fat-1"
+  },
+  {
+    "index": 532,
+    "id": "Koya-27_fat-1"
+  },
+  {
+    "index": 533,
+    "id": "Malayalam-27_fat-1"
+  },
+  {
+    "index": 534,
+    "id": "Parji-27_fat-1"
+  },
+  {
+    "index": 535,
+    "id": "Tamil-27_fat-1"
+  },
+  {
+    "index": 536,
+    "id": "Telugu-27_fat-1"
+  },
+  {
+    "index": 537,
+    "id": "Toda-27_fat-1"
+  },
+  {
+    "index": 538,
+    "id": "Koya-27_fat-2"
+  },
+  {
+    "index": 539,
+    "id": "Telugu-27_fat-2"
+  },
+  {
+    "index": 540,
+    "id": "Kurukh-27_fat-1"
+  },
+  {
+    "index": 541,
+    "id": "Brahui-27_fat-1"
+  },
+  {
+    "index": 542,
+    "id": "Kodava-27_fat-1"
+  },
+  {
+    "index": 543,
+    "id": "Tulu-27_fat-1"
+  },
+  {
+    "index": 544,
+    "id": "Yeruva-27_fat-1"
+  },
+  {
+    "index": 545,
+    "id": "Betta_Kurumba-27_fat-1"
+  },
+  {
+    "index": 546,
+    "id": "Betta_Kurumba-27_fat-2"
+  },
+  {
+    "index": 547,
+    "id": "Malto-27_fat-1"
+  },
+  {
+    "index": 548,
+    "id": "Ollari_Gadba-27_fat-1"
+  },
+  {
+    "index": 549,
+    "id": "Badga-28_feather-1"
+  },
+  {
+    "index": 550,
+    "id": "Kota-28_feather-1"
+  },
+  {
+    "index": 551,
+    "id": "Tamil-28_feather-1"
+  },
+  {
+    "index": 552,
+    "id": "Toda-28_feather-1"
+  },
+  {
+    "index": 553,
+    "id": "Malayalam-28_feather-1"
+  },
+  {
+    "index": 554,
+    "id": "Kannada-28_feather-1"
+  },
+  {
+    "index": 555,
+    "id": "Telugu-28_feather-1"
+  },
+  {
+    "index": 556,
+    "id": "Kannada-28_feather-2"
+  },
+  {
+    "index": 557,
+    "id": "Kodava-28_feather-1"
+  },
+  {
+    "index": 558,
+    "id": "Yeruva-28_feather-1"
+  },
+  {
+    "index": 559,
+    "id": "Koya-28_feather-1"
+  },
+  {
+    "index": 560,
+    "id": "Tulu-28_feather-1"
+  },
+  {
+    "index": 561,
+    "id": "Betta_Kurumba-28_feather-1"
+  },
+  {
+    "index": 562,
+    "id": "Gondi-28_feather-1"
+  },
+  {
+    "index": 563,
+    "id": "Kolami-28_feather-1"
+  },
+  {
+    "index": 564,
+    "id": "Brahui-28_feather-1"
+  },
+  {
+    "index": 565,
+    "id": "Malto-28_feather-1"
+  },
+  {
+    "index": 566,
+    "id": "Kurukh-28_feather-1"
+  },
+  {
+    "index": 567,
+    "id": "Tamil-29_fire-1"
+  },
+  {
+    "index": 568,
+    "id": "Telugu-29_fire-1"
+  },
+  {
+    "index": 569,
+    "id": "Betta_Kurumba-29_fire-1"
+  },
+  {
+    "index": 570,
+    "id": "Betta_Kurumba-29_fire-2"
+  },
+  {
+    "index": 571,
+    "id": "Kota-29_fire-1"
+  },
+  {
+    "index": 572,
+    "id": "Malayalam-29_fire-1"
+  },
+  {
+    "index": 573,
+    "id": "Tamil-29_fire-2"
+  },
+  {
+    "index": 574,
+    "id": "Yeruva-29_fire-1"
+  },
+  {
+    "index": 575,
+    "id": "Kannada-29_fire-1"
+  },
+  {
+    "index": 576,
+    "id": "Telugu-29_fire-2"
+  },
+  {
+    "index": 577,
+    "id": "Badga-29_fire-1"
+  },
+  {
+    "index": 578,
+    "id": "Kodava-29_fire-1"
+  },
+  {
+    "index": 579,
+    "id": "Kolami-29_fire-1"
+  },
+  {
+    "index": 580,
+    "id": "Koya-29_fire-1"
+  },
+  {
+    "index": 581,
+    "id": "Kurukh-29_fire-1"
+  },
+  {
+    "index": 582,
+    "id": "Malto-29_fire-1"
+  },
+  {
+    "index": 583,
+    "id": "Parji-29_fire-1"
+  },
+  {
+    "index": 584,
+    "id": "Toda-29_fire-1"
+  },
+  {
+    "index": 585,
+    "id": "Tulu-29_fire-1"
+  },
+  {
+    "index": 586,
+    "id": "Koya-29_fire-2"
+  },
+  {
+    "index": 587,
+    "id": "Brahui-29_fire-1"
+  },
+  {
+    "index": 588,
+    "id": "Gondi-29_fire-1"
+  },
+  {
+    "index": 589,
+    "id": "Kuwi-29_fire-1"
+  },
+  {
+    "index": 590,
+    "id": "Badga-30_fish-1"
+  },
+  {
+    "index": 591,
+    "id": "Betta_Kurumba-30_fish-1"
+  },
+  {
+    "index": 592,
+    "id": "Gondi-30_fish-1"
+  },
+  {
+    "index": 593,
+    "id": "Kannada-30_fish-1"
+  },
+  {
+    "index": 594,
+    "id": "Kodava-30_fish-1"
+  },
+  {
+    "index": 595,
+    "id": "Kota-30_fish-1"
+  },
+  {
+    "index": 596,
+    "id": "Malayalam-30_fish-1"
+  },
+  {
+    "index": 597,
+    "id": "Malto-30_fish-1"
+  },
+  {
+    "index": 598,
+    "id": "Ollari_Gadba-30_fish-1"
+  },
+  {
+    "index": 599,
+    "id": "Tamil-30_fish-1"
+  },
+  {
+    "index": 600,
+    "id": "Toda-30_fish-1"
+  },
+  {
+    "index": 601,
+    "id": "Tulu-30_fish-1"
+  },
+  {
+    "index": 602,
+    "id": "Yeruva-30_fish-1"
+  },
+  {
+    "index": 603,
+    "id": "Koya-30_fish-1"
+  },
+  {
+    "index": 604,
+    "id": "Parji-30_fish-1"
+  },
+  {
+    "index": 605,
+    "id": "Telugu-30_fish-1"
+  },
+  {
+    "index": 606,
+    "id": "Kurukh-30_fish-1"
+  },
+  {
+    "index": 607,
+    "id": "Badga-31_fly-1"
+  },
+  {
+    "index": 608,
+    "id": "Betta_Kurumba-31_fly-1"
+  },
+  {
+    "index": 609,
+    "id": "Betta_Kurumba-31_fly-2"
+  },
+  {
+    "index": 610,
+    "id": "Gondi-31_fly-1"
+  },
+  {
+    "index": 611,
+    "id": "Kannada-31_fly-1"
+  },
+  {
+    "index": 612,
+    "id": "Kodava-31_fly-1"
+  },
+  {
+    "index": 613,
+    "id": "Kota-31_fly-1"
+  },
+  {
+    "index": 614,
+    "id": "Malayalam-31_fly-1"
+  },
+  {
+    "index": 615,
+    "id": "Tamil-31_fly-1"
+  },
+  {
+    "index": 616,
+    "id": "Toda-31_fly-1"
+  },
+  {
+    "index": 617,
+    "id": "Tulu-31_fly-1"
+  },
+  {
+    "index": 618,
+    "id": "Telugu-31_fly-1"
+  },
+  {
+    "index": 619,
+    "id": "Koya-31_fly-1"
+  },
+  {
+    "index": 620,
+    "id": "Yeruva-31_fly-1"
+  },
+  {
+    "index": 621,
+    "id": "Kurukh-31_fly-1"
+  },
+  {
+    "index": 622,
+    "id": "Malto-31_fly-1"
+  },
+  {
+    "index": 623,
+    "id": "Kolami-31_fly-1"
+  },
+  {
+    "index": 624,
+    "id": "Brahui-31_fly-1"
+  },
+  {
+    "index": 625,
+    "id": "Kannada-32_foot-1"
+  },
+  {
+    "index": 626,
+    "id": "Koya-32_foot-1"
+  },
+  {
+    "index": 627,
+    "id": "Malayalam-32_foot-1"
+  },
+  {
+    "index": 628,
+    "id": "Tamil-32_foot-1"
+  },
+  {
+    "index": 629,
+    "id": "Telugu-32_foot-1"
+  },
+  {
+    "index": 630,
+    "id": "Kannada-32_foot-2"
+  },
+  {
+    "index": 631,
+    "id": "Kuwi-32_foot-1"
+  },
+  {
+    "index": 632,
+    "id": "Malayalam-32_foot-2"
+  },
+  {
+    "index": 633,
+    "id": "Ollari_Gadba-32_foot-1"
+  },
+  {
+    "index": 634,
+    "id": "Tamil-32_foot-2"
+  },
+  {
+    "index": 635,
+    "id": "Betta_Kurumba-32_foot-1"
+  },
+  {
+    "index": 636,
+    "id": "Gondi-32_foot-1"
+  },
+  {
+    "index": 637,
+    "id": "Tamil-32_foot-3"
+  },
+  {
+    "index": 638,
+    "id": "Toda-32_foot-1"
+  },
+  {
+    "index": 639,
+    "id": "Tulu-32_foot-1"
+  },
+  {
+    "index": 640,
+    "id": "Yeruva-32_foot-1"
+  },
+  {
+    "index": 641,
+    "id": "Kurukh-32_foot-1"
+  },
+  {
+    "index": 642,
+    "id": "Badga-32_foot-1"
+  },
+  {
+    "index": 643,
+    "id": "Kodava-32_foot-1"
+  },
+  {
+    "index": 644,
+    "id": "Brahui-32_foot-1"
+  },
+  {
+    "index": 645,
+    "id": "Malto-32_foot-1"
+  },
+  {
+    "index": 646,
+    "id": "Kolami-32_foot-1"
+  },
+  {
+    "index": 647,
+    "id": "Kota-32_foot-1"
+  },
+  {
+    "index": 648,
+    "id": "Toda-33_full-1"
+  },
+  {
+    "index": 649,
+    "id": "Badga-33_full-1"
+  },
+  {
+    "index": 650,
+    "id": "Kannada-33_full-1"
+  },
+  {
+    "index": 651,
+    "id": "Kodava-33_full-1"
+  },
+  {
+    "index": 652,
+    "id": "Yeruva-33_full-1"
+  },
+  {
+    "index": 653,
+    "id": "Gondi-33_full-1"
+  },
+  {
+    "index": 654,
+    "id": "Kolami-33_full-1"
+  },
+  {
+    "index": 655,
+    "id": "Koya-33_full-1"
+  },
+  {
+    "index": 656,
+    "id": "Kurukh-33_full-1"
+  },
+  {
+    "index": 657,
+    "id": "Malayalam-33_full-1"
+  },
+  {
+    "index": 658,
+    "id": "Malto-33_full-1"
+  },
+  {
+    "index": 659,
+    "id": "Tamil-33_full-1"
+  },
+  {
+    "index": 660,
+    "id": "Telugu-33_full-1"
+  },
+  {
+    "index": 661,
+    "id": "Tamil-33_full-2"
+  },
+  {
+    "index": 662,
+    "id": "Tulu-33_full-1"
+  },
+  {
+    "index": 663,
+    "id": "Betta_Kurumba-33_full-1"
+  },
+  {
+    "index": 664,
+    "id": "Brahui-33_full-1"
+  },
+  {
+    "index": 665,
+    "id": "Ollari_Gadba-33_full-1"
+  },
+  {
+    "index": 666,
+    "id": "Kuwi-33_full-1"
+  },
+  {
+    "index": 667,
+    "id": "Badga-34_give-1"
+  },
+  {
+    "index": 668,
+    "id": "Betta_Kurumba-34_give-1"
+  },
+  {
+    "index": 669,
+    "id": "Kannada-34_give-1"
+  },
+  {
+    "index": 670,
+    "id": "Kodava-34_give-1"
+  },
+  {
+    "index": 671,
+    "id": "Malayalam-34_give-1"
+  },
+  {
+    "index": 672,
+    "id": "Tamil-34_give-1"
+  },
+  {
+    "index": 673,
+    "id": "Tulu-34_give-1"
+  },
+  {
+    "index": 674,
+    "id": "Yeruva-34_give-1"
+  },
+  {
+    "index": 675,
+    "id": "Brahui-34_give-1"
+  },
+  {
+    "index": 676,
+    "id": "Kota-34_give-1"
+  },
+  {
+    "index": 677,
+    "id": "Kuwi-34_give-1"
+  },
+  {
+    "index": 678,
+    "id": "Tamil-34_give-2"
+  },
+  {
+    "index": 679,
+    "id": "Gondi-34_give-1"
+  },
+  {
+    "index": 680,
+    "id": "Kolami-34_give-1"
+  },
+  {
+    "index": 681,
+    "id": "Koya-34_give-1"
+  },
+  {
+    "index": 682,
+    "id": "Koya-34_give-2"
+  },
+  {
+    "index": 683,
+    "id": "Kurukh-34_give-1"
+  },
+  {
+    "index": 684,
+    "id": "Malto-34_give-1"
+  },
+  {
+    "index": 685,
+    "id": "Ollari_Gadba-34_give-1"
+  },
+  {
+    "index": 686,
+    "id": "Parji-34_give-1"
+  },
+  {
+    "index": 687,
+    "id": "Telugu-34_give-1"
+  },
+  {
+    "index": 688,
+    "id": "Telugu-34_give-2"
+  },
+  {
+    "index": 689,
+    "id": "Toda-34_give-1"
+  },
+  {
+    "index": 690,
+    "id": "Betta_Kurumba-35_good-1"
+  },
+  {
+    "index": 691,
+    "id": "Kodava-35_good-1"
+  },
+  {
+    "index": 692,
+    "id": "Malayalam-35_good-1"
+  },
+  {
+    "index": 693,
+    "id": "Tamil-35_good-1"
+  },
+  {
+    "index": 694,
+    "id": "Yeruva-35_good-1"
+  },
+  {
+    "index": 695,
+    "id": "Badga-35_good-1"
+  },
+  {
+    "index": 696,
+    "id": "Kannada-35_good-1"
+  },
+  {
+    "index": 697,
+    "id": "Kota-35_good-1"
+  },
+  {
+    "index": 698,
+    "id": "Koya-35_good-1"
+  },
+  {
+    "index": 699,
+    "id": "Telugu-35_good-1"
+  },
+  {
+    "index": 700,
+    "id": "Tulu-35_good-1"
+  },
+  {
+    "index": 701,
+    "id": "Toda-35_good-1"
+  },
+  {
+    "index": 702,
+    "id": "Malto-35_good-1"
+  },
+  {
+    "index": 703,
+    "id": "Brahui-35_good-1"
+  },
+  {
+    "index": 704,
+    "id": "Malto-35_good-2"
+  },
+  {
+    "index": 705,
+    "id": "Kurukh-35_good-1"
+  },
+  {
+    "index": 706,
+    "id": "Kolami-35_good-1"
+  },
+  {
+    "index": 707,
+    "id": "Gondi-35_good-1"
+  },
+  {
+    "index": 708,
+    "id": "Kuwi-35_good-1"
+  },
+  {
+    "index": 709,
+    "id": "Badga-36_green-1"
+  },
+  {
+    "index": 710,
+    "id": "Betta_Kurumba-36_green-1"
+  },
+  {
+    "index": 711,
+    "id": "Betta_Kurumba-36_green-2"
+  },
+  {
+    "index": 712,
+    "id": "Gondi-36_green-1"
+  },
+  {
+    "index": 713,
+    "id": "Kannada-36_green-1"
+  },
+  {
+    "index": 714,
+    "id": "Kodava-36_green-1"
+  },
+  {
+    "index": 715,
+    "id": "Kota-36_green-1"
+  },
+  {
+    "index": 716,
+    "id": "Koya-36_green-1"
+  },
+  {
+    "index": 717,
+    "id": "Kuwi-36_green-1"
+  },
+  {
+    "index": 718,
+    "id": "Malayalam-36_green-1"
+  },
+  {
+    "index": 719,
+    "id": "Parji-36_green-1"
+  },
+  {
+    "index": 720,
+    "id": "Tamil-36_green-1"
+  },
+  {
+    "index": 721,
+    "id": "Telugu-36_green-1"
+  },
+  {
+    "index": 722,
+    "id": "Toda-36_green-1"
+  },
+  {
+    "index": 723,
+    "id": "Tulu-36_green-1"
+  },
+  {
+    "index": 724,
+    "id": "Yeruva-36_green-1"
+  },
+  {
+    "index": 725,
+    "id": "Brahui-36_green-1"
+  },
+  {
+    "index": 726,
+    "id": "Malto-36_green-1"
+  },
+  {
+    "index": 727,
+    "id": "Kolami-36_green-1"
+  },
+  {
+    "index": 728,
+    "id": "Gondi-36_green-2"
+  },
+  {
+    "index": 729,
+    "id": "Kuwi-36_green-2"
+  },
+  {
+    "index": 730,
+    "id": "Kuwi-36_green-3"
+  },
+  {
+    "index": 731,
+    "id": "Malayalam-37_hair-1"
+  },
+  {
+    "index": 732,
+    "id": "Tamil-37_hair-1"
+  },
+  {
+    "index": 733,
+    "id": "Kannada-37_hair-1"
+  },
+  {
+    "index": 734,
+    "id": "Kannada-37_hair-2"
+  },
+  {
+    "index": 735,
+    "id": "Tulu-37_hair-1"
+  },
+  {
+    "index": 736,
+    "id": "Telugu-37_hair-1"
+  },
+  {
+    "index": 737,
+    "id": "Kota-37_hair-1"
+  },
+  {
+    "index": 738,
+    "id": "Tamil-37_hair-2"
+  },
+  {
+    "index": 739,
+    "id": "Toda-37_hair-1"
+  },
+  {
+    "index": 740,
+    "id": "Kodava-37_hair-1"
+  },
+  {
+    "index": 741,
+    "id": "Malto-37_hair-1"
+  },
+  {
+    "index": 742,
+    "id": "Yeruva-37_hair-1"
+  },
+  {
+    "index": 743,
+    "id": "Koya-37_hair-1"
+  },
+  {
+    "index": 744,
+    "id": "Kurukh-37_hair-1"
+  },
+  {
+    "index": 745,
+    "id": "Telugu-37_hair-2"
+  },
+  {
+    "index": 746,
+    "id": "Gondi-37_hair-1"
+  },
+  {
+    "index": 747,
+    "id": "Koya-37_hair-2"
+  },
+  {
+    "index": 748,
+    "id": "Brahui-37_hair-1"
+  },
+  {
+    "index": 749,
+    "id": "Betta_Kurumba-37_hair-1"
+  },
+  {
+    "index": 750,
+    "id": "Kolami-37_hair-1"
+  },
+  {
+    "index": 751,
+    "id": "Ollari_Gadba-37_hair-1"
+  },
+  {
+    "index": 752,
+    "id": "Ollari_Gadba-37_hair-2"
+  },
+  {
+    "index": 753,
+    "id": "Kuwi-37_hair-1"
+  },
+  {
+    "index": 754,
+    "id": "Badga-38_hand-1"
+  },
+  {
+    "index": 755,
+    "id": "Betta_Kurumba-38_hand-1"
+  },
+  {
+    "index": 756,
+    "id": "Gondi-38_hand-1"
+  },
+  {
+    "index": 757,
+    "id": "Kannada-38_hand-1"
+  },
+  {
+    "index": 758,
+    "id": "Kodava-38_hand-1"
+  },
+  {
+    "index": 759,
+    "id": "Kolami-38_hand-1"
+  },
+  {
+    "index": 760,
+    "id": "Kota-38_hand-1"
+  },
+  {
+    "index": 761,
+    "id": "Koya-38_hand-1"
+  },
+  {
+    "index": 762,
+    "id": "Kurukh-38_hand-1"
+  },
+  {
+    "index": 763,
+    "id": "Kuwi-38_hand-1"
+  },
+  {
+    "index": 764,
+    "id": "Malayalam-38_hand-1"
+  },
+  {
+    "index": 765,
+    "id": "Ollari_Gadba-38_hand-1"
+  },
+  {
+    "index": 766,
+    "id": "Parji-38_hand-1"
+  },
+  {
+    "index": 767,
+    "id": "Tamil-38_hand-1"
+  },
+  {
+    "index": 768,
+    "id": "Telugu-38_hand-1"
+  },
+  {
+    "index": 769,
+    "id": "Toda-38_hand-1"
+  },
+  {
+    "index": 770,
+    "id": "Tulu-38_hand-1"
+  },
+  {
+    "index": 771,
+    "id": "Yeruva-38_hand-1"
+  },
+  {
+    "index": 772,
+    "id": "Brahui-38_hand-1"
+  },
+  {
+    "index": 773,
+    "id": "Malto-38_hand-1"
+  },
+  {
+    "index": 774,
+    "id": "Gondi-39_head-1"
+  },
+  {
+    "index": 775,
+    "id": "Kannada-39_head-1"
+  },
+  {
+    "index": 776,
+    "id": "Kannada-39_head-2"
+  },
+  {
+    "index": 777,
+    "id": "Kolami-39_head-1"
+  },
+  {
+    "index": 778,
+    "id": "Koya-39_head-1"
+  },
+  {
+    "index": 779,
+    "id": "Kuwi-39_head-1"
+  },
+  {
+    "index": 780,
+    "id": "Malayalam-39_head-1"
+  },
+  {
+    "index": 781,
+    "id": "Ollari_Gadba-39_head-1"
+  },
+  {
+    "index": 782,
+    "id": "Parji-39_head-1"
+  },
+  {
+    "index": 783,
+    "id": "Tamil-39_head-1"
+  },
+  {
+    "index": 784,
+    "id": "Telugu-39_head-1"
+  },
+  {
+    "index": 785,
+    "id": "Yeruva-39_head-1"
+  },
+  {
+    "index": 786,
+    "id": "Badga-39_head-1"
+  },
+  {
+    "index": 787,
+    "id": "Betta_Kurumba-39_head-1"
+  },
+  {
+    "index": 788,
+    "id": "Kodava-39_head-1"
+  },
+  {
+    "index": 789,
+    "id": "Kota-39_head-1"
+  },
+  {
+    "index": 790,
+    "id": "Toda-39_head-1"
+  },
+  {
+    "index": 791,
+    "id": "Tulu-39_head-1"
+  },
+  {
+    "index": 792,
+    "id": "Kurukh-39_head-1"
+  },
+  {
+    "index": 793,
+    "id": "Malto-39_head-1"
+  },
+  {
+    "index": 794,
+    "id": "Brahui-39_head-1"
+  },
+  {
+    "index": 795,
+    "id": "Badga-40_hear-1"
+  },
+  {
+    "index": 796,
+    "id": "Betta_Kurumba-40_hear-1"
+  },
+  {
+    "index": 797,
+    "id": "Gondi-40_hear-1"
+  },
+  {
+    "index": 798,
+    "id": "Kannada-40_hear-1"
+  },
+  {
+    "index": 799,
+    "id": "Kodava-40_hear-1"
+  },
+  {
+    "index": 800,
+    "id": "Kota-40_hear-1"
+  },
+  {
+    "index": 801,
+    "id": "Malayalam-40_hear-1"
+  },
+  {
+    "index": 802,
+    "id": "Tamil-40_hear-1"
+  },
+  {
+    "index": 803,
+    "id": "Toda-40_hear-1"
+  },
+  {
+    "index": 804,
+    "id": "Tulu-40_hear-1"
+  },
+  {
+    "index": 805,
+    "id": "Yeruva-40_hear-1"
+  },
+  {
+    "index": 806,
+    "id": "Koya-40_hear-1"
+  },
+  {
+    "index": 807,
+    "id": "Brahui-40_hear-1"
+  },
+  {
+    "index": 808,
+    "id": "Kolami-40_hear-1"
+  },
+  {
+    "index": 809,
+    "id": "Kurukh-40_hear-1"
+  },
+  {
+    "index": 810,
+    "id": "Malto-40_hear-1"
+  },
+  {
+    "index": 811,
+    "id": "Malto-40_hear-2"
+  },
+  {
+    "index": 812,
+    "id": "Parji-40_hear-1"
+  },
+  {
+    "index": 813,
+    "id": "Telugu-40_hear-1"
+  },
+  {
+    "index": 814,
+    "id": "Gondi-41_heart-1"
+  },
+  {
+    "index": 815,
+    "id": "Kolami-41_heart-1"
+  },
+  {
+    "index": 816,
+    "id": "Koya-41_heart-1"
+  },
+  {
+    "index": 817,
+    "id": "Telugu-41_heart-2"
+  },
+  {
+    "index": 818,
+    "id": "Kota-41_heart-1"
+  },
+  {
+    "index": 819,
+    "id": "Yeruva-41_heart-1"
+  },
+  {
+    "index": 820,
+    "id": "Toda-41_heart-1"
+  },
+  {
+    "index": 821,
+    "id": "Betta_Kurumba-41_heart-1"
+  },
+  {
+    "index": 822,
+    "id": "Malto-41_heart-1"
+  },
+  {
+    "index": 823,
+    "id": "Brahui-41_heart-1"
+  },
+  {
+    "index": 824,
+    "id": "Kurukh-41_heart-1"
+  },
+  {
+    "index": 825,
+    "id": "Ollari_Gadba-41_heart-1"
+  },
+  {
+    "index": 826,
+    "id": "Badga-42_horn-1"
+  },
+  {
+    "index": 827,
+    "id": "Betta_Kurumba-42_horn-1"
+  },
+  {
+    "index": 828,
+    "id": "Kannada-42_horn-1"
+  },
+  {
+    "index": 829,
+    "id": "Kodava-42_horn-1"
+  },
+  {
+    "index": 830,
+    "id": "Kolami-42_horn-1"
+  },
+  {
+    "index": 831,
+    "id": "Koya-42_horn-1"
+  },
+  {
+    "index": 832,
+    "id": "Malayalam-42_horn-1"
+  },
+  {
+    "index": 833,
+    "id": "Tamil-42_horn-1"
+  },
+  {
+    "index": 834,
+    "id": "Telugu-42_horn-1"
+  },
+  {
+    "index": 835,
+    "id": "Tulu-42_horn-1"
+  },
+  {
+    "index": 836,
+    "id": "Yeruva-42_horn-1"
+  },
+  {
+    "index": 837,
+    "id": "Toda-42_horn-1"
+  },
+  {
+    "index": 838,
+    "id": "Brahui-42_horn-1"
+  },
+  {
+    "index": 839,
+    "id": "Kurukh-42_horn-1"
+  },
+  {
+    "index": 840,
+    "id": "Malto-42_horn-1"
+  },
+  {
+    "index": 841,
+    "id": "Koya-42_horn-2"
+  },
+  {
+    "index": 842,
+    "id": "Gondi-42_horn-1"
+  },
+  {
+    "index": 843,
+    "id": "Ollari_Gadba-42_horn-1"
+  },
+  {
+    "index": 844,
+    "id": "Kannada-43_kill-1"
+  },
+  {
+    "index": 845,
+    "id": "Kodava-43_kill-1"
+  },
+  {
+    "index": 846,
+    "id": "Malayalam-43_kill-1"
+  },
+  {
+    "index": 847,
+    "id": "Tamil-43_kill-1"
+  },
+  {
+    "index": 848,
+    "id": "Yeruva-43_kill-1"
+  },
+  {
+    "index": 849,
+    "id": "Brahui-43_kill-1"
+  },
+  {
+    "index": 850,
+    "id": "Telugu-43_kill-1"
+  },
+  {
+    "index": 851,
+    "id": "Toda-43_kill-1"
+  },
+  {
+    "index": 852,
+    "id": "Tulu-43_kill-1"
+  },
+  {
+    "index": 853,
+    "id": "Badga-43_kill-1"
+  },
+  {
+    "index": 854,
+    "id": "Gondi-43_kill-1"
+  },
+  {
+    "index": 855,
+    "id": "Koya-43_kill-1"
+  },
+  {
+    "index": 856,
+    "id": "Betta_Kurumba-43_kill-1"
+  },
+  {
+    "index": 857,
+    "id": "Malto-43_kill-1"
+  },
+  {
+    "index": 858,
+    "id": "Kota-43_kill-1"
+  },
+  {
+    "index": 859,
+    "id": "Kolami-43_kill-1"
+  },
+  {
+    "index": 860,
+    "id": "Kurukh-43_kill-1"
+  },
+  {
+    "index": 861,
+    "id": "Kannada-44_knee-1"
+  },
+  {
+    "index": 862,
+    "id": "Kota-44_knee-1"
+  },
+  {
+    "index": 863,
+    "id": "Koya-44_knee-1"
+  },
+  {
+    "index": 864,
+    "id": "Kurukh-44_knee-1"
+  },
+  {
+    "index": 865,
+    "id": "Malayalam-44_knee-1"
+  },
+  {
+    "index": 866,
+    "id": "Malto-44_knee-1"
+  },
+  {
+    "index": 867,
+    "id": "Tamil-44_knee-1"
+  },
+  {
+    "index": 868,
+    "id": "Telugu-44_knee-1"
+  },
+  {
+    "index": 869,
+    "id": "Yeruva-44_knee-1"
+  },
+  {
+    "index": 870,
+    "id": "Kannada-44_knee-2"
+  },
+  {
+    "index": 871,
+    "id": "Kodava-44_knee-1"
+  },
+  {
+    "index": 872,
+    "id": "Kuwi-44_knee-1"
+  },
+  {
+    "index": 873,
+    "id": "Badga-44_knee-1"
+  },
+  {
+    "index": 874,
+    "id": "Kolami-44_knee-1"
+  },
+  {
+    "index": 875,
+    "id": "Malayalam-44_knee-2"
+  },
+  {
+    "index": 876,
+    "id": "Tamil-44_knee-2"
+  },
+  {
+    "index": 877,
+    "id": "Tamil-44_knee-3"
+  },
+  {
+    "index": 878,
+    "id": "Toda-44_knee-1"
+  },
+  {
+    "index": 879,
+    "id": "Koya-44_knee-2"
+  },
+  {
+    "index": 880,
+    "id": "Tulu-44_knee-1"
+  },
+  {
+    "index": 881,
+    "id": "Betta_Kurumba-44_knee-1"
+  },
+  {
+    "index": 882,
+    "id": "Gondi-44_knee-1"
+  },
+  {
+    "index": 883,
+    "id": "Ollari_Gadba-44_knee-1"
+  },
+  {
+    "index": 884,
+    "id": "Brahui-44_knee-1"
+  },
+  {
+    "index": 885,
+    "id": "Badga-45_know-1"
+  },
+  {
+    "index": 886,
+    "id": "Kannada-45_know-1"
+  },
+  {
+    "index": 887,
+    "id": "Kodava-45_know-1"
+  },
+  {
+    "index": 888,
+    "id": "Malayalam-45_know-1"
+  },
+  {
+    "index": 889,
+    "id": "Tamil-45_know-1"
+  },
+  {
+    "index": 890,
+    "id": "Telugu-45_know-1"
+  },
+  {
+    "index": 891,
+    "id": "Toda-45_know-1"
+  },
+  {
+    "index": 892,
+    "id": "Yeruva-45_know-1"
+  },
+  {
+    "index": 893,
+    "id": "Parji-45_know-1"
+  },
+  {
+    "index": 894,
+    "id": "Kurukh-45_know-1"
+  },
+  {
+    "index": 895,
+    "id": "Malto-45_know-1"
+  },
+  {
+    "index": 896,
+    "id": "Kannada-45_know-2"
+  },
+  {
+    "index": 897,
+    "id": "Koya-45_know-1"
+  },
+  {
+    "index": 898,
+    "id": "Telugu-45_know-2"
+  },
+  {
+    "index": 899,
+    "id": "Telugu-45_know-3"
+  },
+  {
+    "index": 900,
+    "id": "Brahui-45_know-1"
+  },
+  {
+    "index": 901,
+    "id": "Tamil-45_know-2"
+  },
+  {
+    "index": 902,
+    "id": "Tamil-45_know-3"
+  },
+  {
+    "index": 903,
+    "id": "Tulu-45_know-1"
+  },
+  {
+    "index": 904,
+    "id": "Betta_Kurumba-45_know-1"
+  },
+  {
+    "index": 905,
+    "id": "Betta_Kurumba-45_know-2"
+  },
+  {
+    "index": 906,
+    "id": "Kota-45_know-1"
+  },
+  {
+    "index": 907,
+    "id": "Malto-45_know-2"
+  },
+  {
+    "index": 908,
+    "id": "Malto-45_know-3"
+  },
+  {
+    "index": 909,
+    "id": "Kolami-45_know-1"
+  },
+  {
+    "index": 910,
+    "id": "Ollari_Gadba-45_know-1"
+  },
+  {
+    "index": 911,
+    "id": "Gondi-45_know-1"
+  },
+  {
+    "index": 912,
+    "id": "Badga-46_leaf-1"
+  },
+  {
+    "index": 913,
+    "id": "Betta_Kurumba-46_leaf-1"
+  },
+  {
+    "index": 914,
+    "id": "Kannada-46_leaf-1"
+  },
+  {
+    "index": 915,
+    "id": "Kodava-46_leaf-1"
+  },
+  {
+    "index": 916,
+    "id": "Kota-46_leaf-1"
+  },
+  {
+    "index": 917,
+    "id": "Malayalam-46_leaf-1"
+  },
+  {
+    "index": 918,
+    "id": "Tamil-46_leaf-1"
+  },
+  {
+    "index": 919,
+    "id": "Toda-46_leaf-1"
+  },
+  {
+    "index": 920,
+    "id": "Tulu-46_leaf-1"
+  },
+  {
+    "index": 921,
+    "id": "Yeruva-46_leaf-1"
+  },
+  {
+    "index": 922,
+    "id": "Gondi-46_leaf-1"
+  },
+  {
+    "index": 923,
+    "id": "Kolami-46_leaf-1"
+  },
+  {
+    "index": 924,
+    "id": "Koya-46_leaf-1"
+  },
+  {
+    "index": 925,
+    "id": "Telugu-46_leaf-1"
+  },
+  {
+    "index": 926,
+    "id": "Parji-46_leaf-1"
+  },
+  {
+    "index": 927,
+    "id": "Kurukh-46_leaf-1"
+  },
+  {
+    "index": 928,
+    "id": "Ollari_Gadba-46_leaf-1"
+  },
+  {
+    "index": 929,
+    "id": "Malto-46_leaf-1"
+  },
+  {
+    "index": 930,
+    "id": "Brahui-46_leaf-1"
+  },
+  {
+    "index": 931,
+    "id": "Malayalam-47_lie-1"
+  },
+  {
+    "index": 932,
+    "id": "Malto-47_lie-1"
+  },
+  {
+    "index": 933,
+    "id": "Tamil-47_lie-1"
+  },
+  {
+    "index": 934,
+    "id": "Kannada-47_lie-1"
+  },
+  {
+    "index": 935,
+    "id": "Gondi-47_lie-1"
+  },
+  {
+    "index": 936,
+    "id": "Kolami-47_lie-1"
+  },
+  {
+    "index": 937,
+    "id": "Parji-47_lie-1"
+  },
+  {
+    "index": 938,
+    "id": "Koya-47_lie-1"
+  },
+  {
+    "index": 939,
+    "id": "Badga-47_lie-1"
+  },
+  {
+    "index": 940,
+    "id": "Toda-47_lie-1"
+  },
+  {
+    "index": 941,
+    "id": "Telugu-47_lie-1"
+  },
+  {
+    "index": 942,
+    "id": "Betta_Kurumba-47_lie-1"
+  },
+  {
+    "index": 943,
+    "id": "Betta_Kurumba-47_lie-2"
+  },
+  {
+    "index": 944,
+    "id": "Kodava-47_lie-1"
+  },
+  {
+    "index": 945,
+    "id": "Tamil-47_lie-2"
+  },
+  {
+    "index": 946,
+    "id": "Tulu-47_lie-1"
+  },
+  {
+    "index": 947,
+    "id": "Yeruva-47_lie-1"
+  },
+  {
+    "index": 948,
+    "id": "Brahui-47_lie-1"
+  },
+  {
+    "index": 949,
+    "id": "Kurukh-47_lie-1"
+  },
+  {
+    "index": 950,
+    "id": "Kurukh-47_lie-2"
+  },
+  {
+    "index": 951,
+    "id": "Gondi-47_lie-2"
+  },
+  {
+    "index": 952,
+    "id": "Kannada-48_liver-1"
+  },
+  {
+    "index": 953,
+    "id": "Kota-48_liver-1"
+  },
+  {
+    "index": 954,
+    "id": "Malayalam-48_liver-1"
+  },
+  {
+    "index": 955,
+    "id": "Tamil-48_liver-1"
+  },
+  {
+    "index": 956,
+    "id": "Kolami-48_liver-1"
+  },
+  {
+    "index": 957,
+    "id": "Koya-48_liver-1"
+  },
+  {
+    "index": 958,
+    "id": "Telugu-48_liver-1"
+  },
+  {
+    "index": 959,
+    "id": "Gondi-48_liver-1"
+  },
+  {
+    "index": 960,
+    "id": "Ollari_Gadba-48_liver-1"
+  },
+  {
+    "index": 961,
+    "id": "Parji-48_liver-1"
+  },
+  {
+    "index": 962,
+    "id": "Malayalam-48_liver-2"
+  },
+  {
+    "index": 963,
+    "id": "Toda-48_liver-1"
+  },
+  {
+    "index": 964,
+    "id": "Kodava-48_liver-1"
+  },
+  {
+    "index": 965,
+    "id": "Yeruva-48_liver-1"
+  },
+  {
+    "index": 966,
+    "id": "Kannada-48_liver-2"
+  },
+  {
+    "index": 967,
+    "id": "Betta_Kurumba-48_liver-1"
+  },
+  {
+    "index": 968,
+    "id": "Brahui-48_liver-1"
+  },
+  {
+    "index": 969,
+    "id": "Malto-48_liver-1"
+  },
+  {
+    "index": 970,
+    "id": "Kurukh-48_liver-1"
+  },
+  {
+    "index": 971,
+    "id": "Kota-49_long-1"
+  },
+  {
+    "index": 972,
+    "id": "Malayalam-49_long-1"
+  },
+  {
+    "index": 973,
+    "id": "Malayalam-49_long-2"
+  },
+  {
+    "index": 974,
+    "id": "Tamil-49_long-1"
+  },
+  {
+    "index": 975,
+    "id": "Tamil-49_long-2"
+  },
+  {
+    "index": 976,
+    "id": "Tamil-49_long-3"
+  },
+  {
+    "index": 977,
+    "id": "Yeruva-49_long-1"
+  },
+  {
+    "index": 978,
+    "id": "Badga-49_long-1"
+  },
+  {
+    "index": 979,
+    "id": "Betta_Kurumba-49_long-1"
+  },
+  {
+    "index": 980,
+    "id": "Kannada-49_long-1"
+  },
+  {
+    "index": 981,
+    "id": "Kodava-49_long-1"
+  },
+  {
+    "index": 982,
+    "id": "Tulu-49_long-1"
+  },
+  {
+    "index": 983,
+    "id": "Kolami-49_long-1"
+  },
+  {
+    "index": 984,
+    "id": "Koya-49_long-1"
+  },
+  {
+    "index": 985,
+    "id": "Telugu-49_long-1"
+  },
+  {
+    "index": 986,
+    "id": "Toda-49_long-1"
+  },
+  {
+    "index": 987,
+    "id": "Brahui-49_long-1"
+  },
+  {
+    "index": 988,
+    "id": "Kurukh-49_long-1"
+  },
+  {
+    "index": 989,
+    "id": "Malto-49_long-1"
+  },
+  {
+    "index": 990,
+    "id": "Gondi-49_long-1"
+  },
+  {
+    "index": 991,
+    "id": "Betta_Kurumba-50_louse-1"
+  },
+  {
+    "index": 992,
+    "id": "Kannada-50_louse-1"
+  },
+  {
+    "index": 993,
+    "id": "Kodava-50_louse-1"
+  },
+  {
+    "index": 994,
+    "id": "Kolami-50_louse-1"
+  },
+  {
+    "index": 995,
+    "id": "Kurukh-50_louse-1"
+  },
+  {
+    "index": 996,
+    "id": "Malayalam-50_louse-1"
+  },
+  {
+    "index": 997,
+    "id": "Parji-50_louse-1"
+  },
+  {
+    "index": 998,
+    "id": "Tamil-50_louse-1"
+  },
+  {
+    "index": 999,
+    "id": "Telugu-50_louse-1"
+  },
+  {
+    "index": 1000,
+    "id": "Tulu-50_louse-1"
+  },
+  {
+    "index": 1001,
+    "id": "Yeruva-50_louse-1"
+  },
+  {
+    "index": 1002,
+    "id": "Toda-50_louse-1"
+  },
+  {
+    "index": 1003,
+    "id": "Gondi-50_louse-1"
+  },
+  {
+    "index": 1004,
+    "id": "Koya-50_louse-1"
+  },
+  {
+    "index": 1005,
+    "id": "Badga-50_louse-1"
+  },
+  {
+    "index": 1006,
+    "id": "Badga-50_louse-2"
+  },
+  {
+    "index": 1007,
+    "id": "Brahui-50_louse-1"
+  },
+  {
+    "index": 1008,
+    "id": "Kota-50_louse-1"
+  },
+  {
+    "index": 1009,
+    "id": "Kodava-51_man-1"
+  },
+  {
+    "index": 1010,
+    "id": "Malayalam-51_man-1"
+  },
+  {
+    "index": 1011,
+    "id": "Tamil-51_man-1"
+  },
+  {
+    "index": 1012,
+    "id": "Tamil-51_man-2"
+  },
+  {
+    "index": 1013,
+    "id": "Betta_Kurumba-51_man-1"
+  },
+  {
+    "index": 1014,
+    "id": "Kannada-51_man-2"
+  },
+  {
+    "index": 1015,
+    "id": "Kota-51_man-1"
+  },
+  {
+    "index": 1016,
+    "id": "Koya-51_man-1"
+  },
+  {
+    "index": 1017,
+    "id": "Telugu-51_man-2"
+  },
+  {
+    "index": 1018,
+    "id": "Koya-51_man-2"
+  },
+  {
+    "index": 1019,
+    "id": "Badga-51_man-1"
+  },
+  {
+    "index": 1020,
+    "id": "Yeruva-51_man-1"
+  },
+  {
+    "index": 1021,
+    "id": "Kuwi-51_man-1"
+  },
+  {
+    "index": 1022,
+    "id": "Tamil-51_man-3"
+  },
+  {
+    "index": 1023,
+    "id": "Toda-51_man-1"
+  },
+  {
+    "index": 1024,
+    "id": "Tulu-51_man-1"
+  },
+  {
+    "index": 1025,
+    "id": "Brahui-51_man-1"
+  },
+  {
+    "index": 1026,
+    "id": "Malto-51_man-1"
+  },
+  {
+    "index": 1027,
+    "id": "Kurukh-51_man-1"
+  },
+  {
+    "index": 1028,
+    "id": "Kolami-51_man-1"
+  },
+  {
+    "index": 1029,
+    "id": "Gondi-51_man-1"
+  },
+  {
+    "index": 1030,
+    "id": "Kuwi-51_man-2"
+  },
+  {
+    "index": 1031,
+    "id": "Kuwi-51_man-3"
+  },
+  {
+    "index": 1032,
+    "id": "Kannada-52_many-1"
+  },
+  {
+    "index": 1033,
+    "id": "Malayalam-52_many-1"
+  },
+  {
+    "index": 1034,
+    "id": "Tamil-52_many-1"
+  },
+  {
+    "index": 1035,
+    "id": "Telugu-52_many-1"
+  },
+  {
+    "index": 1036,
+    "id": "Kodava-52_many-1"
+  },
+  {
+    "index": 1037,
+    "id": "Yeruva-52_many-1"
+  },
+  {
+    "index": 1038,
+    "id": "Koya-52_many-1"
+  },
+  {
+    "index": 1039,
+    "id": "Telugu-52_many-2"
+  },
+  {
+    "index": 1040,
+    "id": "Koya-52_many-2"
+  },
+  {
+    "index": 1041,
+    "id": "Badga-52_many-1"
+  },
+  {
+    "index": 1042,
+    "id": "Malayalam-52_many-2"
+  },
+  {
+    "index": 1043,
+    "id": "Tamil-52_many-2"
+  },
+  {
+    "index": 1044,
+    "id": "Toda-52_many-1"
+  },
+  {
+    "index": 1045,
+    "id": "Tulu-52_many-1"
+  },
+  {
+    "index": 1046,
+    "id": "Betta_Kurumba-52_many-1"
+  },
+  {
+    "index": 1047,
+    "id": "Kolami-52_many-1"
+  },
+  {
+    "index": 1048,
+    "id": "Brahui-52_many-1"
+  },
+  {
+    "index": 1049,
+    "id": "Malto-52_many-1"
+  },
+  {
+    "index": 1050,
+    "id": "Malto-52_many-2"
+  },
+  {
+    "index": 1051,
+    "id": "Kurukh-52_many-1"
+  },
+  {
+    "index": 1052,
+    "id": "Gondi-52_many-1"
+  },
+  {
+    "index": 1053,
+    "id": "Gondi-52_many-2"
+  },
+  {
+    "index": 1054,
+    "id": "Kota-52_many-1"
+  },
+  {
+    "index": 1055,
+    "id": "Kodava-53_meat-1"
+  },
+  {
+    "index": 1056,
+    "id": "Malayalam-53_meat-1"
+  },
+  {
+    "index": 1057,
+    "id": "Tamil-53_meat-1"
+  },
+  {
+    "index": 1058,
+    "id": "Yeruva-53_meat-1"
+  },
+  {
+    "index": 1059,
+    "id": "Kannada-53_meat-1"
+  },
+  {
+    "index": 1060,
+    "id": "Tamil-53_meat-2"
+  },
+  {
+    "index": 1061,
+    "id": "Kota-53_meat-1"
+  },
+  {
+    "index": 1062,
+    "id": "Toda-53_meat-1"
+  },
+  {
+    "index": 1063,
+    "id": "Badga-53_meat-1"
+  },
+  {
+    "index": 1064,
+    "id": "Badga-53_meat-2"
+  },
+  {
+    "index": 1065,
+    "id": "Koya-53_meat-1"
+  },
+  {
+    "index": 1066,
+    "id": "Betta_Kurumba-53_meat-1"
+  },
+  {
+    "index": 1067,
+    "id": "Brahui-53_meat-1"
+  },
+  {
+    "index": 1068,
+    "id": "Gondi-53_meat-1"
+  },
+  {
+    "index": 1069,
+    "id": "Kolami-53_meat-1"
+  },
+  {
+    "index": 1070,
+    "id": "Malto-53_meat-1"
+  },
+  {
+    "index": 1071,
+    "id": "Kurukh-53_meat-1"
+  },
+  {
+    "index": 1072,
+    "id": "Kota-53_meat-2"
+  },
+  {
+    "index": 1073,
+    "id": "Kolami-54_moon-1"
+  },
+  {
+    "index": 1074,
+    "id": "Kota-54_moon-1"
+  },
+  {
+    "index": 1075,
+    "id": "Koya-54_moon-2"
+  },
+  {
+    "index": 1076,
+    "id": "Kuwi-54_moon-1"
+  },
+  {
+    "index": 1077,
+    "id": "Ollari_Gadba-54_moon-1"
+  },
+  {
+    "index": 1078,
+    "id": "Parji-54_moon-1"
+  },
+  {
+    "index": 1079,
+    "id": "Tamil-54_moon-2"
+  },
+  {
+    "index": 1080,
+    "id": "Toda-54_moon-1"
+  },
+  {
+    "index": 1081,
+    "id": "Yeruva-54_moon-1"
+  },
+  {
+    "index": 1082,
+    "id": "Betta_Kurumba-54_moon-1"
+  },
+  {
+    "index": 1083,
+    "id": "Malto-54_moon-1"
+  },
+  {
+    "index": 1084,
+    "id": "Brahui-54_moon-1"
+  },
+  {
+    "index": 1085,
+    "id": "Gondi-54_moon-1"
+  },
+  {
+    "index": 1086,
+    "id": "Kota-54_moon-2"
+  },
+  {
+    "index": 1087,
+    "id": "Koya-55_mountain-1"
+  },
+  {
+    "index": 1088,
+    "id": "Betta_Kurumba-55_mountain-1"
+  },
+  {
+    "index": 1089,
+    "id": "Kannada-55_mountain-1"
+  },
+  {
+    "index": 1090,
+    "id": "Kodava-55_mountain-1"
+  },
+  {
+    "index": 1091,
+    "id": "Telugu-55_mountain-1"
+  },
+  {
+    "index": 1092,
+    "id": "Yeruva-55_mountain-1"
+  },
+  {
+    "index": 1093,
+    "id": "Badga-55_mountain-1"
+  },
+  {
+    "index": 1094,
+    "id": "Brahui-55_mountain-1"
+  },
+  {
+    "index": 1095,
+    "id": "Malayalam-55_mountain-1"
+  },
+  {
+    "index": 1096,
+    "id": "Tamil-55_mountain-1"
+  },
+  {
+    "index": 1097,
+    "id": "Gondi-55_mountain-1"
+  },
+  {
+    "index": 1098,
+    "id": "Koya-55_mountain-2"
+  },
+  {
+    "index": 1099,
+    "id": "Toda-55_mountain-1"
+  },
+  {
+    "index": 1100,
+    "id": "Tulu-55_mountain-1"
+  },
+  {
+    "index": 1101,
+    "id": "Malto-55_mountain-1"
+  },
+  {
+    "index": 1102,
+    "id": "Kurukh-55_mountain-1"
+  },
+  {
+    "index": 1103,
+    "id": "Kolami-55_mountain-1"
+  },
+  {
+    "index": 1104,
+    "id": "Kota-55_mountain-1"
+  },
+  {
+    "index": 1105,
+    "id": "Ollari_Gadba-55_mountain-1"
+  },
+  {
+    "index": 1106,
+    "id": "Betta_Kurumba-56_mouth-1"
+  },
+  {
+    "index": 1107,
+    "id": "Brahui-56_mouth-1"
+  },
+  {
+    "index": 1108,
+    "id": "Kannada-56_mouth-1"
+  },
+  {
+    "index": 1109,
+    "id": "Kodava-56_mouth-1"
+  },
+  {
+    "index": 1110,
+    "id": "Kota-56_mouth-1"
+  },
+  {
+    "index": 1111,
+    "id": "Kurukh-56_mouth-1"
+  },
+  {
+    "index": 1112,
+    "id": "Malayalam-56_mouth-1"
+  },
+  {
+    "index": 1113,
+    "id": "Parji-56_mouth-1"
+  },
+  {
+    "index": 1114,
+    "id": "Tamil-56_mouth-1"
+  },
+  {
+    "index": 1115,
+    "id": "Tamil-56_mouth-2"
+  },
+  {
+    "index": 1116,
+    "id": "Toda-56_mouth-1"
+  },
+  {
+    "index": 1117,
+    "id": "Tulu-56_mouth-1"
+  },
+  {
+    "index": 1118,
+    "id": "Yeruva-56_mouth-1"
+  },
+  {
+    "index": 1119,
+    "id": "Telugu-56_mouth-1"
+  },
+  {
+    "index": 1120,
+    "id": "Koya-56_mouth-1"
+  },
+  {
+    "index": 1121,
+    "id": "Badga-56_mouth-1"
+  },
+  {
+    "index": 1122,
+    "id": "Gondi-56_mouth-1"
+  },
+  {
+    "index": 1123,
+    "id": "Malto-56_mouth-1"
+  },
+  {
+    "index": 1124,
+    "id": "Kolami-56_mouth-1"
+  },
+  {
+    "index": 1125,
+    "id": "Kuwi-56_mouth-1"
+  },
+  {
+    "index": 1126,
+    "id": "Ollari_Gadba-56_mouth-1"
+  },
+  {
+    "index": 1127,
+    "id": "Badga-57_name-1"
+  },
+  {
+    "index": 1128,
+    "id": "Betta_Kurumba-57_name-1"
+  },
+  {
+    "index": 1129,
+    "id": "Brahui-57_name-1"
+  },
+  {
+    "index": 1130,
+    "id": "Gondi-57_name-1"
+  },
+  {
+    "index": 1131,
+    "id": "Kannada-57_name-1"
+  },
+  {
+    "index": 1132,
+    "id": "Kodava-57_name-1"
+  },
+  {
+    "index": 1133,
+    "id": "Kolami-57_name-1"
+  },
+  {
+    "index": 1134,
+    "id": "Kota-57_name-1"
+  },
+  {
+    "index": 1135,
+    "id": "Koya-57_name-1"
+  },
+  {
+    "index": 1136,
+    "id": "Kuwi-57_name-1"
+  },
+  {
+    "index": 1137,
+    "id": "Malayalam-57_name-1"
+  },
+  {
+    "index": 1138,
+    "id": "Parji-57_name-1"
+  },
+  {
+    "index": 1139,
+    "id": "Tamil-57_name-1"
+  },
+  {
+    "index": 1140,
+    "id": "Telugu-57_name-1"
+  },
+  {
+    "index": 1141,
+    "id": "Toda-57_name-1"
+  },
+  {
+    "index": 1142,
+    "id": "Tulu-57_name-1"
+  },
+  {
+    "index": 1143,
+    "id": "Yeruva-57_name-1"
+  },
+  {
+    "index": 1144,
+    "id": "Badga-58_neck-1"
+  },
+  {
+    "index": 1145,
+    "id": "Kota-58_neck-1"
+  },
+  {
+    "index": 1146,
+    "id": "Malayalam-58_neck-1"
+  },
+  {
+    "index": 1147,
+    "id": "Tamil-58_neck-1"
+  },
+  {
+    "index": 1148,
+    "id": "Koya-58_neck-1"
+  },
+  {
+    "index": 1149,
+    "id": "Telugu-58_neck-1"
+  },
+  {
+    "index": 1150,
+    "id": "Toda-58_neck-1"
+  },
+  {
+    "index": 1151,
+    "id": "Kurukh-58_neck-1"
+  },
+  {
+    "index": 1152,
+    "id": "Malto-58_neck-1"
+  },
+  {
+    "index": 1153,
+    "id": "Kannada-58_neck-1"
+  },
+  {
+    "index": 1154,
+    "id": "Kodava-58_neck-1"
+  },
+  {
+    "index": 1155,
+    "id": "Yeruva-58_neck-1"
+  },
+  {
+    "index": 1156,
+    "id": "Tulu-58_neck-1"
+  },
+  {
+    "index": 1157,
+    "id": "Betta_Kurumba-58_neck-1"
+  },
+  {
+    "index": 1158,
+    "id": "Kolami-58_neck-1"
+  },
+  {
+    "index": 1159,
+    "id": "Brahui-58_neck-1"
+  },
+  {
+    "index": 1160,
+    "id": "Malto-58_neck-2"
+  },
+  {
+    "index": 1161,
+    "id": "Ollari_Gadba-58_neck-1"
+  },
+  {
+    "index": 1162,
+    "id": "Gondi-58_neck-1"
+  },
+  {
+    "index": 1163,
+    "id": "Badga-59_new-1"
+  },
+  {
+    "index": 1164,
+    "id": "Kolami-59_new-1"
+  },
+  {
+    "index": 1165,
+    "id": "Koya-59_new-1"
+  },
+  {
+    "index": 1166,
+    "id": "Telugu-59_new-1"
+  },
+  {
+    "index": 1167,
+    "id": "Brahui-59_new-1"
+  },
+  {
+    "index": 1168,
+    "id": "Gondi-59_new-1"
+  },
+  {
+    "index": 1169,
+    "id": "Kannada-59_new-1"
+  },
+  {
+    "index": 1170,
+    "id": "Kodava-59_new-1"
+  },
+  {
+    "index": 1171,
+    "id": "Kota-59_new-1"
+  },
+  {
+    "index": 1172,
+    "id": "Kurukh-59_new-1"
+  },
+  {
+    "index": 1173,
+    "id": "Kuwi-59_new-1"
+  },
+  {
+    "index": 1174,
+    "id": "Malayalam-59_new-1"
+  },
+  {
+    "index": 1175,
+    "id": "Malto-59_new-1"
+  },
+  {
+    "index": 1176,
+    "id": "Parji-59_new-1"
+  },
+  {
+    "index": 1177,
+    "id": "Tamil-59_new-1"
+  },
+  {
+    "index": 1178,
+    "id": "Tamil-59_new-2"
+  },
+  {
+    "index": 1179,
+    "id": "Toda-59_new-1"
+  },
+  {
+    "index": 1180,
+    "id": "Tulu-59_new-1"
+  },
+  {
+    "index": 1181,
+    "id": "Yeruva-59_new-1"
+  },
+  {
+    "index": 1182,
+    "id": "Betta_Kurumba-59_new-1"
+  },
+  {
+    "index": 1183,
+    "id": "Badga-60_night-1"
+  },
+  {
+    "index": 1184,
+    "id": "Kota-60_night-1"
+  },
+  {
+    "index": 1185,
+    "id": "Tamil-60_night-1"
+  },
+  {
+    "index": 1186,
+    "id": "Tamil-60_night-2"
+  },
+  {
+    "index": 1187,
+    "id": "Kurukh-60_night-1"
+  },
+  {
+    "index": 1188,
+    "id": "Malto-60_night-2"
+  },
+  {
+    "index": 1189,
+    "id": "Koya-60_night-1"
+  },
+  {
+    "index": 1190,
+    "id": "Kodava-60_night-1"
+  },
+  {
+    "index": 1191,
+    "id": "Yeruva-60_night-1"
+  },
+  {
+    "index": 1192,
+    "id": "Betta_Kurumba-60_night-1"
+  },
+  {
+    "index": 1193,
+    "id": "Toda-60_night-1"
+  },
+  {
+    "index": 1194,
+    "id": "Gondi-60_night-1"
+  },
+  {
+    "index": 1195,
+    "id": "Brahui-60_night-1"
+  },
+  {
+    "index": 1196,
+    "id": "Kuwi-60_night-1"
+  },
+  {
+    "index": 1197,
+    "id": "Kolami-60_night-1"
+  },
+  {
+    "index": 1198,
+    "id": "Badga-61_nose-1"
+  },
+  {
+    "index": 1199,
+    "id": "Betta_Kurumba-61_nose-1"
+  },
+  {
+    "index": 1200,
+    "id": "Kannada-61_nose-1"
+  },
+  {
+    "index": 1201,
+    "id": "Kodava-61_nose-1"
+  },
+  {
+    "index": 1202,
+    "id": "Kolami-61_nose-1"
+  },
+  {
+    "index": 1203,
+    "id": "Kota-61_nose-1"
+  },
+  {
+    "index": 1204,
+    "id": "Kurukh-61_nose-1"
+  },
+  {
+    "index": 1205,
+    "id": "Kuwi-61_nose-1"
+  },
+  {
+    "index": 1206,
+    "id": "Malayalam-61_nose-1"
+  },
+  {
+    "index": 1207,
+    "id": "Ollari_Gadba-61_nose-1"
+  },
+  {
+    "index": 1208,
+    "id": "Parji-61_nose-1"
+  },
+  {
+    "index": 1209,
+    "id": "Tamil-61_nose-1"
+  },
+  {
+    "index": 1210,
+    "id": "Telugu-61_nose-1"
+  },
+  {
+    "index": 1211,
+    "id": "Tulu-61_nose-1"
+  },
+  {
+    "index": 1212,
+    "id": "Yeruva-61_nose-1"
+  },
+  {
+    "index": 1213,
+    "id": "Gondi-61_nose-1"
+  },
+  {
+    "index": 1214,
+    "id": "Koya-61_nose-1"
+  },
+  {
+    "index": 1215,
+    "id": "Toda-61_nose-1"
+  },
+  {
+    "index": 1216,
+    "id": "Malto-61_nose-1"
+  },
+  {
+    "index": 1217,
+    "id": "Brahui-61_nose-1"
+  },
+  {
+    "index": 1218,
+    "id": "Betta_Kurumba-62_not-1"
+  },
+  {
+    "index": 1219,
+    "id": "Gondi-62_not-1"
+  },
+  {
+    "index": 1220,
+    "id": "Kodava-62_not-1"
+  },
+  {
+    "index": 1221,
+    "id": "Kota-62_not-1"
+  },
+  {
+    "index": 1222,
+    "id": "Koya-62_not-1"
+  },
+  {
+    "index": 1223,
+    "id": "Malayalam-62_not-1"
+  },
+  {
+    "index": 1224,
+    "id": "Tamil-62_not-1"
+  },
+  {
+    "index": 1225,
+    "id": "Telugu-62_not-1"
+  },
+  {
+    "index": 1226,
+    "id": "Yeruva-62_not-1"
+  },
+  {
+    "index": 1227,
+    "id": "Kolami-62_not-1"
+  },
+  {
+    "index": 1228,
+    "id": "Telugu-62_not-2"
+  },
+  {
+    "index": 1229,
+    "id": "Betta_Kurumba-62_not-2"
+  },
+  {
+    "index": 1230,
+    "id": "Kannada-62_not-1"
+  },
+  {
+    "index": 1231,
+    "id": "Badga-62_not-1"
+  },
+  {
+    "index": 1232,
+    "id": "Toda-62_not-1"
+  },
+  {
+    "index": 1233,
+    "id": "Tulu-62_not-1"
+  },
+  {
+    "index": 1234,
+    "id": "Kurukh-62_not-1"
+  },
+  {
+    "index": 1235,
+    "id": "Malto-62_not-1"
+  },
+  {
+    "index": 1236,
+    "id": "Brahui-62_not-1"
+  },
+  {
+    "index": 1237,
+    "id": "Brahui-62_not-2"
+  },
+  {
+    "index": 1238,
+    "id": "Malto-62_not-2"
+  },
+  {
+    "index": 1239,
+    "id": "Badga-63_one-1"
+  },
+  {
+    "index": 1240,
+    "id": "Betta_Kurumba-63_one-1"
+  },
+  {
+    "index": 1241,
+    "id": "Brahui-63_one-1"
+  },
+  {
+    "index": 1242,
+    "id": "Gondi-63_one-1"
+  },
+  {
+    "index": 1243,
+    "id": "Kannada-63_one-1"
+  },
+  {
+    "index": 1244,
+    "id": "Kodava-63_one-1"
+  },
+  {
+    "index": 1245,
+    "id": "Kolami-63_one-1"
+  },
+  {
+    "index": 1246,
+    "id": "Kota-63_one-1"
+  },
+  {
+    "index": 1247,
+    "id": "Koya-63_one-1"
+  },
+  {
+    "index": 1248,
+    "id": "Kurukh-63_one-1"
+  },
+  {
+    "index": 1249,
+    "id": "Kuwi-63_one-1"
+  },
+  {
+    "index": 1250,
+    "id": "Malayalam-63_one-1"
+  },
+  {
+    "index": 1251,
+    "id": "Malto-63_one-1"
+  },
+  {
+    "index": 1252,
+    "id": "Ollari_Gadba-63_one-1"
+  },
+  {
+    "index": 1253,
+    "id": "Parji-63_one-1"
+  },
+  {
+    "index": 1254,
+    "id": "Tamil-63_one-1"
+  },
+  {
+    "index": 1255,
+    "id": "Telugu-63_one-1"
+  },
+  {
+    "index": 1256,
+    "id": "Tulu-63_one-1"
+  },
+  {
+    "index": 1257,
+    "id": "Yeruva-63_one-1"
+  },
+  {
+    "index": 1258,
+    "id": "Toda-63_one-1"
+  },
+  {
+    "index": 1259,
+    "id": "Badga-64_person-1"
+  },
+  {
+    "index": 1260,
+    "id": "Toda-64_person-1"
+  },
+  {
+    "index": 1261,
+    "id": "Betta_Kurumba-64_person-1"
+  },
+  {
+    "index": 1262,
+    "id": "Betta_Kurumba-64_person-2"
+  },
+  {
+    "index": 1263,
+    "id": "Kurukh-64_person-1"
+  },
+  {
+    "index": 1264,
+    "id": "Gondi-64_person-1"
+  },
+  {
+    "index": 1265,
+    "id": "Malto-64_person-1"
+  },
+  {
+    "index": 1266,
+    "id": "Brahui-64_person-1"
+  },
+  {
+    "index": 1267,
+    "id": "Badga-65_rain-1"
+  },
+  {
+    "index": 1268,
+    "id": "Betta_Kurumba-65_rain-1"
+  },
+  {
+    "index": 1269,
+    "id": "Kannada-65_rain-1"
+  },
+  {
+    "index": 1270,
+    "id": "Kodava-65_rain-1"
+  },
+  {
+    "index": 1271,
+    "id": "Kota-65_rain-1"
+  },
+  {
+    "index": 1272,
+    "id": "Malayalam-65_rain-1"
+  },
+  {
+    "index": 1273,
+    "id": "Tamil-65_rain-1"
+  },
+  {
+    "index": 1274,
+    "id": "Toda-65_rain-1"
+  },
+  {
+    "index": 1275,
+    "id": "Yeruva-65_rain-1"
+  },
+  {
+    "index": 1276,
+    "id": "Kolami-65_rain-1"
+  },
+  {
+    "index": 1277,
+    "id": "Koya-65_rain-1"
+  },
+  {
+    "index": 1278,
+    "id": "Parji-65_rain-1"
+  },
+  {
+    "index": 1279,
+    "id": "Telugu-65_rain-2"
+  },
+  {
+    "index": 1280,
+    "id": "Brahui-65_rain-1"
+  },
+  {
+    "index": 1281,
+    "id": "Gondi-65_rain-1"
+  },
+  {
+    "index": 1282,
+    "id": "Malto-65_rain-1"
+  },
+  {
+    "index": 1283,
+    "id": "Kurukh-65_rain-1"
+  },
+  {
+    "index": 1284,
+    "id": "Kuwi-65_rain-1"
+  },
+  {
+    "index": 1285,
+    "id": "Badga-66_red-1"
+  },
+  {
+    "index": 1286,
+    "id": "Brahui-66_red-1"
+  },
+  {
+    "index": 1287,
+    "id": "Kannada-66_red-1"
+  },
+  {
+    "index": 1288,
+    "id": "Kodava-66_red-1"
+  },
+  {
+    "index": 1289,
+    "id": "Kurukh-66_red-1"
+  },
+  {
+    "index": 1290,
+    "id": "Malayalam-66_red-1"
+  },
+  {
+    "index": 1291,
+    "id": "Malto-66_red-1"
+  },
+  {
+    "index": 1292,
+    "id": "Parji-66_red-1"
+  },
+  {
+    "index": 1293,
+    "id": "Tamil-66_red-1"
+  },
+  {
+    "index": 1294,
+    "id": "Tamil-66_red-2"
+  },
+  {
+    "index": 1295,
+    "id": "Tamil-66_red-3"
+  },
+  {
+    "index": 1296,
+    "id": "Toda-66_red-1"
+  },
+  {
+    "index": 1297,
+    "id": "Tulu-66_red-1"
+  },
+  {
+    "index": 1298,
+    "id": "Yeruva-66_red-1"
+  },
+  {
+    "index": 1299,
+    "id": "Gondi-66_red-1"
+  },
+  {
+    "index": 1300,
+    "id": "Gondi-66_red-2"
+  },
+  {
+    "index": 1301,
+    "id": "Kolami-66_red-1"
+  },
+  {
+    "index": 1302,
+    "id": "Koya-66_red-1"
+  },
+  {
+    "index": 1303,
+    "id": "Telugu-66_red-1"
+  },
+  {
+    "index": 1304,
+    "id": "Betta_Kurumba-66_red-1"
+  },
+  {
+    "index": 1305,
+    "id": "Kota-66_red-1"
+  },
+  {
+    "index": 1306,
+    "id": "Kuwi-66_red-1"
+  },
+  {
+    "index": 1307,
+    "id": "Kuwi-66_red-2"
+  },
+  {
+    "index": 1308,
+    "id": "Malayalam-67_road-1"
+  },
+  {
+    "index": 1309,
+    "id": "Tamil-67_road-1"
+  },
+  {
+    "index": 1310,
+    "id": "Malto-67_road-1"
+  },
+  {
+    "index": 1311,
+    "id": "Parji-67_road-1"
+  },
+  {
+    "index": 1312,
+    "id": "Badga-67_road-1"
+  },
+  {
+    "index": 1313,
+    "id": "Kolami-67_road-1"
+  },
+  {
+    "index": 1314,
+    "id": "Kota-67_road-1"
+  },
+  {
+    "index": 1315,
+    "id": "Kurukh-67_road-1"
+  },
+  {
+    "index": 1316,
+    "id": "Telugu-67_road-2"
+  },
+  {
+    "index": 1317,
+    "id": "Betta_Kurumba-67_road-1"
+  },
+  {
+    "index": 1318,
+    "id": "Kodava-67_road-1"
+  },
+  {
+    "index": 1319,
+    "id": "Telugu-67_road-3"
+  },
+  {
+    "index": 1320,
+    "id": "Ollari_Gadba-67_road-1"
+  },
+  {
+    "index": 1321,
+    "id": "Toda-67_road-1"
+  },
+  {
+    "index": 1322,
+    "id": "Tulu-67_road-1"
+  },
+  {
+    "index": 1323,
+    "id": "Gondi-67_road-1"
+  },
+  {
+    "index": 1324,
+    "id": "Koya-67_road-1"
+  },
+  {
+    "index": 1325,
+    "id": "Kolami-67_road-2"
+  },
+  {
+    "index": 1326,
+    "id": "Badga-68_root-1"
+  },
+  {
+    "index": 1327,
+    "id": "Betta_Kurumba-68_root-1"
+  },
+  {
+    "index": 1328,
+    "id": "Kannada-68_root-1"
+  },
+  {
+    "index": 1329,
+    "id": "Kodava-68_root-1"
+  },
+  {
+    "index": 1330,
+    "id": "Kolami-68_root-1"
+  },
+  {
+    "index": 1331,
+    "id": "Koya-68_root-1"
+  },
+  {
+    "index": 1332,
+    "id": "Kuwi-68_root-1"
+  },
+  {
+    "index": 1333,
+    "id": "Malayalam-68_root-1"
+  },
+  {
+    "index": 1334,
+    "id": "Parji-68_root-1"
+  },
+  {
+    "index": 1335,
+    "id": "Tamil-68_root-1"
+  },
+  {
+    "index": 1336,
+    "id": "Telugu-68_root-1"
+  },
+  {
+    "index": 1337,
+    "id": "Toda-68_root-1"
+  },
+  {
+    "index": 1338,
+    "id": "Tulu-68_root-1"
+  },
+  {
+    "index": 1339,
+    "id": "Yeruva-68_root-1"
+  },
+  {
+    "index": 1340,
+    "id": "Kurukh-68_root-1"
+  },
+  {
+    "index": 1341,
+    "id": "Ollari_Gadba-68_root-1"
+  },
+  {
+    "index": 1342,
+    "id": "Malto-68_root-1"
+  },
+  {
+    "index": 1343,
+    "id": "Brahui-68_root-1"
+  },
+  {
+    "index": 1344,
+    "id": "Gondi-68_root-1"
+  },
+  {
+    "index": 1345,
+    "id": "Gondi-69_round-1"
+  },
+  {
+    "index": 1346,
+    "id": "Koya-69_round-1"
+  },
+  {
+    "index": 1347,
+    "id": "Kurukh-69_round-1"
+  },
+  {
+    "index": 1348,
+    "id": "Malto-69_round-1"
+  },
+  {
+    "index": 1349,
+    "id": "Malto-69_round-2"
+  },
+  {
+    "index": 1350,
+    "id": "Telugu-69_round-1"
+  },
+  {
+    "index": 1351,
+    "id": "Kannada-69_round-2"
+  },
+  {
+    "index": 1352,
+    "id": "Kodava-69_round-1"
+  },
+  {
+    "index": 1353,
+    "id": "Malayalam-69_round-2"
+  },
+  {
+    "index": 1354,
+    "id": "Tamil-69_round-2"
+  },
+  {
+    "index": 1355,
+    "id": "Toda-69_round-1"
+  },
+  {
+    "index": 1356,
+    "id": "Tulu-69_round-1"
+  },
+  {
+    "index": 1357,
+    "id": "Yeruva-69_round-1"
+  },
+  {
+    "index": 1358,
+    "id": "Betta_Kurumba-69_round-1"
+  },
+  {
+    "index": 1359,
+    "id": "Kolami-69_round-1"
+  },
+  {
+    "index": 1360,
+    "id": "Betta_Kurumba-70_sand-1"
+  },
+  {
+    "index": 1361,
+    "id": "Kannada-70_sand-1"
+  },
+  {
+    "index": 1362,
+    "id": "Kodava-70_sand-1"
+  },
+  {
+    "index": 1363,
+    "id": "Malayalam-70_sand-1"
+  },
+  {
+    "index": 1364,
+    "id": "Ollari_Gadba-70_sand-1"
+  },
+  {
+    "index": 1365,
+    "id": "Parji-70_sand-1"
+  },
+  {
+    "index": 1366,
+    "id": "Tamil-70_sand-1"
+  },
+  {
+    "index": 1367,
+    "id": "Toda-70_sand-1"
+  },
+  {
+    "index": 1368,
+    "id": "Yeruva-70_sand-1"
+  },
+  {
+    "index": 1369,
+    "id": "Gondi-70_sand-1"
+  },
+  {
+    "index": 1370,
+    "id": "Kannada-70_sand-2"
+  },
+  {
+    "index": 1371,
+    "id": "Kolami-70_sand-1"
+  },
+  {
+    "index": 1372,
+    "id": "Koya-70_sand-1"
+  },
+  {
+    "index": 1373,
+    "id": "Telugu-70_sand-1"
+  },
+  {
+    "index": 1374,
+    "id": "Tulu-70_sand-1"
+  },
+  {
+    "index": 1375,
+    "id": "Badga-70_sand-1"
+  },
+  {
+    "index": 1376,
+    "id": "Brahui-70_sand-1"
+  },
+  {
+    "index": 1377,
+    "id": "Kurukh-70_sand-1"
+  },
+  {
+    "index": 1378,
+    "id": "Kuwi-70_sand-1"
+  },
+  {
+    "index": 1379,
+    "id": "Malto-70_sand-1"
+  },
+  {
+    "index": 1380,
+    "id": "Tamil-71_say-1"
+  },
+  {
+    "index": 1381,
+    "id": "Tamil-71_say-2"
+  },
+  {
+    "index": 1382,
+    "id": "Malayalam-71_say-1"
+  },
+  {
+    "index": 1383,
+    "id": "Yeruva-71_say-1"
+  },
+  {
+    "index": 1384,
+    "id": "Kannada-71_say-1"
+  },
+  {
+    "index": 1385,
+    "id": "Telugu-71_say-1"
+  },
+  {
+    "index": 1386,
+    "id": "Gondi-71_say-1"
+  },
+  {
+    "index": 1387,
+    "id": "Kodava-71_say-1"
+  },
+  {
+    "index": 1388,
+    "id": "Parji-71_say-1"
+  },
+  {
+    "index": 1389,
+    "id": "Betta_Kurumba-71_say-1"
+  },
+  {
+    "index": 1390,
+    "id": "Koya-71_say-1"
+  },
+  {
+    "index": 1391,
+    "id": "Badga-71_say-1"
+  },
+  {
+    "index": 1392,
+    "id": "Toda-71_say-1"
+  },
+  {
+    "index": 1393,
+    "id": "Tulu-71_say-1"
+  },
+  {
+    "index": 1394,
+    "id": "Brahui-71_say-1"
+  },
+  {
+    "index": 1395,
+    "id": "Kurukh-71_say-1"
+  },
+  {
+    "index": 1396,
+    "id": "Kota-71_say-1"
+  },
+  {
+    "index": 1397,
+    "id": "Malto-71_say-1"
+  },
+  {
+    "index": 1398,
+    "id": "Malayalam-72_see-1"
+  },
+  {
+    "index": 1399,
+    "id": "Tamil-72_see-1"
+  },
+  {
+    "index": 1400,
+    "id": "Badga-72_see-1"
+  },
+  {
+    "index": 1401,
+    "id": "Betta_Kurumba-72_see-1"
+  },
+  {
+    "index": 1402,
+    "id": "Betta_Kurumba-72_see-2"
+  },
+  {
+    "index": 1403,
+    "id": "Kannada-72_see-1"
+  },
+  {
+    "index": 1404,
+    "id": "Kodava-72_see-1"
+  },
+  {
+    "index": 1405,
+    "id": "Kota-72_see-1"
+  },
+  {
+    "index": 1406,
+    "id": "Toda-72_see-1"
+  },
+  {
+    "index": 1407,
+    "id": "Yeruva-72_see-1"
+  },
+  {
+    "index": 1408,
+    "id": "Gondi-72_see-1"
+  },
+  {
+    "index": 1409,
+    "id": "Ollari_Gadba-72_see-1"
+  },
+  {
+    "index": 1410,
+    "id": "Telugu-72_see-1"
+  },
+  {
+    "index": 1411,
+    "id": "Koya-72_see-1"
+  },
+  {
+    "index": 1412,
+    "id": "Tamil-72_see-2"
+  },
+  {
+    "index": 1413,
+    "id": "Tulu-72_see-1"
+  },
+  {
+    "index": 1414,
+    "id": "Kurukh-72_see-1"
+  },
+  {
+    "index": 1415,
+    "id": "Brahui-72_see-1"
+  },
+  {
+    "index": 1416,
+    "id": "Malto-72_see-1"
+  },
+  {
+    "index": 1417,
+    "id": "Kolami-72_see-1"
+  },
+  {
+    "index": 1418,
+    "id": "Badga-73_seed-1"
+  },
+  {
+    "index": 1419,
+    "id": "Betta_Kurumba-73_seed-1"
+  },
+  {
+    "index": 1420,
+    "id": "Betta_Kurumba-73_seed-2"
+  },
+  {
+    "index": 1421,
+    "id": "Brahui-73_seed-1"
+  },
+  {
+    "index": 1422,
+    "id": "Gondi-73_seed-1"
+  },
+  {
+    "index": 1423,
+    "id": "Kannada-73_seed-1"
+  },
+  {
+    "index": 1424,
+    "id": "Kannada-73_seed-2"
+  },
+  {
+    "index": 1425,
+    "id": "Kolami-73_seed-1"
+  },
+  {
+    "index": 1426,
+    "id": "Kota-73_seed-1"
+  },
+  {
+    "index": 1427,
+    "id": "Kurukh-73_seed-1"
+  },
+  {
+    "index": 1428,
+    "id": "Malayalam-73_seed-1"
+  },
+  {
+    "index": 1429,
+    "id": "Parji-73_seed-1"
+  },
+  {
+    "index": 1430,
+    "id": "Tamil-73_seed-1"
+  },
+  {
+    "index": 1431,
+    "id": "Telugu-73_seed-1"
+  },
+  {
+    "index": 1432,
+    "id": "Telugu-73_seed-2"
+  },
+  {
+    "index": 1433,
+    "id": "Toda-73_seed-1"
+  },
+  {
+    "index": 1434,
+    "id": "Tulu-73_seed-1"
+  },
+  {
+    "index": 1435,
+    "id": "Telugu-73_seed-3"
+  },
+  {
+    "index": 1436,
+    "id": "Kurukh-73_seed-2"
+  },
+  {
+    "index": 1437,
+    "id": "Kodava-73_seed-1"
+  },
+  {
+    "index": 1438,
+    "id": "Yeruva-73_seed-1"
+  },
+  {
+    "index": 1439,
+    "id": "Gondi-73_seed-2"
+  },
+  {
+    "index": 1440,
+    "id": "Koya-73_seed-1"
+  },
+  {
+    "index": 1441,
+    "id": "Malayalam-73_seed-2"
+  },
+  {
+    "index": 1442,
+    "id": "Tamil-74_sit-1"
+  },
+  {
+    "index": 1443,
+    "id": "Malayalam-74_sit-1"
+  },
+  {
+    "index": 1444,
+    "id": "Toda-74_sit-1"
+  },
+  {
+    "index": 1445,
+    "id": "Yeruva-74_sit-1"
+  },
+  {
+    "index": 1446,
+    "id": "Badga-74_sit-1"
+  },
+  {
+    "index": 1447,
+    "id": "Kannada-74_sit-1"
+  },
+  {
+    "index": 1448,
+    "id": "Tulu-74_sit-1"
+  },
+  {
+    "index": 1449,
+    "id": "Betta_Kurumba-74_sit-1"
+  },
+  {
+    "index": 1450,
+    "id": "Telugu-74_sit-1"
+  },
+  {
+    "index": 1451,
+    "id": "Kurukh-74_sit-1"
+  },
+  {
+    "index": 1452,
+    "id": "Malto-74_sit-1"
+  },
+  {
+    "index": 1453,
+    "id": "Betta_Kurumba-74_sit-2"
+  },
+  {
+    "index": 1454,
+    "id": "Kannada-74_sit-2"
+  },
+  {
+    "index": 1455,
+    "id": "Koya-74_sit-1"
+  },
+  {
+    "index": 1456,
+    "id": "Kodava-74_sit-1"
+  },
+  {
+    "index": 1457,
+    "id": "Gondi-74_sit-1"
+  },
+  {
+    "index": 1458,
+    "id": "Kolami-74_sit-1"
+  },
+  {
+    "index": 1459,
+    "id": "Ollari_Gadba-74_sit-1"
+  },
+  {
+    "index": 1460,
+    "id": "Brahui-74_sit-1"
+  },
+  {
+    "index": 1461,
+    "id": "Brahui-74_sit-2"
+  },
+  {
+    "index": 1462,
+    "id": "Badga-75_skin-1"
+  },
+  {
+    "index": 1463,
+    "id": "Betta_Kurumba-75_skin-1"
+  },
+  {
+    "index": 1464,
+    "id": "Gondi-75_skin-1"
+  },
+  {
+    "index": 1465,
+    "id": "Kannada-75_skin-1"
+  },
+  {
+    "index": 1466,
+    "id": "Kodava-75_skin-1"
+  },
+  {
+    "index": 1467,
+    "id": "Kolami-75_skin-1"
+  },
+  {
+    "index": 1468,
+    "id": "Kota-75_skin-1"
+  },
+  {
+    "index": 1469,
+    "id": "Koya-75_skin-1"
+  },
+  {
+    "index": 1470,
+    "id": "Malayalam-75_skin-1"
+  },
+  {
+    "index": 1471,
+    "id": "Ollari_Gadba-75_skin-1"
+  },
+  {
+    "index": 1472,
+    "id": "Parji-75_skin-1"
+  },
+  {
+    "index": 1473,
+    "id": "Tamil-75_skin-1"
+  },
+  {
+    "index": 1474,
+    "id": "Telugu-75_skin-1"
+  },
+  {
+    "index": 1475,
+    "id": "Toda-75_skin-1"
+  },
+  {
+    "index": 1476,
+    "id": "Yeruva-75_skin-1"
+  },
+  {
+    "index": 1477,
+    "id": "Brahui-75_skin-1"
+  },
+  {
+    "index": 1478,
+    "id": "Malto-75_skin-1"
+  },
+  {
+    "index": 1479,
+    "id": "Kurukh-75_skin-1"
+  },
+  {
+    "index": 1480,
+    "id": "Badga-76_sleep-1"
+  },
+  {
+    "index": 1481,
+    "id": "Betta_Kurumba-76_sleep-1"
+  },
+  {
+    "index": 1482,
+    "id": "Betta_Kurumba-76_sleep-2"
+  },
+  {
+    "index": 1483,
+    "id": "Kodava-76_sleep-1"
+  },
+  {
+    "index": 1484,
+    "id": "Kota-76_sleep-1"
+  },
+  {
+    "index": 1485,
+    "id": "Malayalam-76_sleep-1"
+  },
+  {
+    "index": 1486,
+    "id": "Tamil-76_sleep-1"
+  },
+  {
+    "index": 1487,
+    "id": "Toda-76_sleep-1"
+  },
+  {
+    "index": 1488,
+    "id": "Yeruva-76_sleep-1"
+  },
+  {
+    "index": 1489,
+    "id": "Kannada-76_sleep-1"
+  },
+  {
+    "index": 1490,
+    "id": "Gondi-76_sleep-1"
+  },
+  {
+    "index": 1491,
+    "id": "Parji-76_sleep-1"
+  },
+  {
+    "index": 1492,
+    "id": "Kurukh-76_sleep-1"
+  },
+  {
+    "index": 1493,
+    "id": "Malto-76_sleep-1"
+  },
+  {
+    "index": 1494,
+    "id": "Tamil-76_sleep-2"
+  },
+  {
+    "index": 1495,
+    "id": "Koya-76_sleep-1"
+  },
+  {
+    "index": 1496,
+    "id": "Tulu-76_sleep-1"
+  },
+  {
+    "index": 1497,
+    "id": "Kolami-76_sleep-1"
+  },
+  {
+    "index": 1498,
+    "id": "Brahui-76_sleep-1"
+  },
+  {
+    "index": 1499,
+    "id": "Malto-76_sleep-2"
+  },
+  {
+    "index": 1500,
+    "id": "Kodava-77_small-1"
+  },
+  {
+    "index": 1501,
+    "id": "Malayalam-77_small-1"
+  },
+  {
+    "index": 1502,
+    "id": "Tamil-77_small-1"
+  },
+  {
+    "index": 1503,
+    "id": "Yeruva-77_small-1"
+  },
+  {
+    "index": 1504,
+    "id": "Kannada-77_small-1"
+  },
+  {
+    "index": 1505,
+    "id": "Brahui-77_small-1"
+  },
+  {
+    "index": 1506,
+    "id": "Gondi-77_small-1"
+  },
+  {
+    "index": 1507,
+    "id": "Kolami-77_small-1"
+  },
+  {
+    "index": 1508,
+    "id": "Koya-77_small-1"
+  },
+  {
+    "index": 1509,
+    "id": "Kurukh-77_small-1"
+  },
+  {
+    "index": 1510,
+    "id": "Parji-77_small-1"
+  },
+  {
+    "index": 1511,
+    "id": "Tamil-77_small-2"
+  },
+  {
+    "index": 1512,
+    "id": "Telugu-77_small-1"
+  },
+  {
+    "index": 1513,
+    "id": "Tulu-77_small-1"
+  },
+  {
+    "index": 1514,
+    "id": "Badga-77_small-1"
+  },
+  {
+    "index": 1515,
+    "id": "Badga-77_small-2"
+  },
+  {
+    "index": 1516,
+    "id": "Betta_Kurumba-77_small-1"
+  },
+  {
+    "index": 1517,
+    "id": "Toda-77_small-1"
+  },
+  {
+    "index": 1518,
+    "id": "Malto-77_small-1"
+  },
+  {
+    "index": 1519,
+    "id": "Malto-77_small-2"
+  },
+  {
+    "index": 1520,
+    "id": "Kota-77_small-1"
+  },
+  {
+    "index": 1521,
+    "id": "Ollari_Gadba-77_small-1"
+  },
+  {
+    "index": 1522,
+    "id": "Badga-78_smoke-1"
+  },
+  {
+    "index": 1523,
+    "id": "Betta_Kurumba-78_smoke-1"
+  },
+  {
+    "index": 1524,
+    "id": "Gondi-78_smoke-1"
+  },
+  {
+    "index": 1525,
+    "id": "Kannada-78_smoke-1"
+  },
+  {
+    "index": 1526,
+    "id": "Kodava-78_smoke-1"
+  },
+  {
+    "index": 1527,
+    "id": "Kolami-78_smoke-1"
+  },
+  {
+    "index": 1528,
+    "id": "Kota-78_smoke-1"
+  },
+  {
+    "index": 1529,
+    "id": "Malayalam-78_smoke-1"
+  },
+  {
+    "index": 1530,
+    "id": "Ollari_Gadba-78_smoke-1"
+  },
+  {
+    "index": 1531,
+    "id": "Tamil-78_smoke-1"
+  },
+  {
+    "index": 1532,
+    "id": "Tamil-78_smoke-2"
+  },
+  {
+    "index": 1533,
+    "id": "Telugu-78_smoke-1"
+  },
+  {
+    "index": 1534,
+    "id": "Toda-78_smoke-1"
+  },
+  {
+    "index": 1535,
+    "id": "Tulu-78_smoke-1"
+  },
+  {
+    "index": 1536,
+    "id": "Yeruva-78_smoke-1"
+  },
+  {
+    "index": 1537,
+    "id": "Koya-78_smoke-1"
+  },
+  {
+    "index": 1538,
+    "id": "Brahui-78_smoke-1"
+  },
+  {
+    "index": 1539,
+    "id": "Kurukh-78_smoke-1"
+  },
+  {
+    "index": 1540,
+    "id": "Malto-78_smoke-1"
+  },
+  {
+    "index": 1541,
+    "id": "Badga-79_stand-1"
+  },
+  {
+    "index": 1542,
+    "id": "Gondi-79_stand-1"
+  },
+  {
+    "index": 1543,
+    "id": "Kannada-79_stand-1"
+  },
+  {
+    "index": 1544,
+    "id": "Kodava-79_stand-1"
+  },
+  {
+    "index": 1545,
+    "id": "Kolami-79_stand-1"
+  },
+  {
+    "index": 1546,
+    "id": "Kota-79_stand-1"
+  },
+  {
+    "index": 1547,
+    "id": "Koya-79_stand-1"
+  },
+  {
+    "index": 1548,
+    "id": "Koya-79_stand-2"
+  },
+  {
+    "index": 1549,
+    "id": "Kurukh-79_stand-1"
+  },
+  {
+    "index": 1550,
+    "id": "Malayalam-79_stand-1"
+  },
+  {
+    "index": 1551,
+    "id": "Malto-79_stand-1"
+  },
+  {
+    "index": 1552,
+    "id": "Parji-79_stand-1"
+  },
+  {
+    "index": 1553,
+    "id": "Tamil-79_stand-1"
+  },
+  {
+    "index": 1554,
+    "id": "Telugu-79_stand-1"
+  },
+  {
+    "index": 1555,
+    "id": "Telugu-79_stand-2"
+  },
+  {
+    "index": 1556,
+    "id": "Yeruva-79_stand-1"
+  },
+  {
+    "index": 1557,
+    "id": "Betta_Kurumba-79_stand-1"
+  },
+  {
+    "index": 1558,
+    "id": "Betta_Kurumba-79_stand-2"
+  },
+  {
+    "index": 1559,
+    "id": "Toda-79_stand-1"
+  },
+  {
+    "index": 1560,
+    "id": "Tulu-79_stand-1"
+  },
+  {
+    "index": 1561,
+    "id": "Brahui-79_stand-1"
+  },
+  {
+    "index": 1562,
+    "id": "Brahui-79_stand-2"
+  },
+  {
+    "index": 1563,
+    "id": "Betta_Kurumba-80_star-1"
+  },
+  {
+    "index": 1564,
+    "id": "Kurukh-80_star-1"
+  },
+  {
+    "index": 1565,
+    "id": "Malto-80_star-1"
+  },
+  {
+    "index": 1566,
+    "id": "Tamil-80_star-1"
+  },
+  {
+    "index": 1567,
+    "id": "Gondi-80_star-1"
+  },
+  {
+    "index": 1568,
+    "id": "Kolami-80_star-1"
+  },
+  {
+    "index": 1569,
+    "id": "Koya-80_star-1"
+  },
+  {
+    "index": 1570,
+    "id": "Kuwi-80_star-1"
+  },
+  {
+    "index": 1571,
+    "id": "Parji-80_star-1"
+  },
+  {
+    "index": 1572,
+    "id": "Telugu-80_star-2"
+  },
+  {
+    "index": 1573,
+    "id": "Ollari_Gadba-80_star-1"
+  },
+  {
+    "index": 1574,
+    "id": "Badga-80_star-2"
+  },
+  {
+    "index": 1575,
+    "id": "Badga-81_stone-1"
+  },
+  {
+    "index": 1576,
+    "id": "Betta_Kurumba-81_stone-1"
+  },
+  {
+    "index": 1577,
+    "id": "Brahui-81_stone-1"
+  },
+  {
+    "index": 1578,
+    "id": "Kannada-81_stone-1"
+  },
+  {
+    "index": 1579,
+    "id": "Kannada-81_stone-2"
+  },
+  {
+    "index": 1580,
+    "id": "Kodava-81_stone-1"
+  },
+  {
+    "index": 1581,
+    "id": "Kota-81_stone-1"
+  },
+  {
+    "index": 1582,
+    "id": "Malayalam-81_stone-1"
+  },
+  {
+    "index": 1583,
+    "id": "Ollari_Gadba-81_stone-1"
+  },
+  {
+    "index": 1584,
+    "id": "Parji-81_stone-1"
+  },
+  {
+    "index": 1585,
+    "id": "Tamil-81_stone-1"
+  },
+  {
+    "index": 1586,
+    "id": "Toda-81_stone-1"
+  },
+  {
+    "index": 1587,
+    "id": "Tulu-81_stone-1"
+  },
+  {
+    "index": 1588,
+    "id": "Yeruva-81_stone-1"
+  },
+  {
+    "index": 1589,
+    "id": "Koya-81_stone-1"
+  },
+  {
+    "index": 1590,
+    "id": "Telugu-81_stone-1"
+  },
+  {
+    "index": 1591,
+    "id": "Kuwi-81_stone-1"
+  },
+  {
+    "index": 1592,
+    "id": "Gondi-81_stone-1"
+  },
+  {
+    "index": 1593,
+    "id": "Kolami-81_stone-1"
+  },
+  {
+    "index": 1594,
+    "id": "Malto-81_stone-1"
+  },
+  {
+    "index": 1595,
+    "id": "Kurukh-81_stone-1"
+  },
+  {
+    "index": 1596,
+    "id": "Betta_Kurumba-82_sun-1"
+  },
+  {
+    "index": 1597,
+    "id": "Gondi-82_sun-1"
+  },
+  {
+    "index": 1598,
+    "id": "Kolami-82_sun-2"
+  },
+  {
+    "index": 1599,
+    "id": "Kota-82_sun-2"
+  },
+  {
+    "index": 1600,
+    "id": "Koya-82_sun-1"
+  },
+  {
+    "index": 1601,
+    "id": "Telugu-82_sun-2"
+  },
+  {
+    "index": 1602,
+    "id": "Kurukh-82_sun-1"
+  },
+  {
+    "index": 1603,
+    "id": "Malto-82_sun-1"
+  },
+  {
+    "index": 1604,
+    "id": "Badga-82_sun-1"
+  },
+  {
+    "index": 1605,
+    "id": "Brahui-82_sun-1"
+  },
+  {
+    "index": 1606,
+    "id": "Kuwi-82_sun-1"
+  },
+  {
+    "index": 1607,
+    "id": "Ollari_Gadba-82_sun-1"
+  },
+  {
+    "index": 1608,
+    "id": "Badga-83_swim-1"
+  },
+  {
+    "index": 1609,
+    "id": "Betta_Kurumba-83_swim-1"
+  },
+  {
+    "index": 1610,
+    "id": "Kannada-83_swim-1"
+  },
+  {
+    "index": 1611,
+    "id": "Kota-83_swim-1"
+  },
+  {
+    "index": 1612,
+    "id": "Koya-83_swim-1"
+  },
+  {
+    "index": 1613,
+    "id": "Malayalam-83_swim-1"
+  },
+  {
+    "index": 1614,
+    "id": "Tamil-83_swim-1"
+  },
+  {
+    "index": 1615,
+    "id": "Telugu-83_swim-1"
+  },
+  {
+    "index": 1616,
+    "id": "Toda-83_swim-1"
+  },
+  {
+    "index": 1617,
+    "id": "Kurukh-83_swim-1"
+  },
+  {
+    "index": 1618,
+    "id": "Malto-83_swim-1"
+  },
+  {
+    "index": 1619,
+    "id": "Kodava-83_swim-1"
+  },
+  {
+    "index": 1620,
+    "id": "Yeruva-83_swim-1"
+  },
+  {
+    "index": 1621,
+    "id": "Tulu-83_swim-1"
+  },
+  {
+    "index": 1622,
+    "id": "Kolami-83_swim-1"
+  },
+  {
+    "index": 1623,
+    "id": "Gondi-83_swim-1"
+  },
+  {
+    "index": 1624,
+    "id": "Gondi-83_swim-2"
+  },
+  {
+    "index": 1625,
+    "id": "Brahui-83_swim-1"
+  },
+  {
+    "index": 1626,
+    "id": "Badga-84_tail-1"
+  },
+  {
+    "index": 1627,
+    "id": "Betta_Kurumba-84_tail-1"
+  },
+  {
+    "index": 1628,
+    "id": "Kannada-84_tail-1"
+  },
+  {
+    "index": 1629,
+    "id": "Kodava-84_tail-1"
+  },
+  {
+    "index": 1630,
+    "id": "Kota-84_tail-1"
+  },
+  {
+    "index": 1631,
+    "id": "Malayalam-84_tail-1"
+  },
+  {
+    "index": 1632,
+    "id": "Tamil-84_tail-1"
+  },
+  {
+    "index": 1633,
+    "id": "Telugu-84_tail-1"
+  },
+  {
+    "index": 1634,
+    "id": "Toda-84_tail-1"
+  },
+  {
+    "index": 1635,
+    "id": "Yeruva-84_tail-1"
+  },
+  {
+    "index": 1636,
+    "id": "Gondi-84_tail-1"
+  },
+  {
+    "index": 1637,
+    "id": "Kolami-84_tail-1"
+  },
+  {
+    "index": 1638,
+    "id": "Koya-84_tail-1"
+  },
+  {
+    "index": 1639,
+    "id": "Parji-84_tail-1"
+  },
+  {
+    "index": 1640,
+    "id": "Telugu-84_tail-2"
+  },
+  {
+    "index": 1641,
+    "id": "Kurukh-84_tail-1"
+  },
+  {
+    "index": 1642,
+    "id": "Malto-84_tail-1"
+  },
+  {
+    "index": 1643,
+    "id": "Tulu-84_tail-1"
+  },
+  {
+    "index": 1644,
+    "id": "Brahui-84_tail-1"
+  },
+  {
+    "index": 1645,
+    "id": "Ollari_Gadba-84_tail-1"
+  },
+  {
+    "index": 1646,
+    "id": "Badga-85_that-1"
+  },
+  {
+    "index": 1647,
+    "id": "Betta_Kurumba-85_that-1"
+  },
+  {
+    "index": 1648,
+    "id": "Gondi-85_that-1"
+  },
+  {
+    "index": 1649,
+    "id": "Kannada-85_that-1"
+  },
+  {
+    "index": 1650,
+    "id": "Kannada-85_that-2"
+  },
+  {
+    "index": 1651,
+    "id": "Kodava-85_that-1"
+  },
+  {
+    "index": 1652,
+    "id": "Kolami-85_that-1"
+  },
+  {
+    "index": 1653,
+    "id": "Kota-85_that-1"
+  },
+  {
+    "index": 1654,
+    "id": "Koya-85_that-1"
+  },
+  {
+    "index": 1655,
+    "id": "Kurukh-85_that-1"
+  },
+  {
+    "index": 1656,
+    "id": "Malayalam-85_that-1"
+  },
+  {
+    "index": 1657,
+    "id": "Malayalam-85_that-2"
+  },
+  {
+    "index": 1658,
+    "id": "Malto-85_that-1"
+  },
+  {
+    "index": 1659,
+    "id": "Malto-85_that-2"
+  },
+  {
+    "index": 1660,
+    "id": "Ollari_Gadba-85_that-1"
+  },
+  {
+    "index": 1661,
+    "id": "Parji-85_that-1"
+  },
+  {
+    "index": 1662,
+    "id": "Tamil-85_that-1"
+  },
+  {
+    "index": 1663,
+    "id": "Tamil-85_that-2"
+  },
+  {
+    "index": 1664,
+    "id": "Telugu-85_that-1"
+  },
+  {
+    "index": 1665,
+    "id": "Telugu-85_that-2"
+  },
+  {
+    "index": 1666,
+    "id": "Toda-85_that-1"
+  },
+  {
+    "index": 1667,
+    "id": "Tulu-85_that-1"
+  },
+  {
+    "index": 1668,
+    "id": "Yeruva-85_that-1"
+  },
+  {
+    "index": 1669,
+    "id": "Brahui-85_that-1"
+  },
+  {
+    "index": 1670,
+    "id": "Kuwi-85_that-1"
+  },
+  {
+    "index": 1671,
+    "id": "Badga-86_this-1"
+  },
+  {
+    "index": 1672,
+    "id": "Betta_Kurumba-86_this-1"
+  },
+  {
+    "index": 1673,
+    "id": "Gondi-86_this-1"
+  },
+  {
+    "index": 1674,
+    "id": "Kannada-86_this-1"
+  },
+  {
+    "index": 1675,
+    "id": "Kodava-86_this-1"
+  },
+  {
+    "index": 1676,
+    "id": "Kolami-86_this-1"
+  },
+  {
+    "index": 1677,
+    "id": "Kota-86_this-1"
+  },
+  {
+    "index": 1678,
+    "id": "Koya-86_this-1"
+  },
+  {
+    "index": 1679,
+    "id": "Kurukh-86_this-1"
+  },
+  {
+    "index": 1680,
+    "id": "Kuwi-86_this-1"
+  },
+  {
+    "index": 1681,
+    "id": "Malayalam-86_this-1"
+  },
+  {
+    "index": 1682,
+    "id": "Malayalam-86_this-2"
+  },
+  {
+    "index": 1683,
+    "id": "Malto-86_this-1"
+  },
+  {
+    "index": 1684,
+    "id": "Ollari_Gadba-86_this-1"
+  },
+  {
+    "index": 1685,
+    "id": "Parji-86_this-1"
+  },
+  {
+    "index": 1686,
+    "id": "Tamil-86_this-1"
+  },
+  {
+    "index": 1687,
+    "id": "Tamil-86_this-2"
+  },
+  {
+    "index": 1688,
+    "id": "Telugu-86_this-1"
+  },
+  {
+    "index": 1689,
+    "id": "Telugu-86_this-2"
+  },
+  {
+    "index": 1690,
+    "id": "Toda-86_this-1"
+  },
+  {
+    "index": 1691,
+    "id": "Yeruva-86_this-1"
+  },
+  {
+    "index": 1692,
+    "id": "Tulu-86_this-1"
+  },
+  {
+    "index": 1693,
+    "id": "Brahui-86_this-1"
+  },
+  {
+    "index": 1694,
+    "id": "Badga-87_thou-1"
+  },
+  {
+    "index": 1695,
+    "id": "Betta_Kurumba-87_thou-1"
+  },
+  {
+    "index": 1696,
+    "id": "Brahui-87_thou-1"
+  },
+  {
+    "index": 1697,
+    "id": "Gondi-87_thou-1"
+  },
+  {
+    "index": 1698,
+    "id": "Kannada-87_thou-1"
+  },
+  {
+    "index": 1699,
+    "id": "Kodava-87_thou-1"
+  },
+  {
+    "index": 1700,
+    "id": "Kolami-87_thou-1"
+  },
+  {
+    "index": 1701,
+    "id": "Kota-87_thou-1"
+  },
+  {
+    "index": 1702,
+    "id": "Koya-87_thou-1"
+  },
+  {
+    "index": 1703,
+    "id": "Kurukh-87_thou-1"
+  },
+  {
+    "index": 1704,
+    "id": "Kuwi-87_thou-1"
+  },
+  {
+    "index": 1705,
+    "id": "Malayalam-87_thou-1"
+  },
+  {
+    "index": 1706,
+    "id": "Malto-87_thou-1"
+  },
+  {
+    "index": 1707,
+    "id": "Malto-87_thou-2"
+  },
+  {
+    "index": 1708,
+    "id": "Ollari_Gadba-87_thou-1"
+  },
+  {
+    "index": 1709,
+    "id": "Parji-87_thou-1"
+  },
+  {
+    "index": 1710,
+    "id": "Tamil-87_thou-1"
+  },
+  {
+    "index": 1711,
+    "id": "Telugu-87_thou-1"
+  },
+  {
+    "index": 1712,
+    "id": "Telugu-87_thou-2"
+  },
+  {
+    "index": 1713,
+    "id": "Toda-87_thou-1"
+  },
+  {
+    "index": 1714,
+    "id": "Tulu-87_thou-1"
+  },
+  {
+    "index": 1715,
+    "id": "Yeruva-87_thou-1"
+  },
+  {
+    "index": 1716,
+    "id": "Badga-88_tongue-1"
+  },
+  {
+    "index": 1717,
+    "id": "Betta_Kurumba-88_tongue-1"
+  },
+  {
+    "index": 1718,
+    "id": "Kannada-88_tongue-1"
+  },
+  {
+    "index": 1719,
+    "id": "Kodava-88_tongue-1"
+  },
+  {
+    "index": 1720,
+    "id": "Kolami-88_tongue-1"
+  },
+  {
+    "index": 1721,
+    "id": "Kota-88_tongue-1"
+  },
+  {
+    "index": 1722,
+    "id": "Koya-88_tongue-1"
+  },
+  {
+    "index": 1723,
+    "id": "Malayalam-88_tongue-1"
+  },
+  {
+    "index": 1724,
+    "id": "Ollari_Gadba-88_tongue-1"
+  },
+  {
+    "index": 1725,
+    "id": "Parji-88_tongue-1"
+  },
+  {
+    "index": 1726,
+    "id": "Tamil-88_tongue-1"
+  },
+  {
+    "index": 1727,
+    "id": "Telugu-88_tongue-1"
+  },
+  {
+    "index": 1728,
+    "id": "Toda-88_tongue-1"
+  },
+  {
+    "index": 1729,
+    "id": "Tulu-88_tongue-1"
+  },
+  {
+    "index": 1730,
+    "id": "Yeruva-88_tongue-1"
+  },
+  {
+    "index": 1731,
+    "id": "Kurukh-88_tongue-1"
+  },
+  {
+    "index": 1732,
+    "id": "Malto-88_tongue-1"
+  },
+  {
+    "index": 1733,
+    "id": "Gondi-88_tongue-1"
+  },
+  {
+    "index": 1734,
+    "id": "Kuwi-88_tongue-1"
+  },
+  {
+    "index": 1735,
+    "id": "Brahui-88_tongue-1"
+  },
+  {
+    "index": 1736,
+    "id": "Badga-89_tooth-1"
+  },
+  {
+    "index": 1737,
+    "id": "Betta_Kurumba-89_tooth-1"
+  },
+  {
+    "index": 1738,
+    "id": "Gondi-89_tooth-1"
+  },
+  {
+    "index": 1739,
+    "id": "Kannada-89_tooth-1"
+  },
+  {
+    "index": 1740,
+    "id": "Kodava-89_tooth-1"
+  },
+  {
+    "index": 1741,
+    "id": "Kolami-89_tooth-1"
+  },
+  {
+    "index": 1742,
+    "id": "Kota-89_tooth-1"
+  },
+  {
+    "index": 1743,
+    "id": "Koya-89_tooth-1"
+  },
+  {
+    "index": 1744,
+    "id": "Kurukh-89_tooth-1"
+  },
+  {
+    "index": 1745,
+    "id": "Kuwi-89_tooth-1"
+  },
+  {
+    "index": 1746,
+    "id": "Malayalam-89_tooth-1"
+  },
+  {
+    "index": 1747,
+    "id": "Malto-89_tooth-1"
+  },
+  {
+    "index": 1748,
+    "id": "Ollari_Gadba-89_tooth-1"
+  },
+  {
+    "index": 1749,
+    "id": "Parji-89_tooth-1"
+  },
+  {
+    "index": 1750,
+    "id": "Tamil-89_tooth-1"
+  },
+  {
+    "index": 1751,
+    "id": "Telugu-89_tooth-1"
+  },
+  {
+    "index": 1752,
+    "id": "Toda-89_tooth-1"
+  },
+  {
+    "index": 1753,
+    "id": "Yeruva-89_tooth-1"
+  },
+  {
+    "index": 1754,
+    "id": "Tulu-89_tooth-1"
+  },
+  {
+    "index": 1755,
+    "id": "Badga-90_tree-1"
+  },
+  {
+    "index": 1756,
+    "id": "Betta_Kurumba-90_tree-1"
+  },
+  {
+    "index": 1757,
+    "id": "Gondi-90_tree-1"
+  },
+  {
+    "index": 1758,
+    "id": "Kannada-90_tree-1"
+  },
+  {
+    "index": 1759,
+    "id": "Kodava-90_tree-1"
+  },
+  {
+    "index": 1760,
+    "id": "Kolami-90_tree-1"
+  },
+  {
+    "index": 1761,
+    "id": "Kota-90_tree-1"
+  },
+  {
+    "index": 1762,
+    "id": "Koya-90_tree-1"
+  },
+  {
+    "index": 1763,
+    "id": "Kurukh-90_tree-1"
+  },
+  {
+    "index": 1764,
+    "id": "Malayalam-90_tree-1"
+  },
+  {
+    "index": 1765,
+    "id": "Parji-90_tree-1"
+  },
+  {
+    "index": 1766,
+    "id": "Tamil-90_tree-1"
+  },
+  {
+    "index": 1767,
+    "id": "Toda-90_tree-1"
+  },
+  {
+    "index": 1768,
+    "id": "Tulu-90_tree-1"
+  },
+  {
+    "index": 1769,
+    "id": "Yeruva-90_tree-1"
+  },
+  {
+    "index": 1770,
+    "id": "Telugu-90_tree-1"
+  },
+  {
+    "index": 1771,
+    "id": "Brahui-90_tree-1"
+  },
+  {
+    "index": 1772,
+    "id": "Kuwi-90_tree-1"
+  },
+  {
+    "index": 1773,
+    "id": "Badga-91_two-1"
+  },
+  {
+    "index": 1774,
+    "id": "Betta_Kurumba-91_two-1"
+  },
+  {
+    "index": 1775,
+    "id": "Brahui-91_two-1"
+  },
+  {
+    "index": 1776,
+    "id": "Gondi-91_two-1"
+  },
+  {
+    "index": 1777,
+    "id": "Kannada-91_two-1"
+  },
+  {
+    "index": 1778,
+    "id": "Kodava-91_two-1"
+  },
+  {
+    "index": 1779,
+    "id": "Kota-91_two-1"
+  },
+  {
+    "index": 1780,
+    "id": "Koya-91_two-1"
+  },
+  {
+    "index": 1781,
+    "id": "Kurukh-91_two-1"
+  },
+  {
+    "index": 1782,
+    "id": "Kuwi-91_two-1"
+  },
+  {
+    "index": 1783,
+    "id": "Malayalam-91_two-1"
+  },
+  {
+    "index": 1784,
+    "id": "Ollari_Gadba-91_two-1"
+  },
+  {
+    "index": 1785,
+    "id": "Parji-91_two-1"
+  },
+  {
+    "index": 1786,
+    "id": "Tamil-91_two-1"
+  },
+  {
+    "index": 1787,
+    "id": "Telugu-91_two-1"
+  },
+  {
+    "index": 1788,
+    "id": "Toda-91_two-1"
+  },
+  {
+    "index": 1789,
+    "id": "Tulu-91_two-1"
+  },
+  {
+    "index": 1790,
+    "id": "Yeruva-91_two-1"
+  },
+  {
+    "index": 1791,
+    "id": "Malto-91_two-1"
+  },
+  {
+    "index": 1792,
+    "id": "Malto-91_two-2"
+  },
+  {
+    "index": 1793,
+    "id": "Malto-91_two-3"
+  },
+  {
+    "index": 1794,
+    "id": "Kolami-91_two-1"
+  },
+  {
+    "index": 1795,
+    "id": "Badga-92_walk-1"
+  },
+  {
+    "index": 1796,
+    "id": "Betta_Kurumba-92_walk-1"
+  },
+  {
+    "index": 1797,
+    "id": "Kannada-92_walk-1"
+  },
+  {
+    "index": 1798,
+    "id": "Kodava-92_walk-1"
+  },
+  {
+    "index": 1799,
+    "id": "Kota-92_walk-1"
+  },
+  {
+    "index": 1800,
+    "id": "Koya-92_walk-1"
+  },
+  {
+    "index": 1801,
+    "id": "Malayalam-92_walk-1"
+  },
+  {
+    "index": 1802,
+    "id": "Tamil-92_walk-1"
+  },
+  {
+    "index": 1803,
+    "id": "Telugu-92_walk-1"
+  },
+  {
+    "index": 1804,
+    "id": "Toda-92_walk-1"
+  },
+  {
+    "index": 1805,
+    "id": "Toda-92_walk-2"
+  },
+  {
+    "index": 1806,
+    "id": "Tulu-92_walk-1"
+  },
+  {
+    "index": 1807,
+    "id": "Yeruva-92_walk-1"
+  },
+  {
+    "index": 1808,
+    "id": "Kolami-92_walk-1"
+  },
+  {
+    "index": 1809,
+    "id": "Kurukh-92_walk-1"
+  },
+  {
+    "index": 1810,
+    "id": "Malto-92_walk-1"
+  },
+  {
+    "index": 1811,
+    "id": "Gondi-92_walk-1"
+  },
+  {
+    "index": 1812,
+    "id": "Brahui-92_walk-1"
+  },
+  {
+    "index": 1813,
+    "id": "Brahui-93_warm-1"
+  },
+  {
+    "index": 1814,
+    "id": "Kannada-93_warm-1"
+  },
+  {
+    "index": 1815,
+    "id": "Kodava-93_warm-1"
+  },
+  {
+    "index": 1816,
+    "id": "Kolami-93_warm-1"
+  },
+  {
+    "index": 1817,
+    "id": "Koya-93_warm-1"
+  },
+  {
+    "index": 1818,
+    "id": "Ollari_Gadba-93_warm-1"
+  },
+  {
+    "index": 1819,
+    "id": "Tamil-93_warm-1"
+  },
+  {
+    "index": 1820,
+    "id": "Telugu-93_warm-1"
+  },
+  {
+    "index": 1821,
+    "id": "Tulu-93_warm-1"
+  },
+  {
+    "index": 1822,
+    "id": "Yeruva-93_warm-1"
+  },
+  {
+    "index": 1823,
+    "id": "Betta_Kurumba-93_warm-1"
+  },
+  {
+    "index": 1824,
+    "id": "Tamil-93_warm-2"
+  },
+  {
+    "index": 1825,
+    "id": "Badga-93_warm-1"
+  },
+  {
+    "index": 1826,
+    "id": "Badga-93_warm-2"
+  },
+  {
+    "index": 1827,
+    "id": "Toda-93_warm-1"
+  },
+  {
+    "index": 1828,
+    "id": "Malayalam-93_warm-2"
+  },
+  {
+    "index": 1829,
+    "id": "Malto-93_warm-1"
+  },
+  {
+    "index": 1830,
+    "id": "Gondi-93_warm-1"
+  },
+  {
+    "index": 1831,
+    "id": "Kurukh-93_warm-1"
+  },
+  {
+    "index": 1832,
+    "id": "Kurukh-93_warm-2"
+  },
+  {
+    "index": 1833,
+    "id": "Tamil-94_water-1"
+  },
+  {
+    "index": 1834,
+    "id": "Malayalam-94_water-1"
+  },
+  {
+    "index": 1835,
+    "id": "Kurukh-94_water-1"
+  },
+  {
+    "index": 1836,
+    "id": "Malto-94_water-1"
+  },
+  {
+    "index": 1837,
+    "id": "Badga-94_water-1"
+  },
+  {
+    "index": 1838,
+    "id": "Betta_Kurumba-94_water-1"
+  },
+  {
+    "index": 1839,
+    "id": "Brahui-94_water-1"
+  },
+  {
+    "index": 1840,
+    "id": "Kannada-94_water-1"
+  },
+  {
+    "index": 1841,
+    "id": "Kodava-94_water-1"
+  },
+  {
+    "index": 1842,
+    "id": "Kolami-94_water-1"
+  },
+  {
+    "index": 1843,
+    "id": "Kota-94_water-1"
+  },
+  {
+    "index": 1844,
+    "id": "Koya-94_water-1"
+  },
+  {
+    "index": 1845,
+    "id": "Ollari_Gadba-94_water-1"
+  },
+  {
+    "index": 1846,
+    "id": "Parji-94_water-1"
+  },
+  {
+    "index": 1847,
+    "id": "Tamil-94_water-2"
+  },
+  {
+    "index": 1848,
+    "id": "Telugu-94_water-1"
+  },
+  {
+    "index": 1849,
+    "id": "Telugu-94_water-2"
+  },
+  {
+    "index": 1850,
+    "id": "Toda-94_water-1"
+  },
+  {
+    "index": 1851,
+    "id": "Tulu-94_water-1"
+  },
+  {
+    "index": 1852,
+    "id": "Yeruva-94_water-1"
+  },
+  {
+    "index": 1853,
+    "id": "Kuwi-94_water-1"
+  },
+  {
+    "index": 1854,
+    "id": "Gondi-94_water-1"
+  },
+  {
+    "index": 1855,
+    "id": "Badga-95_we-1"
+  },
+  {
+    "index": 1856,
+    "id": "Brahui-95_we-1"
+  },
+  {
+    "index": 1857,
+    "id": "Kannada-95_we-1"
+  },
+  {
+    "index": 1858,
+    "id": "Kodava-95_we-1"
+  },
+  {
+    "index": 1859,
+    "id": "Koya-95_we-1"
+  },
+  {
+    "index": 1860,
+    "id": "Kurukh-95_we-1"
+  },
+  {
+    "index": 1861,
+    "id": "Malayalam-95_we-1"
+  },
+  {
+    "index": 1862,
+    "id": "Malto-95_we-1"
+  },
+  {
+    "index": 1863,
+    "id": "Tamil-95_we-1"
+  },
+  {
+    "index": 1864,
+    "id": "Telugu-95_we-1"
+  },
+  {
+    "index": 1865,
+    "id": "Yeruva-95_we-1"
+  },
+  {
+    "index": 1866,
+    "id": "Betta_Kurumba-95_we-1"
+  },
+  {
+    "index": 1867,
+    "id": "Betta_Kurumba-95_we-2"
+  },
+  {
+    "index": 1868,
+    "id": "Gondi-95_we-1"
+  },
+  {
+    "index": 1869,
+    "id": "Kolami-95_we-1"
+  },
+  {
+    "index": 1870,
+    "id": "Kota-95_we-1"
+  },
+  {
+    "index": 1871,
+    "id": "Koya-95_we-2"
+  },
+  {
+    "index": 1872,
+    "id": "Kuwi-95_we-1"
+  },
+  {
+    "index": 1873,
+    "id": "Malayalam-95_we-2"
+  },
+  {
+    "index": 1874,
+    "id": "Ollari_Gadba-95_we-1"
+  },
+  {
+    "index": 1875,
+    "id": "Parji-95_we-1"
+  },
+  {
+    "index": 1876,
+    "id": "Tamil-95_we-2"
+  },
+  {
+    "index": 1877,
+    "id": "Telugu-95_we-2"
+  },
+  {
+    "index": 1878,
+    "id": "Toda-95_we-1"
+  },
+  {
+    "index": 1879,
+    "id": "Tulu-95_we-1"
+  },
+  {
+    "index": 1880,
+    "id": "Badga-96_what-1"
+  },
+  {
+    "index": 1881,
+    "id": "Betta_Kurumba-96_what-1"
+  },
+  {
+    "index": 1882,
+    "id": "Brahui-96_what-1"
+  },
+  {
+    "index": 1883,
+    "id": "Gondi-96_what-1"
+  },
+  {
+    "index": 1884,
+    "id": "Kannada-96_what-1"
+  },
+  {
+    "index": 1885,
+    "id": "Kodava-96_what-1"
+  },
+  {
+    "index": 1886,
+    "id": "Kolami-96_what-1"
+  },
+  {
+    "index": 1887,
+    "id": "Kota-96_what-1"
+  },
+  {
+    "index": 1888,
+    "id": "Koya-96_what-1"
+  },
+  {
+    "index": 1889,
+    "id": "Kurukh-96_what-1"
+  },
+  {
+    "index": 1890,
+    "id": "Kuwi-96_what-1"
+  },
+  {
+    "index": 1891,
+    "id": "Malayalam-96_what-1"
+  },
+  {
+    "index": 1892,
+    "id": "Malto-96_what-1"
+  },
+  {
+    "index": 1893,
+    "id": "Malto-96_what-2"
+  },
+  {
+    "index": 1894,
+    "id": "Ollari_Gadba-96_what-1"
+  },
+  {
+    "index": 1895,
+    "id": "Parji-96_what-1"
+  },
+  {
+    "index": 1896,
+    "id": "Tamil-96_what-1"
+  },
+  {
+    "index": 1897,
+    "id": "Telugu-96_what-1"
+  },
+  {
+    "index": 1898,
+    "id": "Telugu-96_what-2"
+  },
+  {
+    "index": 1899,
+    "id": "Telugu-96_what-3"
+  },
+  {
+    "index": 1900,
+    "id": "Toda-96_what-1"
+  },
+  {
+    "index": 1901,
+    "id": "Tulu-96_what-1"
+  },
+  {
+    "index": 1902,
+    "id": "Yeruva-96_what-1"
+  },
+  {
+    "index": 1903,
+    "id": "Badga-97_white-1"
+  },
+  {
+    "index": 1904,
+    "id": "Betta_Kurumba-97_white-1"
+  },
+  {
+    "index": 1905,
+    "id": "Kannada-97_white-1"
+  },
+  {
+    "index": 1906,
+    "id": "Kodava-97_white-1"
+  },
+  {
+    "index": 1907,
+    "id": "Kota-97_white-1"
+  },
+  {
+    "index": 1908,
+    "id": "Malayalam-97_white-1"
+  },
+  {
+    "index": 1909,
+    "id": "Parji-97_white-1"
+  },
+  {
+    "index": 1910,
+    "id": "Tamil-97_white-1"
+  },
+  {
+    "index": 1911,
+    "id": "Telugu-97_white-1"
+  },
+  {
+    "index": 1912,
+    "id": "Toda-97_white-1"
+  },
+  {
+    "index": 1913,
+    "id": "Tulu-97_white-1"
+  },
+  {
+    "index": 1914,
+    "id": "Yeruva-97_white-1"
+  },
+  {
+    "index": 1915,
+    "id": "Gondi-97_white-1"
+  },
+  {
+    "index": 1916,
+    "id": "Kolami-97_white-1"
+  },
+  {
+    "index": 1917,
+    "id": "Koya-97_white-1"
+  },
+  {
+    "index": 1918,
+    "id": "Telugu-97_white-2"
+  },
+  {
+    "index": 1919,
+    "id": "Kurukh-97_white-1"
+  },
+  {
+    "index": 1920,
+    "id": "Kuwi-97_white-1"
+  },
+  {
+    "index": 1921,
+    "id": "Brahui-97_white-1"
+  },
+  {
+    "index": 1922,
+    "id": "Malto-97_white-1"
+  },
+  {
+    "index": 1923,
+    "id": "Malto-97_white-2"
+  },
+  {
+    "index": 1924,
+    "id": "Kuwi-97_white-2"
+  },
+  {
+    "index": 1925,
+    "id": "Kuwi-97_white-3"
+  },
+  {
+    "index": 1926,
+    "id": "Betta_Kurumba-98_who-1"
+  },
+  {
+    "index": 1927,
+    "id": "Brahui-98_who-1"
+  },
+  {
+    "index": 1928,
+    "id": "Gondi-98_who-1"
+  },
+  {
+    "index": 1929,
+    "id": "Kannada-98_who-1"
+  },
+  {
+    "index": 1930,
+    "id": "Kodava-98_who-1"
+  },
+  {
+    "index": 1931,
+    "id": "Kota-98_who-1"
+  },
+  {
+    "index": 1932,
+    "id": "Kurukh-98_who-1"
+  },
+  {
+    "index": 1933,
+    "id": "Malayalam-98_who-1"
+  },
+  {
+    "index": 1934,
+    "id": "Malto-98_who-1"
+  },
+  {
+    "index": 1935,
+    "id": "Parji-98_who-1"
+  },
+  {
+    "index": 1936,
+    "id": "Tamil-98_who-1"
+  },
+  {
+    "index": 1937,
+    "id": "Telugu-98_who-1"
+  },
+  {
+    "index": 1938,
+    "id": "Toda-98_who-1"
+  },
+  {
+    "index": 1939,
+    "id": "Tulu-98_who-1"
+  },
+  {
+    "index": 1940,
+    "id": "Yeruva-98_who-1"
+  },
+  {
+    "index": 1941,
+    "id": "Badga-98_who-1"
+  },
+  {
+    "index": 1942,
+    "id": "Koya-98_who-1"
+  },
+  {
+    "index": 1943,
+    "id": "Kuwi-98_who-1"
+  },
+  {
+    "index": 1944,
+    "id": "Betta_Kurumba-99_woman-1"
+  },
+  {
+    "index": 1945,
+    "id": "Kannada-99_woman-1"
+  },
+  {
+    "index": 1946,
+    "id": "Kodava-99_woman-1"
+  },
+  {
+    "index": 1947,
+    "id": "Kota-99_woman-1"
+  },
+  {
+    "index": 1948,
+    "id": "Malayalam-99_woman-1"
+  },
+  {
+    "index": 1949,
+    "id": "Tamil-99_woman-1"
+  },
+  {
+    "index": 1950,
+    "id": "Tamil-99_woman-2"
+  },
+  {
+    "index": 1951,
+    "id": "Tulu-99_woman-1"
+  },
+  {
+    "index": 1952,
+    "id": "Telugu-99_woman-2"
+  },
+  {
+    "index": 1953,
+    "id": "Toda-99_woman-1"
+  },
+  {
+    "index": 1954,
+    "id": "Koya-99_woman-1"
+  },
+  {
+    "index": 1955,
+    "id": "Koya-99_woman-2"
+  },
+  {
+    "index": 1956,
+    "id": "Telugu-99_woman-3"
+  },
+  {
+    "index": 1957,
+    "id": "Badga-99_woman-1"
+  },
+  {
+    "index": 1958,
+    "id": "Yeruva-99_woman-1"
+  },
+  {
+    "index": 1959,
+    "id": "Malto-99_woman-1"
+  },
+  {
+    "index": 1960,
+    "id": "Kurukh-99_woman-1"
+  },
+  {
+    "index": 1961,
+    "id": "Kurukh-99_woman-2"
+  },
+  {
+    "index": 1962,
+    "id": "Kolami-99_woman-1"
+  },
+  {
+    "index": 1963,
+    "id": "Gondi-99_woman-1"
+  },
+  {
+    "index": 1964,
+    "id": "Kuwi-99_woman-1"
+  },
+  {
+    "index": 1965,
+    "id": "Kuwi-99_woman-2"
+  },
+  {
+    "index": 1966,
+    "id": "Kuwi-99_woman-3"
+  },
+  {
+    "index": 1967,
+    "id": "Badga-100_yellow-1"
+  },
+  {
+    "index": 1968,
+    "id": "Betta_Kurumba-100_yellow-1"
+  },
+  {
+    "index": 1969,
+    "id": "Kodava-100_yellow-1"
+  },
+  {
+    "index": 1970,
+    "id": "Kota-100_yellow-1"
+  },
+  {
+    "index": 1971,
+    "id": "Malayalam-100_yellow-1"
+  },
+  {
+    "index": 1972,
+    "id": "Tamil-100_yellow-1"
+  },
+  {
+    "index": 1973,
+    "id": "Tulu-100_yellow-1"
+  },
+  {
+    "index": 1974,
+    "id": "Yeruva-100_yellow-1"
+  },
+  {
+    "index": 1975,
+    "id": "Koya-100_yellow-1"
+  },
+  {
+    "index": 1976,
+    "id": "Telugu-100_yellow-1"
+  },
+  {
+    "index": 1977,
+    "id": "Toda-100_yellow-1"
+  },
+  {
+    "index": 1978,
+    "id": "Kurukh-100_yellow-1"
+  },
+  {
+    "index": 1979,
+    "id": "Malto-100_yellow-1"
+  },
+  {
+    "index": 1980,
+    "id": "Kuwi-100_yellow-1"
+  },
+  {
+    "index": 1981,
+    "id": "Brahui-100_yellow-1"
+  },
+  {
+    "index": 1982,
+    "id": "Kuwi-100_yellow-2"
+  },
+  {
+    "index": 1983,
+    "id": "Gondi-100_yellow-1"
+  },
+  {
+    "index": 1984,
+    "id": "Gondi-100_yellow-2"
+  },
+  {
+    "index": 1985,
+    "id": "Kolami-100_yellow-1"
+  }
+]

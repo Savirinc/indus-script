@@ -1,0 +1,11 @@
+{
+  "lipi_commit": "fc8813a52e183d19c441631dc26c33a4dccbea39",
+  "lipi_csv_url": "https://github.com/yajnadevam/lipi/blob/fc8813a52e183d19c441631dc26c33a4dccbea39/src/assets/data/inscriptions.csv",
+  "frozen_csv_url": "https://raw.githubusercontent.com/field-cady/indus_valley_script_corpus/main/inscriptions.csv",
+  "frozen_csv_sha256": "c22d39c3c2bda869c67fb01e7f2b4cdc64cc424405eafe89550d1702216b3429",
+  "sql_url": "https://raw.githubusercontent.com/yajnadevam/indus-website/main/population-script.sql",
+  "sql_sha256": "a1bcc150e91ede5e1c3ce813073d8ac7bfe370d2709be320132a651ba9c7a54c",
+  "mayig_commit": "ad2f1e218a34b8c33c57de0d6cb8d99272765bbb",
+  "mayig_coverage": "179 Mohenjo-daro objects, IDs 1\u2013184, with gaps. No target elephant object present.",
+  "images": "Crops in pinned lipi/public/seal_images; published CISI images, not independent new photographs."
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "file": "A.jpg",
+    "url": "https://www.harappa.com/sites/default/files/slides/inscribed-ravi-sherd.jpg",
+    "sha256": "5be7784462870152e9c53bb4ee230039bf498dd0d75d26ca3f2f6d6b1ab9bd82",
+    "bytes": 96693
+  },
+  {
+    "file": "B.jpg",
+    "url": "https://www.harappa.com/sites/default/files/slides/inscribed-kot-dijian-sherd.jpg",
+    "sha256": "cb34e00a54a1734dda50df30bf3763ec2eb49073b69572e8f862855e2fed05e2",
+    "bytes": 140385
+  },
+  {
+    "file": "C.jpg",
+    "url": "https://www.harappa.com/sites/default/files/slides/inscribed-mold-fragment.jpg",
+    "sha256": "72ea7171adb5e2daa54d2c8f2d8064ef8862c1683220ec5c10c54e03eb0fdc01",
+    "bytes": 172716
+  },
+  {
+    "file": "v1-page261.png",
+    "source_url": "https://ignca.gov.in/Asi_data/76884.pdf",
+    "locator": "CISI1 printed225; PDF261",
+    "operation": "PDF page rendering; no mark reconstruction or generative editing",
+    "sha256": "c74187a9454ced3f6eeced14f94710d0c7d2b16dc3b13fd20ba14d2ac12ba2d0"
+  },
+  {
+    "file": "v2-page233.png",
+    "source_url": "https://archive.org/download/corpus-vol-2_202409/CorpusVol2.pdf",
+    "locator": "CISI2 printed198; PDF233",
+    "operation": "PDF page rendering; no mark reconstruction or generative editing",
+    "sha256": "f4f6c3635b2e2c2a8ddd320864c7a91211094f672644d40a4c0777c10c463e12"
+  },
+  {
+    "file": "v2-page263.png",
+    "source_url": "https://archive.org/download/corpus-vol-2_202409/CorpusVol2.pdf",
+    "locator": "CISI2 printed228; PDF263",
+    "operation": "PDF page rendering; no mark reconstruction or generative editing",
+    "sha256": "2ab9af7882f094d664beda3b2d95e0e361e8c3de925657011a0a836224b483e3"
+  }
+]

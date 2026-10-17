@@ -1,0 +1,116 @@
+{
+  "audit_date": "2026-10-10",
+  "scope": "Primary GitHub README, license API and license text; no execution validation; not legal advice or exhaustive file-level rights audit",
+  "repositories": [
+    {
+      "repository": "mayig/indus-valley-script-corpus",
+      "url": "https://github.com/mayig/indus-valley-script-corpus",
+      "classification": "data + annotation tools",
+      "license_verified": "MIT root LICENSE; README also mentions MIT/Apache intentions; only MIT file verified",
+      "dependency": "CISI / Parpola, Wells crosswalk",
+      "priority": "High",
+      "audit_note": "Reuse per-face JSON and explicit damage/uncertainty/morphology features. Independent editorial representation of overlapping ancient objects, not a new excavation corpus.",
+      "readme_blob_sha": "15e86b357c5cb1cf4c5a8ac08d75c7c1053c04be",
+      "license_blob_sha": "b475369a776059c8fe03e1d938c3a8dd506e391c"
+    },
+    {
+      "repository": "joyboseroy/indus_decipher",
+      "url": "https://github.com/joyboseroy/indus_decipher",
+      "classification": "statistical tools + multiple corpus exports",
+      "license_verified": "MIT root LICENSE; external corpus rights remain separate",
+      "dependency": "indus-website; mayig CISI; M77 via indusscript.in",
+      "priority": "High",
+      "audit_note": "Reuse falsification/control framework and M77 converter after schema audit. M77 portal extraction required authenticated access; third-party redistribution permission is not established by MIT software license.",
+      "readme_blob_sha": "9ebb6a9ebabb87fca96a4447e9b5ff076d8774b1",
+      "license_blob_sha": "8ce03dd398bf5454d3ad0419ef0c7bd2fbfd7c69"
+    },
+    {
+      "repository": "yajnadevam/indus-website",
+      "url": "https://github.com/yajnadevam/indus-website",
+      "classification": "database website + SQL export",
+      "license_verified": "GPL-3.0 root LICENSE text verified",
+      "dependency": "ICIT-derived source lineage in existing lab; README itself is setup instructions",
+      "priority": "Medium",
+      "audit_note": "Useful source snapshot/interface/font. Keep proposed readings excluded. Recheck field-level origin and licensing.",
+      "readme_blob_sha": "a428c755bfc88dfd14a645e24c93d42127eb8c29",
+      "license_blob_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7"
+    },
+    {
+      "repository": "yajnadevam/lipi",
+      "url": "https://github.com/yajnadevam/lipi",
+      "classification": "translation website + corpus exports + claimed decipherment",
+      "license_verified": "No root license detected; GitHub API license endpoint404",
+      "dependency": "ICIT/M77-derived exports as reported by downstream README",
+      "priority": "Source tracing only",
+      "audit_note": "README asserts decipherment; do not accept translations as labels. Primary upstream for several mirrors; permissions need resolution before redistribution.",
+      "readme_blob_sha": "64e23cd0a036ecc81558c1fec89b7d9b35c2236b",
+      "license_blob_sha": null
+    },
+    {
+      "repository": "field-cady/indus_valley_script_corpus",
+      "url": "https://github.com/field-cady/indus_valley_script_corpus",
+      "classification": "corpus mirror/fork + experimental mappings",
+      "license_verified": "MIT root LICENSE identical blob to mayig; upstream lipi CSV rights not settled",
+      "dependency": "mayig fork files plus lipi CSV import explicitly stated",
+      "priority": "Already used; low novelty",
+      "audit_note": "Our raw inscriptions.csv lineage. Do not count as independent from lipi/ICIT. Separate proposed Dravidian mappings from raw transcriptions.",
+      "readme_blob_sha": "38839112887e7dd1c34dc3689281087f0fcdaab9",
+      "license_blob_sha": "b475369a776059c8fe03e1d938c3a8dd506e391c"
+    },
+    {
+      "repository": "prabhatchanchal/IndusBench",
+      "url": "https://github.com/prabhatchanchal/IndusBench",
+      "classification": "benchmark tools + derived data + reading-model evaluation",
+      "license_verified": "No root license detected; README says same as lipi, whose license was not detected",
+      "dependency": "lipi inscriptions.csv and claimed phoneme mappings",
+      "priority": "Medium methods; low evidence independence",
+      "audit_note": "Reuse benchmark ideas only after audit/permissions. DCS is an author-defined composite, not a calibrated decipherment probability. Existing mappings may have seen full corpus before split.",
+      "readme_blob_sha": "f466f1b589a9c201b179b8da136e1aa731d0feca",
+      "license_blob_sha": null
+    },
+    {
+      "repository": "isramos/indus-script-sign-merging",
+      "url": "https://github.com/isramos/indus-script-sign-merging",
+      "classification": "sign-inventory sensitivity tools",
+      "license_verified": "GPL-3.0 root LICENSE; vendored mayig MIT; other data notices separate",
+      "dependency": "joyboseroy indus_website CSV from yajnadevam SQL (pinned30bdd94f861a39826b27bbcb485c404ca819fd9f); mayig CISI at ad2f1e2; direct provenance file inspected",
+      "priority": "Highest methodological priority",
+      "audit_note": "Run independent verifier and audit null calibration. Directly relevant to whether added strokes are allographs. Repository identifies itself as non-peer-reviewed draft and retains retractions.",
+      "readme_blob_sha": "159dd54657015765357538e0fe9c8c56170ed9e1",
+      "license_blob_sha": "53d1f3d01864c35841739c55aeba9700657627b7"
+    },
+    {
+      "repository": "vatsalajha/indus",
+      "url": "https://github.com/vatsalajha/indus",
+      "classification": "unsupervised structural tools; external data procedures",
+      "license_verified": "MIT CODE only per LICENSE note; README broader aggregate claim; use narrower scope",
+      "dependency": "mayig CISI, Fuls, M77, ICIT compilation",
+      "priority": "High methods",
+      "audit_note": "Useful extraction/checksum and sign-class controls. Data not shipped or covered by code license. Claimed replication on another transcription does not imply independent objects.",
+      "readme_blob_sha": "cc4e773ce88fecf21cd1c374730f3b1128374388",
+      "license_blob_sha": "b12f1019f8b66f974ae2118e4eb1fb65b5676c50"
+    },
+    {
+      "repository": "sriharideveloper/indus",
+      "url": "https://github.com/sriharideveloper/indus",
+      "classification": "structural workbench + pinned secondary corpus",
+      "license_verified": "MIT code/docs; claims upstream corpus MIT notice, not independently resolving upstream rights",
+      "dependency": "horus84/Computational_Linguistics at ac44f08c835de3b709875441eea9d60d1811e3cf; DATA_CARD inspected; ultimate relationship to other5679-row mirrors not byte-verified",
+      "priority": "Medium methods; low data novelty",
+      "audit_note": "Reusable parsing, claims ledger and held-out benchmarks. Explicitly withdraws semantic meaning from English slot labels. No literal reading claimed. Data card removes damage/gap IDs before modelling: inspect whether this introduces false adjacency.",
+      "readme_blob_sha": "d75d530411876f3eb362bf29126349a6f126d089",
+      "license_blob_sha": "946b71e20092f018bea188f2d767eb9932c193ab"
+    },
+    {
+      "repository": "BitConcepts/glossa-lab",
+      "url": "https://github.com/BitConcepts/glossa-lab",
+      "classification": "agentic platform + unverified Proto-Dravidian reading hypotheses",
+      "license_verified": "MIT software; root LICENSE separately assigns research/indus outputs CC BY4.0",
+      "dependency": "Holdat IVS; literature anchors and other sources need per-file audit",
+      "priority": "Platform ideas / adversarial test material",
+      "audit_note": "README retires old161-anchor90.96% headline after its own simulated-annealing falsification. Current strict94-candidate set is still a hypothesis, not verified readings; coverage is not decipherment confidence.",
+      "readme_blob_sha": "297c873f27cc4bed06c9c102d87c1510eb4e6d05",
+      "license_blob_sha": "f5aa99b12c81fc07438c89efc0acf42cd5b02d0d"
+    }
+  ]
+}

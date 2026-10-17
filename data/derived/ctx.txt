@@ -1,0 +1,32 @@
+P011094	3. gal-dilmun
+P011100	1. gal-dilmun
+P020599	15. 3(ban2@c) ama-dilmun#?
+P020600	6'. [n] ama-dilmunx(|SAL.HUB2|)
+P100892	14. i3-dub me-luh-ha-ta
+P101040	22. lugal-ma2-gan-x
+P102031	3. i3-dub me-luh-ha
+P108866	3. lu2-dilmun?-a lu2 gesz
+P110574	2. i3-dub me-luh-ha
+P110774	18. 3(ban2) 3(disz) me-luh-ha
+P112283	7. 1(disz) me-luh-ha
+P115261	4. ugula# me-luh-ha
+P116633	3. i3-dub me-luh-ha-ta
+P116995	3. i3-dub me-luh-ha-a-ta
+P123010	3. i3-dub me-luh-ha
+P131537	4. 4(ban2) lu2-dilmun{ki}
+P132876	2. si-i3-tum i3-dub me-luh-ha
+P136619	2. lugal-ma2-gan{ki}
+P212558	5. dumu ama-dilmunx(|SAL.HUB2|)
+P212694	8. 3(disz) ama-dilmunx(|SAL.HUB2|)
+P213104	4. ur-ab-ba ra-gaba me-luh-ha
+P216090	9. 2(ban2@c) ama-dilmunx(|SAL.HUB2|)
+P217616	3. 3(ban2@c) me-luh-ha-me
+P252822	10. 4(iku@c) 1/2(iku@c) lugal-sag-dilmun
+P274787	8. amar#-dilmun-[na?]{ki}
+P315280	3. lugal-dilmun
+P320486	2. {d}utu-illat sukkal u4 me-luh-ha!?{ki}-sze3 i3-gen-na
+P323054	3. 1(asz@c) geme2-dilmun
+P326408	3. 1(asz@c) udu nu-banda3 ma2 me-luh-ha
+P340534	4. diri i3-dub me-luh-ha
+P454137	4. 1(asz) 1(ban2) gur lu2 me-luh-ha-me
+P464241	3. lugal-dilmun

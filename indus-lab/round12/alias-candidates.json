@@ -1,0 +1,438 @@
+[
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Allahdino",
+    "excavation_raw": "AD73-157",
+    "object_groups": [
+      "4",
+      "5"
+    ],
+    "cisi": [
+      [
+        "-"
+      ],
+      [
+        "-"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Banawali",
+    "excavation_raw": "BNL",
+    "object_groups": [
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "cisi": [
+      [
+        "B-28"
+      ],
+      [
+        "B-29"
+      ],
+      [
+        "B-30"
+      ],
+      [
+        "B-32"
+      ],
+      [
+        "B-35"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Harappa",
+    "excavation_raw": "-765",
+    "object_groups": [
+      "171",
+      "4075"
+    ],
+    "cisi": [
+      [
+        "H-1502"
+      ],
+      [
+        "H-1296"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Harappa",
+    "excavation_raw": "13689",
+    "object_groups": [
+      "1271",
+      "1604"
+    ],
+    "cisi": [
+      [
+        "H-246"
+      ],
+      [
+        "H-699"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Harappa",
+    "excavation_raw": "G256",
+    "object_groups": [
+      "1288",
+      "1298",
+      "1743",
+      "1744",
+      "1745",
+      "1746",
+      "1747",
+      "1748",
+      "1749",
+      "1750",
+      "1751",
+      "1752",
+      "1753"
+    ],
+    "cisi": [
+      [
+        "H-263"
+      ],
+      [
+        "H-276"
+      ],
+      [
+        "H-860"
+      ],
+      [
+        "H-861"
+      ],
+      [
+        "H-862"
+      ],
+      [
+        "H-863"
+      ],
+      [
+        "H-864"
+      ],
+      [
+        "H-865"
+      ],
+      [
+        "H-866"
+      ],
+      [
+        "H-867"
+      ],
+      [
+        "H-868"
+      ],
+      [
+        "H-869"
+      ],
+      [
+        "H-870"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": true,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Harappa",
+    "excavation_raw": "G58",
+    "object_groups": [
+      "1289",
+      "1742"
+    ],
+    "cisi": [
+      [
+        "H-264"
+      ],
+      [
+        "H-859"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": true,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Harappa",
+    "excavation_raw": "2480",
+    "object_groups": [
+      "1338",
+      "5470"
+    ],
+    "cisi": [
+      [
+        "H-316"
+      ],
+      [
+        "H-1304"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": true,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Harappa",
+    "excavation_raw": "14391",
+    "object_groups": [
+      "1606",
+      "1642"
+    ],
+    "cisi": [
+      [
+        "H-701"
+      ],
+      [
+        "H-749"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Harappa",
+    "excavation_raw": "1646",
+    "object_groups": [
+      "1696",
+      "1697"
+    ],
+    "cisi": [
+      [
+        "H-807"
+      ],
+      [
+        "H-808"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": true,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Harappa",
+    "excavation_raw": "8650c448",
+    "object_groups": [
+      "1793",
+      "4056"
+    ],
+    "cisi": [
+      [
+        "H-912"
+      ],
+      [
+        "H-1191"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": true,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Harappa",
+    "excavation_raw": "H88-",
+    "object_groups": [
+      "1869",
+      "1870"
+    ],
+    "cisi": [
+      [
+        "H-997"
+      ],
+      [
+        "H-999"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Kalibangan",
+    "excavation_raw": "KLB ???",
+    "object_groups": [
+      "1957",
+      "1959"
+    ],
+    "cisi": [
+      [
+        "K-104"
+      ],
+      [
+        "K-106"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Mohenjo-daro",
+    "excavation_raw": "DK5081434",
+    "object_groups": [
+      "2301",
+      "4045"
+    ],
+    "cisi": [
+      [
+        "-"
+      ],
+      [
+        "M-2112"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Mohenjo-daro",
+    "excavation_raw": "VS-N 83-609",
+    "object_groups": [
+      "2505",
+      "5522"
+    ],
+    "cisi": [
+      [
+        "-"
+      ],
+      [
+        "M-1566"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Nausharo",
+    "excavation_raw": "NS 90P4D",
+    "object_groups": [
+      "3856",
+      "3857"
+    ],
+    "cisi": [
+      [
+        "Ns-8"
+      ],
+      [
+        "Ns-9"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Surkotada",
+    "excavation_raw": "SKTD 1213",
+    "object_groups": [
+      "3879",
+      "3880"
+    ],
+    "cisi": [
+      [
+        "Sktd-5"
+      ],
+      [
+        "Sktd-6"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Harappa",
+    "excavation_raw": "2409305",
+    "object_groups": [
+      "3980",
+      "4409"
+    ],
+    "cisi": [
+      [
+        "H-1150"
+      ],
+      [
+        "-"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": true,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Harappa",
+    "excavation_raw": "-767",
+    "object_groups": [
+      "4076",
+      "4145"
+    ],
+    "cisi": [
+      [
+        "H-1299"
+      ],
+      [
+        "H-1503"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Kalibangan",
+    "excavation_raw": "KLB1",
+    "object_groups": [
+      "5277",
+      "5284"
+    ],
+    "cisi": [
+      [
+        "K-150"
+      ],
+      [
+        "K-158"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  },
+  {
+    "relation": "possible_alias_or_shared_excavation_identifier",
+    "site": "Kalibangan",
+    "excavation_raw": "KLB2 20992",
+    "object_groups": [
+      "5494",
+      "5499"
+    ],
+    "cisi": [
+      [
+        "K-476"
+      ],
+      [
+        "K-467"
+      ]
+    ],
+    "all_recorded_text_multisets_equal": false,
+    "resolution": "unresolved_do_not_merge"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "usable_ids": 714,
+  "records_all_assigned": 3497,
+  "strict_complete_all_assigned": 2477,
+  "unresolved_ids": [
+    "000",
+    "999"
+  ],
+  "m304": [
+    {
+      "id": 2823,
+      "cisi": "M-304",
+      "site": "Mohenjo-daro",
+      "text_code": "+090-740-220-742-534-550-090+",
+      "direction": "R/L",
+      "order": "reading order",
+      "candidate_tokens": [
+        "a",
+        "as",
+        "as",
+        "an",
+        "m",
+        "an",
+        "a"
+      ],
+      "all_tokens_assigned": true,
+      "missing_ids": [],
+      "strict_singleline_complete": true,
+      "table7_unique_crosswalk_all": false,
+      "canonical_expanded_tokens": [
+        "a",
+        "as",
+        "as",
+        "an",
+        "m",
+        "an",
+        "a"
+      ],
+      "canonical_all_assigned": true
+    }
+  ]
+}
