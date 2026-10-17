@@ -1,6 +1,6 @@
 # Current evidence and experiment map
 
-Rounds 09–45 were produced in the original lab; the Brahmi coverage audit is round 46 (see note in its row). Round 44 has a protocol but was never run, by the round 45 verdict.
+Rounds 09–45 were produced in the original lab; the Brahmi coverage audit is round 46 (see note in its row); round 47 is its pre-registered test. Round 44 has a protocol but was never run, by the round 45 verdict.
 
 These are handoff summaries; inspect supplied reports and results before relying on numerical claims.
 
@@ -32,6 +32,7 @@ These are handoff summaries; inspect supplied reports and results before relying
 | 43 | Replication of round 42 on 10 fresh splits, 60 shared shuffles (pooled test) | Linear B control PASS (1/21, 10/10 splits). Indus: Dravidian values above the null median on 10/10 splits (beating 55–60 of 60 each), but pooled p=0.066: SUGGESTIVE again. The 3 better shuffles are genuinely wrong keys. A stable weak lean; the design is at its ceiling. Round 44 (copper tablets) pre-registered, not triggered. |
 | 45 | Bias check: the same test with Finnish and Basque words (impossible languages) | Finnish beat its shuffles MORE strongly than Dravidian (pooled p=0.016 vs 0.066; Basque 0.72). Pre-registered verdict: ARTEFACT. Rounds 41–43 are not evidence for Dravidian; anchor-rebus branch parked; round 44 not run. |
 | 46 | Coverage audit of Yajnadevam's Indus→Brahmi/Sanskrit mapping (Table 7, 38 entries; full lipi map, 714 codes) on Tejesh Raut's 5,445-record explorer snapshot | Executable and complete: after the author's canonical substitutions every sign in all 2,477 complete single-line directed records receives a value. Direct fields alone covered 1,927/2,477. Table 7: 21 of 38 entries resolve uniquely to catalogue IDs, 3 ambiguous, 14 unresolved. **Coverage, not correctness**; no linguistic validation or controls run. Was labelled "Round 29" in its own handover; renumbered 46 here. |
+| 47 | Language-specificity test of Yajnadevam's 714-code Sanskrit key: trigram-LM bits/char of readings vs 1,000 structure-preserving shuffles, for Sanskrit, Finnish, Basque, PDr; Linear B positive controls; matched-budget fitted controls | Pre-registered verdict **NULL**. Linear B key recognised at Indus density (z 11.5 vs ≤5.7 for wrong languages). Yajnadevam's key: Sanskrit z −0.35, percentile 0.29; no analysis above 0.60. A 15-second refit of his own labels reaches z 5.5 for Sanskrit, 5.4 for Finnish, 9.8 for Basque. The Sanskrit in his readings enters at the manual glossing stage, not in the key. **Brahmi/Sanskrit key lead PARKED.** |
 
 ## Round27 detailed benchmark
 

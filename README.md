@@ -1,6 +1,6 @@
 # indus-script
 
-An open, pre-registered research lab for the Indus script. Forty-six rounds of experiments, their protocols, code, data snapshots and reports, including the ones that failed.
+An open, pre-registered research lab for the Indus script. Forty-seven rounds of experiments, their protocols, code, data snapshots and reports, including the ones that failed.
 
 **Status, 17 October 2026: no Indus sign has an established sound or meaning in this project. No translation is claimed.** The current line of work tests whether the proposed Indus-to-Brahmi/Sanskrit mapping published by Yajnadevam (Bharath Rao, 2024) survives the same controls that already caught a false positive for Dravidian.
 
@@ -28,12 +28,12 @@ If you land here wanting to test your own reading of the script, the method and 
 
 Yajnadevam's 2024 paper includes a Table 7 standardising 38 Indus signs into Brahmi letters, and his `lipi` repository carries a full 714-code mapping to Sanskrit sounds. Round 46 reproduced the mapping's *coverage*: after the author's canonical substitutions, every sign in all 2,477 complete single-line records receives a value. Coverage is not correctness. A frequency-matched random map would cover the corpus too. `docs/atlas/` renders all 714 proposed correspondences for inspection; `docs/table7-yajnadevam-2024-p23.png` is the table itself. Fourteen of the 38 Table 7 entries still have no verified catalogue ID.
 
-**Round 47 (planned, not run):** freeze the 714-code map, score its output against an independently sourced Sanskrit lexicon, and run the identical pipeline for Finnish, Basque and structure-preserving shuffled maps, with Linear B as the positive control. The protocol will be committed before any scoring.
+**Round 47 (pre-registered, run, verdict NULL):** the key's readings, under the author's own vowel rule, are no more Sanskrit-like than 1,000 structure-preserving shuffles of the same key (z = −0.35, percentile 0.29). The same test recognises the Linear B key at Indus density by 11.5 standard deviations and separates Greek from four wrong languages. A 15-second re-permutation of the author's own labels reaches z 5.5 for Sanskrit, 5.4 for Finnish and 9.8 for Basque. The Sanskrit in the published readings enters at the manual glossing stage, not in the key. Lead parked; see `indus-lab/round47/REPORT.md` for what would reopen it.
 
 ## Layout
 
 ```
-docs/STATUS.md                 one row per round, 09–46, with verdicts
+docs/STATUS.md                 one row per round, 09–47, with verdicts
 docs/EXTERNAL-EVIDENCE.md      Meluhha names, Ur seal, Commons, source gateways
 docs/atlas/                    714-sign Indus/Brahmi proposed-mapping atlas (PDF)
 docs/handover/                 earlier handover documents, kept verbatim
@@ -55,6 +55,7 @@ Standard library only, under a minute each:
 python3 verify_manifest.py                              # file integrity
 cd indus-lab/round46-brahmi-coverage && python3 audit.py && python3 expand.py
 cd indus-lab && python3 run.py                          # evidence lab, regenerates results/
+cd indus-lab/round47 && bash fetch_lexicons.sh && python3 run47.py   # 8 min, prints VERDICT NULL
 ```
 
 Rounds 29–45 need `numpy`, `rapidfuzz`, about 1 GB of pinned external clones and the Kuiper 1991 OCR text (not bundled):

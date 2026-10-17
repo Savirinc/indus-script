@@ -1,6 +1,6 @@
 # indus-script: working rules
 
-Owner: Arham Partap Jain. Mission: decipher the Indus script, honestly. State as of 17 Oct 2026: **46 rounds, no sign has an established sound or meaning.** Read this file, then `docs/STATUS.md`.
+Owner: Arham Partap Jain. Mission: decipher the Indus script, honestly. State as of 17 Oct 2026: **47 rounds, no sign has an established sound or meaning.** Read this file, then `docs/STATUS.md`.
 
 ## Stay inside this repo
 All work happens in this repository. New rounds go in `indus-lab/roundNN/`. Do not create files elsewhere except the scratchpad for throwaway runs. Do not touch `~/Indus Script Decipher`; it is the pre-repo archive.
@@ -34,18 +34,19 @@ All work happens in this repository. New rounds go in `indus-lab/roundNN/`. Do n
 - Setup: `pip install -r setup/requirements.txt`, `bash setup/setup_external.sh`, supply `data/kuiper.txt`, `source setup/paths.sh` (exports `$DATA_ARGS` = KUIPER JAMBU DRDB IDS LINB in that order).
 
 ## Round numbering
-Rounds 09–45 follow the original lab. The Brahmi coverage audit (called "Round 29" in its own handover, which collided with the existing round 29) is **round 46**. Next is 47.
+Rounds 09–45 follow the original lab. The Brahmi coverage audit (called "Round 29" in its own handover, which collided with the existing round 29) is **round 46**; its pre-registered test is **round 47** (NULL). Next is 48.
 
 ## Established (survived controls)
 1. Rounds 30–31: Gulf round seals are foreign in sign order (percentile 0.916, p<5e-5).
 2. Round 32: statistics alone cannot recover sounds at ~15 tokens/sign; ~40 anchors needed.
 3. Rounds 39–40: Rigvedic substrate words lean Proto-Dravidian over Munda; below attribution bar; about the substrate, not the script.
 4. Rounds 27/29: bigram structure transfers between cities.
+5. Round 47: the trigram-LM shuffle test recognises the Linear B key at Indus density (z 11.5) and rejects Yajnadevam's key (z −0.35). Reusable harness: `round47/run47.py`.
 
 ## Parked (don't redo without a new idea)
+- **Yajnadevam Brahmi/Sanskrit key (46–47): PARKED.** Key covers the corpus but its output is not Sanskrit-like beyond its own shuffles (z −0.35); a 15 s refit to Finnish/Basque beats it. Reopen only with a frozen automated pipeline given equal freedom for impossible languages, or external anchors.
 Rebus tournament (36), substrate fingerprint (37), sound-only matching (38), Gulf seals vs names (35), anchor-rebus branch (41–45, Finnish artefact), Tamil pattern matching (20), correspondence decoders (22–23), copper-tablet labels (24–26).
 
 ## Open leads
-1. **Round 47, Brahmi/Sanskrit map under controls.** Freeze the 714-code map; score against an independent Sanskrit lexicon; identical pipeline for Finnish, Basque and structure-preserving shuffles; Linear B positive control. Protocol first.
-2. **External anchors.** More Gulf/Dilmun seal transcriptions (Laursen 2010; Al-Sindi; Kjærum Failaka) need PDFs from Arham; then re-run round 35 with power and test the 415-803-001 opening.
-3. **Methods write-up.** Round 45 and round 32 together discredit a common class of decipherment claims. Do not publish without Arham's OK.
+1. **External anchors.** More Gulf/Dilmun seal transcriptions (Laursen 2010; Al-Sindi; Kjærum Failaka) need PDFs from Arham; then re-run round 35 with power and test the 415-803-001 opening.
+2. **Methods write-up.** Rounds 32, 45 and 47 together discredit a common class of decipherment claims. Do not publish without Arham's OK.

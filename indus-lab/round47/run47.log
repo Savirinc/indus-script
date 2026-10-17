@@ -1,0 +1,96 @@
+[    0.0s] loading lexicons
+[    1.3s] lexicon types {'Sanskrit': 185776, 'Finnish': 92053, 'Basque': 120767, 'PDr': 1765}
+[    1.3s] corpus {'train_types': 1936, 'kept': 1934, 'dropped_unlabelled': 2, 'tokens': 8720, 'sign_types': 581, 'tokens_per_sign': 15.008605851979347}
+[    1.3s] PC lexicon size 719 greek types 719
+[    1.4s] PC1: 460 texts, 70 sign ids, 1737 tokens
+[    4.3s]    shuffle 200/1000
+[    7.1s]    shuffle 400/1000
+[    9.9s]    shuffle 600/1000
+[   12.7s]    shuffle 800/1000
+[   15.5s]    shuffle 1000/1000
+[   15.5s] PC1 PASS {'Greek': 6.01, 'Sanskrit': 1.34, 'Finnish': 1.37, 'Basque': 1.65, 'PDr': 1.14}
+[   15.5s] PC2: 227 texts, 130 sign ids, 1737 tokens
+[   18.0s]    shuffle 200/1000
+[   20.5s]    shuffle 400/1000
+[   23.9s]    shuffle 600/1000
+[   26.8s]    shuffle 800/1000
+[   29.8s]    shuffle 1000/1000
+[   29.8s] PC2 PASS {'Greek': 11.53, 'Sanskrit': 3.56, 'Finnish': 4.5, 'Basque': 5.7, 'PDr': 4.58}
+[   29.8s] PC2b: 227 texts, 365 sign ids, 1737 tokens
+[   33.0s]    shuffle 200/1000
+[   36.2s]    shuffle 400/1000
+[   39.1s]    shuffle 600/1000
+[   42.3s]    shuffle 800/1000
+[   45.3s]    shuffle 1000/1000
+[   45.3s] PC2b PASS {'Greek': 13.48, 'Sanskrit': 3.84, 'Finnish': 5.13, 'Basque': 6.12, 'PDr': 5.23}
+[   47.0s] indus analysis primary_PV_matched_strata
+[   60.4s]    shuffle 200/1000
+[   72.4s]    shuffle 400/1000
+[   84.0s]    shuffle 600/1000
+[   96.1s]    shuffle 800/1000
+[  107.4s]    shuffle 1000/1000
+[  107.4s] primary_PV_matched_strata {'Sanskrit': (-0.35, 0.287), 'Finnish': (-0.34, 0.384), 'Basque': (-0.36, 0.331), 'PDr': (0.0, 0.501)}
+[  107.4s] indus analysis PC_matched_strata
+[  116.6s]    shuffle 200/1000
+[  125.1s]    shuffle 400/1000
+[  133.5s]    shuffle 600/1000
+[  141.8s]    shuffle 800/1000
+[  151.2s]    shuffle 1000/1000
+[  151.2s] PC_matched_strata {'Sanskrit': (-0.73, 0.226), 'Finnish': (1.71, 0.955), 'Basque': (0.88, 0.799), 'PDr': (-0.85, 0.206)}
+[  151.2s] indus analysis PV_full_strata
+[  153.8s]    shuffle 200/1000
+[  156.4s]    shuffle 400/1000
+[  159.0s]    shuffle 600/1000
+[  162.0s]    shuffle 800/1000
+[  164.8s]    shuffle 1000/1000
+[  164.8s] PV_full_strata {'Sanskrit': (-0.57, 0.238), 'Finnish': (-0.11, 0.46), 'Basque': (-0.43, 0.332), 'PDr': (0.0, 0.501)}
+[  164.8s] indus analysis PV_matched_unrestricted
+[  178.0s]    shuffle 200/1000
+[  192.1s]    shuffle 400/1000
+[  206.7s]    shuffle 600/1000
+[  220.7s]    shuffle 800/1000
+[  234.0s]    shuffle 1000/1000
+[  234.0s] PV_matched_unrestricted {'Sanskrit': (0.26, 0.562), 'Finnish': (1.4, 0.939), 'Basque': (0.06, 0.514), 'PDr': (0.65, 0.732)}
+[  238.9s] fit Finnish chain 0 objective -31006.7
+[  243.9s] fit Finnish chain 1 objective -31487.8
+[  248.9s] fit Finnish chain 2 objective -30139.6
+[  257.8s]    shuffle 200/1000
+[  266.8s]    shuffle 400/1000
+[  275.7s]    shuffle 600/1000
+[  284.7s]    shuffle 800/1000
+[  293.6s]    shuffle 1000/1000
+[  293.6s] fitted Finnish {'Sanskrit': 0.99, 'Finnish': 5.41, 'Basque': 2.85, 'PDr': 1.28}
+[  298.4s] fit Basque chain 0 objective -31742.9
+[  305.0s] fit Basque chain 1 objective -32046.2
+[  311.0s] fit Basque chain 2 objective -33786.6
+[  320.5s]    shuffle 200/1000
+[  329.5s]    shuffle 400/1000
+[  338.4s]    shuffle 600/1000
+[  347.4s]    shuffle 800/1000
+[  356.2s]    shuffle 1000/1000
+[  356.2s] fitted Basque {'Sanskrit': 1.53, 'Finnish': -0.56, 'Basque': 9.83, 'PDr': 4.51}
+[  361.4s] fit PDr chain 0 objective -34884.1
+[  366.6s] fit PDr chain 1 objective -35055.3
+[  371.9s] fit PDr chain 2 objective -35746.5
+[  381.0s]    shuffle 200/1000
+[  390.0s]    shuffle 400/1000
+[  399.4s]    shuffle 600/1000
+[  408.5s]    shuffle 800/1000
+[  417.4s]    shuffle 1000/1000
+[  417.4s] fitted PDr {'Sanskrit': 0.61, 'Finnish': -0.23, 'Basque': 1.38, 'PDr': 5.68}
+[  422.4s] fit Sanskrit chain 0 objective -30745.3
+[  427.4s] fit Sanskrit chain 1 objective -31308.9
+[  432.5s] fit Sanskrit chain 2 objective -29897.9
+[  441.9s]    shuffle 200/1000
+[  451.0s]    shuffle 400/1000
+[  460.4s]    shuffle 600/1000
+[  469.4s]    shuffle 800/1000
+[  478.6s]    shuffle 1000/1000
+[  478.6s] fitted Sanskrit {'Sanskrit': 5.49, 'Finnish': 3.28, 'Basque': 2.79, 'PDr': 3.55}
+[  478.7s]    shuffle 200/1000
+[  478.7s]    shuffle 400/1000
+[  478.8s]    shuffle 600/1000
+[  478.8s]    shuffle 800/1000
+[  478.9s]    shuffle 1000/1000
+[  478.9s] VERDICT NULL
+exit=0
