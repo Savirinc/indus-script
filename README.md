@@ -1,6 +1,6 @@
 # indus-script
 
-An open, pre-registered research lab for the Indus script. Forty-eight rounds of experiments, their protocols, code, data snapshots and reports, including the ones that failed.
+An open, pre-registered research lab for the Indus script. Forty-nine rounds of experiments, their protocols, code, data snapshots and reports, including the ones that failed.
 
 **Status, 17 October 2026: no Indus sign has an established sound or meaning in this project. No translation is claimed.** The current line of work tests whether the proposed Indus-to-Brahmi/Sanskrit mapping published by Yajnadevam (Bharath Rao, 2024) survives the same controls that already caught a false positive for Dravidian.
 
@@ -32,10 +32,12 @@ Yajnadevam's 2024 paper includes a Table 7 standardising 38 Indus signs into Bra
 
 **Round 48 (pre-registered, run, verdict METHOD-FAIL):** the other leg of the lead, that Indus signs *look like* Brahmi letters, was put to a null test: 581 Indus glyphs against 1,061 letters from 25 scripts, nearest-shape enrichment under a complexity-stratified permutation null. None of four shape descriptors recovered known relationships (Phoenician → Aramaic, Greek → Gothic) on the positive controls, so nothing is concluded about Indus. The symmetric lesson is that eyeballed look-alike tables are not evidence either: no instrument at this resolution can tell descent from chance among simple stroke shapes. `indus-lab/round48/REPORT.md` lists what would make the question testable.
 
+**Round 49 (pre-registered, run):** the round 47 instrument applied to every other published key available in machine-readable form. Fairservis 1992 (Dravidian, 95 signs): **NULL**, his values read no more like Tamil than random reassignments of the same values, and Finnish fits his key slightly better. Parpola 1994 (27 signs), Kak 1988 (7) and Mahadevan 2014 (5) are **not testable**: the Linear B control shows the method loses power below about 60% token coverage, and five-sign keys cannot be separated from wrong ones on 8,700 tokens. Rao 1982 and Bonta 2023 are pending their tables. Every published key that can be tested is indistinguishable from its own shuffles.
+
 ## Layout
 
 ```
-docs/STATUS.md                 one row per round, 09–48, with verdicts
+docs/STATUS.md                 one row per round, 09–49, with verdicts
 docs/EXTERNAL-EVIDENCE.md      Meluhha names, Ur seal, Commons, source gateways
 docs/atlas/                    714-sign Indus/Brahmi proposed-mapping atlas (PDF)
 docs/handover/                 earlier handover documents, kept verbatim
@@ -59,6 +61,7 @@ cd indus-lab/round46-brahmi-coverage && python3 audit.py && python3 expand.py
 cd indus-lab && python3 run.py                          # evidence lab, regenerates results/
 cd indus-lab/round47 && bash fetch_lexicons.sh && python3 run47.py   # 8 min, prints VERDICT NULL
 cd indus-lab/round48 && bash fetch_fonts.sh && ../../ext/venv/bin/python run48.py select   # 20 s; needs ext/venv with pillow fonttools brotli numpy scipy
+cd indus-lab/round49 && python3 run49.py   # 20 min; keys from dbourdeau/cyphersolver@04457698 in ext/cyphersolver_keys/
 ```
 
 Rounds 29–45 need `numpy`, `rapidfuzz`, about 1 GB of pinned external clones and the Kuiper 1991 OCR text (not bundled):

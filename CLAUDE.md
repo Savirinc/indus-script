@@ -1,6 +1,6 @@
 # indus-script: working rules
 
-Owner: Arham Partap Jain. Mission: decipher the Indus script, honestly. State as of 18 Oct 2026: **48 rounds, no sign has an established sound or meaning.** Read this file, then `docs/STATUS.md`.
+Owner: Arham Partap Jain. Mission: decipher the Indus script, honestly. State as of 18 Oct 2026: **49 rounds, no sign has an established sound or meaning.** Read this file, then `docs/STATUS.md`.
 
 ## Stay inside this repo
 All work happens in this repository. New rounds go in `indus-lab/roundNN/`. Do not create files elsewhere except the scratchpad for throwaway runs. Do not touch `~/Indus Script Decipher`; it is the pre-repo archive.
@@ -34,7 +34,7 @@ All work happens in this repository. New rounds go in `indus-lab/roundNN/`. Do n
 - Setup: `pip install -r setup/requirements.txt`, `bash setup/setup_external.sh`, supply `data/kuiper.txt`, `source setup/paths.sh` (exports `$DATA_ARGS` = KUIPER JAMBU DRDB IDS LINB in that order).
 
 ## Round numbering
-Rounds 09–45 follow the original lab. The Brahmi coverage audit (called "Round 29" in its own handover, which collided with the existing round 29) is **round 46**; its pre-registered test is **round 47** (NULL); the shape-resemblance test is **round 48** (METHOD-FAIL). Next is 49.
+Rounds 09–45 follow the original lab. The Brahmi coverage audit (called "Round 29" in its own handover, which collided with the existing round 29) is **round 46**; its pre-registered test is **round 47** (NULL); the shape-resemblance test is **round 48** (METHOD-FAIL); the published-key tournament is **round 49** (Fairservis NULL, others not testable). Next is 50.
 
 ## Established (survived controls)
 1. Rounds 30–31: Gulf round seals are foreign in sign order (percentile 0.916, p<5e-5).
@@ -42,12 +42,15 @@ Rounds 09–45 follow the original lab. The Brahmi coverage audit (called "Round
 3. Rounds 39–40: Rigvedic substrate words lean Proto-Dravidian over Munda; below attribution bar; about the substrate, not the script.
 4. Rounds 27/29: bigram structure transfers between cities.
 5. Round 47: the trigram-LM shuffle test recognises the Linear B key at Indus density (z 11.5) and rejects Yajnadevam's key (z −0.35). Reusable harness: `round47/run47.py`.
+6. Round 49: the same instrument on partial keys works down to ~60% token coverage (Linear B passes 2/3 subsets) and not at ~28% (1/3). Keys under 25 signs cannot be tested on this corpus.
 
 ## Parked (don't redo without a new idea)
 - **Yajnadevam Brahmi/Sanskrit key (46–47): PARKED.** Key covers the corpus but its output is not Sanskrit-like beyond its own shuffles (z −0.35); a 15 s refit to Finnish/Basque beats it. Reopen only with a frozen automated pipeline given equal freedom for impossible languages, or external anchors.
 - **Indus–Brahmi shape resemblance (48): UNTESTABLE with fonts.** Four shape descriptors all failed to recover Phoenician→Aramaic or Greek→Gothic, so look-alike tables are not evidence either way. Reopen only with epigraphic tracings (Ashokan Brahmi, Indus sign lists) and a pre-registered rank-based statistic; declare the v1 Indus numbers (Brahmi E 0.35) as previously seen. Shape tooling: `round48/run48.py` (needs `ext/venv`: pillow, fonttools, numpy, scipy).
+- **Published keys (49):** Fairservis 1992 NULL; Parpola 1994, Kak 1988, Mahadevan 2014 NOT TESTABLE (too little coverage or too few signs). Harness `round49/run49.py` scores any 3-column key file (sign, value, gloss) unchanged; Bonta 2023 and Rao 1982 run through it as soon as Arham supplies the tables (`data/sources/`).
 Rebus tournament (36), substrate fingerprint (37), sound-only matching (38), Gulf seals vs names (35), anchor-rebus branch (41–45, Finnish artefact), Tamil pattern matching (20), correspondence decoders (22–23), copper-tablet labels (24–26).
 
 ## Open leads
 1. **External anchors.** More Gulf/Dilmun seal transcriptions (Laursen 2010; Al-Sindi; Kjærum Failaka) need PDFs from Arham; then re-run round 35 with power and test the 415-803-001 opening.
-2. **Methods write-up.** Rounds 32, 45 and 47 together discredit a common class of decipherment claims. Do not publish without Arham's OK.
+2. **Methods write-up.** Rounds 32, 45, 47 and 49 together discredit a common class of decipherment claims. Do not publish without Arham's OK.
+3. **Pending keys.** Bonta 2023 2nd ed. (Academia.edu, gated) and Rao 1982 (book table): transcribe to key format with page refs, commit, run `round49/run49.py` unchanged.

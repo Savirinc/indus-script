@@ -5,7 +5,7 @@
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "b43ee54375216253921491e99ef73e18ab672e6961e4e032e3967714e5d903f2"
+  "sha256": "144ef0371efc3db6a8358386a60dfeb5f71185caaf75e3a83127bf5d14e17bff"
  },
  {
   "path": "LICENSE",
@@ -13,7 +13,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "c8f0b7d17cf7e87164d61f9d576a2073ab6b5881439624b87ee6abff67748c27"
+  "sha256": "83c1ff4d59635bbb104edecb5742e8faee764dbe60eab469a41aa29d6d8ca9c9"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -53,7 +53,7 @@
  },
  {
   "path": "docs/STATUS.md",
-  "sha256": "e2a431d14486073262ebd788878149598835c07c9d34648cfc3591e10af7cbb9"
+  "sha256": "e439bddfee6e4f97430f7a9fa446017e91a69f5572f782879a86236afb03b826"
  },
  {
   "path": "docs/atlas/Indus-Brahmi-Full-Mapping-Atlas.pdf",
@@ -2306,6 +2306,30 @@
  {
   "path": "indus-lab/round48/v1/run48_v1.py",
   "sha256": "71ad7a80a331b8b02ed8871113dfc87d14bc043e4ca9c3cbc9796614493c592e"
+ },
+ {
+  "path": "indus-lab/round49/PROTOCOL.md",
+  "sha256": "a6c78b38c33096483dfdaeae16a078c1a4bceafac4befc5e7680dcbcf4a83554"
+ },
+ {
+  "path": "indus-lab/round49/REPORT.md",
+  "sha256": "a9df86ccc10843180373cd5e1fdc14f11990db082f763cd782f9cf59d901c022"
+ },
+ {
+  "path": "indus-lab/round49/SHA256SUMS.keys",
+  "sha256": "b495b52de083688303d97ad162bc202e5ccddefcc6f5bab852320a1401d6c0ef"
+ },
+ {
+  "path": "indus-lab/round49/results.json",
+  "sha256": "51479896a8bd5ce9d74c49b38a6a0fa227e33f69fb9ac758604d9ba5055a201b"
+ },
+ {
+  "path": "indus-lab/round49/run49.log",
+  "sha256": "c4c0afcd652a51cd3aefc007c2994f3037492df24f947f5fdc9f28db1db491a0"
+ },
+ {
+  "path": "indus-lab/round49/run49.py",
+  "sha256": "92716e93a49414a8e62cd88d06ec2fcac1b3722cb01df41f682d64374d96b7ae"
  },
  {
   "path": "indus-lab/run.py",

@@ -1,0 +1,47 @@
+[    0.0s] lexicons
+[    3.8s] {'Sanskrit': 174107, 'Finnish': 92053, 'Basque': 120755, 'PDr': 1765, 'Tamil': 8023}
+[    4.7s] Fairservis1992: 95 signs, coverage 0.604, 1364 runs, 3779 run tokens
+[    4.7s] Fairservis1992_wide: 166 signs, coverage 0.776, 1770 runs, 5946 run tokens
+[    4.7s] Parpola1994: 27 signs, coverage 0.277, 374 runs, 864 run tokens
+[    4.7s] Kak1988: 7 signs, coverage 0.163, 100 runs, 201 run tokens
+[    4.7s] Mahadevan2014: 5 signs, coverage 0.144, 54 runs, 149 run tokens
+[    4.7s] Yajnadevam2024_ref: 581 signs, coverage 1.000, 1934 runs, 8720 run tokens
+[    8.2s] PC level 0.28: subset 0 cov 0.299 ids 41 runs 92 Greek z 3.86 pct 1.000 others Sanskrit 0.98, Tamil 1.66, Finnish 2.73, Basque 2.03 fail
+[   12.0s] PC level 0.28: subset 1 cov 0.307 ids 42 runs 100 Greek z 3.21 pct 1.000 others Sanskrit 0.78, Tamil 0.95, Finnish 1.43, Basque 2.19 fail
+[   16.0s] PC level 0.28: subset 2 cov 0.307 ids 43 runs 108 Greek z 4.93 pct 1.000 others Sanskrit 0.59, Tamil 0.86, Finnish 0.85, Basque 1.35 PASS
+[   16.0s] PC level 0.28: FAIL
+[   28.3s] PC level 0.6: subset 0 cov 0.625 ids 83 runs 281 Greek z 4.86 pct 1.000 others Sanskrit 1.80, Tamil 1.44, Finnish 0.59, Basque 3.00 fail
+[   40.2s] PC level 0.6: subset 1 cov 0.625 ids 82 runs 264 Greek z 6.03 pct 1.000 others Sanskrit 1.61, Tamil 1.22, Finnish 2.21, Basque 1.25 PASS
+[   52.6s] PC level 0.6: subset 2 cov 0.626 ids 83 runs 276 Greek z 6.89 pct 1.000 others Sanskrit 2.82, Tamil 1.98, Finnish 2.48, Basque 1.93 PASS
+[   52.6s] PC level 0.6: PASS
+[   69.2s] PC level 0.78: subset 0 cov 0.802 ids 105 runs 303 Greek z 8.24 pct 1.000 others Sanskrit 3.86, Tamil 3.79, Finnish 2.39, Basque 3.73 PASS
+[   86.0s] PC level 0.78: subset 1 cov 0.803 ids 105 runs 320 Greek z 9.51 pct 1.000 others Sanskrit 3.46, Tamil 2.71, Finnish 3.14, Basque 4.82 PASS
+[  103.2s] PC level 0.78: subset 2 cov 0.805 ids 102 runs 302 Greek z 8.75 pct 1.000 others Sanskrit 2.57, Tamil 4.03, Finnish 1.88, Basque 4.15 PASS
+[  103.2s] PC level 0.78: PASS
+[  175.9s] Fairservis1992 {'Sanskrit': (0.03, 0.528), 'Tamil': (0.2, 0.606), 'Finnish': (0.84, 0.782), 'Basque': (0.14, 0.469), 'PDr': (0.07, 0.523)}
+[  271.3s]   fitted Finnish: Sanskrit -0.28, Tamil -1.75, Finnish 3.17, Basque 1.01, PDr -1.78
+[  367.1s]   fitted Basque: Sanskrit 1.74, Tamil 2.82, Finnish 1.63, Basque 4.35, PDr 2.36
+[  464.7s]   fitted Tamil: Sanskrit 2.93, Tamil 4.72, Finnish 1.52, Basque 2.68, PDr 3.62
+[  527.6s]   fitted Sanskrit: Sanskrit 6.75, Tamil 2.85, Finnish 1.67, Basque 2.87, PDr 4.41
+[  527.6s] Fairservis1992 VERDICT NULL
+[  593.4s] Fairservis1992_wide {'Sanskrit': (0.11, 0.612), 'Tamil': (-0.02, 0.552), 'Finnish': (0.88, 0.804), 'Basque': (0.65, 0.749), 'PDr': (0.46, 0.697)}
+[  665.3s]   fitted Finnish: Sanskrit 0.23, Tamil 0.25, Finnish 4.06, Basque -0.02, PDr -1.09
+[  736.1s]   fitted Basque: Sanskrit 2.46, Tamil 0.66, Finnish 2.24, Basque 5.76, PDr -0.32
+[  808.5s]   fitted Tamil: Sanskrit 2.19, Tamil 6.04, Finnish 1.16, Basque 1.91, PDr 4.23
+[  881.9s]   fitted Sanskrit: Sanskrit 7.09, Tamil 3.20, Finnish 2.22, Basque 4.18, PDr 2.17
+[  881.9s] Fairservis1992_wide VERDICT NULL (reference, not verdict-bearing)
+[  891.3s] Parpola1994 {'Sanskrit': (-0.07, 0.474), 'Tamil': (-0.26, 0.402), 'Finnish': (1.57, 0.941), 'Basque': (0.04, 0.48), 'PDr': (1.06, 0.866)}
+[  913.6s]   fitted Finnish: Sanskrit 0.86, Tamil 0.08, Finnish 1.68, Basque 2.62, PDr 0.89
+[  935.1s]   fitted Basque: Sanskrit 1.20, Tamil 0.58, Finnish 0.34, Basque 1.68, PDr 1.30
+[  956.3s]   fitted Tamil: Sanskrit 1.43, Tamil 3.39, Finnish 0.27, Basque 2.68, PDr 3.21
+[  977.9s]   fitted Sanskrit: Sanskrit 1.87, Tamil 1.54, Finnish 1.35, Basque 0.35, PDr 2.03
+[  977.9s] Parpola1994 VERDICT NOT TESTABLE (positive control fails at this coverage)
+[  977.9s] Kak1988 NOT TESTABLE (signs)
+[  977.9s] Mahadevan2014 NOT TESTABLE (signs)
+[ 1020.8s] Yajnadevam2024_ref {'Sanskrit': (1.7, 0.901), 'Tamil': (1.58, 0.891), 'Finnish': (2.07, 0.961), 'Basque': (1.8, 0.909), 'PDr': (0.23, 0.609)}
+[ 1067.0s]   fitted Finnish: Sanskrit 5.27, Tamil 6.41, Finnish 4.40, Basque 6.34, PDr 6.74
+[ 1110.8s]   fitted Basque: Sanskrit 5.65, Tamil 4.63, Finnish 3.42, Basque 7.44, PDr 4.47
+[ 1153.9s]   fitted Tamil: Sanskrit 3.63, Tamil 10.50, Finnish 2.18, Basque 4.81, PDr 7.33
+[ 1198.7s]   fitted Sanskrit: Sanskrit 6.07, Tamil 2.69, Finnish 3.19, Basque 4.67, PDr 3.45
+[ 1198.7s] Yajnadevam2024_ref VERDICT NULL (reference, not verdict-bearing)
+[ 1198.7s] VERDICTS {'Fairservis1992': 'NULL', 'Fairservis1992_wide': 'NULL (reference, not verdict-bearing)', 'Parpola1994': 'NOT TESTABLE (positive control fails at this coverage)', 'Kak1988': 'NOT TESTABLE (signs)', 'Mahadevan2014': 'NOT TESTABLE (signs)', 'Yajnadevam2024_ref': 'NULL (reference, not verdict-bearing)'}
