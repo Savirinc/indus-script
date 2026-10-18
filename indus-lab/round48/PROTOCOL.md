@@ -91,3 +91,26 @@ Primary statistic: E_Brahmi on Q1. Also reported: Brahmi's rank among 25 scripts
 
 ## Limits stated in advance
 Modern typographic forms (Noto, and a modern normalised Indus font) stand in for epigraphic shapes; Noto Brahmi follows Ashokan forms. A 40×40 skeleton loses stroke-order and stroke-width information. Compound Indus signs are included; the stratified null controls complexity, not compositionality. Dihedral freedom is generous to every script equally. Fonts are external inputs that upstream could change; hashes are recorded.
+
+## Amendment 1 (2026-10-18, after the v1 run; reason stated)
+**What happened.** Descriptor v1 (40×40 skeleton chamfer, dihedral freedom) ran as written. PC1 failed: for Phoenician, the top script was Old North Arabian (a genuine Semitic sibling, p=0.021) but Imperial Aramaic (p=0.47) and Samaritan (p=0.39) were not recognised. PC2 failed: Lycian was recognised (p=0.001) but no second Greek-derived script was. Verdict for v1: **METHOD-FAIL**, recorded in `v1/`. The Indus analysis also ran in that script, so its v1 numbers were seen (Brahmi E=0.35, rank 20 of 25, i.e. depleted, not enriched). They are reported as the v1 outcome and carry no weight either way.
+
+**Diagnosis.** A skeleton chamfer at 40×40 is dominated by typographic style (rounded Noto Brahmi and Aramaic versus angular Phoenician and Indus strokes). Two of the three pre-specified PC1 targets are also the most evolved forms (Imperial Aramaic is 5th-century BCE cursive; Samaritan is later still), which made PC1 harder than the Indus question itself.
+
+**Change 1: descriptor selection on controls only.** Four candidate descriptors are fixed here and evaluated on controls alone:
+- **A** v1 as above.
+- **B** uniform-stroke chamfer: 64×64 grid, skeleton dilated to a 3-pixel stroke, symmetric chamfer on the dilated masks, dihedral min.
+- **C** shape context: 64×64 skeleton, log-polar histogram around the centroid (5 radial × 12 angular bins, radii normalised by the glyph's RMS radius), chi-square distance, dihedral min.
+- **D** B and C combined: each distance divided by its median over all pairs, then summed.
+
+**Change 2: positive-control queries and related sets** (standard palaeography; fixed before any candidate other than A is run):
+| Query | Related set |
+|---|---|
+| Phoenician | Old North Arabian, Old South Arabian (siblings); Imperial Aramaic, Samaritan, Greek capitals (descendants) |
+| Greek capitals | Phoenician; Old Italic, Gothic, Lycian, Carian, Lydian |
+| Old Italic | Greek capitals, Runic |
+| Imperial Aramaic | Phoenician, Samaritan, Kharoshthi |
+
+A query **passes** if its top-ranked script by E is in its related set **and** at least two related scripts have stratified p < 0.05. A descriptor **passes** if at least 3 of the 4 queries pass. Negative queries stay Old Hungarian and Linear A. Under this rule descriptor A still fails (Phoenician: one related script significant; Greek: one), so the rule is not a relaxation that rescues v1.
+
+**Change 3: selection and Indus run.** Among passing descriptors, choose the one with the most query passes, ties broken by the mean stratified z of related scripts across the four queries. Run the Indus analysis **once** with that descriptor. If no descriptor passes, the round ends METHOD-FAIL and the shape question is declared untestable with typographic glyphs. Verdict rules of the original protocol apply unchanged to the selected descriptor's Indus run. Seeds: 48201+ for selection, 48001–48006 for Indus as before.
