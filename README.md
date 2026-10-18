@@ -90,4 +90,8 @@ Rounds 09–28 were produced by earlier sessions and may need scipy, Pillow, fon
 
 ## Licence
 
-Code, protocols and reports: MIT. Data: per-source, see `THIRD_PARTY_NOTICES.md`.
+Code: MIT (`LICENSE`). Protocols, reports and the methods draft (`docs/methods/`): CC BY 4.0. Data: per-source, see `THIRD_PARTY_NOTICES.md`.
+
+## Methods write-up
+
+`docs/methods/METHODS-DRAFT.md` is a draft, not for circulation, that assembles rounds 32, 45, 47, 48, 49 and 51 into one argument with a checklist for future decipherment claims. Sections marked [To write] are outlines.

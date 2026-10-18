@@ -5,7 +5,7 @@
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "bcc9e1d9e4c4919df18c5e4493cf58748813aff80f7f6fde6c260f238aa1b8f4"
+  "sha256": "b30c6f530450c2293d98c05d95da14c776799ac4f54ed124843186bc7fcd43fa"
  },
  {
   "path": "LICENSE",
@@ -13,7 +13,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "b206300868d5b286ef254c7658225bf96ee8f8c6bf12b58a3ba855f557d51394"
+  "sha256": "f90a53ab20f8e0586734252577d7c1dbc105180dd80b7d7fc6d08bea1aabbfd9"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -98,6 +98,10 @@
  {
   "path": "docs/handover/START-HERE-brahmi-2026-10-17.md",
   "sha256": "4eae187ac48e82b30b8ffbeb75155cfa008a30e212a33b9a70df2c179aaf5d14"
+ },
+ {
+  "path": "docs/methods/METHODS-DRAFT.md",
+  "sha256": "5f6d020efbcdce66a0cfb21699d140080ac2e371164f23b740772521262e82e0"
  },
  {
   "path": "docs/table7-yajnadevam-2024-p23.png",
