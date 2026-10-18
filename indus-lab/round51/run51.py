@@ -76,6 +76,8 @@ def decide(r, fams=FAMS):
 def main():
     out = {'protocol': 'PROTOCOL.md', 'seeds': [SEED_BG, SEED_BOOT]}
     cands = load_candidates(); words = [(F.norm(c['form']), S.stems(c['gloss'])) for c in cands if c['kind'] == 'word']
+    STRICT = {'magilum', 'sinda', 'sindu', 'zaza', 'ili', 'ellu', 'ulu', 'samru'}   # Amendment 1
+    strict = [(F.norm(c['form']), S.stems(c['gloss'])) for c in cands if c['form'] in STRICT]
     topo = [(F.norm(c['form']), S.stems(c['gloss'])) for c in cands if c['kind'] == 'toponym']
     g1 = [(F.norm(w), S.stems(gl)) for w, gl in MITANNI]
     # G2 targets as in round 39
@@ -97,6 +99,8 @@ def main():
     print('G1', 'PASS' if out['G1_pass'] else 'FAIL', '| G2', 'PASS' if out['G2_pass'] else 'FAIL')
     out['candidates'] = attribution(words, bg_sum, idx, 'MELUHHAN CANDIDATE WORDS')
     out['toponyms'] = attribution(topo, bg_sum, idx, 'toponyms (not verdict-bearing)')
+    out['strict'] = attribution(strict, bg_sum, idx, 'STRICT set, Amendment 1 (not verdict-bearing)'); out['strict_decision'] = decide(out['strict'])
+    print('STRICT decision', out['strict_decision'])
     if not (out['G1_pass'] and out['G2_pass']): dec = 'UNINTERPRETABLE (gate failed)'
     else: dec = decide(out['candidates'])
     out['decision'] = dec; print('DECISION', dec)

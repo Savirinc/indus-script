@@ -38,3 +38,6 @@ A copy of Mitchell 1986 or of Laursen & Steinkeller 2017 chapter on sealings; or
 
 ## Reproduce
 Sources and the CDLI dump are in the session scratchpad, not the repo (sizes and copyright). Gadd 1932: archive.org `in.gov.ignca.33779`. Hallo & Buchanan: ISAC `as16.pdf`. CDLI: `cdli-gh/data` `cdli_cat.csv` via Git LFS media URL; the search is a regex over `seal_information`, `provenience`, `period`, `museum_no`.
+
+## Addendum 1 (2026-10-18): Collon's and Glassner's chapters in *The Indian Ocean in Antiquity* (open scan found after the first census)
+Collon's catalogue (pp. 220-222) lists every known impression of a Gulf seal on a tablet: YBC 5447 (Buchanan 1981 no. 1090) and two tablets from Susa (Amiet 1986 nos 90.1-2), all of **Late Gulf** type, the textless Dilmun class. She also lists "local imitations from Ur and Susa (Gadd 1932: nos 10-11; Amiet 1972: nos 1719-1726)", which are seals, not sealings. Category B therefore rises to 3; category A stays at **0**. Glassner (p. 235) mentions an unpublished, unprovenanced "Harappan" seal in Paris inscribed with two Sumerian names, reported second-hand from D. Arnaud; it cannot be checked and is recorded as context only. Mitchell 1986 and Laursen & Steinkeller 2017 remain unread, so the verdict stays **INCOMPLETE**, but every catalogue of Gulf-seal impressions that has been read now gives the same answer.

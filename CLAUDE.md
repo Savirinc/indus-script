@@ -52,7 +52,7 @@ Rounds 09–45 follow the original lab. The Brahmi coverage audit (called "Round
 Rebus tournament (36), substrate fingerprint (37), sound-only matching (38), Gulf seals vs names (35), anchor-rebus branch (41–45, Finnish artefact), Tamil pattern matching (20), correspondence decoders (22–23), copper-tablet labels (24–26).
 
 ## Open leads
-1. **External anchors.** Round 50 found no Indus-sign impression on any inscribed tablet in open sources; Mitchell 1986 and Laursen & Steinkeller 2017 remain unread (not online). More Gulf/Dilmun seal transcriptions (Laursen 2010; Al-Sindi; Kjærum Failaka) still need PDFs; then re-run round 35 with power and test the 415-803-001 opening.
-1b. **Meluhhan loanwords (round 51): run, null.** Reopens only with Possehl 1996a's full list (not online). Harness `round51/run51.py` + `candidates.tsv`.
+1. **External anchors.** Round 50 found no Indus-sign impression on any inscribed tablet in open sources (Collon 1996 catalogue: 3 Late Gulf textless impressions); Mitchell 1986 and Laursen & Steinkeller 2017 remain unread (not online). More Gulf/Dilmun seal transcriptions (Laursen 2010; Al-Sindi; Kjærum Failaka) still need PDFs; then re-run round 35 with power and test the 415-803-001 opening.
+1b. **Meluhhan loanwords (round 51): CLOSED on the published record.** Possehl 1996a obtained (archive.org `indian-ocean-in-antiquity`): no loanword list, only Sumerian terms qualified "of Meluhha"; Glassner's šamru added; strict set also null. Harness `round51/run51.py` + `candidates.tsv`.
 2. **Methods write-up.** Rounds 32, 45, 47 and 49 together discredit a common class of decipherment claims. Do not publish without Arham's OK.
 3. **Pending key.** Bonta 2023 2nd ed. (Academia.edu, gated; no open copy found): transcribe to key format with page refs, commit, run `round49/run49.py` unchanged.

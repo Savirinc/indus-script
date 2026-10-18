@@ -34,4 +34,12 @@ G1 PASS | G2 PASS
    EUS    A=+0.0600  CI -0.0800..+0.2000  P(rank1)=0.25  P(>both decoys)=0.00
    MUNDA  A=+0.0000  CI +0.0000..+0.0000  P(rank1)=0.00  P(>both decoys)=0.00
    BUR    A=+0.0000  CI +0.0000..+0.0000  P(rank1)=0.00  P(>both decoys)=0.00
+== STRICT set, Amendment 1 (not verdict-bearing): 8 targets
+   PDR    A=+0.2738  CI +0.1820..+0.3567  P(rank1)=0.41  P(>both decoys)=0.59
+   IA     A=+0.2484  CI +0.1380..+0.3442  P(rank1)=0.23  P(>both decoys)=0.43
+   EUS    A=+0.2357  CI +0.1613..+0.3260  P(rank1)=0.10  P(>both decoys)=0.00
+   FIN    A=+0.2312  CI +0.1226..+0.3469  P(rank1)=0.26  P(>both decoys)=0.00
+   BUR    A=-0.0146  CI -0.0437..+0.0000  P(rank1)=0.00  P(>both decoys)=0.00
+   MUNDA  A=-0.0459  CI -0.0759..-0.0167  P(rank1)=0.00  P(>both decoys)=0.00
+STRICT decision NO FAMILY ATTRIBUTABLE
 DECISION NO FAMILY ATTRIBUTABLE

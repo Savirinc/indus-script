@@ -1,6 +1,6 @@
 # Round 51 — Proposed Meluhhan loanwords in Sumerian and Akkadian: **NO FAMILY ATTRIBUTABLE** (gates passed)
 
-Pre-registered in `PROTOCOL.md` (commit 0dbdac8); candidate set frozen in `candidates.tsv` (commit 1aa4fc0) before scoring. No amendments. Decision by the pre-set rule: **NO FAMILY ATTRIBUTABLE**. The round is **INCOMPLETE** with respect to one source: Possehl 1996a, which holds the full "some 40 Indian words" list, is not available online; the candidate set is the subset that Witzel 1999/2000, Parpola 1994 and Southworth 2005 name explicitly.
+Pre-registered in `PROTOCOL.md` (commit 0dbdac8); candidate set frozen in `candidates.tsv` (commit 1aa4fc0) before scoring. No amendments. Decision by the pre-set rule: **NO FAMILY ATTRIBUTABLE**. Possehl 1996a was obtained after the first run; see Addendum 1: it contains no further loanwords, so the round is complete with respect to the published record.
 
 ## Gates (both passed)
 | Gate | Target set | Result |
@@ -55,3 +55,22 @@ Possehl 1996a ("Meluhha", in Reade ed., *The Indian Ocean in Antiquity*, pp. 133
 cd indus-lab/round51 && ../../ext/venv/bin/python run51.py    # ~1 min; needs numpy, rapidfuzz, ext/moli-mandala_data (data/munda, data/other materialised), ext/lexibank_ids
 ```
 `epsd2_lemmas.tsv` is the Sumerian background: 14,817 citation forms with guide words extracted from ePSD2 `gloss-sux.json` (Oracc, CC0, 2023-01-19).
+
+
+## Addendum 1 (2026-10-18): Possehl 1996a obtained; strict set run (Amendment 1)
+Possehl's chapter was found as an open scan (*The Indian Ocean in Antiquity*, archive.org). It is not a loanword list. Its 76 entries are attestations of the name Meluhha, and the "products" are Sumerian and Akkadian words qualified by *of Meluhha*: thorn-tree wood (giš-ab-ba, itself a loan from Akkadian *kusabku*, as Possehl notes), mes-wood, date palm, a bird, carnelian, copper, a table, a chair, a ship, fresh dates. Witzel's "some 40 Indian words" is a misreading of this catalogue, and four of the eleven frozen candidates (abba, mesu, haluppu, gisimmar) are native Mesopotamian words that no source actually derives from Meluhha. Glassner's chapter in the same volume supplies the one word an ancient text itself calls Meluhhan: *šamru* "thorn tree", from a first-millennium bilingual list, when Meluhha usually meant Nubia.
+
+The strict set (magilum, sinda, sindu, zaza, ili, ellu, ulu, šamru), same instrument and seeds, not verdict-bearing because defined after the primary result:
+
+| Family | A | 95% CI | P(rank 1) | P(beats both decoys) |
+|---|---:|---|---:|---:|
+| PDR | +0.274 | +0.182 to +0.357 | 0.41 | 0.59 |
+| IA | +0.248 | +0.138 to +0.344 | 0.23 | 0.43 |
+| EUS | +0.236 | +0.161 to +0.326 | 0.10 | 0.00 |
+| FIN | +0.231 | +0.123 to +0.347 | 0.26 | 0.00 |
+| BUR | -0.015 | -0.044 to +0.000 | 0.00 | 0.00 |
+| MUNDA | -0.046 | -0.076 to -0.017 | 0.00 | 0.00 |
+
+Proto-Dravidian moves to first place but beats the decoys in only 59% of resamples against the 95% required, and Indo-Aryan is close behind. *šamru* matches: PDR: sarp (0.60), IA: taru (0.60), MUNDA: – (0.00), FIN: palmu (0.40), EUS: palmie (0.33). Decision for the strict set: **NO FAMILY ATTRIBUTABLE**.
+
+**Consequence for the reopen criterion.** The condition was "Possehl's full list". It now exists and contains no further foreign words, so the loanword route is **closed on the published record**: the entire Harappan-era vocabulary in cuneiform that anyone has called Meluhhan is six or seven short words, and they decide nothing. A reopening would need a new lexical find, for example a Meluhhan entry in an unpublished lexical list.

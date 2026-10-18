@@ -4891,5 +4891,498 @@
    ]
   }
  },
+ "strict": {
+  "label": "STRICT set, Amendment 1 (not verdict-bearing)",
+  "n": 8,
+  "A": {
+   "PDR": 0.2738095238095238,
+   "IA": 0.24842261904761903,
+   "MUNDA": -0.045892857142857145,
+   "BUR": -0.014583333333333334,
+   "EUS": 0.23565476190476192,
+   "FIN": 0.2311904761904762
+  },
+  "ci95": {
+   "PDR": [
+    0.18196428571428575,
+    0.35668154761904763
+   ],
+   "IA": [
+    0.13804687499999999,
+    0.34422619047619046
+   ],
+   "MUNDA": [
+    -0.07589285714285714,
+    -0.01666666666666667
+   ],
+   "BUR": [
+    -0.04375,
+    0.0
+   ],
+   "EUS": [
+    0.1613385416666667,
+    0.32603720238095235
+   ],
+   "FIN": [
+    0.12262648809523809,
+    0.34692113095238086
+   ]
+  },
+  "p_rank1": {
+   "PDR": 0.411,
+   "IA": 0.227,
+   "MUNDA": 0.0,
+   "BUR": 0.0,
+   "EUS": 0.1,
+   "FIN": 0.262
+  },
+  "p_beats_decoys": {
+   "PDR": 0.592,
+   "IA": 0.43,
+   "MUNDA": 0.0,
+   "BUR": 0.0,
+   "EUS": 0.0,
+   "FIN": 0.0
+  },
+  "per_target": [
+   {
+    "target": "magilum",
+    "PDR": {
+     "best": "kalam",
+     "sim": 0.429,
+     "baseline": 0.143
+    },
+    "IA": {
+     "best": "vahitra",
+     "sim": 0.286,
+     "baseline": 0.114
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "uci",
+     "sim": 0.143,
+     "baseline": 0.086
+    },
+    "FIN": {
+     "best": "alus",
+     "sim": 0.429,
+     "baseline": 0.107
+    }
+   },
+   {
+    "target": "sinda",
+    "PDR": {
+     "best": "kinda",
+     "sim": 0.8,
+     "baseline": 0.326
+    },
+    "IA": {
+     "best": "sanda",
+     "sim": 0.8,
+     "baseline": 0.313
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.12
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "suhanodo",
+     "sim": 0.375,
+     "baseline": 0.04
+    },
+    "FIN": {
+     "best": "metsa",
+     "sim": 0.2,
+     "baseline": 0.2
+    }
+   },
+   {
+    "target": "sindu",
+    "PDR": {
+     "best": "sintc",
+     "sim": 0.6,
+     "baseline": 0.4
+    },
+    "IA": {
+     "best": "sindura",
+     "sim": 0.714,
+     "baseline": 0.367
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.097
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "suhanodo",
+     "sim": 0.375,
+     "baseline": 0.2
+    },
+    "FIN": {
+     "best": "puu",
+     "sim": 0.2,
+     "baseline": 0.207
+    }
+   },
+   {
+    "target": "sasa",
+    "PDR": {
+     "best": "sak",
+     "sim": 0.5,
+     "baseline": 0.147
+    },
+    "IA": {
+     "best": "raksana",
+     "sim": 0.429,
+     "baseline": 0.129
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "kabale",
+     "sim": 0.333,
+     "baseline": 0.113
+    },
+    "FIN": {
+     "best": "karya",
+     "sim": 0.4,
+     "baseline": 0.247
+    }
+   },
+   {
+    "target": "ili",
+    "PDR": {
+     "best": "isi",
+     "sim": 0.667,
+     "baseline": 0.283
+    },
+    "IA": {
+     "best": "tailika",
+     "sim": 0.429,
+     "baseline": 0.323
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.117
+    },
+    "EUS": {
+     "best": "olio",
+     "sim": 0.5,
+     "baseline": 0.0
+    },
+    "FIN": {
+     "best": "olyu",
+     "sim": 0.25,
+     "baseline": 0.04
+    }
+   },
+   {
+    "target": "ellu",
+    "PDR": {
+     "best": "el",
+     "sim": 0.5,
+     "baseline": 0.397
+    },
+    "IA": {
+     "best": "kutu",
+     "sim": 0.25,
+     "baseline": 0.27
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.05
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "olio",
+     "sim": 0.25,
+     "baseline": 0.1
+    },
+    "FIN": {
+     "best": "olyu",
+     "sim": 0.5,
+     "baseline": 0.129
+    }
+   },
+   {
+    "target": "ulu",
+    "PDR": {
+     "best": "us",
+     "sim": 0.333,
+     "baseline": 0.247
+    },
+    "IA": {
+     "best": "kutu",
+     "sim": 0.5,
+     "baseline": 0.23
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "olio",
+     "sim": 0.25,
+     "baseline": 0.067
+    },
+    "FIN": {
+     "best": "olyu",
+     "sim": 0.5,
+     "baseline": 0.0
+    }
+   },
+   {
+    "target": "samru",
+    "PDR": {
+     "best": "sarp",
+     "sim": 0.6,
+     "baseline": 0.296
+    },
+    "IA": {
+     "best": "taru",
+     "sim": 0.6,
+     "baseline": 0.273
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.033
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "palmie",
+     "sim": 0.333,
+     "baseline": 0.069
+    },
+    "FIN": {
+     "best": "palmu",
+     "sim": 0.4,
+     "baseline": 0.1
+    }
+   }
+  ],
+  "top_pairs": {
+   "PDR": [
+    [
+     0.8,
+     "sinda",
+     "kinda"
+    ],
+    [
+     0.667,
+     "ili",
+     "isi"
+    ],
+    [
+     0.6,
+     "sindu",
+     "sintc"
+    ],
+    [
+     0.6,
+     "samru",
+     "sarp"
+    ],
+    [
+     0.5,
+     "sasa",
+     "sak"
+    ],
+    [
+     0.5,
+     "ellu",
+     "el"
+    ],
+    [
+     0.429,
+     "magilum",
+     "kalam"
+    ],
+    [
+     0.333,
+     "ulu",
+     "us"
+    ]
+   ],
+   "IA": [
+    [
+     0.8,
+     "sinda",
+     "sanda"
+    ],
+    [
+     0.714,
+     "sindu",
+     "sindura"
+    ],
+    [
+     0.6,
+     "samru",
+     "taru"
+    ],
+    [
+     0.5,
+     "ulu",
+     "kutu"
+    ],
+    [
+     0.429,
+     "sasa",
+     "raksana"
+    ],
+    [
+     0.429,
+     "ili",
+     "tailika"
+    ],
+    [
+     0.286,
+     "magilum",
+     "vahitra"
+    ],
+    [
+     0.25,
+     "ellu",
+     "kutu"
+    ]
+   ],
+   "MUNDA": [],
+   "BUR": [],
+   "EUS": [
+    [
+     0.5,
+     "ili",
+     "olio"
+    ],
+    [
+     0.375,
+     "sindu",
+     "suhanodo"
+    ],
+    [
+     0.375,
+     "sinda",
+     "suhanodo"
+    ],
+    [
+     0.333,
+     "sasa",
+     "kabale"
+    ],
+    [
+     0.333,
+     "samru",
+     "palmie"
+    ],
+    [
+     0.25,
+     "ulu",
+     "olio"
+    ],
+    [
+     0.25,
+     "ellu",
+     "olio"
+    ],
+    [
+     0.143,
+     "magilum",
+     "uci"
+    ]
+   ],
+   "FIN": [
+    [
+     0.5,
+     "ulu",
+     "olyu"
+    ],
+    [
+     0.5,
+     "ellu",
+     "olyu"
+    ],
+    [
+     0.429,
+     "magilum",
+     "alus"
+    ],
+    [
+     0.4,
+     "sasa",
+     "karya"
+    ],
+    [
+     0.4,
+     "samru",
+     "palmu"
+    ],
+    [
+     0.25,
+     "ili",
+     "olyu"
+    ],
+    [
+     0.2,
+     "sindu",
+     "puu"
+    ],
+    [
+     0.2,
+     "sinda",
+     "metsa"
+    ]
+   ]
+  }
+ },
+ "strict_decision": "NO FAMILY ATTRIBUTABLE",
  "decision": "NO FAMILY ATTRIBUTABLE"
 }

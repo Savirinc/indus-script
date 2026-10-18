@@ -5,7 +5,7 @@
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "d766163d624fe73abff1c779870e6671534370b1a59b3f81d45c688545e5c42f"
+  "sha256": "bcc9e1d9e4c4919df18c5e4493cf58748813aff80f7f6fde6c260f238aa1b8f4"
  },
  {
   "path": "LICENSE",
@@ -13,7 +13,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "9ea86dcd4aa3ae71fc0940886794a7cc1f6a923b8c01f0542adaf63a37db9c0b"
+  "sha256": "b206300868d5b286ef254c7658225bf96ee8f8c6bf12b58a3ba855f557d51394"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -53,7 +53,7 @@
  },
  {
   "path": "docs/STATUS.md",
-  "sha256": "b802ed87620c11986a289e751dcc8666aa1fed1d43a4ff92586f0fa61c73581e"
+  "sha256": "adba9a617571e9729f9b21e1bf090e9e2d1641b5208df92a207590dde73ed230"
  },
  {
   "path": "docs/atlas/Indus-Brahmi-Full-Mapping-Atlas.pdf",
@@ -2341,23 +2341,23 @@
  },
  {
   "path": "indus-lab/round50/REPORT.md",
-  "sha256": "b6703aefbd812fef63717c1a85818574a8d6220510f67eee6a2558dadda893fd"
+  "sha256": "fd018f7735f3a87511549496cba5f1e524225d1fce873ac9502ce4708059e6bd"
  },
  {
   "path": "indus-lab/round50/census.tsv",
-  "sha256": "7832e09e949f361b56895b138bf0d96ca1d7c543ef14609824ebf903f503f834"
+  "sha256": "f68a1b06ac2fba26c44fa48c8631dc5ff2e0f8624f6409ed6639b2eb976df3c0"
  },
  {
   "path": "indus-lab/round51/PROTOCOL.md",
-  "sha256": "e419fc0c9348debd8967293f5d352c89db6ae51bd81c965c935f94d9ffdb4426"
+  "sha256": "619da5bd0a07ea2c19bbe46773cbac658bf95a2b89e9a0a3e39cce908f17923e"
  },
  {
   "path": "indus-lab/round51/REPORT.md",
-  "sha256": "709f3246b2ba004c3041f7571516c3abcefd347252c84ab589a257837fc19576"
+  "sha256": "2ffee284c0157ac013c12848542c5b55791ef9b5121fc5d8b971cc459e335535"
  },
  {
   "path": "indus-lab/round51/candidates.tsv",
-  "sha256": "fae48f2d663cd31faabe22983a28e34ca4b3d337034dbd8e0f847dffc4150919"
+  "sha256": "3d70ef109e3f162497c780914ea5cfa645893c5291dd4fd243feefb96792cad9"
  },
  {
   "path": "indus-lab/round51/epsd2_lemmas.tsv",
@@ -2365,15 +2365,15 @@
  },
  {
   "path": "indus-lab/round51/results.json",
-  "sha256": "102aa01127e2972ba69c2e13f9f10a32a7cff818e182a21602ad47e312e83e4e"
+  "sha256": "80ce5fcf620494d593d55b97b96bcff3b6e4ce645f3b8e9a867bf3a9beff1914"
  },
  {
   "path": "indus-lab/round51/run51.log",
-  "sha256": "d0f338890780cf2765b5692365a63cdffe4c8c7836a7b5ae6e9df2fe4eaec4cd"
+  "sha256": "eefaf80ea1a86f9d742d5e35b4b2800ed9c5c59531af11c200affdab728a354f"
  },
  {
   "path": "indus-lab/round51/run51.py",
-  "sha256": "95efcded6f69924990402419a0a3138e24ca6eaf0d029f6803b314db24f6721b"
+  "sha256": "c6c21efa3b0259fd7493416cebe0b57ec5d363810e3c886a16a77ae5a2d807b8"
  },
  {
   "path": "indus-lab/run.py",
