@@ -33,11 +33,13 @@ def load_lexicons():
     return {k: sorted(w for w in v if len(w) >= 2) for k, v in L.items()}
 
 # ---------------- keys ----------------
-def load_tsv_key(fn):
+def load_tsv_key(fn, conf=None):
     key = {}
-    for l in open(ROOT / 'ext' / 'cyphersolver_keys' / fn, encoding='utf-8'):
+    path = (HERE / 'keys' / fn) if (HERE / 'keys' / fn).exists() else (ROOT / 'ext' / 'cyphersolver_keys' / fn)
+    for l in open(path, encoding='utf-8'):
         if not l.strip() or l.startswith('#'): continue
         p = l.rstrip('\n').split('\t')
+        if conf and (len(p) < 3 or p[2].strip() not in conf): continue
         if len(p) >= 2 and p[1].strip(): key[p[0].strip().zfill(3)] = p[1].strip()
     return key
 KEYS = {  # name: (loader, home language, verdict-bearing?)
@@ -47,6 +49,8 @@ KEYS = {  # name: (loader, home language, verdict-bearing?)
  'Kak1988': (lambda: load_tsv_key('kak1988.tsv'), 'Sanskrit', True),
  'Mahadevan2014': (lambda: load_tsv_key('mahadevan2014.tsv'), 'Tamil', True),
  'Yajnadevam2024_ref': (lambda: json.load(open(LAB / 'round46-brahmi-coverage' / 'expanded-map.json')), 'Sanskrit', False),
+ 'Rao1982': (lambda: load_tsv_key('rao1982.tsv', ('sure', 'likely')), 'Sanskrit', True),        # Addendum 1
+ 'Rao1982_sure': (lambda: load_tsv_key('rao1982.tsv', ('sure',)), 'Sanskrit', False),
 }
 
 # ---------------- reading procedure: maximal covered runs of >= 2 signs ----------------

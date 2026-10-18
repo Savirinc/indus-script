@@ -1,0 +1,65 @@
+# S. R. Rao 1982, The Decipherment of the Indus Script (Asia Publishing House, Bombay). Transcribed 2026-10-18 from the
+# archive.org scan "jlus-the-decipherment-of-the-indus-script-s-r-rao-engli" (uploader-declared CC0; book itself not redistributed here).
+# language: sa (Rao: "old Indo-Aryan"). Sources inside the book: Fig. 4/4A (pp. 36-37, basic linear signs with seal refs),
+# Fig. 8 (p. 41, phonetic value of common Semitic and Indus signs), Fig. 9 (p. 42, classification), Fig. 10 (p. 43, vowels,
+# short strokes as vowel indicators), Fig. 11-13C (pp. 47-52, compound signs). ICIT ids assigned by eye against the lipi font
+# glyph sheet of the 200 commonest corpus signs. confidence: sure = shape unambiguous; likely = shape matches but a near twin exists.
+# Rao's own transcription is kept (ś, ṛ, ḥ, ḫ, ə, ā); run49.common() collapses it. Signs not confidently matched are omitted
+# (notably his logosyllables aśva/śakunta/kṣetra/makṣa and most compounds of Fig. 11-13C).
+# sign	value	confidence	gloss
+740	a	sure	Fig.10 "Ʋ (U with two strokes) = a"; Fig.9 vowel 2
+700	ə	sure	Fig.8 row 19, Fig.10 "U = ə/a"; Fig.4 row 1 (V231, L.62)
+741	ā	likely	Fig.9 vowel 3 "U with three strokes = ā"; Fig.4 "ꓴ̈ = ā" (L.136)
+742	ae	likely	Fig.9 diphthong 5 "ae"; Fig.4 "= ae" (MK300)
+745	ao	likely	Fig.9 diphthong 6 "ao"; Fig.4 "= ao" (KBG)
+705	a	likely	Fig.4 ligatured U with inner strokes read a/ā
+706	ka	likely	Fig.10 "Ψ (U with central stroke) = ka"
+001	a	sure	Fig.10 IV.A "I = a" (short strokes as vowel indicators)
+031	a	sure	Fig.10 IV.A "I = a"
+002	ā	sure	Fig.10 IV.A "II = ā"
+032	ā	sure	Fig.10 IV.A "II = ā"
+003	ae	sure	Fig.10 IV.A "III = ae/e"
+033	ae	sure	Fig.10 IV.A "III = ae/e"
+090	ṛ	sure	Fig.8 row 20 "man = ṛ"; Fig.4 row 3 (MK274); Fig.11 compounds r+...
+220	ś	sure	Fig.8 row 21 fish = ś; Fig.13B 145 "fish + E = śah"
+520	ś	sure	Fig.8 row 16 "↑ = ś"; Fig.10 "↑ = ś, ↑ with strokes = śa, śā"
+070	ś	likely	plain upward arrow, Fig.8 row 16 Late Harappan column
+575	ś	likely	Fig.8 row 16 Harappan "ᑎ-with-stem" = ś (South Semitic parallel)
+400	h	sure	Fig.8 row 4 "E = h"; Fig.10 "E = h, E+stroke = ha, hā, hae, hao"
+415	ḥ	likely	Fig.8 row 17 "Ψ with base bar = ḥ"; Fig.13C 149-151 "Ψ+Ψ+..."
+320	ḫ	sure	Fig.8 row 6 "ladder/H forms = ḫ"; Fig.4A rows 23-24
+315	ḫ	sure	Fig.8 row 6 "H = ḫ"; Fig.4A row 23 (MK665)
+317	ḫ	likely	Fig.8 row 6 ladder form
+621	ḫ	likely	Fig.8 row 6 "⊟ = ḫ" (square with bar)
+645	t	sure	Fig.8 row 15 "X = t"; Fig.4 row 8 (M179)
+061	t	sure	Fig.8 row 15 "⋏ = t"; Fig.4 row 7 (MK666)
+690	t	likely	Fig.8 row 15 Harappan "doubled X" = t
+240	t	likely	Fig.8 row 15 Harappan "X with uprights" = t
+892	d	sure	Fig.8 row 3 "D = d"; Fig.4 row 9 (MK148)
+503	d	sure	Fig.8 row 3 "triangle = d"; Fig.4 row 9
+500	d	sure	Fig.8 row 3 triangle outline = d
+504	das	likely	Fig.12 row 50 "triangle + ‡ = d+s = das"
+480	g	sure	Fig.8 row 2 "∧ = g"; Fig.4 row 6 (V224)
+066	g	sure	Fig.8 row 2 "∧ = g"
+440	g	sure	Fig.8 row 2 Harappan "Π = g"; Fig.4 row 5 (MK601)
+920	p	sure	Fig.8 row 12 ") = p"; Fig.4 row 11 (V114)
+900	p	likely	Fig.8 row 12 bracket form = p
+790	p	sure	Fig.8 row 12 "O (oval) = p"; Fig.4 row 12 (V99)
+850	p	sure	Fig.8 row 12 "◇ = p"; Fig.4 row 13 (MK665)
+817	pa	likely	Fig.10 "O + I = pa"; Fig.4 "ⓘ = pa" (M236)
+861	pa	likely	Fig.4 "◇ with stroke = pa" (V267); Fig.12 rows 57, 65
+820	pat	likely	Fig.13 rows 97-99 "O + X = pat"
+798	ppa	likely	Fig.13 row 80 "OO = p+p = ppa"
+840	ppa	likely	Fig.13 row 80-81 overlapping ovals = ppa
+630	b	sure	Fig.8 row 1 "square = b"; Fig.4A row 14 (L.19)
+632	b	sure	Fig.8 row 1 square = b
+590	ba	likely	Fig.10 "square with stem = ba"; Fig.4A "ᗑ = ba" (L.141)
+550	m	sure	Fig.8 row 18 "⋈ = m"; Fig.4A row 15 (MK181)
+530	m	sure	Fig.8 row 18 hourglass form = m
+540	m	likely	Fig.8 row 18 variant = m
+555	ma	likely	Fig.4A "⋈ with stroke = ma" (L.136); Fig.13B 128-129
+435	n	sure	Fig.8 row 9 "S / ʃ = n"; Fig.4 row 10 (M370)
+413	s	sure	Fig.8 row 10 "‡ = s"; Fig.4A row 20
+064	v	sure	Fig.8 row 5 "Y = v"; Fig.4A row 17 (MK101)
+365	r	sure	Fig.8 row 13 "ᑭ = r" (semivowel); Fig.4A row 16 (MK522)
+460	adr	likely	Fig.11 row 43 "X + ΛΛΛ = t+adr = tadṛ"; Fig.13C 159 "ΛΛΛ + leaf = adrasva"
