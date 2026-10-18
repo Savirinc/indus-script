@@ -1,0 +1,19 @@
+# Round 51 candidate set, compiled 2026-10-18 under the PROTOCOL.md rule: a Sumerian/Akkadian word counts only if a named scholar
+# proposed in print that it was borrowed from Meluhha / the Indus language. Sources actually read: Witzel 1999 §1.9 (EJVS 5-1, pp. 24-25),
+# Witzel 2000 (Languages of Harappa, §11), Parpola 1994 pp. 13-14 and 169, Southworth 2005 §7.12 B9 and p. 64. Possehl 1996a (the "some 40
+# Indian words") could not be obtained; its list is known only through Witzel's summary, so this set is a subset and the round is INCOMPLETE
+# with respect to that source. Proposed source forms are recorded but NOT used in scoring. kind: word = scored; toponym = scored separately.
+# form	language	gloss	kind	proposer_and_page	proposers_source_suggestion
+abba	Sumerian	thorn tree wood	word	Witzel 1999:24 citing Possehl 1996a ("giš-ab-ba-me-luh-ha, abba wood, a thorn tree")	none given
+mesu	Akkadian	tree wood of the plains	word	Witzel 1999:24; Parpola 1994:13 (mesu wood of Magan)	Parpola: Old Persian yaka-, sissoo; Witzel: none
+magilum	Sumerian	boat ship	word	Witzel 1999:24 (ships of Meluhhan style); Parpola 1994 (via Wikipedia pointer, not located in scan)	Parpola: Dravidian mangi "coastal trading ship"
+sinda	Akkadian	wood tree of Sindh	word	Witzel 1999:24 ("Sindh wood sinda, si-in-da-a, si-in-du")	Sindhu (river/land)
+sindu	Akkadian	wood tree of Sindh	word	Witzel 1999:24 (variant spelling)	Sindhu
+zaza	Sumerian	cattle ox zebu	word	Witzel 1999:24 ("zaza cattle (zebu?)")	none given
+haluppu	Akkadian	tree wood oak	word	Witzel 1999:24 ("giš-ha-lu-ub or haluppu wood", from Dilmun, "Meluhhan(?)")	none given
+gisimmar	Sumerian	date palm tree	word	Witzel 1999:24 ("gišgišimmar wood", Meluhhan(?), from Dilmun)	Witzel: Vedic śimbala, śalmali
+ili	Sumerian	sesame oil	word	Witzel 1999:24; Parpola 1994:169; Southworth 2005 §7.12 B9 (Bedigian 1985)	South Dravidian eḷ, eḷḷu; or Para-Munda (t)il
+ellu	Akkadian	sesame oil	word	Witzel 1999:24; Parpola 1994:169; Southworth 2005	as above
+ulu	Akkadian	sesame oil	word	Witzel 1999:24 (ellu/ūlu)	as above
+meluhha	Akkadian	land country Meluhha	toponym	Parpola 1994:169 ("most important single piece of linguistic evidence"); Witzel 1999:25	Parpola: Dravidian mel-akam "high country"; Witzel: Vedic mleccha
+magan	Akkadian	land country Magan	toponym	Parpola 1994:13 (identified with Oman, Old Persian Maka)	Old Persian Maka
