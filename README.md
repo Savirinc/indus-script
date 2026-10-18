@@ -1,6 +1,6 @@
 # indus-script
 
-An open, pre-registered research lab for the Indus script. Fifty rounds of experiments, their protocols, code, data snapshots and reports, including the ones that failed.
+An open, pre-registered research lab for the Indus script. Fifty-one rounds of experiments, their protocols, code, data snapshots and reports, including the ones that failed.
 
 **Status, 17 October 2026: no Indus sign has an established sound or meaning in this project. No translation is claimed.** The current line of work tests whether the proposed Indus-to-Brahmi/Sanskrit mapping published by Yajnadevam (Bharath Rao, 2024) survives the same controls that already caught a false positive for Dravidian.
 
@@ -36,10 +36,12 @@ Yajnadevam's 2024 paper includes a Table 7 standardising 38 Indus signs into Bra
 
 **Round 50 (pre-registered, run):** the "near-bilingual" route. Were Indus-sign seals ever impressed on cuneiform tablets that name their owners? In every open source (Gadd 1932, Hallo & Buchanan 1965, the full CDLI catalogue) the answer is no. The one dated Gulf-seal impression on a tablet (YBC 5447, 1923 BCE) is a textless Dilmun design. Three print sources remain unread, so the verdict is INCOMPLETE rather than CLOSED.
 
+**Round 51 (pre-registered, run):** the words Mesopotamian scribes wrote for Indus goods, the only Harappan-era vocabulary in a readable script, tested for family resemblance by sound and meaning with a Sumerian shape-matched baseline and Finnish/Basque decoys. The instrument first proved it can recover a known donor from a sample this small (the Mitanni Indo-Aryan words, 100%). On the eleven Meluhhan candidates: **no family attributable**; Finnish ranks first, and the only real hit is the sesame word (ili/ellu ~ Dravidian eḷḷu) that the literature already knew. Possehl's full 40-word list, not online, is the reopen condition.
+
 ## Layout
 
 ```
-docs/STATUS.md                 one row per round, 09–50, with verdicts
+docs/STATUS.md                 one row per round, 09–51, with verdicts
 docs/EXTERNAL-EVIDENCE.md      Meluhha names, Ur seal, Commons, source gateways
 docs/atlas/                    714-sign Indus/Brahmi proposed-mapping atlas (PDF)
 docs/handover/                 earlier handover documents, kept verbatim
@@ -64,6 +66,7 @@ cd indus-lab && python3 run.py                          # evidence lab, regenera
 cd indus-lab/round47 && bash fetch_lexicons.sh && python3 run47.py   # 8 min, prints VERDICT NULL
 cd indus-lab/round48 && bash fetch_fonts.sh && ../../ext/venv/bin/python run48.py select   # 20 s; needs ext/venv with pillow fonttools brotli numpy scipy
 cd indus-lab/round49 && python3 run49.py   # 20 min; keys from dbourdeau/cyphersolver@04457698 in ext/cyphersolver_keys/
+cd indus-lab/round51 && ../../ext/venv/bin/python run51.py   # 1 min; needs numpy, rapidfuzz, JAMBU data/munda + data/other materialised
 ```
 
 Rounds 29–45 need `numpy`, `rapidfuzz`, about 1 GB of pinned external clones and the Kuiper 1991 OCR text (not bundled):

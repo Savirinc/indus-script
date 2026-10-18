@@ -1,0 +1,4895 @@
+{
+ "protocol": "PROTOCOL.md",
+ "seeds": [
+  51001,
+  51002
+ ],
+ "counts": {
+  "candidates": 11,
+  "toponyms": 2,
+  "g1": 11,
+  "g2": 41,
+  "lexicons": {
+   "PDR": 6088,
+   "IA": 8404,
+   "MUNDA": 712,
+   "BUR": 37,
+   "EUS": 1340,
+   "FIN": 1592
+  },
+  "sumerian_background": 7704
+ },
+ "G1": {
+  "label": "G1 Mitanni Indo-Aryan words (Sumerian background)",
+  "n": 11,
+  "A": {
+   "PDR": 0.009567099567099542,
+   "IA": 0.39102453102453105,
+   "MUNDA": 0.029047619047619044,
+   "BUR": -0.0008677685950413228,
+   "EUS": 0.07220779220779222,
+   "FIN": 0.06653843631116359
+  },
+  "ci95": {
+   "PDR": [
+    -0.13688311688311688,
+    0.16158766233766236
+   ],
+   "IA": [
+    0.17126154401154403,
+    0.5683681457431459
+   ],
+   "MUNDA": [
+    -0.032585497835497836,
+    0.11238095238095237
+   ],
+   "BUR": [
+    -0.026776859504132233,
+    0.029132231404958676
+   ],
+   "EUS": [
+    -0.0056542207792207805,
+    0.14890746753246753
+   ],
+   "FIN": [
+    -0.010064738292011014,
+    0.15641756854256852
+   ]
+  },
+  "p_rank1": {
+   "PDR": 0.0,
+   "IA": 1.0,
+   "MUNDA": 0.0,
+   "BUR": 0.0,
+   "EUS": 0.0,
+   "FIN": 0.0
+  },
+  "p_beats_decoys": {
+   "PDR": 0.169,
+   "IA": 1.0,
+   "MUNDA": 0.097,
+   "BUR": 0.008,
+   "EUS": 0.0,
+   "FIN": 0.0
+  },
+  "per_target": [
+   {
+    "target": "aika",
+    "PDR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.317
+    },
+    "IA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.436
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.1
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.08
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.2
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.088
+    }
+   },
+   {
+    "target": "tera",
+    "PDR": {
+     "best": "kuruvai",
+     "sim": 0.286,
+     "baseline": 0.33
+    },
+    "IA": {
+     "best": "trireka",
+     "sim": 0.429,
+     "baseline": 0.27
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "hirutan",
+     "sim": 0.286,
+     "baseline": 0.05
+    },
+    "FIN": {
+     "best": "kolmesti",
+     "sim": 0.125,
+     "baseline": 0.0
+    }
+   },
+   {
+    "target": "pansa",
+    "PDR": {
+     "best": "saj",
+     "sim": 0.2,
+     "baseline": 0.32
+    },
+    "IA": {
+     "best": "panca",
+     "sim": 0.8,
+     "baseline": 0.333
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.097
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "bost",
+     "sim": 0.2,
+     "baseline": 0.16
+    },
+    "FIN": {
+     "best": "viisi",
+     "sim": 0.2,
+     "baseline": 0.167
+    }
+   },
+   {
+    "target": "satta",
+    "PDR": {
+     "best": "citu",
+     "sim": 0.2,
+     "baseline": 0.52
+    },
+    "IA": {
+     "best": "saptaha",
+     "sim": 0.571,
+     "baseline": 0.333
+    },
+    "MUNDA": {
+     "best": "aiya",
+     "sim": 0.4,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "saspi",
+     "sim": 0.4,
+     "baseline": 0.137
+    },
+    "FIN": {
+     "best": "seitseman",
+     "sim": 0.333,
+     "baseline": 0.092
+    }
+   },
+   {
+    "target": "nava",
+    "PDR": {
+     "best": "onpad",
+     "sim": 0.2,
+     "baseline": 0.45
+    },
+    "IA": {
+     "best": "nava",
+     "sim": 1.0,
+     "baseline": 0.42
+    },
+    "MUNDA": {
+     "best": "sontin",
+     "sim": 0.167,
+     "baseline": 0.05
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "bederacu",
+     "sim": 0.125,
+     "baseline": 0.15
+    },
+    "FIN": {
+     "best": "uhdeksan",
+     "sim": 0.125,
+     "baseline": 0.237
+    }
+   },
+   {
+    "target": "vartanna",
+    "PDR": {
+     "best": "varus",
+     "sim": 0.375,
+     "baseline": 0.05
+    },
+    "IA": {
+     "best": "vartana",
+     "sim": 0.875,
+     "baseline": 0.1
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "ugura",
+     "sim": 0.125,
+     "baseline": 0.0
+    },
+    "FIN": {
+     "best": "kaantya",
+     "sim": 0.375,
+     "baseline": 0.0
+    }
+   },
+   {
+    "target": "babru",
+    "PDR": {
+     "best": "er",
+     "sim": 0.2,
+     "baseline": 0.28
+    },
+    "IA": {
+     "best": "babru",
+     "sim": 1.0,
+     "baseline": 0.234
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.055
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    }
+   },
+   {
+    "target": "parita",
+    "PDR": {
+     "best": "nara",
+     "sim": 0.5,
+     "baseline": 0.133
+    },
+    "IA": {
+     "best": "palita",
+     "sim": 0.833,
+     "baseline": 0.167
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    }
+   },
+   {
+    "target": "pinkara",
+    "PDR": {
+     "best": "kankanam",
+     "sim": 0.5,
+     "baseline": 0.2
+    },
+    "IA": {
+     "best": "pinjara",
+     "sim": 0.857,
+     "baseline": 0.286
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "gori",
+     "sim": 0.143,
+     "baseline": 0.057
+    },
+    "FIN": {
+     "best": "punainen",
+     "sim": 0.25,
+     "baseline": 0.057
+    }
+   },
+   {
+    "target": "maryannu",
+    "PDR": {
+     "best": "kantantu",
+     "sim": 0.5,
+     "baseline": 0.275
+    },
+    "IA": {
+     "best": "marya",
+     "sim": 0.625,
+     "baseline": 0.33
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": "ateero",
+     "sim": 0.125,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "motiko",
+     "sim": 0.125,
+     "baseline": 0.075
+    },
+    "FIN": {
+     "best": "nuorimies",
+     "sim": 0.111,
+     "baseline": 0.1
+    }
+   },
+   {
+    "target": "assussanni",
+    "PDR": {
+     "best": "murun",
+     "sim": 0.2,
+     "baseline": 0.18
+    },
+    "IA": {
+     "best": "asvastana",
+     "sim": 0.5,
+     "baseline": 0.28
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "samari",
+     "sim": 0.3,
+     "baseline": 0.04
+    },
+    "FIN": {
+     "best": "hevonen",
+     "sim": 0.1,
+     "baseline": 0.08
+    }
+   }
+  ],
+  "top_pairs": {
+   "PDR": [
+    [
+     0.5,
+     "pinkara",
+     "kankanam"
+    ],
+    [
+     0.5,
+     "parita",
+     "nara"
+    ],
+    [
+     0.5,
+     "maryannu",
+     "kantantu"
+    ],
+    [
+     0.375,
+     "vartanna",
+     "varus"
+    ],
+    [
+     0.286,
+     "tera",
+     "kuruvai"
+    ],
+    [
+     0.2,
+     "satta",
+     "citu"
+    ],
+    [
+     0.2,
+     "pansa",
+     "saj"
+    ],
+    [
+     0.2,
+     "nava",
+     "onpad"
+    ],
+    [
+     0.2,
+     "babru",
+     "er"
+    ],
+    [
+     0.2,
+     "assussanni",
+     "murun"
+    ]
+   ],
+   "IA": [
+    [
+     1.0,
+     "nava",
+     "nava"
+    ],
+    [
+     1.0,
+     "babru",
+     "babru"
+    ],
+    [
+     0.875,
+     "vartanna",
+     "vartana"
+    ],
+    [
+     0.857,
+     "pinkara",
+     "pinjara"
+    ],
+    [
+     0.833,
+     "parita",
+     "palita"
+    ],
+    [
+     0.8,
+     "pansa",
+     "panca"
+    ],
+    [
+     0.625,
+     "maryannu",
+     "marya"
+    ],
+    [
+     0.571,
+     "satta",
+     "saptaha"
+    ],
+    [
+     0.5,
+     "assussanni",
+     "asvastana"
+    ],
+    [
+     0.429,
+     "tera",
+     "trireka"
+    ]
+   ],
+   "MUNDA": [
+    [
+     0.4,
+     "satta",
+     "aiya"
+    ],
+    [
+     0.167,
+     "nava",
+     "sontin"
+    ]
+   ],
+   "BUR": [
+    [
+     0.125,
+     "maryannu",
+     "ateero"
+    ]
+   ],
+   "EUS": [
+    [
+     0.4,
+     "satta",
+     "saspi"
+    ],
+    [
+     0.3,
+     "assussanni",
+     "samari"
+    ],
+    [
+     0.286,
+     "tera",
+     "hirutan"
+    ],
+    [
+     0.2,
+     "pansa",
+     "bost"
+    ],
+    [
+     0.143,
+     "pinkara",
+     "gori"
+    ],
+    [
+     0.125,
+     "vartanna",
+     "ugura"
+    ],
+    [
+     0.125,
+     "nava",
+     "bederacu"
+    ],
+    [
+     0.125,
+     "maryannu",
+     "motiko"
+    ]
+   ],
+   "FIN": [
+    [
+     0.375,
+     "vartanna",
+     "kaantya"
+    ],
+    [
+     0.333,
+     "satta",
+     "seitseman"
+    ],
+    [
+     0.25,
+     "pinkara",
+     "punainen"
+    ],
+    [
+     0.2,
+     "pansa",
+     "viisi"
+    ],
+    [
+     0.125,
+     "tera",
+     "kolmesti"
+    ],
+    [
+     0.125,
+     "nava",
+     "uhdeksan"
+    ],
+    [
+     0.111,
+     "maryannu",
+     "nuorimies"
+    ],
+    [
+     0.1,
+     "assussanni",
+     "hevonen"
+    ]
+   ]
+  }
+ },
+ "G1_pass": true,
+ "G2": {
+  "label": "G2 Dravidian loans in Sanskrit (CDIAL background, IA lexicon minus the loans)",
+  "n": 41,
+  "A": {
+   "PDR": 0.1481587653538873,
+   "IA": -0.42558511948755856,
+   "MUNDA": 0.039250871080139374,
+   "BUR": 0.03194541231126597,
+   "EUS": -0.02517104846373138,
+   "FIN": 0.0037554992433041176
+  },
+  "ci95": {
+   "PDR": [
+    0.09490618730862632,
+    0.20501997765107516
+   ],
+   "IA": [
+    -0.49175588639003265,
+    -0.3570184862562911
+   ],
+   "MUNDA": [
+    -0.01281518583042973,
+    0.09599143437862946
+   ],
+   "BUR": [
+    -0.0053685152922957795,
+    0.0750607336430507
+   ],
+   "EUS": [
+    -0.07857452574525745,
+    0.03074450515609052
+   ],
+   "FIN": [
+    -0.05437765283496992,
+    0.06021962657938268
+   ]
+  },
+  "p_rank1": {
+   "PDR": 0.992,
+   "IA": 0.0,
+   "MUNDA": 0.006,
+   "BUR": 0.002,
+   "EUS": 0.0,
+   "FIN": 0.0
+  },
+  "p_beats_decoys": {
+   "PDR": 1.0,
+   "IA": 0.0,
+   "MUNDA": 0.756,
+   "BUR": 0.818,
+   "EUS": 0.0,
+   "FIN": 0.0
+  },
+  "per_target": [
+   {
+    "target": "cikka",
+    "PDR": {
+     "best": "cabka",
+     "sim": 0.6,
+     "baseline": 0.52
+    },
+    "IA": {
+     "best": "ciccika",
+     "sim": 0.571,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "mua",
+     "sim": 0.2,
+     "baseline": 0.115
+    },
+    "BUR": {
+     "best": "aceemo",
+     "sim": 0.167,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "cori",
+     "sim": 0.2,
+     "baseline": 0.272
+    },
+    "FIN": {
+     "best": "silma",
+     "sim": 0.4,
+     "baseline": 0.42
+    }
+   },
+   {
+    "target": "ganda",
+    "PDR": {
+     "best": "vand",
+     "sim": 0.6,
+     "baseline": 0.4
+    },
+    "IA": {
+     "best": "vanda",
+     "sim": 0.8,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "moda",
+     "sim": 0.4,
+     "baseline": 0.04
+    },
+    "BUR": {
+     "best": "alalaso",
+     "sim": 0.143,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "lata",
+     "sim": 0.4,
+     "baseline": 0.2
+    },
+    "FIN": {
+     "best": "haista",
+     "sim": 0.333,
+     "baseline": 0.04
+    }
+   },
+   {
+    "target": "golaka",
+    "PDR": {
+     "best": "dok",
+     "sim": 0.333,
+     "baseline": 0.533
+    },
+    "IA": {
+     "best": "godika",
+     "sim": 0.667,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.033
+    },
+    "EUS": {
+     "best": "suskadera",
+     "sim": 0.222,
+     "baseline": 0.1
+    },
+    "FIN": {
+     "best": "sisilisko",
+     "sim": 0.222,
+     "baseline": 0.267
+    }
+   },
+   {
+    "target": "halya",
+    "PDR": {
+     "best": "pal",
+     "sim": 0.4,
+     "baseline": 0.475
+    },
+    "IA": {
+     "best": "palya",
+     "sim": 0.8,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "sv",
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.153
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.267
+    }
+   },
+   {
+    "target": "hoda",
+    "PDR": {
+     "best": "odam",
+     "sim": 0.5,
+     "baseline": 0.35
+    },
+    "IA": {
+     "best": "beda",
+     "sim": 0.5,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.05
+    },
+    "EUS": {
+     "best": "uci",
+     "sim": 0.0,
+     "baseline": 0.217
+    },
+    "FIN": {
+     "best": "lossa",
+     "sim": 0.4,
+     "baseline": 0.147
+    }
+   },
+   {
+    "target": "jata",
+    "PDR": {
+     "best": "pat",
+     "sim": 0.5,
+     "baseline": 0.44
+    },
+    "IA": {
+     "best": "kata",
+     "sim": 0.75,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "bura",
+     "sim": 0.25,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.137
+    },
+    "EUS": {
+     "best": "haur",
+     "sim": 0.25,
+     "baseline": 0.366
+    },
+    "FIN": {
+     "best": "vaantaa",
+     "sim": 0.429,
+     "baseline": 0.24
+    }
+   },
+   {
+    "target": "lalata",
+    "PDR": {
+     "best": "panai",
+     "sim": 0.333,
+     "baseline": 0.433
+    },
+    "IA": {
+     "best": "lalatapatta",
+     "sim": 0.545,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "sanaman",
+     "sim": 0.429,
+     "baseline": 0.1
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "belar",
+     "sim": 0.333,
+     "baseline": 0.3
+    },
+    "FIN": {
+     "best": "otsa",
+     "sim": 0.167,
+     "baseline": 0.294
+    }
+   },
+   {
+    "target": "maggusa",
+    "PDR": {
+     "best": "munus",
+     "sim": 0.429,
+     "baseline": 0.4
+    },
+    "IA": {
+     "best": "nakula",
+     "sim": 0.429,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.029
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.057
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.086
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.182
+    }
+   },
+   {
+    "target": "mala",
+    "PDR": {
+     "best": "mala",
+     "sim": 1.0,
+     "baseline": 0.65
+    },
+    "IA": {
+     "best": "malya",
+     "sim": 0.8,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "mar",
+     "sim": 0.5,
+     "baseline": 0.18
+    },
+    "BUR": {
+     "best": "acari",
+     "sim": 0.2,
+     "baseline": 0.062
+    },
+    "EUS": {
+     "best": "hulan",
+     "sim": 0.4,
+     "baseline": 0.34
+    },
+    "FIN": {
+     "best": "kula",
+     "sim": 0.5,
+     "baseline": 0.48
+    }
+   },
+   {
+    "target": "malla",
+    "PDR": {
+     "best": "mal",
+     "sim": 0.6,
+     "baseline": 0.474
+    },
+    "IA": {
+     "best": "balla",
+     "sim": 0.8,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "BUR": {
+     "best": "alalaso",
+     "sim": 0.429,
+     "baseline": 0.08
+    },
+    "EUS": {
+     "best": "nahas",
+     "sim": 0.2,
+     "baseline": 0.199
+    },
+    "FIN": {
+     "best": "kansa",
+     "sim": 0.4,
+     "baseline": 0.204
+    }
+   },
+   {
+    "target": "manjusa",
+    "PDR": {
+     "best": "manjikai",
+     "sim": 0.625,
+     "baseline": 0.343
+    },
+    "IA": {
+     "best": "valgulika",
+     "sim": 0.333,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "bulhar",
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "FIN": {
+     "best": "rintakeha",
+     "sim": 0.222,
+     "baseline": 0.086
+    }
+   },
+   {
+    "target": "markata",
+    "PDR": {
+     "best": "karati",
+     "sim": 0.571,
+     "baseline": 0.429
+    },
+    "IA": {
+     "best": "nakara",
+     "sim": 0.571,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.114
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "besala",
+     "sim": 0.286,
+     "baseline": 0.229
+    },
+    "FIN": {
+     "best": "apina",
+     "sim": 0.286,
+     "baseline": 0.353
+    }
+   },
+   {
+    "target": "masati",
+    "PDR": {
+     "best": "mas",
+     "sim": 0.5,
+     "baseline": 0.3
+    },
+    "IA": {
+     "best": "mrsati",
+     "sim": 0.833,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "busa",
+     "sim": 0.333,
+     "baseline": 0.1
+    },
+    "FIN": {
+     "best": "yauhaa",
+     "sim": 0.167,
+     "baseline": 0.177
+    }
+   },
+   {
+    "target": "masi",
+    "PDR": {
+     "best": "masi",
+     "sim": 1.0,
+     "baseline": 0.64
+    },
+    "IA": {
+     "best": "samita",
+     "sim": 0.333,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.05
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "belc",
+     "sim": 0.0,
+     "baseline": 0.248
+    },
+    "FIN": {
+     "best": "musta",
+     "sim": 0.4,
+     "baseline": 0.429
+    }
+   },
+   {
+    "target": "matkuna",
+    "PDR": {
+     "best": "metta",
+     "sim": 0.429,
+     "baseline": 0.343
+    },
+    "IA": {
+     "best": "utkuna",
+     "sim": 0.714,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "raa",
+     "sim": 0.286,
+     "baseline": 0.086
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "ohe",
+     "sim": 0.0,
+     "baseline": 0.114
+    },
+    "FIN": {
+     "best": "sanku",
+     "sim": 0.429,
+     "baseline": 0.187
+    }
+   },
+   {
+    "target": "mayura",
+    "PDR": {
+     "best": "mayvr",
+     "sim": 0.667,
+     "baseline": 0.333
+    },
+    "IA": {
+     "best": "keka",
+     "sim": 0.167,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "marra",
+     "sim": 0.667,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.133
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.095
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.073
+    }
+   },
+   {
+    "target": "mina",
+    "PDR": {
+     "best": "min",
+     "sim": 0.75,
+     "baseline": 0.54
+    },
+    "IA": {
+     "best": "patina",
+     "sim": 0.5,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "haihaku",
+     "sim": 0.286,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.057
+    },
+    "EUS": {
+     "best": "bertol",
+     "sim": 0.0,
+     "baseline": 0.41
+    },
+    "FIN": {
+     "best": "rusa",
+     "sim": 0.25,
+     "baseline": 0.53
+    }
+   },
+   {
+    "target": "mukta",
+    "PDR": {
+     "best": "muttv",
+     "sim": 0.6,
+     "baseline": 0.373
+    },
+    "IA": {
+     "best": "saukta",
+     "sim": 0.667,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.08
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.14
+    }
+   },
+   {
+    "target": "mukula",
+    "PDR": {
+     "best": "mug",
+     "sim": 0.333,
+     "baseline": 0.242
+    },
+    "IA": {
+     "best": "kudmala",
+     "sim": 0.429,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.1
+    }
+   },
+   {
+    "target": "mukuta",
+    "PDR": {
+     "best": "kukut",
+     "sim": 0.667,
+     "baseline": 0.317
+    },
+    "IA": {
+     "best": "masta",
+     "sim": 0.5,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "bokop",
+     "sim": 0.167,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": "balaacman",
+     "sim": 0.111,
+     "baseline": 0.033
+    },
+    "EUS": {
+     "best": "buru",
+     "sim": 0.333,
+     "baseline": 0.14
+    },
+    "FIN": {
+     "best": "tukka",
+     "sim": 0.5,
+     "baseline": 0.229
+    }
+   },
+   {
+    "target": "muraja",
+    "PDR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.352
+    },
+    "IA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.275
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.156
+    }
+   },
+   {
+    "target": "murali",
+    "PDR": {
+     "best": "purai",
+     "sim": 0.667,
+     "baseline": 0.367
+    },
+    "IA": {
+     "best": "vansi",
+     "sim": 0.167,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.122
+    },
+    "EUS": {
+     "best": "culula",
+     "sim": 0.333,
+     "baseline": 0.2
+    },
+    "FIN": {
+     "best": "huilu",
+     "sim": 0.333,
+     "baseline": 0.267
+    }
+   },
+   {
+    "target": "murangi",
+    "PDR": {
+     "best": "munag",
+     "sim": 0.571,
+     "baseline": 0.438
+    },
+    "IA": {
+     "best": "surangi",
+     "sim": 0.857,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.029
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.255
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.282
+    }
+   },
+   {
+    "target": "muta",
+    "PDR": {
+     "best": "mut",
+     "sim": 0.75,
+     "baseline": 0.47
+    },
+    "IA": {
+     "best": "mota",
+     "sim": 0.75,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "EUS": {
+     "best": "sare",
+     "sim": 0.0,
+     "baseline": 0.192
+    },
+    "FIN": {
+     "best": "kori",
+     "sim": 0.0,
+     "baseline": 0.279
+    }
+   },
+   {
+    "target": "pandita",
+    "PDR": {
+     "best": "pajil",
+     "sim": 0.429,
+     "baseline": 0.286
+    },
+    "IA": {
+     "best": "vaidya",
+     "sim": 0.429,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.029
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "abil",
+     "sim": 0.286,
+     "baseline": 0.143
+    },
+    "FIN": {
+     "best": "oppia",
+     "sim": 0.286,
+     "baseline": 0.169
+    }
+   },
+   {
+    "target": "panji",
+    "PDR": {
+     "best": "panji",
+     "sim": 1.0,
+     "baseline": 0.394
+    },
+    "IA": {
+     "best": "maunji",
+     "sim": 0.667,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.2
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "hari",
+     "sim": 0.4,
+     "baseline": 0.08
+    },
+    "FIN": {
+     "best": "pallo",
+     "sim": 0.4,
+     "baseline": 0.12
+    }
+   },
+   {
+    "target": "pataka",
+    "PDR": {
+     "best": "prakka",
+     "sim": 0.5,
+     "baseline": 0.47
+    },
+    "IA": {
+     "best": "pattana",
+     "sim": 0.714,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": "acari",
+     "sim": 0.333,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "irakasle",
+     "sim": 0.25,
+     "baseline": 0.1
+    },
+    "FIN": {
+     "best": "opettaya",
+     "sim": 0.5,
+     "baseline": 0.142
+    }
+   },
+   {
+    "target": "pota",
+    "PDR": {
+     "best": "pott",
+     "sim": 0.75,
+     "baseline": 0.44
+    },
+    "IA": {
+     "best": "plota",
+     "sim": 0.8,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.05
+    },
+    "BUR": {
+     "best": "balan",
+     "sim": 0.2,
+     "baseline": 0.029
+    },
+    "EUS": {
+     "best": "aropa",
+     "sim": 0.4,
+     "baseline": 0.097
+    },
+    "FIN": {
+     "best": "pukeutua",
+     "sim": 0.375,
+     "baseline": 0.157
+    }
+   },
+   {
+    "target": "pravada",
+    "PDR": {
+     "best": "pavas",
+     "sim": 0.571,
+     "baseline": 0.257
+    },
+    "IA": {
+     "best": "prasana",
+     "sim": 0.714,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.086
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "elhesta",
+     "sim": 0.143,
+     "baseline": 0.246
+    },
+    "FIN": {
+     "best": "puhua",
+     "sim": 0.286,
+     "baseline": 0.094
+    }
+   },
+   {
+    "target": "proncati",
+    "PDR": {
+     "best": "donti",
+     "sim": 0.5,
+     "baseline": 0.45
+    },
+    "IA": {
+     "best": "proncana",
+     "sim": 0.75,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.11
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.097
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.3
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.225
+    }
+   },
+   {
+    "target": "sava",
+    "PDR": {
+     "best": "sev",
+     "sim": 0.5,
+     "baseline": 0.53
+    },
+    "IA": {
+     "best": "saka",
+     "sim": 0.75,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.257
+    },
+    "BUR": {
+     "best": "bag",
+     "sim": 0.25,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "neskatila",
+     "sim": 0.333,
+     "baseline": 0.24
+    },
+    "FIN": {
+     "best": "elain",
+     "sim": 0.2,
+     "baseline": 0.26
+    }
+   },
+   {
+    "target": "srngavera",
+    "PDR": {
+     "best": "sigadi",
+     "sim": 0.333,
+     "baseline": 0.267
+    },
+    "IA": {
+     "best": "vesavara",
+     "sim": 0.444,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.044
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.133
+    }
+   },
+   {
+    "target": "svavid",
+    "PDR": {
+     "best": "sed",
+     "sim": 0.333,
+     "baseline": 0.333
+    },
+    "IA": {
+     "best": "salali",
+     "sim": 0.333,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "gcain",
+     "sim": 0.333,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.129
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.233
+    }
+   },
+   {
+    "target": "tardu",
+    "PDR": {
+     "best": "tad",
+     "sim": 0.6,
+     "baseline": 0.453
+    },
+    "IA": {
+     "best": "hadi",
+     "sim": 0.4,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.192
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.272
+    }
+   },
+   {
+    "target": "tatanka",
+    "PDR": {
+     "best": "vank",
+     "sim": 0.429,
+     "baseline": 0.314
+    },
+    "IA": {
+     "best": "valaka",
+     "sim": 0.571,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "lutur",
+     "sim": 0.143,
+     "baseline": 0.057
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "goisik",
+     "sim": 0.143,
+     "baseline": 0.057
+    },
+    "FIN": {
+     "best": "varhain",
+     "sim": 0.143,
+     "baseline": 0.114
+    }
+   },
+   {
+    "target": "toya",
+    "PDR": {
+     "best": "tond",
+     "sim": 0.5,
+     "baseline": 0.567
+    },
+    "IA": {
+     "best": "utsiya",
+     "sim": 0.5,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "ndia",
+     "sim": 0.25,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": "asamat",
+     "sim": 0.167,
+     "baseline": 0.067
+    },
+    "EUS": {
+     "best": "hur",
+     "sim": 0.0,
+     "baseline": 0.274
+    },
+    "FIN": {
+     "best": "vesi",
+     "sim": 0.0,
+     "baseline": 0.333
+    }
+   },
+   {
+    "target": "tula",
+    "PDR": {
+     "best": "pulai",
+     "sim": 0.6,
+     "baseline": 0.6
+    },
+    "IA": {
+     "best": "tulasi",
+     "sim": 0.667,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.05
+    },
+    "BUR": {
+     "best": "balan",
+     "sim": 0.4,
+     "baseline": 0.033
+    },
+    "EUS": {
+     "best": "belhar",
+     "sim": 0.333,
+     "baseline": 0.31
+    },
+    "FIN": {
+     "best": "kukka",
+     "sim": 0.4,
+     "baseline": 0.347
+    }
+   },
+   {
+    "target": "valli",
+    "PDR": {
+     "best": "valli",
+     "sim": 1.0,
+     "baseline": 0.4
+    },
+    "IA": {
+     "best": "cilihinda",
+     "sim": 0.222,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.157
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.207
+    }
+   },
+   {
+    "target": "vata",
+    "PDR": {
+     "best": "varata",
+     "sim": 0.667,
+     "baseline": 0.62
+    },
+    "IA": {
+     "best": "varta",
+     "sim": 0.8,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": "uidak",
+     "sim": 0.2,
+     "baseline": 0.186
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.107
+    },
+    "EUS": {
+     "best": "rut",
+     "sim": 0.25,
+     "baseline": 0.205
+    },
+    "FIN": {
+     "best": "aidata",
+     "sim": 0.5,
+     "baseline": 0.27
+    }
+   },
+   {
+    "target": "vatingana",
+    "PDR": {
+     "best": "vajint",
+     "sim": 0.444,
+     "baseline": 0.147
+    },
+    "IA": {
+     "best": "ringani",
+     "sim": 0.556,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": "alalaso",
+     "sim": 0.222,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "latare",
+     "sim": 0.333,
+     "baseline": 0.0
+    },
+    "FIN": {
+     "best": "saivar",
+     "sim": 0.333,
+     "baseline": 0.022
+    }
+   },
+   {
+    "target": "viti",
+    "PDR": {
+     "best": "aviri",
+     "sim": 0.6,
+     "baseline": 0.417
+    },
+    "IA": {
+     "best": "vrti",
+     "sim": 0.75,
+     "baseline": 1.0
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.107
+    },
+    "BUR": {
+     "best": "balon",
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "EUS": {
+     "best": "lata",
+     "sim": 0.25,
+     "baseline": 0.233
+    },
+    "FIN": {
+     "best": "rivi",
+     "sim": 0.5,
+     "baseline": 0.28
+    }
+   }
+  ],
+  "top_pairs": {
+   "PDR": [
+    [
+     1.0,
+     "valli",
+     "valli"
+    ],
+    [
+     1.0,
+     "panji",
+     "panji"
+    ],
+    [
+     1.0,
+     "masi",
+     "masi"
+    ],
+    [
+     1.0,
+     "mala",
+     "mala"
+    ],
+    [
+     0.75,
+     "pota",
+     "pott"
+    ],
+    [
+     0.75,
+     "muta",
+     "mut"
+    ],
+    [
+     0.75,
+     "mina",
+     "min"
+    ],
+    [
+     0.667,
+     "vata",
+     "varata"
+    ],
+    [
+     0.667,
+     "murali",
+     "purai"
+    ],
+    [
+     0.667,
+     "mukuta",
+     "kukut"
+    ],
+    [
+     0.667,
+     "mayura",
+     "mayvr"
+    ],
+    [
+     0.625,
+     "manjusa",
+     "manjikai"
+    ],
+    [
+     0.6,
+     "viti",
+     "aviri"
+    ],
+    [
+     0.6,
+     "tula",
+     "pulai"
+    ],
+    [
+     0.6,
+     "tardu",
+     "tad"
+    ]
+   ],
+   "IA": [
+    [
+     0.857,
+     "murangi",
+     "surangi"
+    ],
+    [
+     0.833,
+     "masati",
+     "mrsati"
+    ],
+    [
+     0.8,
+     "vata",
+     "varta"
+    ],
+    [
+     0.8,
+     "pota",
+     "plota"
+    ],
+    [
+     0.8,
+     "malla",
+     "balla"
+    ],
+    [
+     0.8,
+     "mala",
+     "malya"
+    ],
+    [
+     0.8,
+     "halya",
+     "palya"
+    ],
+    [
+     0.8,
+     "ganda",
+     "vanda"
+    ],
+    [
+     0.75,
+     "viti",
+     "vrti"
+    ],
+    [
+     0.75,
+     "sava",
+     "saka"
+    ],
+    [
+     0.75,
+     "proncati",
+     "proncana"
+    ],
+    [
+     0.75,
+     "muta",
+     "mota"
+    ],
+    [
+     0.75,
+     "jata",
+     "kata"
+    ],
+    [
+     0.714,
+     "pravada",
+     "prasana"
+    ],
+    [
+     0.714,
+     "pataka",
+     "pattana"
+    ]
+   ],
+   "MUNDA": [
+    [
+     0.667,
+     "mayura",
+     "marra"
+    ],
+    [
+     0.5,
+     "mala",
+     "mar"
+    ],
+    [
+     0.429,
+     "lalata",
+     "sanaman"
+    ],
+    [
+     0.4,
+     "ganda",
+     "moda"
+    ],
+    [
+     0.333,
+     "svavid",
+     "gcain"
+    ],
+    [
+     0.286,
+     "mina",
+     "haihaku"
+    ],
+    [
+     0.286,
+     "matkuna",
+     "raa"
+    ],
+    [
+     0.25,
+     "toya",
+     "ndia"
+    ],
+    [
+     0.25,
+     "jata",
+     "bura"
+    ],
+    [
+     0.2,
+     "vata",
+     "uidak"
+    ],
+    [
+     0.2,
+     "cikka",
+     "mua"
+    ],
+    [
+     0.167,
+     "mukuta",
+     "bokop"
+    ],
+    [
+     0.143,
+     "tatanka",
+     "lutur"
+    ],
+    [
+     0.0,
+     "halya",
+     "sv"
+    ]
+   ],
+   "BUR": [
+    [
+     0.429,
+     "malla",
+     "alalaso"
+    ],
+    [
+     0.4,
+     "tula",
+     "balan"
+    ],
+    [
+     0.333,
+     "pataka",
+     "acari"
+    ],
+    [
+     0.25,
+     "sava",
+     "bag"
+    ],
+    [
+     0.222,
+     "vatingana",
+     "alalaso"
+    ],
+    [
+     0.2,
+     "pota",
+     "balan"
+    ],
+    [
+     0.2,
+     "mala",
+     "acari"
+    ],
+    [
+     0.167,
+     "toya",
+     "asamat"
+    ],
+    [
+     0.167,
+     "cikka",
+     "aceemo"
+    ],
+    [
+     0.143,
+     "ganda",
+     "alalaso"
+    ],
+    [
+     0.111,
+     "mukuta",
+     "balaacman"
+    ],
+    [
+     0.0,
+     "viti",
+     "balon"
+    ]
+   ],
+   "EUS": [
+    [
+     0.4,
+     "pota",
+     "aropa"
+    ],
+    [
+     0.4,
+     "panji",
+     "hari"
+    ],
+    [
+     0.4,
+     "mala",
+     "hulan"
+    ],
+    [
+     0.4,
+     "ganda",
+     "lata"
+    ],
+    [
+     0.333,
+     "vatingana",
+     "latare"
+    ],
+    [
+     0.333,
+     "tula",
+     "belhar"
+    ],
+    [
+     0.333,
+     "sava",
+     "neskatila"
+    ],
+    [
+     0.333,
+     "murali",
+     "culula"
+    ],
+    [
+     0.333,
+     "mukuta",
+     "buru"
+    ],
+    [
+     0.333,
+     "masati",
+     "busa"
+    ],
+    [
+     0.333,
+     "lalata",
+     "belar"
+    ],
+    [
+     0.286,
+     "pandita",
+     "abil"
+    ],
+    [
+     0.286,
+     "markata",
+     "besala"
+    ],
+    [
+     0.25,
+     "viti",
+     "lata"
+    ],
+    [
+     0.25,
+     "vata",
+     "rut"
+    ]
+   ],
+   "FIN": [
+    [
+     0.5,
+     "viti",
+     "rivi"
+    ],
+    [
+     0.5,
+     "vata",
+     "aidata"
+    ],
+    [
+     0.5,
+     "pataka",
+     "opettaya"
+    ],
+    [
+     0.5,
+     "mukuta",
+     "tukka"
+    ],
+    [
+     0.5,
+     "mala",
+     "kula"
+    ],
+    [
+     0.429,
+     "matkuna",
+     "sanku"
+    ],
+    [
+     0.429,
+     "jata",
+     "vaantaa"
+    ],
+    [
+     0.4,
+     "tula",
+     "kukka"
+    ],
+    [
+     0.4,
+     "panji",
+     "pallo"
+    ],
+    [
+     0.4,
+     "masi",
+     "musta"
+    ],
+    [
+     0.4,
+     "malla",
+     "kansa"
+    ],
+    [
+     0.4,
+     "hoda",
+     "lossa"
+    ],
+    [
+     0.4,
+     "cikka",
+     "silma"
+    ],
+    [
+     0.375,
+     "pota",
+     "pukeutua"
+    ],
+    [
+     0.333,
+     "vatingana",
+     "saivar"
+    ]
+   ]
+  }
+ },
+ "G2_pass": true,
+ "G2_round39_families": {
+  "label": "G2 as round 39 (no IA family)",
+  "n": 41,
+  "A": {
+   "PDR": 0.1481587653538873,
+   "MUNDA": 0.039250871080139374,
+   "BUR": 0.03194541231126597,
+   "EUS": -0.02517104846373138,
+   "FIN": 0.0037554992433041176
+  },
+  "ci95": {
+   "PDR": [
+    0.09490618730862632,
+    0.20501997765107516
+   ],
+   "MUNDA": [
+    -0.01281518583042973,
+    0.09599143437862946
+   ],
+   "BUR": [
+    -0.0053685152922957795,
+    0.0750607336430507
+   ],
+   "EUS": [
+    -0.07857452574525745,
+    0.03074450515609052
+   ],
+   "FIN": [
+    -0.05437765283496992,
+    0.06021962657938268
+   ]
+  },
+  "p_rank1": {
+   "PDR": 0.992,
+   "MUNDA": 0.006,
+   "BUR": 0.002,
+   "EUS": 0.0,
+   "FIN": 0.0
+  },
+  "p_beats_decoys": {
+   "PDR": 1.0,
+   "MUNDA": 0.756,
+   "BUR": 0.818,
+   "EUS": 0.0,
+   "FIN": 0.0
+  },
+  "per_target": [
+   {
+    "target": "cikka",
+    "PDR": {
+     "best": "cabka",
+     "sim": 0.6,
+     "baseline": 0.52
+    },
+    "MUNDA": {
+     "best": "mua",
+     "sim": 0.2,
+     "baseline": 0.115
+    },
+    "BUR": {
+     "best": "aceemo",
+     "sim": 0.167,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "cori",
+     "sim": 0.2,
+     "baseline": 0.272
+    },
+    "FIN": {
+     "best": "silma",
+     "sim": 0.4,
+     "baseline": 0.42
+    }
+   },
+   {
+    "target": "ganda",
+    "PDR": {
+     "best": "vand",
+     "sim": 0.6,
+     "baseline": 0.4
+    },
+    "MUNDA": {
+     "best": "moda",
+     "sim": 0.4,
+     "baseline": 0.04
+    },
+    "BUR": {
+     "best": "alalaso",
+     "sim": 0.143,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "lata",
+     "sim": 0.4,
+     "baseline": 0.2
+    },
+    "FIN": {
+     "best": "haista",
+     "sim": 0.333,
+     "baseline": 0.04
+    }
+   },
+   {
+    "target": "golaka",
+    "PDR": {
+     "best": "dok",
+     "sim": 0.333,
+     "baseline": 0.533
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.033
+    },
+    "EUS": {
+     "best": "suskadera",
+     "sim": 0.222,
+     "baseline": 0.1
+    },
+    "FIN": {
+     "best": "sisilisko",
+     "sim": 0.222,
+     "baseline": 0.267
+    }
+   },
+   {
+    "target": "halya",
+    "PDR": {
+     "best": "pal",
+     "sim": 0.4,
+     "baseline": 0.475
+    },
+    "MUNDA": {
+     "best": "sv",
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.153
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.267
+    }
+   },
+   {
+    "target": "hoda",
+    "PDR": {
+     "best": "odam",
+     "sim": 0.5,
+     "baseline": 0.35
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.05
+    },
+    "EUS": {
+     "best": "uci",
+     "sim": 0.0,
+     "baseline": 0.217
+    },
+    "FIN": {
+     "best": "lossa",
+     "sim": 0.4,
+     "baseline": 0.147
+    }
+   },
+   {
+    "target": "jata",
+    "PDR": {
+     "best": "pat",
+     "sim": 0.5,
+     "baseline": 0.44
+    },
+    "MUNDA": {
+     "best": "bura",
+     "sim": 0.25,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.137
+    },
+    "EUS": {
+     "best": "haur",
+     "sim": 0.25,
+     "baseline": 0.366
+    },
+    "FIN": {
+     "best": "vaantaa",
+     "sim": 0.429,
+     "baseline": 0.24
+    }
+   },
+   {
+    "target": "lalata",
+    "PDR": {
+     "best": "panai",
+     "sim": 0.333,
+     "baseline": 0.433
+    },
+    "MUNDA": {
+     "best": "sanaman",
+     "sim": 0.429,
+     "baseline": 0.1
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "belar",
+     "sim": 0.333,
+     "baseline": 0.3
+    },
+    "FIN": {
+     "best": "otsa",
+     "sim": 0.167,
+     "baseline": 0.294
+    }
+   },
+   {
+    "target": "maggusa",
+    "PDR": {
+     "best": "munus",
+     "sim": 0.429,
+     "baseline": 0.4
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.029
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.057
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.086
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.182
+    }
+   },
+   {
+    "target": "mala",
+    "PDR": {
+     "best": "mala",
+     "sim": 1.0,
+     "baseline": 0.65
+    },
+    "MUNDA": {
+     "best": "mar",
+     "sim": 0.5,
+     "baseline": 0.18
+    },
+    "BUR": {
+     "best": "acari",
+     "sim": 0.2,
+     "baseline": 0.062
+    },
+    "EUS": {
+     "best": "hulan",
+     "sim": 0.4,
+     "baseline": 0.34
+    },
+    "FIN": {
+     "best": "kula",
+     "sim": 0.5,
+     "baseline": 0.48
+    }
+   },
+   {
+    "target": "malla",
+    "PDR": {
+     "best": "mal",
+     "sim": 0.6,
+     "baseline": 0.474
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "BUR": {
+     "best": "alalaso",
+     "sim": 0.429,
+     "baseline": 0.08
+    },
+    "EUS": {
+     "best": "nahas",
+     "sim": 0.2,
+     "baseline": 0.199
+    },
+    "FIN": {
+     "best": "kansa",
+     "sim": 0.4,
+     "baseline": 0.204
+    }
+   },
+   {
+    "target": "manjusa",
+    "PDR": {
+     "best": "manjikai",
+     "sim": 0.625,
+     "baseline": 0.343
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "bulhar",
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "FIN": {
+     "best": "rintakeha",
+     "sim": 0.222,
+     "baseline": 0.086
+    }
+   },
+   {
+    "target": "markata",
+    "PDR": {
+     "best": "karati",
+     "sim": 0.571,
+     "baseline": 0.429
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.114
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "besala",
+     "sim": 0.286,
+     "baseline": 0.229
+    },
+    "FIN": {
+     "best": "apina",
+     "sim": 0.286,
+     "baseline": 0.353
+    }
+   },
+   {
+    "target": "masati",
+    "PDR": {
+     "best": "mas",
+     "sim": 0.5,
+     "baseline": 0.3
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "busa",
+     "sim": 0.333,
+     "baseline": 0.1
+    },
+    "FIN": {
+     "best": "yauhaa",
+     "sim": 0.167,
+     "baseline": 0.177
+    }
+   },
+   {
+    "target": "masi",
+    "PDR": {
+     "best": "masi",
+     "sim": 1.0,
+     "baseline": 0.64
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.05
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "belc",
+     "sim": 0.0,
+     "baseline": 0.248
+    },
+    "FIN": {
+     "best": "musta",
+     "sim": 0.4,
+     "baseline": 0.429
+    }
+   },
+   {
+    "target": "matkuna",
+    "PDR": {
+     "best": "metta",
+     "sim": 0.429,
+     "baseline": 0.343
+    },
+    "MUNDA": {
+     "best": "raa",
+     "sim": 0.286,
+     "baseline": 0.086
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "ohe",
+     "sim": 0.0,
+     "baseline": 0.114
+    },
+    "FIN": {
+     "best": "sanku",
+     "sim": 0.429,
+     "baseline": 0.187
+    }
+   },
+   {
+    "target": "mayura",
+    "PDR": {
+     "best": "mayvr",
+     "sim": 0.667,
+     "baseline": 0.333
+    },
+    "MUNDA": {
+     "best": "marra",
+     "sim": 0.667,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.133
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.095
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.073
+    }
+   },
+   {
+    "target": "mina",
+    "PDR": {
+     "best": "min",
+     "sim": 0.75,
+     "baseline": 0.54
+    },
+    "MUNDA": {
+     "best": "haihaku",
+     "sim": 0.286,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.057
+    },
+    "EUS": {
+     "best": "bertol",
+     "sim": 0.0,
+     "baseline": 0.41
+    },
+    "FIN": {
+     "best": "rusa",
+     "sim": 0.25,
+     "baseline": 0.53
+    }
+   },
+   {
+    "target": "mukta",
+    "PDR": {
+     "best": "muttv",
+     "sim": 0.6,
+     "baseline": 0.373
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.08
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.14
+    }
+   },
+   {
+    "target": "mukula",
+    "PDR": {
+     "best": "mug",
+     "sim": 0.333,
+     "baseline": 0.242
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.1
+    }
+   },
+   {
+    "target": "mukuta",
+    "PDR": {
+     "best": "kukut",
+     "sim": 0.667,
+     "baseline": 0.317
+    },
+    "MUNDA": {
+     "best": "bokop",
+     "sim": 0.167,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": "balaacman",
+     "sim": 0.111,
+     "baseline": 0.033
+    },
+    "EUS": {
+     "best": "buru",
+     "sim": 0.333,
+     "baseline": 0.14
+    },
+    "FIN": {
+     "best": "tukka",
+     "sim": 0.5,
+     "baseline": 0.229
+    }
+   },
+   {
+    "target": "muraja",
+    "PDR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.352
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.275
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.156
+    }
+   },
+   {
+    "target": "murali",
+    "PDR": {
+     "best": "purai",
+     "sim": 0.667,
+     "baseline": 0.367
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.122
+    },
+    "EUS": {
+     "best": "culula",
+     "sim": 0.333,
+     "baseline": 0.2
+    },
+    "FIN": {
+     "best": "huilu",
+     "sim": 0.333,
+     "baseline": 0.267
+    }
+   },
+   {
+    "target": "murangi",
+    "PDR": {
+     "best": "munag",
+     "sim": 0.571,
+     "baseline": 0.438
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.029
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.255
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.282
+    }
+   },
+   {
+    "target": "muta",
+    "PDR": {
+     "best": "mut",
+     "sim": 0.75,
+     "baseline": 0.47
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "EUS": {
+     "best": "sare",
+     "sim": 0.0,
+     "baseline": 0.192
+    },
+    "FIN": {
+     "best": "kori",
+     "sim": 0.0,
+     "baseline": 0.279
+    }
+   },
+   {
+    "target": "pandita",
+    "PDR": {
+     "best": "pajil",
+     "sim": 0.429,
+     "baseline": 0.286
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.029
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "abil",
+     "sim": 0.286,
+     "baseline": 0.143
+    },
+    "FIN": {
+     "best": "oppia",
+     "sim": 0.286,
+     "baseline": 0.169
+    }
+   },
+   {
+    "target": "panji",
+    "PDR": {
+     "best": "panji",
+     "sim": 1.0,
+     "baseline": 0.394
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.2
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "hari",
+     "sim": 0.4,
+     "baseline": 0.08
+    },
+    "FIN": {
+     "best": "pallo",
+     "sim": 0.4,
+     "baseline": 0.12
+    }
+   },
+   {
+    "target": "pataka",
+    "PDR": {
+     "best": "prakka",
+     "sim": 0.5,
+     "baseline": 0.47
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": "acari",
+     "sim": 0.333,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "irakasle",
+     "sim": 0.25,
+     "baseline": 0.1
+    },
+    "FIN": {
+     "best": "opettaya",
+     "sim": 0.5,
+     "baseline": 0.142
+    }
+   },
+   {
+    "target": "pota",
+    "PDR": {
+     "best": "pott",
+     "sim": 0.75,
+     "baseline": 0.44
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.05
+    },
+    "BUR": {
+     "best": "balan",
+     "sim": 0.2,
+     "baseline": 0.029
+    },
+    "EUS": {
+     "best": "aropa",
+     "sim": 0.4,
+     "baseline": 0.097
+    },
+    "FIN": {
+     "best": "pukeutua",
+     "sim": 0.375,
+     "baseline": 0.157
+    }
+   },
+   {
+    "target": "pravada",
+    "PDR": {
+     "best": "pavas",
+     "sim": 0.571,
+     "baseline": 0.257
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.086
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "elhesta",
+     "sim": 0.143,
+     "baseline": 0.246
+    },
+    "FIN": {
+     "best": "puhua",
+     "sim": 0.286,
+     "baseline": 0.094
+    }
+   },
+   {
+    "target": "proncati",
+    "PDR": {
+     "best": "donti",
+     "sim": 0.5,
+     "baseline": 0.45
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.11
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.097
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.3
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.225
+    }
+   },
+   {
+    "target": "sava",
+    "PDR": {
+     "best": "sev",
+     "sim": 0.5,
+     "baseline": 0.53
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.257
+    },
+    "BUR": {
+     "best": "bag",
+     "sim": 0.25,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "neskatila",
+     "sim": 0.333,
+     "baseline": 0.24
+    },
+    "FIN": {
+     "best": "elain",
+     "sim": 0.2,
+     "baseline": 0.26
+    }
+   },
+   {
+    "target": "srngavera",
+    "PDR": {
+     "best": "sigadi",
+     "sim": 0.333,
+     "baseline": 0.267
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.044
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.133
+    }
+   },
+   {
+    "target": "svavid",
+    "PDR": {
+     "best": "sed",
+     "sim": 0.333,
+     "baseline": 0.333
+    },
+    "MUNDA": {
+     "best": "gcain",
+     "sim": 0.333,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.129
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.233
+    }
+   },
+   {
+    "target": "tardu",
+    "PDR": {
+     "best": "tad",
+     "sim": 0.6,
+     "baseline": 0.453
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.192
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.272
+    }
+   },
+   {
+    "target": "tatanka",
+    "PDR": {
+     "best": "vank",
+     "sim": 0.429,
+     "baseline": 0.314
+    },
+    "MUNDA": {
+     "best": "lutur",
+     "sim": 0.143,
+     "baseline": 0.057
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "goisik",
+     "sim": 0.143,
+     "baseline": 0.057
+    },
+    "FIN": {
+     "best": "varhain",
+     "sim": 0.143,
+     "baseline": 0.114
+    }
+   },
+   {
+    "target": "toya",
+    "PDR": {
+     "best": "tond",
+     "sim": 0.5,
+     "baseline": 0.567
+    },
+    "MUNDA": {
+     "best": "ndia",
+     "sim": 0.25,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": "asamat",
+     "sim": 0.167,
+     "baseline": 0.067
+    },
+    "EUS": {
+     "best": "hur",
+     "sim": 0.0,
+     "baseline": 0.274
+    },
+    "FIN": {
+     "best": "vesi",
+     "sim": 0.0,
+     "baseline": 0.333
+    }
+   },
+   {
+    "target": "tula",
+    "PDR": {
+     "best": "pulai",
+     "sim": 0.6,
+     "baseline": 0.6
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.05
+    },
+    "BUR": {
+     "best": "balan",
+     "sim": 0.4,
+     "baseline": 0.033
+    },
+    "EUS": {
+     "best": "belhar",
+     "sim": 0.333,
+     "baseline": 0.31
+    },
+    "FIN": {
+     "best": "kukka",
+     "sim": 0.4,
+     "baseline": 0.347
+    }
+   },
+   {
+    "target": "valli",
+    "PDR": {
+     "best": "valli",
+     "sim": 1.0,
+     "baseline": 0.4
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.157
+    },
+    "FIN": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.207
+    }
+   },
+   {
+    "target": "vata",
+    "PDR": {
+     "best": "varata",
+     "sim": 0.667,
+     "baseline": 0.62
+    },
+    "MUNDA": {
+     "best": "uidak",
+     "sim": 0.2,
+     "baseline": 0.186
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.107
+    },
+    "EUS": {
+     "best": "rut",
+     "sim": 0.25,
+     "baseline": 0.205
+    },
+    "FIN": {
+     "best": "aidata",
+     "sim": 0.5,
+     "baseline": 0.27
+    }
+   },
+   {
+    "target": "vatingana",
+    "PDR": {
+     "best": "vajint",
+     "sim": 0.444,
+     "baseline": 0.147
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": "alalaso",
+     "sim": 0.222,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "latare",
+     "sim": 0.333,
+     "baseline": 0.0
+    },
+    "FIN": {
+     "best": "saivar",
+     "sim": 0.333,
+     "baseline": 0.022
+    }
+   },
+   {
+    "target": "viti",
+    "PDR": {
+     "best": "aviri",
+     "sim": 0.6,
+     "baseline": 0.417
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.107
+    },
+    "BUR": {
+     "best": "balon",
+     "sim": 0.0,
+     "baseline": 0.04
+    },
+    "EUS": {
+     "best": "lata",
+     "sim": 0.25,
+     "baseline": 0.233
+    },
+    "FIN": {
+     "best": "rivi",
+     "sim": 0.5,
+     "baseline": 0.28
+    }
+   }
+  ],
+  "top_pairs": {
+   "PDR": [
+    [
+     1.0,
+     "valli",
+     "valli"
+    ],
+    [
+     1.0,
+     "panji",
+     "panji"
+    ],
+    [
+     1.0,
+     "masi",
+     "masi"
+    ],
+    [
+     1.0,
+     "mala",
+     "mala"
+    ],
+    [
+     0.75,
+     "pota",
+     "pott"
+    ],
+    [
+     0.75,
+     "muta",
+     "mut"
+    ],
+    [
+     0.75,
+     "mina",
+     "min"
+    ],
+    [
+     0.667,
+     "vata",
+     "varata"
+    ],
+    [
+     0.667,
+     "murali",
+     "purai"
+    ],
+    [
+     0.667,
+     "mukuta",
+     "kukut"
+    ],
+    [
+     0.667,
+     "mayura",
+     "mayvr"
+    ],
+    [
+     0.625,
+     "manjusa",
+     "manjikai"
+    ],
+    [
+     0.6,
+     "viti",
+     "aviri"
+    ],
+    [
+     0.6,
+     "tula",
+     "pulai"
+    ],
+    [
+     0.6,
+     "tardu",
+     "tad"
+    ]
+   ],
+   "MUNDA": [
+    [
+     0.667,
+     "mayura",
+     "marra"
+    ],
+    [
+     0.5,
+     "mala",
+     "mar"
+    ],
+    [
+     0.429,
+     "lalata",
+     "sanaman"
+    ],
+    [
+     0.4,
+     "ganda",
+     "moda"
+    ],
+    [
+     0.333,
+     "svavid",
+     "gcain"
+    ],
+    [
+     0.286,
+     "mina",
+     "haihaku"
+    ],
+    [
+     0.286,
+     "matkuna",
+     "raa"
+    ],
+    [
+     0.25,
+     "toya",
+     "ndia"
+    ],
+    [
+     0.25,
+     "jata",
+     "bura"
+    ],
+    [
+     0.2,
+     "vata",
+     "uidak"
+    ],
+    [
+     0.2,
+     "cikka",
+     "mua"
+    ],
+    [
+     0.167,
+     "mukuta",
+     "bokop"
+    ],
+    [
+     0.143,
+     "tatanka",
+     "lutur"
+    ],
+    [
+     0.0,
+     "halya",
+     "sv"
+    ]
+   ],
+   "BUR": [
+    [
+     0.429,
+     "malla",
+     "alalaso"
+    ],
+    [
+     0.4,
+     "tula",
+     "balan"
+    ],
+    [
+     0.333,
+     "pataka",
+     "acari"
+    ],
+    [
+     0.25,
+     "sava",
+     "bag"
+    ],
+    [
+     0.222,
+     "vatingana",
+     "alalaso"
+    ],
+    [
+     0.2,
+     "pota",
+     "balan"
+    ],
+    [
+     0.2,
+     "mala",
+     "acari"
+    ],
+    [
+     0.167,
+     "toya",
+     "asamat"
+    ],
+    [
+     0.167,
+     "cikka",
+     "aceemo"
+    ],
+    [
+     0.143,
+     "ganda",
+     "alalaso"
+    ],
+    [
+     0.111,
+     "mukuta",
+     "balaacman"
+    ],
+    [
+     0.0,
+     "viti",
+     "balon"
+    ]
+   ],
+   "EUS": [
+    [
+     0.4,
+     "pota",
+     "aropa"
+    ],
+    [
+     0.4,
+     "panji",
+     "hari"
+    ],
+    [
+     0.4,
+     "mala",
+     "hulan"
+    ],
+    [
+     0.4,
+     "ganda",
+     "lata"
+    ],
+    [
+     0.333,
+     "vatingana",
+     "latare"
+    ],
+    [
+     0.333,
+     "tula",
+     "belhar"
+    ],
+    [
+     0.333,
+     "sava",
+     "neskatila"
+    ],
+    [
+     0.333,
+     "murali",
+     "culula"
+    ],
+    [
+     0.333,
+     "mukuta",
+     "buru"
+    ],
+    [
+     0.333,
+     "masati",
+     "busa"
+    ],
+    [
+     0.333,
+     "lalata",
+     "belar"
+    ],
+    [
+     0.286,
+     "pandita",
+     "abil"
+    ],
+    [
+     0.286,
+     "markata",
+     "besala"
+    ],
+    [
+     0.25,
+     "viti",
+     "lata"
+    ],
+    [
+     0.25,
+     "vata",
+     "rut"
+    ]
+   ],
+   "FIN": [
+    [
+     0.5,
+     "viti",
+     "rivi"
+    ],
+    [
+     0.5,
+     "vata",
+     "aidata"
+    ],
+    [
+     0.5,
+     "pataka",
+     "opettaya"
+    ],
+    [
+     0.5,
+     "mukuta",
+     "tukka"
+    ],
+    [
+     0.5,
+     "mala",
+     "kula"
+    ],
+    [
+     0.429,
+     "matkuna",
+     "sanku"
+    ],
+    [
+     0.429,
+     "jata",
+     "vaantaa"
+    ],
+    [
+     0.4,
+     "tula",
+     "kukka"
+    ],
+    [
+     0.4,
+     "panji",
+     "pallo"
+    ],
+    [
+     0.4,
+     "masi",
+     "musta"
+    ],
+    [
+     0.4,
+     "malla",
+     "kansa"
+    ],
+    [
+     0.4,
+     "hoda",
+     "lossa"
+    ],
+    [
+     0.4,
+     "cikka",
+     "silma"
+    ],
+    [
+     0.375,
+     "pota",
+     "pukeutua"
+    ],
+    [
+     0.333,
+     "vatingana",
+     "saivar"
+    ]
+   ]
+  }
+ },
+ "candidates": {
+  "label": "MELUHHAN CANDIDATE WORDS",
+  "n": 11,
+  "A": {
+   "PDR": 0.22896103896103898,
+   "IA": 0.1921717171717172,
+   "MUNDA": -0.0060606060606060615,
+   "BUR": -0.004545454545454546,
+   "EUS": 0.21874458874458877,
+   "FIN": 0.2824206349206349
+  },
+  "ci95": {
+   "PDR": [
+    0.14658549783549787,
+    0.30774891774891777
+   ],
+   "IA": [
+    0.09804563492063492,
+    0.274751443001443
+   ],
+   "MUNDA": [
+    -0.018181818181818184,
+    0.0
+   ],
+   "BUR": [
+    -0.01363636363636364,
+    0.0
+   ],
+   "EUS": [
+    0.16050919913419914,
+    0.2802359307359307
+   ],
+   "FIN": [
+    0.18627426046176043,
+    0.37662996031746027
+   ]
+  },
+  "p_rank1": {
+   "PDR": 0.207,
+   "IA": 0.065,
+   "MUNDA": 0.0,
+   "BUR": 0.0,
+   "EUS": 0.03,
+   "FIN": 0.698
+  },
+  "p_beats_decoys": {
+   "PDR": 0.239,
+   "IA": 0.093,
+   "MUNDA": 0.0,
+   "BUR": 0.0,
+   "EUS": 0.0,
+   "FIN": 0.0
+  },
+  "per_target": [
+   {
+    "target": "abba",
+    "PDR": {
+     "best": "dabb",
+     "sim": 0.5,
+     "baseline": 0.247
+    },
+    "IA": {
+     "best": "amra",
+     "sim": 0.5,
+     "baseline": 0.337
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "bananace",
+     "sim": 0.25,
+     "baseline": 0.097
+    },
+    "FIN": {
+     "best": "puutavara",
+     "sim": 0.222,
+     "baseline": 0.113
+    }
+   },
+   {
+    "target": "mesu",
+    "PDR": {
+     "best": "medi",
+     "sim": 0.5,
+     "baseline": 0.45
+    },
+    "IA": {
+     "best": "selu",
+     "sim": 0.5,
+     "baseline": 0.32
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "uku",
+     "sim": 0.25,
+     "baseline": 0.083
+    },
+    "FIN": {
+     "best": "metsa",
+     "sim": 0.6,
+     "baseline": 0.0
+    }
+   },
+   {
+    "target": "magilum",
+    "PDR": {
+     "best": "kalam",
+     "sim": 0.429,
+     "baseline": 0.257
+    },
+    "IA": {
+     "best": "vahitra",
+     "sim": 0.286,
+     "baseline": 0.271
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "uci",
+     "sim": 0.143,
+     "baseline": 0.086
+    },
+    "FIN": {
+     "best": "alus",
+     "sim": 0.429,
+     "baseline": 0.029
+    }
+   },
+   {
+    "target": "sinda",
+    "PDR": {
+     "best": "kinda",
+     "sim": 0.8,
+     "baseline": 0.52
+    },
+    "IA": {
+     "best": "sanda",
+     "sim": 0.8,
+     "baseline": 0.373
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "suhanodo",
+     "sim": 0.375,
+     "baseline": 0.12
+    },
+    "FIN": {
+     "best": "metsa",
+     "sim": 0.2,
+     "baseline": 0.147
+    }
+   },
+   {
+    "target": "sindu",
+    "PDR": {
+     "best": "sintc",
+     "sim": 0.6,
+     "baseline": 0.32
+    },
+    "IA": {
+     "best": "sindura",
+     "sim": 0.714,
+     "baseline": 0.367
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "suhanodo",
+     "sim": 0.375,
+     "baseline": 0.177
+    },
+    "FIN": {
+     "best": "puu",
+     "sim": 0.2,
+     "baseline": 0.158
+    }
+   },
+   {
+    "target": "sasa",
+    "PDR": {
+     "best": "sak",
+     "sim": 0.5,
+     "baseline": 0.05
+    },
+    "IA": {
+     "best": "raksana",
+     "sim": 0.429,
+     "baseline": 0.28
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "kabale",
+     "sim": 0.333,
+     "baseline": 0.0
+    },
+    "FIN": {
+     "best": "karya",
+     "sim": 0.4,
+     "baseline": 0.0
+    }
+   },
+   {
+    "target": "haluppu",
+    "PDR": {
+     "best": "uruppa",
+     "sim": 0.429,
+     "baseline": 0.171
+    },
+    "IA": {
+     "best": "haridru",
+     "sim": 0.429,
+     "baseline": 0.114
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "uku",
+     "sim": 0.286,
+     "baseline": 0.029
+    },
+    "FIN": {
+     "best": "palmu",
+     "sim": 0.429,
+     "baseline": 0.044
+    }
+   },
+   {
+    "target": "gisimmar",
+    "PDR": {
+     "best": "usir",
+     "sim": 0.375,
+     "baseline": 0.225
+    },
+    "IA": {
+     "best": "vistara",
+     "sim": 0.375,
+     "baseline": 0.2
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "suhan",
+     "sim": 0.25,
+     "baseline": 0.05
+    },
+    "FIN": {
+     "best": "kammen",
+     "sim": 0.25,
+     "baseline": 0.072
+    }
+   },
+   {
+    "target": "ili",
+    "PDR": {
+     "best": "isi",
+     "sim": 0.667,
+     "baseline": 0.247
+    },
+    "IA": {
+     "best": "tailika",
+     "sim": 0.429,
+     "baseline": 0.237
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "olio",
+     "sim": 0.5,
+     "baseline": 0.05
+    },
+    "FIN": {
+     "best": "olyu",
+     "sim": 0.25,
+     "baseline": 0.09
+    }
+   },
+   {
+    "target": "ellu",
+    "PDR": {
+     "best": "el",
+     "sim": 0.5,
+     "baseline": 0.247
+    },
+    "IA": {
+     "best": "kutu",
+     "sim": 0.25,
+     "baseline": 0.367
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.05
+    },
+    "EUS": {
+     "best": "olio",
+     "sim": 0.25,
+     "baseline": 0.097
+    },
+    "FIN": {
+     "best": "olyu",
+     "sim": 0.5,
+     "baseline": 0.12
+    }
+   },
+   {
+    "target": "ulu",
+    "PDR": {
+     "best": "us",
+     "sim": 0.333,
+     "baseline": 0.38
+    },
+    "IA": {
+     "best": "kutu",
+     "sim": 0.5,
+     "baseline": 0.23
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.067
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "olio",
+     "sim": 0.25,
+     "baseline": 0.067
+    },
+    "FIN": {
+     "best": "olyu",
+     "sim": 0.5,
+     "baseline": 0.1
+    }
+   }
+  ],
+  "top_pairs": {
+   "PDR": [
+    [
+     0.8,
+     "sinda",
+     "kinda"
+    ],
+    [
+     0.667,
+     "ili",
+     "isi"
+    ],
+    [
+     0.6,
+     "sindu",
+     "sintc"
+    ],
+    [
+     0.5,
+     "sasa",
+     "sak"
+    ],
+    [
+     0.5,
+     "mesu",
+     "medi"
+    ],
+    [
+     0.5,
+     "ellu",
+     "el"
+    ],
+    [
+     0.5,
+     "abba",
+     "dabb"
+    ],
+    [
+     0.429,
+     "magilum",
+     "kalam"
+    ],
+    [
+     0.429,
+     "haluppu",
+     "uruppa"
+    ],
+    [
+     0.375,
+     "gisimmar",
+     "usir"
+    ],
+    [
+     0.333,
+     "ulu",
+     "us"
+    ]
+   ],
+   "IA": [
+    [
+     0.8,
+     "sinda",
+     "sanda"
+    ],
+    [
+     0.714,
+     "sindu",
+     "sindura"
+    ],
+    [
+     0.5,
+     "ulu",
+     "kutu"
+    ],
+    [
+     0.5,
+     "mesu",
+     "selu"
+    ],
+    [
+     0.5,
+     "abba",
+     "amra"
+    ],
+    [
+     0.429,
+     "sasa",
+     "raksana"
+    ],
+    [
+     0.429,
+     "ili",
+     "tailika"
+    ],
+    [
+     0.429,
+     "haluppu",
+     "haridru"
+    ],
+    [
+     0.375,
+     "gisimmar",
+     "vistara"
+    ],
+    [
+     0.286,
+     "magilum",
+     "vahitra"
+    ],
+    [
+     0.25,
+     "ellu",
+     "kutu"
+    ]
+   ],
+   "MUNDA": [],
+   "BUR": [],
+   "EUS": [
+    [
+     0.5,
+     "ili",
+     "olio"
+    ],
+    [
+     0.375,
+     "sindu",
+     "suhanodo"
+    ],
+    [
+     0.375,
+     "sinda",
+     "suhanodo"
+    ],
+    [
+     0.333,
+     "sasa",
+     "kabale"
+    ],
+    [
+     0.286,
+     "haluppu",
+     "uku"
+    ],
+    [
+     0.25,
+     "ulu",
+     "olio"
+    ],
+    [
+     0.25,
+     "mesu",
+     "uku"
+    ],
+    [
+     0.25,
+     "gisimmar",
+     "suhan"
+    ],
+    [
+     0.25,
+     "ellu",
+     "olio"
+    ],
+    [
+     0.25,
+     "abba",
+     "bananace"
+    ],
+    [
+     0.143,
+     "magilum",
+     "uci"
+    ]
+   ],
+   "FIN": [
+    [
+     0.6,
+     "mesu",
+     "metsa"
+    ],
+    [
+     0.5,
+     "ulu",
+     "olyu"
+    ],
+    [
+     0.5,
+     "ellu",
+     "olyu"
+    ],
+    [
+     0.429,
+     "magilum",
+     "alus"
+    ],
+    [
+     0.429,
+     "haluppu",
+     "palmu"
+    ],
+    [
+     0.4,
+     "sasa",
+     "karya"
+    ],
+    [
+     0.25,
+     "ili",
+     "olyu"
+    ],
+    [
+     0.25,
+     "gisimmar",
+     "kammen"
+    ],
+    [
+     0.222,
+     "abba",
+     "puutavara"
+    ],
+    [
+     0.2,
+     "sindu",
+     "puu"
+    ],
+    [
+     0.2,
+     "sinda",
+     "metsa"
+    ]
+   ]
+  }
+ },
+ "toponyms": {
+  "label": "toponyms (not verdict-bearing)",
+  "n": 2,
+  "A": {
+   "PDR": 0.2671428571428571,
+   "IA": 0.23015873015873017,
+   "MUNDA": 0.0,
+   "BUR": 0.0,
+   "EUS": 0.05999999999999999,
+   "FIN": 0.3214285714285714
+  },
+  "ci95": {
+   "PDR": [
+    0.11428571428571427,
+    0.42
+   ],
+   "IA": [
+    0.10000000000000003,
+    0.3603174603174603
+   ],
+   "MUNDA": [
+    0.0,
+    0.0
+   ],
+   "BUR": [
+    0.0,
+    0.0
+   ],
+   "EUS": [
+    -0.08,
+    0.19999999999999998
+   ],
+   "FIN": [
+    0.14285714285714282,
+    0.5
+   ]
+  },
+  "p_rank1": {
+   "PDR": 0.0,
+   "IA": 0.0,
+   "MUNDA": 0.0,
+   "BUR": 0.0,
+   "EUS": 0.251,
+   "FIN": 0.749
+  },
+  "p_beats_decoys": {
+   "PDR": 0.0,
+   "IA": 0.0,
+   "MUNDA": 0.0,
+   "BUR": 0.0,
+   "EUS": 0.0,
+   "FIN": 0.0
+  },
+  "per_target": [
+   {
+    "target": "meluhha",
+    "PDR": {
+     "best": "nel",
+     "sim": 0.286,
+     "baseline": 0.171
+    },
+    "IA": {
+     "best": "malava",
+     "sim": 0.429,
+     "baseline": 0.329
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "lur",
+     "sim": 0.286,
+     "baseline": 0.086
+    },
+    "FIN": {
+     "best": "maa",
+     "sim": 0.286,
+     "baseline": 0.143
+    }
+   },
+   {
+    "target": "magan",
+    "PDR": {
+     "best": "matar",
+     "sim": 0.6,
+     "baseline": 0.18
+    },
+    "IA": {
+     "best": "malava",
+     "sim": 0.5,
+     "baseline": 0.14
+    },
+    "MUNDA": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "BUR": {
+     "best": null,
+     "sim": 0.0,
+     "baseline": 0.0
+    },
+    "EUS": {
+     "best": "sorteri",
+     "sim": 0.0,
+     "baseline": 0.08
+    },
+    "FIN": {
+     "best": "maa",
+     "sim": 0.6,
+     "baseline": 0.1
+    }
+   }
+  ],
+  "top_pairs": {
+   "PDR": [
+    [
+     0.6,
+     "magan",
+     "matar"
+    ],
+    [
+     0.286,
+     "meluhha",
+     "nel"
+    ]
+   ],
+   "IA": [
+    [
+     0.5,
+     "magan",
+     "malava"
+    ],
+    [
+     0.429,
+     "meluhha",
+     "malava"
+    ]
+   ],
+   "MUNDA": [],
+   "BUR": [],
+   "EUS": [
+    [
+     0.286,
+     "meluhha",
+     "lur"
+    ],
+    [
+     0.0,
+     "magan",
+     "sorteri"
+    ]
+   ],
+   "FIN": [
+    [
+     0.6,
+     "magan",
+     "maa"
+    ],
+    [
+     0.286,
+     "meluhha",
+     "maa"
+    ]
+   ]
+  }
+ },
+ "decision": "NO FAMILY ATTRIBUTABLE"
+}

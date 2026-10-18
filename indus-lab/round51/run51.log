@@ -1,0 +1,37 @@
+lexicons {'PDR': 6088, 'IA': 8404, 'MUNDA': 712, 'BUR': 37, 'EUS': 1340, 'FIN': 1592}
+== G1 Mitanni Indo-Aryan words (Sumerian background): 11 targets
+   IA     A=+0.3910  CI +0.1713..+0.5684  P(rank1)=1.00  P(>both decoys)=1.00
+   EUS    A=+0.0722  CI -0.0057..+0.1489  P(rank1)=0.00  P(>both decoys)=0.00
+   FIN    A=+0.0665  CI -0.0101..+0.1564  P(rank1)=0.00  P(>both decoys)=0.00
+   MUNDA  A=+0.0290  CI -0.0326..+0.1124  P(rank1)=0.00  P(>both decoys)=0.10
+   PDR    A=+0.0096  CI -0.1369..+0.1616  P(rank1)=0.00  P(>both decoys)=0.17
+   BUR    A=-0.0009  CI -0.0268..+0.0291  P(rank1)=0.00  P(>both decoys)=0.01
+== G2 Dravidian loans in Sanskrit (CDIAL background, IA lexicon minus the loans): 41 targets
+   PDR    A=+0.1482  CI +0.0949..+0.2050  P(rank1)=0.99  P(>both decoys)=1.00
+   MUNDA  A=+0.0393  CI -0.0128..+0.0960  P(rank1)=0.01  P(>both decoys)=0.76
+   BUR    A=+0.0319  CI -0.0054..+0.0751  P(rank1)=0.00  P(>both decoys)=0.82
+   FIN    A=+0.0038  CI -0.0544..+0.0602  P(rank1)=0.00  P(>both decoys)=0.00
+   EUS    A=-0.0252  CI -0.0786..+0.0307  P(rank1)=0.00  P(>both decoys)=0.00
+   IA     A=-0.4256  CI -0.4918..-0.3570  P(rank1)=0.00  P(>both decoys)=0.00
+== G2 as round 39 (no IA family): 41 targets
+   PDR    A=+0.1482  CI +0.0949..+0.2050  P(rank1)=0.99  P(>both decoys)=1.00
+   MUNDA  A=+0.0393  CI -0.0128..+0.0960  P(rank1)=0.01  P(>both decoys)=0.76
+   BUR    A=+0.0319  CI -0.0054..+0.0751  P(rank1)=0.00  P(>both decoys)=0.82
+   FIN    A=+0.0038  CI -0.0544..+0.0602  P(rank1)=0.00  P(>both decoys)=0.00
+   EUS    A=-0.0252  CI -0.0786..+0.0307  P(rank1)=0.00  P(>both decoys)=0.00
+G1 PASS | G2 PASS
+== MELUHHAN CANDIDATE WORDS: 11 targets
+   FIN    A=+0.2824  CI +0.1863..+0.3766  P(rank1)=0.70  P(>both decoys)=0.00
+   PDR    A=+0.2290  CI +0.1466..+0.3077  P(rank1)=0.21  P(>both decoys)=0.24
+   EUS    A=+0.2187  CI +0.1605..+0.2802  P(rank1)=0.03  P(>both decoys)=0.00
+   IA     A=+0.1922  CI +0.0980..+0.2748  P(rank1)=0.07  P(>both decoys)=0.09
+   BUR    A=-0.0045  CI -0.0136..+0.0000  P(rank1)=0.00  P(>both decoys)=0.00
+   MUNDA  A=-0.0061  CI -0.0182..+0.0000  P(rank1)=0.00  P(>both decoys)=0.00
+== toponyms (not verdict-bearing): 2 targets
+   FIN    A=+0.3214  CI +0.1429..+0.5000  P(rank1)=0.75  P(>both decoys)=0.00
+   PDR    A=+0.2671  CI +0.1143..+0.4200  P(rank1)=0.00  P(>both decoys)=0.00
+   IA     A=+0.2302  CI +0.1000..+0.3603  P(rank1)=0.00  P(>both decoys)=0.00
+   EUS    A=+0.0600  CI -0.0800..+0.2000  P(rank1)=0.25  P(>both decoys)=0.00
+   MUNDA  A=+0.0000  CI +0.0000..+0.0000  P(rank1)=0.00  P(>both decoys)=0.00
+   BUR    A=+0.0000  CI +0.0000..+0.0000  P(rank1)=0.00  P(>both decoys)=0.00
+DECISION NO FAMILY ATTRIBUTABLE
