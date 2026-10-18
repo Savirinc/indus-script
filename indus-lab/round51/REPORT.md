@@ -38,7 +38,7 @@ Per word, best sound-and-meaning match in each family (similarity 0 to 1):
 | ellu | el (0.50) | kutu (0.25) | – (0.00) | olyu (0.50) | olio (0.25) |
 | ulu | us (0.33) | kutu (0.50) | – (0.00) | olyu (0.50) | olio (0.25) |
 
-The sesame words do what the literature says: *ili / ellu / ulu* find Dravidian *eḷ / eḷḷu* and nothing comparable in Indo-Aryan, which has *tila*. That is one etymon counted three times, and it is the only Dravidian hit of note. The wood, boat and cattle words scatter: every family finds something of similar quality, and Finnish finds as much as any, because a 21-sound alphabet and a 1,600-word meaning-matched lexicon produce look-alikes for any short CVCV word.
+The sesame words behave as the literature says, but weakly: *ellu* finds Proto-Dravidian *el* 'sesame' at similarity 0.50, *ili* finds *isi* at 0.67, and Indo-Aryan offers only *tailika* 'oil' for *ili* and nothing for *ellu*. That is one etymon counted three times, at modest similarity, and it is the only Dravidian hit that means anything. *sinda* matches Dravidian *kinda* and Indo-Aryan *sanda* equally at 0.80, which is what a look-alike tie looks like. The wood, boat and cattle words scatter: every family finds something of similar quality, and Finnish finds as much as any, because a 21-sound alphabet and a 1,600-word meaning-matched lexicon produce look-alikes for any short CVCV word.
 
 Toponyms (Meluhha, Magan), scored separately: Finnish first again; not verdict-bearing.
 
