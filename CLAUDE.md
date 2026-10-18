@@ -47,10 +47,10 @@ Rounds 09–45 follow the original lab. The Brahmi coverage audit (called "Round
 ## Parked (don't redo without a new idea)
 - **Yajnadevam Brahmi/Sanskrit key (46–47): PARKED.** Key covers the corpus but its output is not Sanskrit-like beyond its own shuffles (z −0.35); a 15 s refit to Finnish/Basque beats it. Reopen only with a frozen automated pipeline given equal freedom for impossible languages, or external anchors.
 - **Indus–Brahmi shape resemblance (48): UNTESTABLE with fonts.** Four shape descriptors all failed to recover Phoenician→Aramaic or Greek→Gothic, so look-alike tables are not evidence either way. Reopen only with epigraphic tracings (Ashokan Brahmi, Indus sign lists) and a pre-registered rank-based statistic; declare the v1 Indus numbers (Brahmi E 0.35) as previously seen. Shape tooling: `round48/run48.py` (needs `ext/venv`: pillow, fonttools, numpy, scipy).
-- **Published keys (49):** Fairservis 1992 NULL; Parpola 1994, Kak 1988, Mahadevan 2014 NOT TESTABLE (too little coverage or too few signs). Harness `round49/run49.py` scores any 3-column key file (sign, value, gloss) unchanged; Bonta 2023 and Rao 1982 run through it as soon as Arham supplies the tables (`data/sources/`).
+- **Published keys (49):** Fairservis 1992 NULL; Rao 1982 NULL (key transcribed in `round49/keys/rao1982.tsv` from the archive.org scan); Parpola 1994, Kak 1988, Mahadevan 2014 NOT TESTABLE (too little coverage or too few signs). Harness `round49/run49.py` scores any key file (sign, value, confidence, gloss) unchanged; Bonta 2023 runs through it as soon as a copy exists (`data/sources/`).
 Rebus tournament (36), substrate fingerprint (37), sound-only matching (38), Gulf seals vs names (35), anchor-rebus branch (41–45, Finnish artefact), Tamil pattern matching (20), correspondence decoders (22–23), copper-tablet labels (24–26).
 
 ## Open leads
 1. **External anchors.** More Gulf/Dilmun seal transcriptions (Laursen 2010; Al-Sindi; Kjærum Failaka) need PDFs from Arham; then re-run round 35 with power and test the 415-803-001 opening.
 2. **Methods write-up.** Rounds 32, 45, 47 and 49 together discredit a common class of decipherment claims. Do not publish without Arham's OK.
-3. **Pending keys.** Bonta 2023 2nd ed. (Academia.edu, gated) and Rao 1982 (book table): transcribe to key format with page refs, commit, run `round49/run49.py` unchanged.
+3. **Pending key.** Bonta 2023 2nd ed. (Academia.edu, gated; no open copy found): transcribe to key format with page refs, commit, run `round49/run49.py` unchanged.

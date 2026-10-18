@@ -5,7 +5,7 @@
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "144ef0371efc3db6a8358386a60dfeb5f71185caaf75e3a83127bf5d14e17bff"
+  "sha256": "fe630895c66a54a4262467d79178a11c065f474d414b37ba5ae04b7ac186fdee"
  },
  {
   "path": "LICENSE",
@@ -13,7 +13,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "83c1ff4d59635bbb104edecb5742e8faee764dbe60eab469a41aa29d6d8ca9c9"
+  "sha256": "223244ca2da96912a069eff5a8bcc332986317d3bd285fe9369b3e3b5e36b2b8"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -53,7 +53,7 @@
  },
  {
   "path": "docs/STATUS.md",
-  "sha256": "e439bddfee6e4f97430f7a9fa446017e91a69f5572f782879a86236afb03b826"
+  "sha256": "6c92cfd72cf3f181bdf4e16aeef0204163fa40358ed54a96cdaae11c8ebe2cc9"
  },
  {
   "path": "docs/atlas/Indus-Brahmi-Full-Mapping-Atlas.pdf",
@@ -2309,27 +2309,31 @@
  },
  {
   "path": "indus-lab/round49/PROTOCOL.md",
-  "sha256": "a6c78b38c33096483dfdaeae16a078c1a4bceafac4befc5e7680dcbcf4a83554"
+  "sha256": "c881bc46c82562d2d85db755b57f247b63b2c98737015d79ea8b75e7afcfcec3"
  },
  {
   "path": "indus-lab/round49/REPORT.md",
-  "sha256": "a9df86ccc10843180373cd5e1fdc14f11990db082f763cd782f9cf59d901c022"
+  "sha256": "0513e616e065c554cfa32f37b6255a606586a907f6ef682d61d27582055b264e"
  },
  {
   "path": "indus-lab/round49/SHA256SUMS.keys",
   "sha256": "b495b52de083688303d97ad162bc202e5ccddefcc6f5bab852320a1401d6c0ef"
  },
  {
+  "path": "indus-lab/round49/keys/rao1982.tsv",
+  "sha256": "e24b048f01a7dd1b9c50c194d0e2efb4ba4fecf8a4f36a91323aaf734b7e8eb4"
+ },
+ {
   "path": "indus-lab/round49/results.json",
-  "sha256": "51479896a8bd5ce9d74c49b38a6a0fa227e33f69fb9ac758604d9ba5055a201b"
+  "sha256": "ecbaa575b8b25ce57df001f0bfc39f916c9a403e0b9c3afec92f4a3f1feb0f52"
  },
  {
   "path": "indus-lab/round49/run49.log",
-  "sha256": "c4c0afcd652a51cd3aefc007c2994f3037492df24f947f5fdc9f28db1db491a0"
+  "sha256": "0d643978ad98d0d7be294c4adee37cb63be518c01026acef3ff0aa371c055e21"
  },
  {
   "path": "indus-lab/round49/run49.py",
-  "sha256": "92716e93a49414a8e62cd88d06ec2fcac1b3722cb01df41f682d64374d96b7ae"
+  "sha256": "6d22ed4b9fb919473e058f3604129739b438d75ca4cc70eea614dc955554318e"
  },
  {
   "path": "indus-lab/run.py",
