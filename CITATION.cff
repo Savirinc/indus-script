@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this harness, its protocols or its results, please cite the repository and let us know via a GitHub Discussion or Issue."
+title: "indus-script: a pre-registered test bench for Indus script decipherment claims"
+type: software
+authors:
+  - family-names: "Jain"
+    given-names: "Arham Partap"
+    affiliation: "Savir Platforms Private Limited"
+    email: "arham@savir.ventures"
+repository-code: "https://github.com/Savirinc/indus-script"
+url: "https://github.com/Savirinc/indus-script"
+license: MIT
+version: "0.51"
+date-released: "2026-10-18"
+abstract: >
+  Fifty-one pre-registered rounds testing proposed readings of the Indus script against
+  structure-preserving shuffle nulls, impossible-language controls and a Linear B positive
+  control at matched sparsity. No published key passes; the harness, protocols, data pins
+  and failed tests are included.
+keywords:
+  - Indus script
+  - decipherment
+  - pre-registration
+  - Linear B
+  - Meluhha
+  - computational epigraphy
