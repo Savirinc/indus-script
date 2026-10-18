@@ -1,0 +1,11 @@
+[   0.0s] loading comparison scripts
+[   2.2s] 1061 letters, dropped 0
+[   5.2s] descriptor A: passes 0/4, mean related z 0.90 | Phoenician: top=OldNorthArabian sig=['OldNorthArabian']; GreekCaps: top=Lycian sig=['Lycian']; OldItalic: top=OldTurkic sig=[]; ImperialAramaic: top=Kharoshthi sig=['Kharoshthi']
+[   5.2s]    negatives: OldHungarian: top=Runic, Brahmi E=0.42 p=0.891; LinearA: top=OldSouthArabian, Brahmi E=0.43 p=0.903
+[  11.2s] descriptor B: passes 1/4, mean related z 1.03 | Phoenician: top=ImperialAramaic sig=[]; GreekCaps: top=Lycian sig=['Carian', 'Lycian']; OldItalic: top=Lydian sig=[]; ImperialAramaic: top=Kharoshthi sig=['Kharoshthi']
+[  11.2s]    negatives: OldHungarian: top=Runic, Brahmi E=0.00 p=1.000; LinearA: top=OldSouthArabian, Brahmi E=0.43 p=0.891
+[  13.6s] descriptor C: passes 1/4, mean related z 0.72 | Phoenician: top=Lycian sig=[]; GreekCaps: top=Lycian sig=['Carian', 'Lycian']; OldItalic: top=Lycian sig=[]; ImperialAramaic: top=Phoenician sig=[]
+[  13.6s]    negatives: OldHungarian: top=Runic, Brahmi E=0.42 p=0.861; LinearA: top=OldSouthArabian, Brahmi E=0.64 p=0.733
+[  19.9s] descriptor D: passes 0/4, mean related z 0.30 | Phoenician: top=Lycian sig=[]; GreekCaps: top=Lycian sig=['Lycian']; OldItalic: top=Lydian sig=[]; ImperialAramaic: top=MeroiticCursive sig=[]
+[  19.9s]    negatives: OldHungarian: top=Runic, Brahmi E=0.84 p=0.644; LinearA: top=OldSouthArabian, Brahmi E=0.43 p=0.918
+[  19.9s] SELECTED descriptor: None

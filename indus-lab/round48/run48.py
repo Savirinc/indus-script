@@ -9,7 +9,13 @@ from fontTools.ttLib import TTFont
 from fontTools.pens.boundsPen import BoundsPen
 
 HERE = pathlib.Path(__file__).resolve().parent; ROOT = HERE.parents[1]; FONTS = ROOT / 'ext' / 'fonts'
-G = 40; NPERM = 10000; RARE_N, RARE_DRAWS = 22, 200
+G = 40; G2 = 64; NPERM = 10000; RARE_N, RARE_DRAWS = 22, 200
+from scipy.ndimage import binary_dilation
+RELATED = {'Phoenician': {'OldNorthArabian','OldSouthArabian','ImperialAramaic','Samaritan','GreekCaps'},
+           'GreekCaps': {'Phoenician','OldItalic','Gothic','Lycian','Carian','Lydian'},
+           'OldItalic': {'GreekCaps','Runic'},
+           'ImperialAramaic': {'Phoenician','Samaritan','Kharoshthi'}}
+R_EDGES = np.array([0.0, 0.35, 0.7, 1.05, 1.5, np.inf]); NA = 12
 T0 = time.time()
 def log(*a): print(f'[{time.time()-T0:6.1f}s]', *a, flush=True)
 
@@ -47,14 +53,14 @@ T7 = {'a':0x11005,'u':0x11009,'o':0x11011,'k':0x11013,'kh':0x11014,'g':0x11015,'
       'ḍh':0x11020,'d':0x11024,'dh':0x11025,'b':0x11029,'m':0x1102B,'y':0x1102C,'r':0x1102D,'l':0x1102E,'ṣ':0x11031,'s':0x11032,'h':0x11033}
 
 # ---------------- rendering ----------------
-def render(font_path, cp, em=200):
+def render(font_path, cp, em=200, grid=G):
     f = ImageFont.truetype(str(font_path), em)
     im = Image.new('L', (em*3, em*3), 0); ImageDraw.Draw(im).text((em, em), chr(cp), font=f, fill=255)
     bb = im.getbbox()
     if bb is None or bb[2]-bb[0] < 4 or bb[3]-bb[1] < 4: return None
     im = im.crop(bb); w, h = im.size; s = max(w, h)
     sq = Image.new('L', (s, s), 0); sq.paste(im, ((s-w)//2, (s-h)//2))
-    a = np.asarray(sq.resize((G, G), Image.LANCZOS), dtype=np.float32) / 255.0
+    a = np.asarray(sq.resize((grid, grid), Image.LANCZOS), dtype=np.float32) / 255.0
     return a >= 0.5
 
 def zhang_suen(img):
@@ -83,12 +89,23 @@ def dihedral(a):
         r = np.rot90(a, k); out.append(r); out.append(r[:, ::-1])
     return out
 
+def shape_context(sk):
+    ys, xs = np.nonzero(sk)
+    if len(xs) == 0: return np.zeros(len(R_EDGES)-1 + 0) if False else np.zeros((len(R_EDGES)-1)*NA)
+    cy, cx = ys.mean(), xs.mean(); dy, dx = ys-cy, xs-cx
+    r = np.hypot(dx, dy); rms = np.sqrt((r**2).mean()) or 1.0; r = r / rms
+    ang = (np.arctan2(dy, dx) + np.pi) / (2*np.pi) * NA; ab = np.minimum(ang.astype(int), NA-1)
+    rb = np.searchsorted(R_EDGES, r, side='right') - 1
+    h = np.zeros((len(R_EDGES)-1, NA)); np.add.at(h, (rb, ab), 1)
+    return (h / h.sum()).ravel()
+
 class Glyph:
-    __slots__ = ('script','label','skel','edt','npx')
-    def __init__(self, script, label, mask):
+    __slots__ = ('script','label','skel','edt','npx','skel2','dil','edt_dil','sc')
+    def __init__(self, script, label, mask, mask2):
         self.script, self.label = script, label
-        self.skel = zhang_suen(mask); self.npx = int(self.skel.sum())
-        self.edt = edt(~self.skel)
+        self.skel = zhang_suen(mask); self.npx = int(self.skel.sum()); self.edt = edt(~self.skel)
+        self.skel2 = zhang_suen(mask2); self.dil = binary_dilation(self.skel2, structure=np.array([[0,1,0],[1,1,1],[0,1,0]]))
+        self.edt_dil = edt(~self.dil); self.sc = shape_context(self.skel2)
 
 def load_scripts():
     glyphs, dropped = [], []
@@ -99,9 +116,9 @@ def load_scripts():
                 if cp not in cm: continue
                 p = BoundsPen(gs); gs[cm[cp]].draw(p)
                 if not p.bounds: continue
-                m = render(FONTS / fn, cp)
+                m = render(FONTS / fn, cp); m2 = render(FONTS / fn, cp, grid=G2)
                 if m is None or m.sum() == 0: dropped.append((name, f'U+{cp:04X}')); continue
-                glyphs.append(Glyph(name, f'U+{cp:04X}', m))
+                glyphs.append(Glyph(name, f'U+{cp:04X}', m, m2))
     return glyphs, dropped
 
 def load_indus():
@@ -116,26 +133,41 @@ def load_indus():
         cp = 0xE000 + int(c)
         m = render(fp, cp) if cp in cm else None
         if m is None or m.sum() == 0: missing.append(c); continue
-        glyphs.append(Glyph('Indus', c, m))
+        glyphs.append(Glyph('Indus', c, m, render(fp, cp, grid=G2)))
     return glyphs, missing, freq
 
 # ---------------- distances ----------------
-def dist_matrix(queries, pool, transforms=True):
-    """D[i,j] = chamfer distance between query i and pool letter j, min over dihedral transforms of the query."""
-    P_edt = np.stack([g.edt.ravel() for g in pool])            # N x G*G
-    P_sk = np.stack([g.skel.ravel() for g in pool]).astype(np.float64)
-    P_n = P_sk.sum(1)
+def chamfer_matrix(queries, pool, attr_mask, attr_edt, grid, transforms=True):
+    """D[i,j] = symmetric chamfer between query i and pool letter j on the named mask, min over dihedral transforms of the query."""
+    P_edt = np.stack([getattr(g, attr_edt).ravel() for g in pool]).astype(np.float64)
+    P_sk = np.stack([getattr(g, attr_mask).ravel() for g in pool]).astype(np.float64); P_n = P_sk.sum(1)
     D = np.full((len(queries), len(pool)), np.inf)
+    with np.errstate(all='ignore'):   # macOS Accelerate emits spurious warnings in matmul; values verified against a loop
+        for i, q in enumerate(queries):
+            base = getattr(q, attr_mask)
+            for a in (dihedral(base) if transforms else [base]):
+                idx = np.flatnonzero(a.ravel())
+                if len(idx) == 0: continue
+                t1 = P_edt[:, idx].mean(1); qe = edt(~a).ravel().astype(np.float64); t2 = (P_sk @ qe) / P_n
+                np.minimum(D[i], (t1 + t2) / 2 / grid, out=D[i])
+    return D
+
+def sc_matrix(queries, pool, transforms=True):
+    P = np.stack([g.sc for g in pool]); D = np.full((len(queries), len(pool)), np.inf)
     for i, q in enumerate(queries):
-        for a in (dihedral(q.skel) if transforms else [q.skel]):
-            idx = np.flatnonzero(a.ravel())
-            if len(idx) == 0: continue
-            t1 = P_edt[:, idx].mean(1)
-            qe = edt(~a).ravel().astype(np.float64)
-            t2 = (P_sk @ qe) / P_n
-            d = (t1 + t2) / 2 / G
+        for a in (dihedral(q.skel2) if transforms else [q.skel2]):
+            h = shape_context(a); d = 0.5 * (((P - h)**2) / (P + h + 1e-12)).sum(1)
             np.minimum(D[i], d, out=D[i])
     return D
+
+def dist_matrix(queries, pool, desc='A', transforms=True):
+    if desc == 'A': return chamfer_matrix(queries, pool, 'skel', 'edt', G, transforms)
+    if desc == 'B': return chamfer_matrix(queries, pool, 'dil', 'edt_dil', G2, transforms)
+    if desc == 'C': return sc_matrix(queries, pool, transforms)
+    if desc == 'D':
+        b = dist_matrix(queries, pool, 'B', transforms); c = dist_matrix(queries, pool, 'C', transforms)
+        return b / np.median(b) + c / np.median(c)
+    raise ValueError(desc)
 
 def enrichment(D, pool, rng_seed, nperm=NPERM):
     names = sorted(set(g.script for g in pool)); idx = {n: k for k, n in enumerate(names)}
@@ -174,9 +206,9 @@ def rarefied(D, pool, seed):
     for r, n in enumerate(order): res[n]['rank'] = r+1
     return res
 
-def control(name, allg, seed, want_sets):
+def control(name, allg, seed, desc):
     q = [g for g in allg if g.script == name]; pool = [g for g in allg if g.script != name]
-    D = dist_matrix(q, pool); enr, _ = enrichment(D, pool, seed)
+    D = dist_matrix(q, pool, desc); enr, _ = enrichment(D, pool, seed)
     S = enr['stratified']; top = min(S, key=lambda n: S[n]['rank_by_E'])
     return {'query': name, 'n_query': len(q), 'top_by_E': top, 'stratified': S, 'unstratified': enr['unstratified']}
 
@@ -194,22 +226,49 @@ def montage(indus, pool, D, nn, path, k=60):
         dr.text((x0, y0 + cell), f'{indus[i].label} {pool[int(nn[i])].script[:8]} {D[i,int(nn[i])]:.3f}|B {D[i,jb]:.3f}', fill=0)
     im.save(path)
 
+def query_pass(ctrl, related):
+    S = ctrl['stratified']; sig = sorted(n for n in related if S[n]['p'] < 0.05)
+    return {'top': ctrl['top_by_E'], 'top_in_related': ctrl['top_by_E'] in related, 'significant_related': sig,
+            'pass': ctrl['top_by_E'] in related and len(sig) >= 2, 'mean_z_related': float(np.mean([S[n]['z'] for n in related]))}
+
+def select(pool):
+    """Amendment 1: evaluate descriptors A-D on positive/negative controls only. No Indus glyph is touched here."""
+    out = {}
+    for k, desc in enumerate('ABCD'):
+        res = {'queries': {}, 'negatives': {}}
+        for j, qn in enumerate(RELATED):
+            c = control(qn, pool, 48201 + 10*k + j, desc); res['queries'][qn] = query_pass(c, RELATED[qn]); res['queries'][qn]['control'] = c
+        for j, qn in enumerate(('OldHungarian', 'LinearA')):
+            c = control(qn, pool, 48205 + 10*k + j, desc); res['negatives'][qn] = {'top': c['top_by_E'], 'Brahmi': c['stratified']['Brahmi'], 'control': c}
+        res['n_pass'] = sum(q['pass'] for q in res['queries'].values()); res['mean_z'] = float(np.mean([q['mean_z_related'] for q in res['queries'].values()]))
+        res['descriptor_pass'] = res['n_pass'] >= 3; out[desc] = res
+        log(f'descriptor {desc}: passes {res["n_pass"]}/4, mean related z {res["mean_z"]:.2f} | ' + '; '.join(f'{qn}: top={q["top"]} sig={q["significant_related"]}' for qn, q in res['queries'].items()))
+        log(f'   negatives: ' + '; '.join(f'{qn}: top={v["top"]}, Brahmi E={v["Brahmi"]["E"]:.2f} p={v["Brahmi"]["p"]:.3f}' for qn, v in res['negatives'].items()))
+    passing = [d for d in 'ABCD' if out[d]['descriptor_pass']]
+    chosen = max(passing, key=lambda d: (out[d]['n_pass'], out[d]['mean_z'])) if passing else None
+    out['chosen'] = chosen; log(f'SELECTED descriptor: {chosen}')
+    json.dump(out, open(HERE / 'selection.json', 'w'), indent=1, default=str)
+    return chosen
+
 def main():
+    mode = sys.argv[1] if len(sys.argv) > 1 else 'indus'; desc = sys.argv[2] if len(sys.argv) > 2 else 'A'
     log('loading comparison scripts'); pool, dropped = load_scripts(); log(f'{len(pool)} letters, dropped {len(dropped)}')
+    if mode == 'select': select(pool); return
+    log(f'Indus run with descriptor {desc}')
     log('loading Indus glyphs'); indus, missing, freq = load_indus(); log(f'{len(indus)} Indus signs with glyphs, {len(missing)} missing: {missing}')
-    results = {'protocol': 'PROTOCOL.md', 'grid': G, 'nperm': NPERM, 'pool_size': len(pool), 'dropped_letters': dropped, 'indus_missing_glyphs': missing,
+    results = {'protocol': 'PROTOCOL.md', 'descriptor': desc, 'grid': G, 'nperm': NPERM, 'pool_size': len(pool), 'dropped_letters': dropped, 'indus_missing_glyphs': missing,
                'pool_counts': dict(collections.Counter(g.script for g in pool))}
     log('positive / negative controls')
     results['controls'] = {}
     for nm, seed in (('Phoenician', 48101), ('GreekCaps', 48102), ('OldHungarian', 48103), ('LinearA', 48104)):
-        results['controls'][nm] = control(nm, pool, seed, None); S = results['controls'][nm]['stratified']
+        results['controls'][nm] = control(nm, pool, seed, desc); S = results['controls'][nm]['stratified']
         log(f'  {nm}: top={results["controls"][nm]["top_by_E"]}  ' + ', '.join(f'{k}:E={v["E"]:.2f},p={v["p"]:.3f}' for k, v in sorted(S.items(), key=lambda kv: kv[1]['rank_by_E'])[:5]))
     pc1 = results['controls']['Phoenician']['stratified']; pc2 = results['controls']['GreekCaps']['stratified']
-    pass1 = pc1['ImperialAramaic']['p'] < 0.05 and pc1['Samaritan']['p'] < 0.05 and results['controls']['Phoenician']['top_by_E'] in PHOEN_DESC
-    pass2 = sum(pc2[s]['p'] < 0.05 for s in GREEK_SET) >= 2 and results['controls']['GreekCaps']['top_by_E'] in GREEK_SET
+    qp1 = query_pass(results['controls']['Phoenician'], RELATED['Phoenician']); qp2 = query_pass(results['controls']['GreekCaps'], RELATED['GreekCaps'])
+    pass1, pass2 = qp1['pass'], qp2['pass']; results['PC_detail'] = {'Phoenician': qp1, 'GreekCaps': qp2}
     results['PC1_pass'] = bool(pass1); results['PC2_pass'] = bool(pass2); log(f'PC1 pass={pass1} PC2 pass={pass2}')
 
-    log('Indus distances'); D = dist_matrix(indus, pool); D_id = dist_matrix(indus, pool, transforms=False)
+    log('Indus distances'); D = dist_matrix(indus, pool, desc); D_id = dist_matrix(indus, pool, desc, transforms=False)
     results['indus'] = {}
     for qname, sel, seed in (('Q1_all', list(range(len(indus))), 48001), ('Q2_top100', list(range(min(100, len(indus)))), 48002)):
         enr, nn = enrichment(D[sel], pool, seed); results['indus'][qname] = enr
