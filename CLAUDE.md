@@ -1,6 +1,6 @@
 # indus-script: working rules
 
-Owner: Arham Partap Jain. Mission: decipher the Indus script, honestly. State as of 18 Oct 2026: **49 rounds, no sign has an established sound or meaning.** Read this file, then `docs/STATUS.md`.
+Owner: Arham Partap Jain. Mission: decipher the Indus script, honestly. State as of 18 Oct 2026: **50 rounds, no sign has an established sound or meaning.** Read this file, then `docs/STATUS.md`.
 
 ## Stay inside this repo
 All work happens in this repository. New rounds go in `indus-lab/roundNN/`. Do not create files elsewhere except the scratchpad for throwaway runs. Do not touch `~/Indus Script Decipher`; it is the pre-repo archive.
@@ -34,7 +34,7 @@ All work happens in this repository. New rounds go in `indus-lab/roundNN/`. Do n
 - Setup: `pip install -r setup/requirements.txt`, `bash setup/setup_external.sh`, supply `data/kuiper.txt`, `source setup/paths.sh` (exports `$DATA_ARGS` = KUIPER JAMBU DRDB IDS LINB in that order).
 
 ## Round numbering
-Rounds 09–45 follow the original lab. The Brahmi coverage audit (called "Round 29" in its own handover, which collided with the existing round 29) is **round 46**; its pre-registered test is **round 47** (NULL); the shape-resemblance test is **round 48** (METHOD-FAIL); the published-key tournament is **round 49** (Fairservis NULL, others not testable). Next is 50.
+Rounds 09–45 follow the original lab. The Brahmi coverage audit (called "Round 29" in its own handover, which collided with the existing round 29) is **round 46**; its pre-registered test is **round 47** (NULL); the shape-resemblance test is **round 48** (METHOD-FAIL); the published-key tournament is **round 49** (Fairservis and Rao NULL, others not testable); the sealed-tablet census is **round 50** (INCOMPLETE, A = 0). Next is 51.
 
 ## Established (survived controls)
 1. Rounds 30–31: Gulf round seals are foreign in sign order (percentile 0.916, p<5e-5).
@@ -51,6 +51,7 @@ Rounds 09–45 follow the original lab. The Brahmi coverage audit (called "Round
 Rebus tournament (36), substrate fingerprint (37), sound-only matching (38), Gulf seals vs names (35), anchor-rebus branch (41–45, Finnish artefact), Tamil pattern matching (20), correspondence decoders (22–23), copper-tablet labels (24–26).
 
 ## Open leads
-1. **External anchors.** More Gulf/Dilmun seal transcriptions (Laursen 2010; Al-Sindi; Kjærum Failaka) need PDFs from Arham; then re-run round 35 with power and test the 415-803-001 opening.
+1. **External anchors.** Round 50 found no Indus-sign impression on any inscribed tablet in open sources; Mitchell 1986 and Laursen & Steinkeller 2017 remain unread (not online). More Gulf/Dilmun seal transcriptions (Laursen 2010; Al-Sindi; Kjærum Failaka) still need PDFs; then re-run round 35 with power and test the 415-803-001 opening.
+1b. **Meluhhan loanwords (planned round 51).** Sumerian/Akkadian words for Indus goods tested with the round 39 instrument (gate + impossible-language controls); candidate lists in Parpola 1994 and Possehl 1996.
 2. **Methods write-up.** Rounds 32, 45, 47 and 49 together discredit a common class of decipherment claims. Do not publish without Arham's OK.
 3. **Pending key.** Bonta 2023 2nd ed. (Academia.edu, gated; no open copy found): transcribe to key format with page refs, commit, run `round49/run49.py` unchanged.

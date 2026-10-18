@@ -5,7 +5,7 @@
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "fe630895c66a54a4262467d79178a11c065f474d414b37ba5ae04b7ac186fdee"
+  "sha256": "fdf3b12a3443377e36959a44d50c12103295974ab150f7e18ec12a3ea10c3f35"
  },
  {
   "path": "LICENSE",
@@ -13,7 +13,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "223244ca2da96912a069eff5a8bcc332986317d3bd285fe9369b3e3b5e36b2b8"
+  "sha256": "9384a861fd5f81e1f75605efe24d617224318accf57bc8e35144e2de0412dddd"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -53,7 +53,7 @@
  },
  {
   "path": "docs/STATUS.md",
-  "sha256": "6c92cfd72cf3f181bdf4e16aeef0204163fa40358ed54a96cdaae11c8ebe2cc9"
+  "sha256": "62a944517781d2d6d5554e64971c30ad75cb1f22fa956506825767d540964210"
  },
  {
   "path": "docs/atlas/Indus-Brahmi-Full-Mapping-Atlas.pdf",
@@ -2334,6 +2334,18 @@
  {
   "path": "indus-lab/round49/run49.py",
   "sha256": "6d22ed4b9fb919473e058f3604129739b438d75ca4cc70eea614dc955554318e"
+ },
+ {
+  "path": "indus-lab/round50/PROTOCOL.md",
+  "sha256": "cfdcf1c4fd33b2c4f26e847af8b7acc46af2bf738890be5ef28780e523b90253"
+ },
+ {
+  "path": "indus-lab/round50/REPORT.md",
+  "sha256": "b6703aefbd812fef63717c1a85818574a8d6220510f67eee6a2558dadda893fd"
+ },
+ {
+  "path": "indus-lab/round50/census.tsv",
+  "sha256": "7832e09e949f361b56895b138bf0d96ca1d7c543ef14609824ebf903f503f834"
  },
  {
   "path": "indus-lab/run.py",

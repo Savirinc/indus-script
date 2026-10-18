@@ -1,6 +1,6 @@
 # indus-script
 
-An open, pre-registered research lab for the Indus script. Forty-nine rounds of experiments, their protocols, code, data snapshots and reports, including the ones that failed.
+An open, pre-registered research lab for the Indus script. Fifty rounds of experiments, their protocols, code, data snapshots and reports, including the ones that failed.
 
 **Status, 17 October 2026: no Indus sign has an established sound or meaning in this project. No translation is claimed.** The current line of work tests whether the proposed Indus-to-Brahmi/Sanskrit mapping published by Yajnadevam (Bharath Rao, 2024) survives the same controls that already caught a false positive for Dravidian.
 
@@ -34,10 +34,12 @@ Yajnadevam's 2024 paper includes a Table 7 standardising 38 Indus signs into Bra
 
 **Round 49 (pre-registered, run):** the round 47 instrument applied to every other published key available in machine-readable form. Fairservis 1992 (Dravidian, 95 signs): **NULL**, his values read no more like Tamil than random reassignments of the same values, and Finnish fits his key slightly better. Parpola 1994 (27 signs), Kak 1988 (7) and Mahadevan 2014 (5) are **not testable**: the Linear B control shows the method loses power below about 60% token coverage, and five-sign keys cannot be separated from wrong ones on 8,700 tokens. Rao 1982 (Indo-Aryan, 56 signs transcribed from his book): **NULL**, and Finnish likes his key more than Sanskrit does. Bonta 2023 is pending a copy. Every published key that can be tested is indistinguishable from its own shuffles.
 
+**Round 50 (pre-registered, run):** the "near-bilingual" route. Were Indus-sign seals ever impressed on cuneiform tablets that name their owners? In every open source (Gadd 1932, Hallo & Buchanan 1965, the full CDLI catalogue) the answer is no. The one dated Gulf-seal impression on a tablet (YBC 5447, 1923 BCE) is a textless Dilmun design. Three print sources remain unread, so the verdict is INCOMPLETE rather than CLOSED.
+
 ## Layout
 
 ```
-docs/STATUS.md                 one row per round, 09–49, with verdicts
+docs/STATUS.md                 one row per round, 09–50, with verdicts
 docs/EXTERNAL-EVIDENCE.md      Meluhha names, Ur seal, Commons, source gateways
 docs/atlas/                    714-sign Indus/Brahmi proposed-mapping atlas (PDF)
 docs/handover/                 earlier handover documents, kept verbatim
