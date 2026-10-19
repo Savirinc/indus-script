@@ -5,11 +5,11 @@
  },
  {
   "path": "CITATION.cff",
-  "sha256": "57021fe8b8792e13553852e5b62045e371f9757695f28e408179bb89a8065217"
+  "sha256": "3986061bc3dfa8847de893fffe475c28733ed46c44bffc22dbcc7be4d869a78e"
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "2a3d64247e0e626ce9d45709f48e76be10ae3210b5dda831fa9d81e53e902319"
+  "sha256": "47276de201eee866d703578d65d479875a6c0daede0a4ee789bb599c72b37d30"
  },
  {
   "path": "LICENSE",
@@ -17,7 +17,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "463aa6f87abd494161d4d33b2dc7f8be939d655417be134e007053ce72aac8ed"
+  "sha256": "522ac4d494aed194fac6ed9e7e28f978621cb0fd2c78ce53e70817ec81b803b6"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -53,7 +53,7 @@
  },
  {
   "path": "docs/CONJECTURES.md",
-  "sha256": "33d13bbf5e26d975cd2af6e7e8f3796abf82d9d69e34fe7bc187b16dd8e67a4b"
+  "sha256": "4a67f41733b3dda0e9d3827abfb05eb6dafa4913dd262d540ba753384b662e59"
  },
  {
   "path": "docs/EXTERNAL-EVIDENCE.md",
@@ -65,11 +65,11 @@
  },
  {
   "path": "docs/ROADMAP.md",
-  "sha256": "95f3a706bad6460fbe522a58abafa9e69c46b3e01a7713e6b238816e364edb92"
+  "sha256": "ffd8b2f3a3ea6780f6ad5d78ff0bc4b84569e1eb0abb000237b245e27e101534"
  },
  {
   "path": "docs/STATUS.md",
-  "sha256": "3fc0fbde232d4b498e85fec6d5e2a625906a94ea6c1b461fb798ab30bc367cb2"
+  "sha256": "b24ba09808be36c36229532bf69b0c3470e0af207e0e7491238578f58fbb107d"
  },
  {
   "path": "docs/TEST-YOUR-KEY.md",
@@ -2558,6 +2558,26 @@
  {
   "path": "indus-lab/round53/run53.py",
   "sha256": "f119371e8f9772c273d76c4f0e0a9e2a59c57771005930b1a98e490d2ec330e4"
+ },
+ {
+  "path": "indus-lab/round53b/PROTOCOL.md",
+  "sha256": "ee477e85ad12195bcd4acd1bab7e44c6f2eaced4d35612b7851e0ced5d05ed85"
+ },
+ {
+  "path": "indus-lab/round53b/REPORT.md",
+  "sha256": "071704744fffbb28fee3124956cc4c545834d046a3830f983a6f7513aa861b07"
+ },
+ {
+  "path": "indus-lab/round53b/results.json",
+  "sha256": "612e9442953c33ebbb2c49c5b7bdd07b9b71b03d02a7a46ee7a476e72f6f99a0"
+ },
+ {
+  "path": "indus-lab/round53b/run53b.log",
+  "sha256": "4e9bfe482deaf954ba5173473e138cd5155a3de1abd4f1509f0e070a552e7527"
+ },
+ {
+  "path": "indus-lab/round53b/run53b.py",
+  "sha256": "1c96394bea2b8f81339c08c3d4f93d59ae20dd54a56591fad46b8f17766a09c8"
  },
  {
   "path": "indus-lab/round54/PROTOCOL.md",

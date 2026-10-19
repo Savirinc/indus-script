@@ -1,0 +1,34 @@
+SEAL sample 10 S so far 1.761 20 s
+SEAL sample 20 S so far 1.771 39 s
+SEAL sample 30 S so far 1.769 57 s
+control SEAL P 0.503 R 0.75 F1 0.602 random 0.406 margin 0.196
+SEAL S 1.769 ± 0.025 M 0.961 ± 0.006 S(min count 5) 1.792
+SUX sample 10 S so far 1.495 76 s
+SUX sample 20 S so far 1.492 94 s
+SUX sample 30 S so far 1.492 111 s
+control SUX P 0.587 R 0.686 F1 0.632 random 0.544 margin 0.089
+SUX S 1.492 ± 0.02 M 0.824 ± 0.01 S(min count 5) 1.518
+OBL sample 10 S so far 1.485 130 s
+OBL sample 20 S so far 1.486 148 s
+OBL sample 30 S so far 1.484 166 s
+control OBL P 0.345 R 0.89 F1 0.497 random 0.348 margin 0.149
+OBL S 1.484 ± 0.014 M 0.914 ± 0.008 S(min count 5) 1.486
+OAL sample 10 S so far 1.479 184 s
+OAL sample 20 S so far 1.482 202 s
+OAL sample 30 S so far 1.483 220 s
+control OAL P 0.409 R 0.856 F1 0.553 random 0.404 margin 0.149
+OAL S 1.483 ± 0.017 M 0.917 ± 0.011 S(min count 5) 1.482
+CHN sample 10 S so far 1.499 235 s
+CHN sample 20 S so far 1.497 250 s
+CHN sample 30 S so far 1.495 264 s
+CHN S 1.495 ± 0.025 M 0.756 ± 0.018 S(min count 5) 1.389
+OBI sample 10 S so far 1.704 281 s
+OBI sample 20 S so far 1.699 297 s
+OBI sample 30 S so far 1.701 314 s
+OBI S 1.701 ± 0.017 M 0.878 ± 0.008 S(min count 5) 1.693
+positive control METHOD-FAIL passed ['SEAL']
+Indus S 1.423 M 0.733 S(min count 5) 1.435 segments {1: 4014, 2: 1715, 3: 364, 4: 26, 5: 8, 6: 3, 7: 4} multi-sign token share 0.54
+Indus induced lexicon (top 20 multi-sign): [('861-002', 106), ('817-002', 92), ('820-002', 63), ('760-740', 58), ('176-740', 47), ('032-220', 40), ('100-740', 34), ('740-090', 31), ('740-400', 29), ('920-060-741', 28), ('692-060', 27), ('590-390-740', 26), ('235-240', 26), ('798-740', 25), ('220-520', 24), ('923-740', 24), ('705-033', 24), ('415-220', 22), ('550-060', 21), ('705-033-520', 20)]
+verdict on S METHOD-FAIL on M METHOD-FAIL VERDICT METHOD-FAIL
+Indus shuffled within texts: S 1.073 M 0.236
+done 316.9 s
