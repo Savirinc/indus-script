@@ -146,4 +146,5 @@ def chn():
     write('CHN', units)
 
 ALL = dict(GRK=grk, HEB=heb, CHR=chr_, SUX=sux, EGY=egy, OBI=obi, CHN=chn)
-for k in (sys.argv[2:] or ALL): ALL[k]()
+if __name__ == '__main__':
+    for k in (sys.argv[2:] or ALL): ALL[k]()

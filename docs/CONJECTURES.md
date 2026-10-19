@@ -12,8 +12,8 @@ Status words: **ESTABLISHED** (survived pre-registered controls), **OPEN** (live
 - **Explains:** stable sign order, fixed endings, repeated sequences across sites, variable texts under a constant emblem.
 - **For:** bigram structure transfers between Harappa and Mohenjo-daro (rounds 27, 29); endings fixed per text (round 34 audit); Gulf-made seals deviate from the native order, as foreign use would (rounds 30–31).
 - **Against:** no text longer than 17 signs; no bilingual; texts are mostly unique; Farmer, Sproat and Witzel's non-linguistic reading accounts for the brevity.
-- **Refuted by:** a demonstration that a non-linguistic generative model (emblem combinatorics) reproduces the conditional sign-order statistics as well as the bigram model does. Round 28 tried and was inconclusive.
-- **Status:** OPEN, leaning linguistic. Nothing here assumes it.
+- **Refuted by:** a demonstration that a non-linguistic generative model (emblem combinatorics) reproduces the conditional sign-order statistics as well as the bigram model does. Round 28 tried and was inconclusive. Round 52b shows that entropy, inventory and Heaps statistics cannot settle this either way: real non-phonetic administrative systems (Uruk III proto-cuneiform H2/H1 0.51, proto-Elamite 0.47) match phonetic scripts (Ur III Sumerian 0.48, Egyptian 0.56) at matched size, so Rao et al.'s conditional-entropy argument does not discriminate. Only a generative comparison that beats the proto-cuneiform control (round 56) can move this.
+- **Status:** OPEN, leaning linguistic on sign-order transfer and foreign-seal evidence, not on entropy. Nothing here assumes it.
 
 ### A2. The texts on seals are names and titles of persons or offices
 - **Explains:** 892 distinct texts among 1,005 unicorn-seal inscriptions; length 2–8 signs; fixed terminal signs behaving like suffixes; the pattern of every deciphered seal tradition.
@@ -27,7 +27,7 @@ Status words: **ESTABLISHED** (survived pre-registered controls), **OPEN** (live
 - **For:** inventory size; compound signs built from basic ones; numeral strokes.
 - **Against:** none decisive.
 - **Refuted by:** sign-frequency and order statistics that match an alphabetic, syllabic or purely logographic system under a pre-registered comparison with real corpora at matched size and text length. Round 52 ran this with Greek, Hebrew, Cherokee, Ur III Sumerian, Egyptian, oracle-bone Chinese and the Shijing: the alphabet and syllabary alternatives are excluded (control passed; Indus three to ten times further from them than from any large-inventory system), but the logosyllabic-versus-logographic distinction was not separable with one or two corpora per class (METHOD-FAIL on that half). A decisive version needs at least three excavated corpora per large-inventory class.
-- **Status:** OPEN, narrowed: a large-inventory system, nearest to oracle-bone Chinese and Ur III Sumerian in its statistics (round 52). One new constraint: only 3.5% of Indus texts repeat a sign, against 14% for Sumerian and 28% for Egyptian; any key must reproduce this.
+- **Status:** OPEN, narrowed: a large-inventory system; on every structural statistic the Indus corpus is nearest the Shang oracle-bone inscriptions by a factor of four to five over any other corpus, stable under every leave-one-out (round 52b), which fits short formulaic records of names and titles (A2) more than it decides A3. One new constraint: only 3.5% of Indus texts repeat a sign, against 14% for Sumerian and 28% for Egyptian; any key must reproduce this.
 
 ## B. The language
 

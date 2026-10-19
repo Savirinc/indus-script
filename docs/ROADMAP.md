@@ -19,10 +19,11 @@ The Linear B precedent: Kober's grids came before Ventris's values. Each round b
 | Round | Question | Control | Could fail by |
 |---|---|---|---|
 | 52 | Logosyllabic vs alphabetic vs logographic: which system's statistical signature does the Indus inventory match? | Greek, Hebrew, Cherokee, Ur III Sumerian, Egyptian, oracle-bone Chinese, Shijing, all cut to Indus text lengths and size (no open Linear B corpus exists) | **Ran: METHOD-FAIL on the large-inventory split; alphabet and syllabary excluded.** 52b needs ≥ 3 excavated corpora per class |
+| 52b | Same, three classes incl. archaic administrative systems (proto-cuneiform, proto-Elamite) from the CDLI dump; nearest-corpus classifier | Leave-one-corpus-out across 12 corpora | **Ran: METHOD-FAIL** (oracle bone and Cherokee misassigned). Finding: entropy-type statistics do not separate archaic accounting from phonetic writing. Series closed; Indus nearest oracle bone, far from all alphabets and syllabaries |
 | 53 | Segmentation: can texts be split into recurrent words by unsupervised methods, and do the segments behave like morphemes? | Linear B names with spaces removed | No segmentation beats random cut points |
 | 54 | Sign classes: a distributional grid (which signs substitute for which in which slots), the Kober method | Linear B grid recovered blind | Grid not stable across Harappa/Mohenjo-daro splits |
 | 55 | Numerals and measures: stroke signs and their partners, tested as a counting system on tablets | Proto-Elamite and Mesopotamian numeral behaviour | Stroke signs behave like ordinary signs |
-| 56 | Non-linguistic null revisited: an emblem-combinatorics generator fitted to the corpus vs the bigram model (round 28 unfinished) | Heraldic and brand-mark corpora as genuinely non-linguistic controls | Both models fit equally |
+| 56 | Non-linguistic null revisited: an emblem-combinatorics generator fitted to the corpus vs the bigram model (round 28 unfinished) | Uruk III proto-cuneiform and proto-Elamite (now extracted, `round52b/controls/`) as real non-phonetic controls, plus heraldic or brand-mark corpora | Both models fit equally, or the bigram model also fits proto-cuneiform |
 
 ## Track 3. External anchors (opportunistic)
 

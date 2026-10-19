@@ -57,3 +57,12 @@ Same nearest-corpus analysis with the five features that do not depend on invent
 
 ## Pins and reproducibility
 `extract52b.py` reads the round 52 download directory; `SHA256SUMS` lists the new extracts; `controls/` commits every new extract (all CC BY). `run52b.py`, standard library only. One run; code fixes before results are recorded as amendments.
+
+## Amendment 1 (19 October 2026, after extraction, before any feature was computed)
+Proto-cuneiform and proto-Elamite ATF separates cases with a bare comma, which the round 52 tokeniser kept as a token. Tokens with no letter or digit are dropped. Uruk IV yields 12,489 tokens, under 2 N; it is kept (the protocol's size rule applies to SEAL only) and the heavy overlap of its samples is noted in the report. SEAL yields 68,438 tokens and is kept.
+
+## Amendment 2 (19 October 2026, before results; the first run aborted at the SEAL corpus before any classification)
+Seal legends are transliterated line by line and no single line reaches 13 signs, so window sampling failed. For SEAL the unit is the whole seal (all its lines in order), which is also the closer analogue of an Indus text. Other corpora keep line or sentence units as in round 52.
+
+## Amendment 3 (19 October 2026, before results; second run aborted at Uruk IV before any classification)
+Proto-cuneiform and proto-Elamite cases are one to four signs, so no case reaches the longest Indus texts. For U4, U3 and PE the unit is the whole tablet (cases in transliteration order), the same rule as for SEAL. Adjacent-sign features therefore include pairs that straddle a case boundary on these tablets; this is stated as a limitation that, if anything, lowers their order statistics towards the shuffled value.

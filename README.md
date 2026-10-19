@@ -47,6 +47,7 @@ The working rules, in force since round 29 and written into [`CLAUDE.md`](CLAUDE
 | Indus-sign seals impressed on inscribed cuneiform tablets (a near-bilingual) | 50 | **None exist** in any published catalogue (Gadd 1932, Hallo & Buchanan 1965, Collon 1996, full CDLI). The three Gulf-seal impressions on tablets are textless Dilmun types. |
 | Meluhhan loanwords in Sumerian/Akkadian | 51 | **No family attributable.** Eleven candidates; Finnish ranks first. Possehl's 1996 catalogue holds no loanwords, only Sumerian terms qualified "of Meluhha". The one word an ancient list calls Meluhhan, *šamru* "thorn tree", matches Sanskrit *śamī* and Proto-Dravidian "thorn" equally, at a similarity one random plant word in five achieves. |
 | Indus signs behave like an alphabet or a syllabary (the premise of every letter-value key) | 52 | **Excluded** at matched corpus size and text length: the control recovers alphabets perfectly and the Indus statistics sit among large-inventory systems, nearest oracle-bone Chinese and Ur III Sumerian. The finer logosyllabic-vs-logographic split was **METHOD-FAIL** (not separable with one or two corpora per class). |
+| Conditional entropy and inventory statistics show the signs encode language (Rao et al. 2009) | 52b | **Does not discriminate.** At matched size, Uruk III proto-cuneiform and proto-Elamite (largely non-phonetic accounting) match Ur III Sumerian and Egyptian on conditional entropy, unigram entropy and Heaps slope. The Indus corpus is nearest the Shang oracle-bone inscriptions by 4–5× over any other of twelve corpora and far from every alphabet and syllabary; class beyond that is **METHOD-FAIL**. |
 
 Full detail per round: [`docs/STATUS.md`](docs/STATUS.md). Each round's folder has the protocol, code, results and report.
 
@@ -77,7 +78,7 @@ docs/TEST-YOUR-KEY.md          how to run your key through the harness
 docs/USED-BY.md                known uses of this work
 docs/methods/METHODS-DRAFT.md  the write-up (draft 0.1)
 docs/EXTERNAL-EVIDENCE.md      Meluhha names, Ur seal, source gateways
-docs/atlas/                    714-sign Indus/Brahmi proposed-mapping atlas (PDF)
+docs/atlas/                    714-sign Indus/Brahmi proposed-mapping atlas (PDF), compiled by the owner with GPT assistance after S. R. Rao's mapping idea; a hypothesis document, not evidence
 docs/handover/                 earlier handover documents, kept verbatim
 indus-lab/roundNN/             one folder per round: PROTOCOL.md, code, results, REPORT.md
 indus-lab/raw/                 corpus exports (read-only)
