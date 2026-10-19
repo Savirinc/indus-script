@@ -10,7 +10,7 @@ authors:
 repository-code: "https://github.com/Savirinc/indus-script"
 url: "https://github.com/Savirinc/indus-script"
 license: MIT
-version: "0.52.1"
+version: "0.53"
 date-released: "2026-10-19"
 abstract: >
   Fifty-one pre-registered rounds testing proposed readings of the Indus script against
