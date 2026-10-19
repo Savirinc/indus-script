@@ -1,0 +1,23 @@
+Indus texts 1936 tokens 8726 types 582
+Indus features {"V": 582, "hapax": 0.3677, "top10": 0.3319, "H1": 6.9196, "H2H1": 0.4942, "heaps": 0.4245, "repeat": 0.0351, "double": 0.0015}
+GRK alphabet units 27794 tokens 979137 mean {"V": 24.0, "hapax": 0.0, "top10": 0.7412, "H1": 4.0891, "H2H1": 0.8507, "heaps": 0.0118, "repeat": 0.3403, "double": 0.016}
+HEB alphabet units 5853 tokens 305172 mean {"V": 22.0, "hapax": 0.0, "top10": 0.7573, "H1": 4.0812, "H2H1": 0.9262, "heaps": 0.0004, "repeat": 0.3373, "double": 0.0255}
+CHR syllabary units 7957 tokens 493273 mean {"V": 81.5133, "hapax": 0.0169, "top10": 0.4097, "H1": 5.6225, "H2H1": 0.7333, "heaps": 0.0541, "repeat": 0.1382, "double": 0.0067}
+SUX logosyllabic units 963992 tokens 5119302 mean {"V": 422.9367, "hapax": 0.2197, "top10": 0.2409, "H1": 7.3092, "H2H1": 0.4767, "heaps": 0.2905, "repeat": 0.1387, "double": 0.0102}
+EGY logosyllabic units 2835 tokens 39134 mean {"V": 411.0967, "hapax": 0.2755, "top10": 0.4356, "H1": 6.3869, "H2H1": 0.5615, "heaps": 0.3781, "repeat": 0.2767, "double": 0.0468}
+OBI logographic units 6910 tokens 41248 mean {"V": 667.61, "hapax": 0.3665, "top10": 0.3226, "H1": 7.2305, "H2H1": 0.461, "heaps": 0.4474, "repeat": 0.0302, "double": 0.0009}
+CHN logographic units 1319 tokens 29646 mean {"V": 1620.9267, "hapax": 0.3722, "top10": 0.1795, "H1": 9.1828, "H2H1": 0.313, "heaps": 0.5473, "repeat": 0.189, "double": 0.0243}
+LOCO GRK true alphabet correct 1.0 {'alphabet': 300}
+LOCO HEB true alphabet correct 1.0 {'alphabet': 300}
+LOCO SUX true logosyllabic correct 0.0 {'logographic': 300}
+LOCO EGY true logosyllabic correct 0.0 {'logographic': 300}
+LOCO OBI true logographic correct 0.0 {'logosyllabic': 300}
+LOCO CHN true logographic correct 1.0 {'logographic': 300}
+CHR self-consistency (not a test) 1.0
+positive control METHOD-FAIL worst 0.0
+Indus Mahalanobis {'alphabet': 174057.88, 'syllabary': 57008.59, 'logosyllabic': 866.83, 'logographic': 116.7} inside [] VERDICT METHOD-FAIL
+Robust (5 features) Mahalanobis {'alphabet': 96547.23, 'syllabary': 15979.32, 'logosyllabic': 374.04, 'logographic': 44.47} nearest logographic
+Indus shuffled within {"V": 582, "hapax": 0.3677, "top10": 0.3319, "H1": 6.9196, "H2H1": 0.6621, "heaps": 0.4063, "repeat": 0.0351, "double": 0.0034} {'alphabet': 172509.18, 'syllabary': 53667.92, 'logosyllabic': 1753.74, 'logographic': 3052.57}
+Indus shuffled across {"V": 582, "hapax": 0.3677, "top10": 0.3319, "H1": 6.9196, "H2H1": 0.6863, "heaps": 0.4234, "repeat": 0.1725, "double": 0.0222} {'alphabet': 173520.47, 'syllabary': 54379.86, 'logosyllabic': 1826.42, 'logographic': 4477.61}
+SUX sample H2/H1 real 0.4745 within-shuffled 0.6097
+done 16.1 s

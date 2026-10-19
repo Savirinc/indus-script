@@ -18,7 +18,7 @@ The Linear B precedent: Kober's grids came before Ventris's values. Each round b
 
 | Round | Question | Control | Could fail by |
 |---|---|---|---|
-| 52 | Logosyllabic vs alphabetic vs logographic: which system's statistical signature does the Indus inventory match? | Linear B, Egyptian hieroglyphic, Chinese oracle bone, Phoenician, all degraded to Indus text lengths | Signatures not separable at 8,700 tokens |
+| 52 | Logosyllabic vs alphabetic vs logographic: which system's statistical signature does the Indus inventory match? | Greek, Hebrew, Cherokee, Ur III Sumerian, Egyptian, oracle-bone Chinese, Shijing, all cut to Indus text lengths and size (no open Linear B corpus exists) | **Ran: METHOD-FAIL on the large-inventory split; alphabet and syllabary excluded.** 52b needs ≥ 3 excavated corpora per class |
 | 53 | Segmentation: can texts be split into recurrent words by unsupervised methods, and do the segments behave like morphemes? | Linear B names with spaces removed | No segmentation beats random cut points |
 | 54 | Sign classes: a distributional grid (which signs substitute for which in which slots), the Kober method | Linear B grid recovered blind | Grid not stable across Harappa/Mohenjo-daro splits |
 | 55 | Numerals and measures: stroke signs and their partners, tested as a counting system on tablets | Proto-Elamite and Mesopotamian numeral behaviour | Stroke signs behave like ordinary signs |

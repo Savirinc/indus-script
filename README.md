@@ -46,6 +46,7 @@ The working rules, in force since round 29 and written into [`CLAUDE.md`](CLAUDE
 | Gulf seals read as attested Dilmun/Meluhha names | 35 | Non-informative: 27 names, fake names match as often as real. |
 | Indus-sign seals impressed on inscribed cuneiform tablets (a near-bilingual) | 50 | **None exist** in any published catalogue (Gadd 1932, Hallo & Buchanan 1965, Collon 1996, full CDLI). The three Gulf-seal impressions on tablets are textless Dilmun types. |
 | Meluhhan loanwords in Sumerian/Akkadian | 51 | **No family attributable.** Eleven candidates; Finnish ranks first. Possehl's 1996 catalogue holds no loanwords, only Sumerian terms qualified "of Meluhha". The one word an ancient list calls Meluhhan, *šamru* "thorn tree", matches Sanskrit *śamī* and Proto-Dravidian "thorn" equally, at a similarity one random plant word in five achieves. |
+| Indus signs behave like an alphabet or a syllabary (the premise of every letter-value key) | 52 | **Excluded** at matched corpus size and text length: the control recovers alphabets perfectly and the Indus statistics sit among large-inventory systems, nearest oracle-bone Chinese and Ur III Sumerian. The finer logosyllabic-vs-logographic split was **METHOD-FAIL** (not separable with one or two corpora per class). |
 
 Full detail per round: [`docs/STATUS.md`](docs/STATUS.md). Each round's folder has the protocol, code, results and report.
 

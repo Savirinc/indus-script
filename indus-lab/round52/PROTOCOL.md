@@ -67,3 +67,13 @@ Rerun the Indus vector with the five features that do not depend on inventory sp
 - `fetch_controls.sh` downloads every control at a pinned commit or revision; `SHA256SUMS` lists the downloaded files. Extracted token sequences are written to `controls/*.txt` (one unit per line, signs space-separated) and committed where the licence permits redistribution (all of the above do; CDLI and AES extracts are small subsets).
 - `run52.py`, standard library only, writes `results.json` and `run52.log`.
 - Seed 52001. B = 300. Stopping rule: one run; no reruns with other seeds unless the code is found to be wrong, in which case the fix and a rerun are recorded as an amendment before results.
+
+## Amendment 1 (19 October 2026, after extraction, before any feature was computed)
+Decisions forced by the file formats, recorded before `run52.py` is run:
+1. Greek final sigma ς is merged with σ, as a positional allograph, by analogy with the Hebrew final-letter rule already stated.
+2. Sumerian: the Oracc sign list spells the velar fricative `h`, so ATF `h` is kept as `h`; ATF `sz`, `s,`, `t,`, `j` become `š`, `ṣ`, `ṭ`, `ŋ`; ASCII index digits become subscripts. A value written `value(SIGN)` is mapped to SIGN. Editorial notes `($ ... $)` are removed before tokenising. Values not in the sign list keep the value as the sign token (prefixed `v:`), which splits a few signs by value; the mapped and unmapped token counts are logged.
+3. Sumerian extract size: the Ur III administrative extract is 5.1 million tokens (27 MB). It is not committed; `SHA256SUMS` records its hash and `fetch_controls.sh` plus `extract52.py` regenerate it from the pinned dump. All other extracts are committed.
+4. The CDLI catalogue is read from the round 50 download (same pinned dump, commit d66b12b0).
+
+## Amendment 2 (19 October 2026, before results)
+The protocol quoted the Indus corpus as 1,934 texts and 8,720 tokens from memory. `FC.TRAIN` actually holds 1,936 texts and 8,726 tokens (CLAUDE.md gives 1,936). The sample size N is therefore 8,726, set from the loaded corpus; nothing else changes.

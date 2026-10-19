@@ -26,8 +26,8 @@ Status words: **ESTABLISHED** (survived pre-registered controls), **OPEN** (live
 - **Explains:** 400–700 sign types, too many for an alphabet or pure syllabary, too few for a logography.
 - **For:** inventory size; compound signs built from basic ones; numeral strokes.
 - **Against:** none decisive.
-- **Refuted by:** sign-frequency and positional statistics that match an alphabetic or purely logographic system under a pre-registered model comparison with Linear B, Egyptian and Chinese controls. Not yet run.
-- **Status:** OPEN. Candidate for a structural round.
+- **Refuted by:** sign-frequency and order statistics that match an alphabetic, syllabic or purely logographic system under a pre-registered comparison with real corpora at matched size and text length. Round 52 ran this with Greek, Hebrew, Cherokee, Ur III Sumerian, Egyptian, oracle-bone Chinese and the Shijing: the alphabet and syllabary alternatives are excluded (control passed; Indus three to ten times further from them than from any large-inventory system), but the logosyllabic-versus-logographic distinction was not separable with one or two corpora per class (METHOD-FAIL on that half). A decisive version needs at least three excavated corpora per large-inventory class.
+- **Status:** OPEN, narrowed: a large-inventory system, nearest to oracle-bone Chinese and Ur III Sumerian in its statistics (round 52). One new constraint: only 3.5% of Indus texts repeat a sign, against 14% for Sumerian and 28% for Egyptian; any key must reproduce this.
 
 ## B. The language
 
