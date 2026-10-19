@@ -1,0 +1,31 @@
+OBL units 42554 tokens 348163 flagged types 792
+OAL units 22440 tokens 174415 flagged types 325
+SEAL units 492 tokens 7348 flagged types 245
+SUX units 963992 tokens 5119302 flagged types 0
+EGY units 2835 tokens 39134 flagged types 0
+OBI units 6910 tokens 41248 flagged types 0
+CHN units 1319 tokens 29646 flagged types 0
+OBL done 5.6 s types f>=10 per sample 109.5
+OAL done 9.9 s types f>=10 per sample 101.7
+SEAL done 14.0 s types f>=10 per sample 122.3
+SUX done 20.1 s types f>=10 per sample 168.8
+EGY done 24.6 s types f>=10 per sample 112.6
+OBI done 29.2 s types f>=10 per sample 143.6
+CHN done 35.6 s types f>=10 per sample 177.8
+AUC OBL 0.455 PHON/LOGO types in last sample 91 13
+AUC OAL 0.651 PHON/LOGO types in last sample 76 20
+AUC SEAL 0.469 PHON/LOGO types in last sample 96 16
+theta 0.648 balanced accuracy 0.578 positive control METHOD-FAIL
+OBL core share C 0.768 ± 0.045 coverage f>=10 0.95 median F 0.719
+OAL core share C 0.791 ± 0.038 coverage f>=10 0.969 median F 0.711
+SEAL core share C 0.025 ± 0.023 coverage f>=10 0.959 median F 0.458
+SUX core share C 0.454 ± 0.04 coverage f>=10 0.91 median F 0.664
+EGY core share C 0.654 ± 0.053 coverage f>=10 0.903 median F 0.64
+OBI core share C 0.34 ± 0.025 coverage f>=10 0.852 median F 0.638
+CHN core share C 0.855 ± 0.016 coverage f>=10 0.58 median F 0.772
+negative control: C_akk 0.768 C_logo 0.855 gap -0.087 FAIL
+Indus C 0.594 coverage 0.858 types f>=10 117 median F 0.722
+Indus highest F [('645', 1.11, 10), ('440', 1.09, 30), ('742', 1.09, 24), ('741', 1.02, 136), ('031', 0.99, 132), ('745', 0.98, 16), ('382', 0.95, 11), ('790', 0.94, 23), ('065', 0.94, 10), ('013', 0.93, 26), ('717', 0.93, 32), ('175', 0.92, 16), ('892', 0.92, 34), ('838', 0.91, 10), ('455', 0.9, 28)]
+Indus lowest F [('817', 0.23, 124), ('679', 0.32, 13), ('527', 0.36, 45), ('090', 0.4, 88), ('520', 0.41, 166), ('861', 0.44, 157), ('400', 0.44, 211), ('820', 0.46, 151), ('692', 0.48, 44), ('161', 0.49, 10), ('435', 0.49, 37), ('407', 0.5, 51), ('920', 0.51, 95), ('877', 0.52, 13), ('405', 0.52, 51)]
+VERDICT METHOD-FAIL
+done 36.5 s

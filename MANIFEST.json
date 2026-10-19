@@ -5,11 +5,11 @@
  },
  {
   "path": "CITATION.cff",
-  "sha256": "d37e610649c6d404dd710c214ff44c311a51fedfabaf55cda11ea48b069e325b"
+  "sha256": "57021fe8b8792e13553852e5b62045e371f9757695f28e408179bb89a8065217"
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "469ab8ae6f892f679b1985f664c54c36a488b9c8d2de73c44c5fa0b13811e7e6"
+  "sha256": "2a3d64247e0e626ce9d45709f48e76be10ae3210b5dda831fa9d81e53e902319"
  },
  {
   "path": "LICENSE",
@@ -17,7 +17,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "05a3ce70413fee8feb312b77969838dd30b5518e61b0855cf2a1f79df493adcd"
+  "sha256": "463aa6f87abd494161d4d33b2dc7f8be939d655417be134e007053ce72aac8ed"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -53,7 +53,7 @@
  },
  {
   "path": "docs/CONJECTURES.md",
-  "sha256": "a23b97eb9d759f2de01d02cd8d4a5e20b7b9647e1bd8505dd6d8455155157ee5"
+  "sha256": "33d13bbf5e26d975cd2af6e7e8f3796abf82d9d69e34fe7bc187b16dd8e67a4b"
  },
  {
   "path": "docs/EXTERNAL-EVIDENCE.md",
@@ -65,11 +65,11 @@
  },
  {
   "path": "docs/ROADMAP.md",
-  "sha256": "a01ed8af3edd4cff9a7d45d20a2a3cdff89a70f7eab15feb1094163302583119"
+  "sha256": "95f3a706bad6460fbe522a58abafa9e69c46b3e01a7713e6b238816e364edb92"
  },
  {
   "path": "docs/STATUS.md",
-  "sha256": "52f4581e0a28716566d60eba4813b32cde9487b251abb59f00cef94d8165bdae"
+  "sha256": "3fc0fbde232d4b498e85fec6d5e2a625906a94ea6c1b461fb798ab30bc367cb2"
  },
  {
   "path": "docs/TEST-YOUR-KEY.md",
@@ -2558,6 +2558,46 @@
  {
   "path": "indus-lab/round53/run53.py",
   "sha256": "f119371e8f9772c273d76c4f0e0a9e2a59c57771005930b1a98e490d2ec330e4"
+ },
+ {
+  "path": "indus-lab/round54/PROTOCOL.md",
+  "sha256": "c039f4277f0aa5213746c3986edf5bb522c7e9f7e4cae985ab6c4ea28de69bfc"
+ },
+ {
+  "path": "indus-lab/round54/REPORT.md",
+  "sha256": "9e4193b49bf83d7c2915fbeaf350086e2bf42f6dc605c19ae409d2e2785d4076"
+ },
+ {
+  "path": "indus-lab/round54/SHA256SUMS",
+  "sha256": "f4a36cef5af2fa1b560bfa12c9c1053ef605a469e4d8dc7715bd52f4f5c86d0a"
+ },
+ {
+  "path": "indus-lab/round54/controls/OAL.txt",
+  "sha256": "68fdf5a12f38cb373b7eda7a1560d22d2d57f183f45c3326cf03ef7d9f29e944"
+ },
+ {
+  "path": "indus-lab/round54/controls/OBL.txt",
+  "sha256": "9504c7112cf0ad10c448bdde255ee97eef6caadd33f012bca5012e989f981b3b"
+ },
+ {
+  "path": "indus-lab/round54/controls/SEAL.txt",
+  "sha256": "0cdb9a4766b71ed1c40c72b0113f2fa7803b3088d6e483dc72d19cda66d934aa"
+ },
+ {
+  "path": "indus-lab/round54/extract54.py",
+  "sha256": "64c0d9d1498e9bd57318ec6c6af690257b66c4e6ba1ae76f38e9223ca3149426"
+ },
+ {
+  "path": "indus-lab/round54/results.json",
+  "sha256": "1b8713ac9b8026e8f6d7ad053d419098b211f67d360de112992876d4f374671c"
+ },
+ {
+  "path": "indus-lab/round54/run54.log",
+  "sha256": "1082605ed5d87ef2f55b0119e085133758df67eda8ee13d66533a6f53d289074"
+ },
+ {
+  "path": "indus-lab/round54/run54.py",
+  "sha256": "2e36515263e080e74a8eca6308f23f48ff65bae881427ce93b0d1edf83e16d64"
  },
  {
   "path": "indus-lab/run.py",
