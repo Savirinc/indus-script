@@ -6,7 +6,7 @@
 
 | Item | Deliverable | Status |
 |---|---|---|
-| Methods write-up | `docs/methods/METHODS-DRAFT.md` → complete draft with introduction, anchor-rebus section, discussion, references | Draft 0.1; outlines marked |
+| Methods write-up | `docs/methods/METHODS-DRAFT.md`: introduction, data incl. twelve control corpora, methods 3.1–3.9, results 4.1–4.7 (keys, anchors, shape, loanwords, structural series 52–54), discussion, limitations, AI-assistance declaration, references | **Draft 0.2 complete (19 Oct 2026)**; awaiting owner's read-through before deposit |
 | Deposit | Zenodo record with DOI for the repository snapshot and the paper | Waiting on owner's go |
 | Preprint | arXiv (cs.CL, cross-list to physics.hist-ph if allowed) once an endorser is found; OSF Preprints as fallback | Not started |
 | Journal | Digital Scholarship in the Humanities, PLOS ONE, or Journal of Open Humanities Data (data paper for the harness) | After preprint |

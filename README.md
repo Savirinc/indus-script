@@ -1,8 +1,8 @@
 # indus-script — a pre-registered test bench for Indus script decipherment claims
 
-**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 51 rounds**
+**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 54 rounds**
 
-> **Status, 18 October 2026: no Indus sign has an established sound or meaning in this project, and none is claimed. Every published key that can be tested on the corpus reads no better than a random re-assignment of its own values. The structural results that survive controls are listed below. The methods, data pins and failed tests are all here.**
+> **Status, 19 October 2026: no Indus sign has an established sound or meaning in this project, and none is claimed. Every published key that can be tested on the corpus reads no better than a random re-assignment of its own values. The structural results that survive controls are listed below. The methods, data pins and failed tests are all here.**
 
 This repository is not a decipherment. It is the instrument that decipherments have to pass, built in public, with the protocols written before the results. If you have a reading of the Indus script, [you can test it here in minutes](docs/TEST-YOUR-KEY.md). If you want to know what is actually known about the script and what is conjecture, read [`docs/CONJECTURES.md`](docs/CONJECTURES.md). If you want the plan, read [`docs/ROADMAP.md`](docs/ROADMAP.md).
 
@@ -73,13 +73,13 @@ Put your sign values in a three-column file (catalogue sign ID, value, note), ru
 ## 7. Layout
 
 ```
-docs/STATUS.md                 one row per round, 09–51, with verdicts
+docs/STATUS.md                 one row per round, 09–54, with verdicts
 docs/CONJECTURES.md            every open conjecture, with what would refute it
 docs/ROADMAP.md                what comes next and why
 docs/PUBLISHING-PLAN.md        where this work can be deposited and reviewed
 docs/TEST-YOUR-KEY.md          how to run your key through the harness
 docs/USED-BY.md                known uses of this work
-docs/methods/METHODS-DRAFT.md  the write-up (draft 0.1)
+docs/methods/METHODS-DRAFT.md  the write-up (draft 0.2, complete; rounds 27–54)
 docs/EXTERNAL-EVIDENCE.md      Meluhha names, Ur seal, source gateways
 docs/atlas/                    714-sign Indus/Brahmi proposed-mapping atlas (PDF), compiled by the owner with GPT assistance after S. R. Rao's mapping idea; a hypothesis document, not evidence
 docs/handover/                 earlier handover documents, kept verbatim

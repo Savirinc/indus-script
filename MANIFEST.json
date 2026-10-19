@@ -5,11 +5,11 @@
  },
  {
   "path": "CITATION.cff",
-  "sha256": "3986061bc3dfa8847de893fffe475c28733ed46c44bffc22dbcc7be4d869a78e"
+  "sha256": "66f336396e719d486699f6acacd00d078857024c6e7424c61e93ad3f527a8537"
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "47276de201eee866d703578d65d479875a6c0daede0a4ee789bb599c72b37d30"
+  "sha256": "c365838d05265ca619132c3fa4dc389844b353c0f76072a1241fc43e0f44343a"
  },
  {
   "path": "LICENSE",
@@ -17,7 +17,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "522ac4d494aed194fac6ed9e7e28f978621cb0fd2c78ce53e70817ec81b803b6"
+  "sha256": "647bb109a21930cb6594d23297ba407f13407d1fd334e2c84123a28a2095e845"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -65,7 +65,7 @@
  },
  {
   "path": "docs/ROADMAP.md",
-  "sha256": "ffd8b2f3a3ea6780f6ad5d78ff0bc4b84569e1eb0abb000237b245e27e101534"
+  "sha256": "00acab73d3334895666b4949486dbc221367b446250c56447826021d917ac122"
  },
  {
   "path": "docs/STATUS.md",
@@ -125,7 +125,7 @@
  },
  {
   "path": "docs/methods/METHODS-DRAFT.md",
-  "sha256": "5f6d020efbcdce66a0cfb21699d140080ac2e371164f23b740772521262e82e0"
+  "sha256": "cd188132ede9b9243aec3f37f8c2eb9ac5d4196be0deb39ea77173da6ee82059"
  },
  {
   "path": "docs/table7-yajnadevam-2024-p23.png",

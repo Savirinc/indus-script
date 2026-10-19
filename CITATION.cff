@@ -10,13 +10,15 @@ authors:
 repository-code: "https://github.com/Savirinc/indus-script"
 url: "https://github.com/Savirinc/indus-script"
 license: MIT
-version: "0.54.1"
+version: "0.54.2"
 date-released: "2026-10-19"
 abstract: >
-  Fifty-one pre-registered rounds testing proposed readings of the Indus script against
+  Fifty-four pre-registered rounds testing proposed readings of the Indus script against
   structure-preserving shuffle nulls, impossible-language controls and a Linear B positive
-  control at matched sparsity. No published key passes; the harness, protocols, data pins
-  and failed tests are included.
+  control at matched sparsity, and testing the structural statistics used to argue about
+  the script against twelve real corpora at matched size. No published key passes and five
+  structural instruments fail their controls; the harness, protocols, control corpora, data
+  pins and failed tests are included, with a complete methods draft.
 keywords:
   - Indus script
   - decipherment
