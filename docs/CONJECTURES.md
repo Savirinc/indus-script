@@ -61,7 +61,7 @@ Status words: **ESTABLISHED** (survived pre-registered controls), **OPEN** (live
 
 ### C1. Any specific published key (Yajnadevam, Rao, Fairservis, Parpola, Kak, Mahadevan, Bonta, Bhaty)
 - **Refuted by:** reading no better than one's own shuffles; being out-fitted by an impossible language.
-- **Status:** REFUTED for Yajnadevam, Rao and Fairservis, and for Bhaty's place-name variant of Yajnadevam's key (round 57: place names no commoner than under shuffles; Linear B control passed); NOT TESTABLE for Parpola, Kak and Mahadevan on this corpus; Bonta UNTESTED (copy not obtainable).
+- **Status:** REFUTED for Yajnadevam, Rao and Fairservis, and for Bhaty's place-name variant of Yajnadevam's key (round 57: place names no commoner than under shuffles; Linear B control passed); NOT TESTABLE for Parpola, Kak and Mahadevan on this corpus; Bonta UNTESTED (copy not obtainable). Round 58: any *bijective* one-syllable-per-sign Sanskrit or Old Tamil key is excluded in 10 of 14 conditions by the repetition rate alone (ledger X7); keys with homophones, such as Yajnadevam's, are outside that exclusion.
 
 ### C2. Some sign values can be recovered from internal statistics alone
 - **Refuted by:** round 32: Linear B at Indus density collapses, wrong keys outscore the true key.

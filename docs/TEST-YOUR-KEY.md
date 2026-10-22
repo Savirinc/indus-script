@@ -21,6 +21,9 @@ A tab-separated file with a comment header and one row per sign:
 
 Minimum: 25 signs attested in the corpus. Below that the shuffle null has too few distinct permutations and the result is NOT TESTABLE. Coverage matters more than count: the Linear B control passes at about 60% token coverage and fails at 28%.
 
+## 1b. A quick check before you register
+If your key gives every sign one syllable and **no two signs the same syllable**, round 58 has already answered it for Sanskrit and Old Tamil in most forms: such a key leaves the share of texts with a repeated sign unchanged (3.5% on the seals). Real Sanskrit and Old Tamil at seal lengths repeat a syllable in 6–9% of texts, so the key cannot be right (ledger X7; open cases are listed there). If several of your signs share a sound, this check does not apply; go on to step 2.
+
 ## 2. Register the key
 
 Copy the file to `indus-lab/round49/keys/yourname.tsv` and add one line to the `KEYS` dictionary in `indus-lab/round49/run49.py`:

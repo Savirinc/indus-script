@@ -5,11 +5,11 @@
  },
  {
   "path": "CITATION.cff",
-  "sha256": "7741e8dc0c7a48ed238f14c18db72446e0bdc63a1698954c910a88dff3645619"
+  "sha256": "06fc20059b201365864f3f0ea418955117c8b6693eb7f4340e84c7bb75f6010c"
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "0172bff3ecabbf1253e2c46b4d62810bbae2e4ddd1db93ac62cc7fab12318495"
+  "sha256": "c62dbc8ce65fc5c2bb3cb1209d7dacde12da7fafd0405bf1be2246a31507baeb"
  },
  {
   "path": "LICENSE",
@@ -17,7 +17,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "cb3833ab1d5acc15edbc8d5b9dc95a16eff43127a944a7d0a38d93d45ceee561"
+  "sha256": "84640b9d27292d62712f7b2a50c76d293b341212b29533d28dfee7da99aee6ab"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -53,7 +53,7 @@
  },
  {
   "path": "docs/CONJECTURES.md",
-  "sha256": "5c78b7bac04280c877abf0fa2a6ba4a3a239aaf6d425b8d94ee3d614ce71f342"
+  "sha256": "bdccb4ae44da18a22d1b8c28b664ed7609e21e2aacfdefafabf23a6ea59de446"
  },
  {
   "path": "docs/EXTERNAL-EVIDENCE.md",
@@ -69,11 +69,11 @@
  },
  {
   "path": "docs/STATUS.md",
-  "sha256": "b3df9f322e0663c3a342d31b578129f9c8c6e35248e726046328eff4c4810a6b"
+  "sha256": "64b9c5634ff70d1a315c866334027287951d6b12551fd9482b977206bfab5387"
  },
  {
   "path": "docs/TEST-YOUR-KEY.md",
-  "sha256": "334f930b8ab108bc7dd32d65efdd7f508e28f947b242a20c01d5897a40a6c7d6"
+  "sha256": "b41dc311811c4eef2498de6d86f11fa920122a6032d29111a0611d3eb28191ac"
  },
  {
   "path": "docs/USED-BY.md",
@@ -2656,6 +2656,10 @@
   "sha256": "9bd4bb8713ca1ecc6ac8ef0c5f6a3dc15a6df5f43f5e20a24dc9aa0970deedfd"
  },
  {
+  "path": "indus-lab/round58/REPORT.md",
+  "sha256": "19b8e29d9991bd4b745be6ebf148197eed9b10396ffabd3bb2134beb4b9c004a"
+ },
+ {
   "path": "indus-lab/round58/SHA256SUMS",
   "sha256": "103f0a43f104721f615309e3d01444464a5273eb600d0ca4c08a3184b2406e4a"
  },
@@ -2724,6 +2728,14 @@
   "sha256": "5b7f2213c7cf1dffab6b67cae557a95d3c6a021670d854f1667e66e352e62ace"
  },
  {
+  "path": "indus-lab/round58/results.json",
+  "sha256": "f34ea876114a46fd7d4f30a6cdadf8becff736b959905ee71b823bca1ebd96e9"
+ },
+ {
+  "path": "indus-lab/round58/run58.log",
+  "sha256": "b34c285ecdfe8d6272a5f3ccd79eef18ee1115931f91501edd2a79324aca0867"
+ },
+ {
   "path": "indus-lab/round58/run58.py",
   "sha256": "4d4c0872ae1f0df0dc0c571da5803ce9a7142ffc81ea3a2ac1eea2845b09a4e6"
  },
@@ -2741,7 +2753,7 @@
  },
  {
   "path": "reports/LEDGER.md",
-  "sha256": "7371ab9dcfbcca9eb3ee67acd093eb5070b0662bb01df0c9f397b62393ac8b16"
+  "sha256": "f667a02a5db6b03da796cb27226d935cd31edebe79ae9843959eb6e1c98610a7"
  },
  {
   "path": "setup/paths.sh",

@@ -27,6 +27,7 @@ Measured, reproducible, each with the test that established it. No interpretatio
 | C14 | The 11 proposed Meluhhan loanwords show no family attribution (Finnish first in 70% of resamples) while the same instrument attributes 11 Mitanni Indo-Aryan words to Indo-Aryan in 100%. | Round 51 |
 | C15 | Kuiper's glossed Rigvedic foreign words score Proto-Dravidian above Munda in 100 of 100 size-equalised subsamples; below the attribution bar against controls in 6 of 100. | Rounds 39–40 |
 | C16 | Instruments that failed their positive controls on real data: shape matching from fonts (48); writing-system classifiers (52, 52b); PMI and DP word segmentation (53, 53b); combinatorial freedom as a syllabic signature (54); rebus homophony (36); substrate classifiers without meaning (37, 38). | Those rounds |
+| C17 | At Indus text lengths and token total, the share of texts with a repeated syllable is: Sanskrit (Ṛgveda, Rāmāyaṇa, words, 24,626 dictionary names) 6.1–8.1% mean, lowest of 2,400 samples 4.5%; Old Tamil (Puṟanāṉūṟu lines, words) 5.8–9.3%; Old Tamil names (Sangam poets and patrons) 7.5% in written syllables but **3.2% in spoken syllables**, below the Indus 3.51%. Random two-way homophony brings every condition to ≤ 3.5–5.0%. Yajnadevam's published readings repeat 20.4%, against at most 10.1% in any real Sanskrit sample. | Round 58 (pre-registered measurement) |
 
 **Measurements pending scripting** (counted in conversation on 22 October 2026, not yet in a committed report; they become facts only when scripted and committed):
 - P1. The comb sign (156 and variants 150–161) is followed by the three-stroke sign 003 in 43 inscriptions (31 of them the whole text), by one stroke (031) 16 times, by two strokes (032) and four strokes (004) occasionally; 003 follows at least eight different signs. Find sites: Harappa 28, Mohenjo-daro 13, Lothal 1, Kalibangan 1.
@@ -43,6 +44,7 @@ Only what follows deductively from a measured fact. Low probability alone never 
 | X4 | The near-bilingual seal-impression route, in the sources read | Census found zero category-A cases (C13) | The four sources read; Mitchell 1986, Laursen & Steinkeller 2017 unread |
 | X5 | Using H2/H1, H1 or Heaps slope to decide linguistic vs non-linguistic | The statistic takes overlapping values on known members of both classes (C7) | At Indus size and text lengths |
 | X6 | A reading of the seals whose output is the attested lexicon and morphology of Classical or Epic Sanskrit, Puranic Sanskrit, or Old (Sangam) or later Tamil, taken as the language of the seal-makers | The mature Indus corpus dates c. 2600–1900 BCE; the earliest attested Sanskrit (Ṛgveda) is c. 1500–1200 BCE, Classical Sanskrit c. 500 BCE onward, the earliest Tamil writing c. 3rd century BCE (earliest claimed dates 5th century BCE). No attested language keeps its words and endings unchanged across 700–2,000 years (Old to Modern English took ~1,000). A correct reading of 2600–1900 BCE text therefore cannot return dictionary forms of a language attested 700–2,000 years later; a key that does return them has shown that the reader supplied the words | Rests on a law-like generalisation about language change, not pure deduction from a measured fact; this is stated, not hidden. Excludes the *output* of such readings (Yajnadevam, Bhaty, Classical-Tamil readings), not the families: an unattested ancestor of Indo-Aryan, Dravidian or any other family is untouched (section f). Added 22 Oct 2026; no test run |
+| X7 | A bijective (no homophones) key that reads each Indus sign as one syllable, in these 10 conditions (round 58): Ṛgveda written syllables; Rāmāyaṇa written and spoken; Sanskrit single words spoken; Sanskrit names written and spoken; Puṟanāṉūṟu lines written; Old Tamil words written and spoken; Old Tamil names written | Such a key preserves the per-text repetition rate exactly; in each of these 10 conditions none of 300 Indus-shaped samples repeats as rarely as the Indus corpus (3.51%) and the gap is ≥ 5 sd | **Open** (not excluded): Ṛgveda spoken syllables, Sanskrit words written syllables, Puṟanāṉūṟu spoken syllables (all three: zero samples ≤ 3.51% but gap 4.3–4.7 sd, below the locked bar), and **Old Tamil names in spoken syllables (3.2%, not excludable)**. Not excluded: any key with homophones (two signs per syllable suffice), any count that merges the stroke numerals (Indus then 17.7%), any language family |
 
 ## c. Hypotheses
 Exhaustive and mutually exclusive, about what the signs encode. Language family is a separate question (section f).
@@ -84,6 +86,7 @@ Pre-registered tests only, grouped into independent evidence clusters (same data
 | K10 Writing-system signature | 52, 52b (same corpora) | METHOD-FAIL | – | VOID | Rule 6. Descriptive outputs are facts C4, C5, C7. |
 | K11 Segmentation | 53, 53b (same gold corpora) | METHOD-FAIL (53b by 0.001) | – | VOID | Rule 6. 53b also falls under rule 7 (knife edge); void either way, no replicate needed. |
 | K12 Combinatorial freedom | 54 | METHOD-FAIL | – | VOID | Rule 6. |
+| K13 Sanskrit/Tamil syllable repetition | 58 | PARTIAL: 10 of 14 conditions excluded | no (measurement, declared in advance) | none | Excluding bijective Sanskrit/Tamil syllabic keys leaves L, R and N where they were: such keys are a small subclass of L and R. Adds X7 and C17 only. |
 
 Family-axis rounds (39–40, 51) are logged in section f, not here.
 
@@ -91,7 +94,7 @@ Family-axis rounds (39–40, 51) are logged in section f, not here.
 
 ## Fragility
 - **Priors at the edges of their ranges:** L 0.25 with R 0.45 puts R ahead; N 0.35 with L 0.25 puts N ahead of L. The ranking flips inside the agreed ranges. **Neither L nor R is clearly ahead; N is behind but not excluded.**
-- **Drop the most influential test:** no test moved anything, so nothing changes. That is the point of the exercise: after 57 rounds, the probability of what the signs encode rests entirely on priors.
+- **Drop the most influential test:** no test moved anything, so nothing changes. That is the point of the exercise: after 58 rounds, the probability of what the signs encode rests entirely on priors.
 
 ## Honest summary
 - The best surviving explanation is L at 0.40, by prior only. None of its lead comes from a scored positive match, and none from removing an objection by a scored test.
@@ -107,3 +110,4 @@ Not scored yet; recorded so that family evidence is never counted toward L/R/N/O
 | 39–40 | Rigvedic substrate leans Proto-Dravidian over Munda (100/100), below the bar against controls | Substrate language of the Punjab, not the script |
 | 51 | Meluhhan candidates: no family attributable; gates passed | Family of Meluhhan speakers |
 | 41–45, 47, 49, 57 | All family-specific keys and anchors NULL or ARTEFACT | Whether any family has been demonstrated in the script (no) |
+| 58 | Bijective syllabic keys excluded in 10 of 14 Sanskrit/Old Tamil conditions (X7); Old Tamil names in spoken syllables repeat as rarely as the seals (3.2%) | Which *keys* are possible, not which family: both languages keep open conditions, and X6 removes only the attested forms |
