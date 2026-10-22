@@ -53,3 +53,6 @@ G_SCR and G_FIN scored under K_B and the same 1,000 shuffles.
 
 ## Stopping rule
 One run with the seeds above. No change to gazetteers, matching rule or thresholds after any Indus number is seen; any change before results goes in an Amendment below with its reason. Runtime estimate: a few minutes (gazetteer test) plus ~8 minutes (secondary LM test), stdlib Python.
+
+## Amendment 1 (22 October 2026, before any run)
+`bhaty_places.tsv` wrote Maništušu as "manishtushu"; under matching step 1 (h → k) the English digraph "sh" would become "sk", which is a transcription error, not a rule. Respelled `maništušu` (skeleton mnsts). No other name in the three files uses an English digraph for š. Found while unit-testing the normaliser on names only; no reading of any text had been computed.
