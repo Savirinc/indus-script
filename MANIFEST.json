@@ -2653,7 +2653,79 @@
  },
  {
   "path": "indus-lab/round58/PROTOCOL.md",
-  "sha256": "691cec5a15854aefc6e82189d93bf99e4c682511e6206885922ce0e65c07edd6"
+  "sha256": "9bd4bb8713ca1ecc6ac8ef0c5f6a3dc15a6df5f43f5e20a24dc9aa0970deedfd"
+ },
+ {
+  "path": "indus-lab/round58/SHA256SUMS",
+  "sha256": "103f0a43f104721f615309e3d01444464a5273eb600d0ca4c08a3184b2406e4a"
+ },
+ {
+  "path": "indus-lab/round58/controls/PUR_S1.txt",
+  "sha256": "3dbad22ea6f464e41e9caf3abae7e1a4eb7dcd1eb0456060fadd958d66571a81"
+ },
+ {
+  "path": "indus-lab/round58/controls/PUR_S2.txt",
+  "sha256": "391c135e3842f66181efb53099400f13aa4e859dbb5c9fac82806be63f94f75e"
+ },
+ {
+  "path": "indus-lab/round58/controls/RAM_S1.txt",
+  "sha256": "3d66a0ea4f4f70db30a381f823780d7103820067ff0cd388a6cb7aed304bba39"
+ },
+ {
+  "path": "indus-lab/round58/controls/RAM_S2.txt",
+  "sha256": "377e94f036f144130c176f1a5562c4bc82b6507df5cb559797402183a3f8fd3b"
+ },
+ {
+  "path": "indus-lab/round58/controls/RV_S1.txt",
+  "sha256": "69d3415e9bbd1a9642aee25caea1867e790afa3a168df9fd36b2d4708bbeffed"
+ },
+ {
+  "path": "indus-lab/round58/controls/RV_S2.txt",
+  "sha256": "20c2a2dbc0855a03cc977cd3b6dd35a754e686126a25d142ddd33afad4c710bd"
+ },
+ {
+  "path": "indus-lab/round58/controls/SKN_S1.txt",
+  "sha256": "41ceb153afa0dc6b5ec71e2f736cc7bdda198b0f50341ca1d45caacde08c84ec"
+ },
+ {
+  "path": "indus-lab/round58/controls/SKN_S2.txt",
+  "sha256": "c7ebc1fe1da14adc3791f8e96f946b0ec26cd05b45cd5221ca070fc586540a36"
+ },
+ {
+  "path": "indus-lab/round58/controls/SKW_S1.txt",
+  "sha256": "de69c6d145b7afc9822e4eaee3f36c295a47eed8c3288b98ee28f0bc5cddcd79"
+ },
+ {
+  "path": "indus-lab/round58/controls/SKW_S2.txt",
+  "sha256": "3c96ce4736910f9d2981af4dc0d86c599f572b52a7826ca623a98aff6504fd5d"
+ },
+ {
+  "path": "indus-lab/round58/controls/TMN_S1.txt",
+  "sha256": "cbb18b1f96394d92d2a0b0a5ccefe7c2fe461e3aeae321634ba52972c03f1694"
+ },
+ {
+  "path": "indus-lab/round58/controls/TMN_S2.txt",
+  "sha256": "8eac7c7eb519175e83b248c132c6d04e2dc728309d730cf15b79d94d11425e66"
+ },
+ {
+  "path": "indus-lab/round58/controls/TMW_S1.txt",
+  "sha256": "3b3e7ef2e6e8b621c8fb665589173b6c588847bad77e4dedbe54f44dee411847"
+ },
+ {
+  "path": "indus-lab/round58/controls/TMW_S2.txt",
+  "sha256": "7663283af6592282c1a816be814062fbb71e2bfd3f84467cf90bce4a1b8f28a4"
+ },
+ {
+  "path": "indus-lab/round58/extract58.py",
+  "sha256": "49de7c9160292d19227276c986efcd6920b14e8271411cf2649f5cd900c02370"
+ },
+ {
+  "path": "indus-lab/round58/fetch58.py",
+  "sha256": "5b7f2213c7cf1dffab6b67cae557a95d3c6a021670d854f1667e66e352e62ace"
+ },
+ {
+  "path": "indus-lab/round58/run58.py",
+  "sha256": "4d4c0872ae1f0df0dc0c571da5803ce9a7142ffc81ea3a2ac1eea2845b09a4e6"
  },
  {
   "path": "indus-lab/run.py",

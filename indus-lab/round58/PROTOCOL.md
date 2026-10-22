@@ -83,3 +83,14 @@ Let I = 0.0351. For each condition, over its 300 samples, compute mean m, sd s, 
 
 ## Files
 `PROTOCOL.md` (this file; `chmod 444` and sha256 in the commit message once the owner has read it), `fetch58.py` and `extract58.py` (download and build `controls/`; committed with SHA256SUMS before the run), `run58.py` (`chmod 444`, sha256 in its commit message, committed before it is run), then `results.json`, `run58.log`, `REPORT.md`. Afterwards: a docs/STATUS.md row and the LEDGER (X7, facts, fragility check).
+
+## Amendment 1 (22 October 2026, before `run58.py` was run and before any repetition rate was computed)
+Reason: the extraction did not match the source. No rule in this protocol changes.
+1. **Two page formats.** Tamil Wikisource carries Puṟanāṉūṟu in two wikitext formats. Some pages put a poem on one `#` line broken by `<br />`. Others put it in a `<poem>` block with one line per text line. The first build read only the first format: 136 lines and 130 names, from 21 of 48 pages. Both formats are now read.
+2. **Metadata excluded.** A line holding a metadata label is never a poem line. The labels are the poet and patron labels above, திணை (*tiṇai*) and துறை (*tuṟai*). Poet and patron lines still feed TMN.
+3. **Duplicate pages excluded.** The template pages `புறநானூறு/1`, `/2` and `/3` repeat poems 1–3, so they are left out. The page `புறநானூறு/பாடல்371-380` is a redirect and contributes nothing.
+4. **Download pacing.** `fetch58.py` now waits 1.5 s between Wikisource requests and backs off on HTTP 429, after the server rate-limited the first download.
+
+What was seen before this amendment: the unit counts and twelve example names from each name list, printed by the builder. No repetition statistic of any kind.
+
+Final unit counts: RV 21,253 sentences; RAM 38,004; SKW 59,257 sentences (words grouped); SKN 24,626 names; PUR 4,729 lines; TMW 4,729 lines (words grouped); TMN 262 names. Spelling variants of one person are kept as separate entries, since the rule de-duplicates exact strings only. Some patron entries are descriptive phrases rather than bare names. Both are noted as limitations and not cleaned by hand. Characters dropped by the syllabifiers: 0. Syllabifier check: 40/40.
