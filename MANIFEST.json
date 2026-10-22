@@ -2652,6 +2652,10 @@
   "sha256": "5263f4c0d4b0ba19ef486bc79c1174e3300fb56bc98a5c2ad076f8ae47642eee"
  },
  {
+  "path": "indus-lab/round58/PROTOCOL.md",
+  "sha256": "691cec5a15854aefc6e82189d93bf99e4c682511e6206885922ce0e65c07edd6"
+ },
+ {
   "path": "indus-lab/run.py",
   "sha256": "56c063e31125f2387111e48963e0c32e55bc5d2bb4ad28fc698b42754a767efa"
  },
@@ -2665,7 +2669,7 @@
  },
  {
   "path": "reports/LEDGER.md",
-  "sha256": "1de716ec2a5d8b4d5c815d18de686c5319e1169cc1966c997cf562f127c9aac4"
+  "sha256": "7371ab9dcfbcca9eb3ee67acd093eb5070b0662bb01df0c9f397b62393ac8b16"
  },
  {
   "path": "setup/paths.sh",
