@@ -1,0 +1,267 @@
+{
+ "protocol": "PROTOCOL.md (0766692)",
+ "n_shuffles": 1000,
+ "corpus": {
+  "types": 1934,
+  "tokens": 8720,
+  "signs": 581
+ },
+ "gazetteers": {
+  "BA": 275,
+  "FIN": 71,
+  "SCR": 275,
+  "BA_names_raw": 549,
+  "SCR_identical_to_BA": 0
+ },
+ "positive_control": {
+  "texts": 227,
+  "sign_ids": 130,
+  "gazetteer": 27,
+  "scores": {
+   "LB": {
+    "T": 54,
+    "null_mean": 32.32,
+    "null_sd": 5.14,
+    "z": 4.22,
+    "pct": 1.0,
+    "p_upper": 0.000999000999000999
+   },
+   "LBSCR": {
+    "T": 50,
+    "null_mean": 54.58,
+    "null_sd": 7.69,
+    "z": -0.6,
+    "pct": 0.247,
+    "p_upper": 0.7532467532467533
+   }
+  },
+  "matched": {
+   "krv": 7,
+   "rkt": 7,
+   "mrt": 5,
+   "stc": 5,
+   "tnc": 5,
+   "trs": 4,
+   "ptv": 3,
+   "tkt": 3,
+   "mns": 3,
+   "mtp": 2,
+   "srm": 1,
+   "rmnc": 1,
+   "tmtk": 1,
+   "pcr": 1,
+   "rst": 1
+  },
+  "passed": true
+ },
+ "indus": {
+  "BA": {
+   "T": 765,
+   "null_mean": 805.6,
+   "null_sd": 163.13,
+   "z": -0.25,
+   "pct": 0.409,
+   "p_upper": 0.5914085914085914
+  },
+  "FIN": {
+   "T": 309,
+   "null_mean": 207.68,
+   "null_sd": 52.51,
+   "z": 1.93,
+   "pct": 0.949,
+   "p_upper": 0.05194805194805195
+  },
+  "SCR": {
+   "T": 1907,
+   "null_mean": 1859.63,
+   "null_sd": 261.4,
+   "z": 0.18,
+   "pct": 0.532,
+   "p_upper": 0.46853146853146854
+  },
+  "BA2": {
+   "T": 3150,
+   "null_mean": 2649.18,
+   "null_sd": 256.02,
+   "z": 1.96,
+   "pct": 0.993,
+   "p_upper": 0.007992007992007992
+  }
+ },
+ "per_name_rate": {
+  "BA": 2.7818181818181817,
+  "SCR": 6.934545454545455,
+  "FIN": 4.352112676056338
+ },
+ "top_BA_matches": {
+  "tmn": 65,
+  "vrn": 62,
+  "trn": 43,
+  "nsn": 41,
+  "msm": 39,
+  "srn": 38,
+  "mnm": 37,
+  "mtr": 31,
+  "spn": 26,
+  "stm": 22,
+  "tnm": 21,
+  "mkn": 21,
+  "ntn": 18,
+  "rsn": 15,
+  "stn": 14,
+  "mtm": 14,
+  "rmn": 13,
+  "vst": 12,
+  "rnm": 12,
+  "rnk": 11,
+  "nsr": 11,
+  "rms": 10,
+  "smtr": 10,
+  "kmn": 9,
+  "kms": 9
+ },
+ "bhaty_names": {
+  "mokani": {
+   "skeleton": "mkn",
+   "texts_matched": 21,
+   "share_shuffles_as_many": 0.006
+  },
+  "makran": {
+   "skeleton": "mkrn",
+   "texts_matched": 0,
+   "share_shuffles_as_many": null
+  },
+  "meluhha": {
+   "skeleton": "mrk",
+   "texts_matched": 0,
+   "share_shuffles_as_many": null
+  },
+  "dilmun": {
+   "skeleton": "trmn",
+   "texts_matched": 2,
+   "share_shuffles_as_many": 0.524
+  },
+  "hattusa": {
+   "skeleton": "kts",
+   "texts_matched": 2,
+   "share_shuffles_as_many": 0.357
+  },
+  "varan": {
+   "skeleton": "vrn",
+   "texts_matched": 62,
+   "share_shuffles_as_many": 0.0
+  },
+  "daman": {
+   "skeleton": "tmn",
+   "texts_matched": 65,
+   "share_shuffles_as_many": 0.0
+  },
+  "revakhanda": {
+   "skeleton": "rvknt",
+   "texts_matched": 0,
+   "share_shuffles_as_many": null
+  },
+  "hamazi": {
+   "skeleton": "kms",
+   "texts_matched": 9,
+   "share_shuffles_as_many": 0.05
+  },
+  "manium": {
+   "skeleton": "mnm",
+   "texts_matched": 37,
+   "share_shuffles_as_many": 0.605
+  },
+  "maništušu": {
+   "skeleton": "mnsts",
+   "texts_matched": 0,
+   "share_shuffles_as_many": null
+  },
+  "madra": {
+   "skeleton": "mtr",
+   "texts_matched": 31,
+   "share_shuffles_as_many": 0.177
+  },
+  "moka": {
+   "skeleton": "mk",
+   "texts_matched": 31,
+   "share_shuffles_as_many": 0.329
+  },
+  "mada": {
+   "skeleton": "mt",
+   "texts_matched": 129,
+   "share_shuffles_as_many": 0.332
+  },
+  "isin": {
+   "skeleton": "sn",
+   "texts_matched": 346,
+   "share_shuffles_as_many": 0.007
+  },
+  "nuzi": {
+   "skeleton": "ns",
+   "texts_matched": 117,
+   "share_shuffles_as_many": 0.48
+  },
+  "beroea": {
+   "skeleton": "pr",
+   "texts_matched": 33,
+   "share_shuffles_as_many": 0.233
+  },
+  "oman": {
+   "skeleton": "mn",
+   "texts_matched": 405,
+   "share_shuffles_as_many": 0.004
+  },
+  "elam": {
+   "skeleton": "rm",
+   "texts_matched": 52,
+   "share_shuffles_as_many": 1.0
+  }
+ },
+ "moka": {
+  "cluster_texts": 23,
+  "texts_with_mk": 31,
+  "mk_null": {
+   "T": 31,
+   "null_mean": 27.69,
+   "null_sd": 13.06,
+   "z": 0.25,
+   "pct": 0.671,
+   "p_upper": 0.32967032967032966
+  }
+ },
+ "verdict": "NULL",
+ "lm_test": {
+  "Sanskrit": {
+   "S": 4.123949079679832,
+   "null_mean": 4.075085464068552,
+   "null_sd": 0.1387805646477665,
+   "z": -0.35209264161230985,
+   "percentile": 0.295,
+   "n_shuffles": 1000
+  },
+  "Finnish": {
+   "S": 3.8443820212016937,
+   "null_mean": 3.823785427045498,
+   "null_sd": 0.0477010306992508,
+   "z": -0.4317850967635198,
+   "percentile": 0.331,
+   "n_shuffles": 1000
+  },
+  "Basque": {
+   "S": 4.578599590475548,
+   "null_mean": 4.527335387558977,
+   "null_sd": 0.10967788256844477,
+   "z": -0.46740693489026597,
+   "percentile": 0.301,
+   "n_shuffles": 1000
+  },
+  "PDr": {
+   "S": 4.450621994877075,
+   "null_mean": 4.449025701981627,
+   "null_sd": 0.08516305253568805,
+   "z": -0.018743960531225307,
+   "percentile": 0.493,
+   "n_shuffles": 1000
+  }
+ }
+}

@@ -1,6 +1,6 @@
 # indus-script — a pre-registered test bench for Indus script decipherment claims
 
-**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 54 rounds**
+**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 57 rounds (55–56 reserved)**
 
 > **Status, 19 October 2026: no Indus sign has an established sound or meaning in this project, and none is claimed. Every published key that can be tested on the corpus reads no better than a random re-assignment of its own values. The structural results that survive controls are listed below. The methods, data pins and failed tests are all here.**
 
@@ -51,6 +51,7 @@ The working rules, in force since round 29 and written into [`CLAUDE.md`](CLAUDE
 | Texts can be cut into words by adjacent-sign cohesion (PMI segmentation) | 53 | **METHOD-FAIL** at 8,726 tokens: the segmenter beats random boundaries only on cuneiform seal legends, and scores the Shijing (one sign per word) above Akkadian letters. The "monosyllabic" versus mixed-system question stays open; a lexicon-induction segmenter is the next attempt. |
 | A syllabic core can be detected by free combination (signs that combine with anything are syllabograms) | 54 | **METHOD-FAIL.** On Akkadian letters, where syllabograms are known, the statistic does not find them (AUC 0.46 and 0.65), and the Shijing's one-sign-per-word characters combine more freely than Akkadian syllabograms. Freedom measures slot position, not sign function. |
 | Texts can be cut into words by lexicon induction (Dirichlet-process unigram model) | 53b | **METHOD-FAIL by 0.001** on two of four gold corpora. Descriptively the Indus corpus segments like the one-sign-per-word Shijing or below it, and the induced lexicon is just the known frequent sequences; but the Shijing is not separated from Akkadian letters on segment length, so no verdict is possible. |
+| Bhaty 2024: seals name Bronze Age places (Moka = Magan/Makran, Hattusa, Umma, Susa, Daman…) under Yajnadevam's key with one vowel changed | 57 | **NULL.** Every place known to Mesopotamia, plus all her names, matches her readings no more often than shuffles of her own key (percentile 0.41), and less often per name than scrambled consonant strings or Finnish towns. Linear B place names pass the same test (z 4.2). |
 
 Full detail per round: [`docs/STATUS.md`](docs/STATUS.md). Each round's folder has the protocol, code, results and report.
 

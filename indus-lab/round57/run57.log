@@ -1,0 +1,13 @@
+[    0.0s] corpus {'types': 1934, 'tokens': 8720, 'signs': 581}
+[    0.0s] gazetteers {'BA': 275, 'FIN': 71, 'SCR': 275, 'BA_names_raw': 549, 'SCR_identical_to_BA': 0}
+[    1.3s] PC PASS {'LB': {'T': 54, 'null_mean': 32.32, 'null_sd': 5.14, 'z': 4.22, 'pct': 1.0, 'p_upper': 0.000999000999000999}, 'LBSCR': {'T': 50, 'null_mean': 54.58, 'null_sd': 7.69, 'z': -0.6, 'pct': 0.247, 'p_upper': 0.7532467532467533}}
+[   21.6s] indus {'BA': {'T': 765, 'null_mean': 805.6, 'null_sd': 163.13, 'z': -0.25, 'pct': 0.409, 'p_upper': 0.5914085914085914}, 'FIN': {'T': 309, 'null_mean': 207.68, 'null_sd': 52.51, 'z': 1.93, 'pct': 0.949, 'p_upper': 0.05194805194805195}, 'SCR': {'T': 1907, 'null_mean': 1859.63, 'null_sd': 261.4, 'z': 0.18, 'pct': 0.532, 'p_upper': 0.46853146853146854}, 'BA2': {'T': 3150, 'null_mean': 2649.18, 'null_sd': 256.02, 'z': 1.96, 'pct': 0.993, 'p_upper': 0.007992007992007992}}
+[   21.6s] moka {'cluster_texts': 23, 'texts_with_mk': 31, 'mk_null': {'T': 31, 'null_mean': 27.69, 'null_sd': 13.06, 'z': 0.25, 'pct': 0.671, 'p_upper': 0.32967032967032966}}
+[   21.6s] VERDICT NULL
+[   21.6s] secondary LM test
+[   32.5s]    shuffle 200/1000
+[   42.2s]    shuffle 400/1000
+[   51.8s]    shuffle 600/1000
+[   61.3s]    shuffle 800/1000
+[   70.8s]    shuffle 1000/1000
+[   70.8s] LM {'Sanskrit': (-0.35, 0.295), 'Finnish': (-0.43, 0.331), 'Basque': (-0.47, 0.301), 'PDr': (-0.02, 0.493)}

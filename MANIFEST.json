@@ -5,11 +5,11 @@
  },
  {
   "path": "CITATION.cff",
-  "sha256": "66f336396e719d486699f6acacd00d078857024c6e7424c61e93ad3f527a8537"
+  "sha256": "7741e8dc0c7a48ed238f14c18db72446e0bdc63a1698954c910a88dff3645619"
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "c365838d05265ca619132c3fa4dc389844b353c0f76072a1241fc43e0f44343a"
+  "sha256": "61ca2a41f7acd9618b93327e18793ea5b57ff83da8733550e3bcea611f21db82"
  },
  {
   "path": "LICENSE",
@@ -17,7 +17,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "647bb109a21930cb6594d23297ba407f13407d1fd334e2c84123a28a2095e845"
+  "sha256": "cb3833ab1d5acc15edbc8d5b9dc95a16eff43127a944a7d0a38d93d45ceee561"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -53,7 +53,7 @@
  },
  {
   "path": "docs/CONJECTURES.md",
-  "sha256": "4a67f41733b3dda0e9d3827abfb05eb6dafa4913dd262d540ba753384b662e59"
+  "sha256": "5c78b7bac04280c877abf0fa2a6ba4a3a239aaf6d425b8d94ee3d614ce71f342"
  },
  {
   "path": "docs/EXTERNAL-EVIDENCE.md",
@@ -69,7 +69,7 @@
  },
  {
   "path": "docs/STATUS.md",
-  "sha256": "b24ba09808be36c36229532bf69b0c3470e0af207e0e7491238578f58fbb107d"
+  "sha256": "b3df9f322e0663c3a342d31b578129f9c8c6e35248e726046328eff4c4810a6b"
  },
  {
   "path": "docs/TEST-YOUR-KEY.md",
@@ -2618,6 +2618,38 @@
  {
   "path": "indus-lab/round54/run54.py",
   "sha256": "2e36515263e080e74a8eca6308f23f48ff65bae881427ce93b0d1edf83e16d64"
+ },
+ {
+  "path": "indus-lab/round57/PROTOCOL.md",
+  "sha256": "00703b3ae8abf97a9b09e05080d342f96dc85d31e2de70838b4f503f7fbbfdd6"
+ },
+ {
+  "path": "indus-lab/round57/REPORT.md",
+  "sha256": "8b5e5cecd059b291fdf8869cf4c95682cd58736bca7755d8b8f86cbdb0196c32"
+ },
+ {
+  "path": "indus-lab/round57/bhaty_places.tsv",
+  "sha256": "b812c45f737a235ecb273d0d9f050b36de927b5f4617d832f6aa4a58fe2ffada"
+ },
+ {
+  "path": "indus-lab/round57/finnish_places.txt",
+  "sha256": "f09ff0ccdfb1fbce64d9156998d4e9d6def8bd4a119edc098eed3b56adf9e256"
+ },
+ {
+  "path": "indus-lab/round57/linearb_places.tsv",
+  "sha256": "9bdefdb4afb0aa92ccae917bb14350b8a6bf4bc63691049652af205f95c9c2f5"
+ },
+ {
+  "path": "indus-lab/round57/results.json",
+  "sha256": "7c67b7893f059a7639e38b78e4c78d9ef808b59df77fa8ac2dd7a27f43cfab2c"
+ },
+ {
+  "path": "indus-lab/round57/run57.log",
+  "sha256": "fef61ccd7633ea840aa2d0fc81e6133e7cf48ba6f2fb03f8907b0a3d7bd7483c"
+ },
+ {
+  "path": "indus-lab/round57/run57.py",
+  "sha256": "5263f4c0d4b0ba19ef486bc79c1174e3300fb56bc98a5c2ad076f8ae47642eee"
  },
  {
   "path": "indus-lab/run.py",
