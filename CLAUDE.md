@@ -16,6 +16,9 @@ All work happens in this repository. New rounds go in `indus-lab/roundNN/`. Do n
 - Coverage is not correctness. Statistics invariant under relabelling cannot identify sounds.
 - No outreach, purchases, upstream edits or public posting beyond this repo without Arham's explicit OK. Pushing to this repo is authorised.
 
+## Bayesian evidence ledger (from 22 Oct 2026)
+Every new test is planned against `reports/LEDGER.md` under the twelve rules in `reports/LEDGER-RULES.md`: fixed Bayes-factor scale (×3/×10/×30/×100), prereg with a factor for each outcome, prereg and script `chmod 444` with sha256 in the commit message, gate (≥ ×3 possible or it is a measurement), one score per evidence cluster, VOID on failed positive control, replicate seeds near thresholds, fragility check after each update. Update the ledger when a round closes.
+
 ## Working style
 - One sentence on what you're doing, then do it. Short progress notes on long runs.
 - Lead with the verdict and a small table, then what it means, then ONE recommended next step.

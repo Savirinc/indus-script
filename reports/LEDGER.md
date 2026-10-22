@@ -1,0 +1,108 @@
+# Bayesian evidence ledger
+
+*Created 22 October 2026 from the reports of rounds 09–57. Nothing new was run to build it. Rules: `reports/LEDGER-RULES.md`. This is a living document: rows are added, never deleted; withdrawals are logged.*
+
+**State in one line:** no pre-registered test so far moves any hypothesis by ×3 or more. The current probabilities are the priors, and the priors rest on the literature plus unregistered structural measurements. The leading hypothesis is not clearly ahead (see Fragility).
+
+---
+
+## a. Certain facts
+Measured, reproducible, each with the test that established it. No interpretation.
+
+| ID | Fact | Established by |
+|---|---|---|
+| C1 | Core corpus (core regions, known direction, no damaged sign, exact repeats merged): 1,936 text types, 8,726 sign tokens, 582 sign types; 15.0 tokens per sign, median 2; 340 types occur ≤ 3 times; lengths 2–13; 15% of texts are 2 signs long. | `round30/foreign_context.py` FC.TRAIN; round 47 corpus block |
+| C2 | A bigram model trained on Harappa texts predicts unseen Mohenjo-daro texts 8.2% better than a unigram model (3.1% in the reverse direction; 7.8% and 11.2% on stamp seals), after removing exact and one-edit copies; it beats 200 of 200 position-preserving shuffles in all four conditions. | Round 27 (not pre-registered); round 29 exact-order test (pre-registered, MIXED: position model failed, bigram exploratory +2.3–3.2 bits) |
+| C3 | Eight Gulf-type round seals (Ur, Bahrain, Luristan) sit at mean percentile 0.916 in bigram surprisal against length-matched Indus-valley seals (p < 5 × 10⁻⁵); 0.926–0.943 under every transcription scenario. Five square seals found abroad: 0.606 (not anomalous, n = 5). | Rounds 30–31 (pre-registered) |
+| C4 | 3.5% of Indus texts contain a repeated sign. Recomposing texts from the same signs at the same lengths gives 17.3%. Shuffling order within texts leaves it at 3.5%. Merging the 17 stroke numerals into one sign raises it to 17.7%. Comparison corpora at Indus size and lengths: oracle bone 3.0%; all twelve others 13.4–34.0% (Greek 34.0, Hebrew 33.8, Egyptian 27.6, Uruk IV 24.0, proto-Elamite 22.4, Shijing 18.9, Uruk III 17.8, Old Assyrian 17.7, Cherokee 13.9, Ur III 13.9, seal legends 13.9, Old Babylonian 13.4). | Rounds 52, 52b (descriptive outputs of METHOD-FAIL rounds; measurement is valid, classification is not) |
+| C5 | On eight relabelling-invariant features at matched size and lengths, the Indus vector is nearest the Shang oracle-bone corpus (0.44 between-corpus sd), next Uruk III 2.05, Ur III 2.11; distance to every small-inventory script 4.4–7.1. Nearest corpus unchanged under every leave-one-out. | Round 52b (descriptive) |
+| C6 | Shuffling sign order within Indus texts raises H2/H1 from 0.494 to 0.662 and lowers DP-segment length from 1.42 to 1.07. | Rounds 52, 53b |
+| C7 | At matched size and lengths, H2/H1 is 0.469–0.512 for the archaic accounting systems (Uruk IV, Uruk III, proto-Elamite) and 0.477–0.685 for phonetic scripts (Ur III 0.477, seal legends 0.508, Egyptian 0.562, OB letters 0.634, OA letters 0.685). The ranges overlap. | Round 52b |
+| C8 | The trigram shuffle instrument recognises the true Linear B key at Indus density (Greek z 11.5; best wrong language 5.7), and down to ~57–60% token coverage; it does not reach the bar at 28–39% coverage. | Rounds 47, 49 |
+| C9 | A homophonic solver given the correct language recovers 83% of Linear B at 20 tokens per sign and collapses (8–30%) at 14 tokens per sign or fewer, where wrong keys outscore the true key. | Round 32 (pre-registered INFEASIBLE) |
+| C10 | Published keys under C8: Yajnadevam Sanskrit percentile 0.29 (z −0.35); Fairservis Tamil 0.61 (z 0.20); Rao Sanskrit 0.26 (z −0.70); Bhaty (Yajnadevam with 435/436 → o) Sanskrit 0.30 (z −0.35). Refits of each author's own value inventory reach z 3.2–10.5 in any language tested, Finnish and Basque included. | Rounds 47, 49, 57 |
+| C11 | 24 Proto-Dravidian rebus anchors beat 60 shuffles at pooled p 0.066 over 10 splits; Finnish words in the same slots 0.016; Basque 0.72. | Rounds 43, 45 |
+| C12 | Under the Bhaty key, Bronze Age place names (ePSD2 GN/SN + her 23 names) match Indus readings at percentile 0.41 of key shuffles; matches per name 2.8 against 6.9 for scrambled skeletons and 4.4 for Finnish towns; Linear B place names under the same procedure z 4.2. | Round 57 |
+| C13 | In Gadd 1932, Hallo & Buchanan 1965, Collon 1996 and the full CDLI catalogue, no impression bearing Indus signs exists on an inscribed cuneiform tablet; three Gulf-seal impressions on tablets exist, all textless. | Round 50 (census; Mitchell 1986 and Laursen & Steinkeller 2017 unread) |
+| C14 | The 11 proposed Meluhhan loanwords show no family attribution (Finnish first in 70% of resamples) while the same instrument attributes 11 Mitanni Indo-Aryan words to Indo-Aryan in 100%. | Round 51 |
+| C15 | Kuiper's glossed Rigvedic foreign words score Proto-Dravidian above Munda in 100 of 100 size-equalised subsamples; below the attribution bar against controls in 6 of 100. | Rounds 39–40 |
+| C16 | Instruments that failed their positive controls on real data: shape matching from fonts (48); writing-system classifiers (52, 52b); PMI and DP word segmentation (53, 53b); combinatorial freedom as a syllabic signature (54); rebus homophony (36); substrate classifiers without meaning (37, 38). | Those rounds |
+
+**Measurements pending scripting** (counted in conversation on 22 October 2026, not yet in a committed report; they become facts only when scripted and committed):
+- P1. The comb sign (156 and variants 150–161) is followed by the three-stroke sign 003 in 43 inscriptions (31 of them the whole text), by one stroke (031) 16 times, by two strokes (032) and four strokes (004) occasionally; 003 follows at least eight different signs. Find sites: Harappa 28, Mohenjo-daro 13, Lothal 1, Kalibangan 1.
+- P2. One object in the 5,679-record catalogue comes from Afghanistan (Sh-69, Shortughai, 426-003).
+
+## b. Exclusions (by logic, with scope)
+Only what follows deductively from a measured fact. Low probability alone never excludes.
+
+| ID | Excluded | Logic | Scope |
+|---|---|---|---|
+| X1 | A one-sign-per-value phonetic system with at most ~100 values (alphabet, abjad, pure syllabary) without homophony | 582 sign types (≈ 460 after the most generous allograph merging, round 33) cannot be the values of a ≤ 100-value system unless the same value has on average ≥ 4 interchangeable signs | Holds unless the sign list is ≥ 4× over-split; a homophonic syllabary is not excluded |
+| X2 | The Indus corpus as a sign-for-unit bijective substitution of running text drawn like any of the twelve phonetic, accounting or literary control corpora | A bijection preserves the within-text repetition rate exactly; the Indus rate is 3.5% (C4) against 13.4–34.0% for those corpora at the same lengths | For texts generated like those twelve corpora; not for name lists, not for homophonic systems that avoid repeats, not for oracle-bone-like records (3.0%) |
+| X3 | Using any relabelling-invariant statistic (rounds 27–31, 52–54) as evidence for a specific sound value or language | Such statistics are unchanged by any bijection of sign labels, so they take the same value under every key | All structural rounds |
+| X4 | The near-bilingual seal-impression route, in the sources read | Census found zero category-A cases (C13) | The four sources read; Mitchell 1986, Laursen & Steinkeller 2017 unread |
+| X5 | Using H2/H1, H1 or Heaps slope to decide linguistic vs non-linguistic | The statistic takes overlapping values on known members of both classes (C7) | At Indus size and text lengths |
+
+## c. Hypotheses
+Exhaustive and mutually exclusive, about what the signs encode. Language family is a separate question (section f).
+
+| | Hypothesis | Layers (Occam count) | What it must explain |
+|---|---|---|---|
+| **N** | **Non-linguistic symbol system.** Signs do not map to words of any particular language: emblems, clan or office marks, tallies, ritual or accounting symbols (Farmer, Sproat & Witzel 2004). | 1: symbols with conventional order | ordered, transferable sequences (C2); low repetition (C4) |
+| **R** | **Restricted linguistic system.** Signs stand for words of a spoken language (names, titles, offices, commodities, numbers), possibly with rebus for names, but only for these functions; no general means of writing arbitrary utterances. | 2: symbols + mapping to words | the absence of any long text; profile of names (C1, C4) |
+| **L** | **Full script.** Signs encode linguistic units productively (logosyllabic or similar) and could write arbitrary utterances; the surviving corpus is genre-limited by what was durable. | 3: symbols + words + productive phonetic component | why no text exceeds 17 signs anywhere, in any material, over 700 years |
+| **O** | **Other.** Mixtures (e.g. linguistic seals with non-linguistic tablet tallies), pseudo-script or imitation, several systems in one corpus, or something not considered. | variable | – |
+
+N and R are not the hypotheses this project was hoping for. They are kept at full weight by rule.
+
+## d. Priors (starting point; sum to 1)
+
+| | Prior | Agreed range | Why |
+|---|---:|---|---|
+| L | 0.40 | 0.25–0.55 | Majority scholarly view (Parpola, Mahadevan, Possehl, Wells). Inventory and statistics sit with large-inventory systems and nearest a full writing system used for short records (oracle bone, C5). Against: no long text in 700 years; C7 shows the statistics usually cited for L do not discriminate. |
+| R | 0.30 | 0.15–0.45 | The corpus is entirely seals, sealings, tags and tablets of 2–13 signs; 892 distinct texts on 1,005 unicorn seals; low repetition fits lists of distinct name elements (C4); most deciphered seal traditions record names and titles. |
+| N | 0.20 | 0.10–0.35 | Farmer, Sproat & Witzel's argument is not refuted; the statistics used against it are void (C7, X5); real emblem and accounting systems produce ordered sequences. Against: cross-city transfer of fine sequential structure (C2) and the foreign-order effect (C3) are more natural if sequences encode words, though not exclusive to that. |
+| O | 0.10 | 0.05–0.20 | Mixed corpora are common (Uruk tablets mix numerals, commodities and names); the incised tablets and seals may not be one system; pseudo-script exists in the Gulf set (C3, round 31). |
+
+Unregistered measurements (C2, C4, C5, C6) and the literature informed these numbers. By rule 5 they cannot also be used as Bayes factors.
+
+## e. Update log
+Pre-registered tests only, grouped into independent evidence clusters (same data or same underlying signal = one cluster). Scale: weak ×3, moderate ×10, strong ×30, decisive ×100. "Gate" = could any outcome have moved some hypothesis by ×3 or more.
+
+| Cluster | Rounds (pre-registered) | Outcome | Gate | Factor | Reason |
+|---|---|---|---|---|---|
+| K1 Cross-city order | 29 (27 unregistered) | MIXED | no | none | Ordered, transferable sequences are expected under N, R and L alike; the test cannot separate them. |
+| K2 Gulf seals foreign in order | 30, 31 (same 8 seals) | SUPPORT (pct 0.916) | no | none | Foreign names (R, L) and foreign use of emblems or pseudo-script (N, O) both predict deviation; round 31 itself found one pseudo-inscription. |
+| K3 Decipherability benchmark | 32 | INFEASIBLE | no | none | About what statistics can recover, not about what the signs encode. |
+| K4 Gulf names | 35 | NON-INFORMATIVE | – | none | Real and fake names matched equally. |
+| K5 Rebus and substrate classifiers | 36, 37, 38 | control failed | – | VOID | Rule 6. |
+| K6 Anchor-rebus | 41–45 (same design, overlapping data) | ARTEFACT | no | none | A real anchor signal would bear on family; an artefact bears on nothing. |
+| K7 Published phonetic keys | 47, 49, 57 (same instrument, same corpus) | NULL for all testable keys | no | none | Under N, P(all keys null) = 1. Under L or R, P(all published keys null) ≈ 0.9 or more, since few of a handful of published keys would be right even if the script were phonetic. Ratio ≈ 1.1, under ×3. |
+| K8 Shape | 48 | METHOD-FAIL | – | VOID | Rule 6. |
+| K9 Near-bilingual census | 50 | INCOMPLETE | no | none | Absence of bilingual seal impressions is expected under every hypothesis. |
+| K10 Writing-system signature | 52, 52b (same corpora) | METHOD-FAIL | – | VOID | Rule 6. Descriptive outputs are facts C4, C5, C7. |
+| K11 Segmentation | 53, 53b (same gold corpora) | METHOD-FAIL (53b by 0.001) | – | VOID | Rule 6. 53b also falls under rule 7 (knife edge); void either way, no replicate needed. |
+| K12 Combinatorial freedom | 54 | METHOD-FAIL | – | VOID | Rule 6. |
+
+Family-axis rounds (39–40, 51) are logged in section f, not here.
+
+**Current probabilities = priors:** L 0.40, R 0.30, N 0.20, O 0.10.
+
+## Fragility
+- **Priors at the edges of their ranges:** L 0.25 with R 0.45 puts R ahead; N 0.35 with L 0.25 puts N ahead of L. The ranking flips inside the agreed ranges. **Neither L nor R is clearly ahead; N is behind but not excluded.**
+- **Drop the most influential test:** no test moved anything, so nothing changes. That is the point of the exercise: after 57 rounds, the probability of what the signs encode rests entirely on priors.
+
+## Honest summary
+- The best surviving explanation is L at 0.40, by prior only. None of its lead comes from a scored positive match, and none from removing an objection by a scored test.
+- What the scored tests have done is close routes and keys: every testable published key is NULL (K7), the anchor method is an artefact (K6), the bilingual route is empty in the sources read (K9), and five structural instruments are void. Those are failures recorded as results.
+- A probability for L says nothing about which language or what any sign says.
+- Occam, layers counted: N has 1 layer, R 2, L 3. No measured fact has yet forced the second layer by a scored test. The simplest hypothesis consistent with the scored record is N; the priors favour L and R on unscored structure and on what seal traditions usually are.
+
+## f. Separate axis: language family (conditional on R or L)
+Not scored yet; recorded so that family evidence is never counted toward L/R/N/O.
+
+| Round | Outcome | Bears on |
+|---|---|---|
+| 39–40 | Rigvedic substrate leans Proto-Dravidian over Munda (100/100), below the bar against controls | Substrate language of the Punjab, not the script |
+| 51 | Meluhhan candidates: no family attributable; gates passed | Family of Meluhhan speakers |
+| 41–45, 47, 49, 57 | All family-specific keys and anchors NULL or ARTEFACT | Whether any family has been demonstrated in the script (no) |

@@ -9,7 +9,7 @@
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "61ca2a41f7acd9618b93327e18793ea5b57ff83da8733550e3bcea611f21db82"
+  "sha256": "0172bff3ecabbf1253e2c46b4d62810bbae2e4ddd1db93ac62cc7fab12318495"
  },
  {
   "path": "LICENSE",
@@ -2658,6 +2658,14 @@
  {
   "path": "indus-lab/sources.json",
   "sha256": "55dc817f2821ff5cefc8baf32a1812bee66b4e0b97d944d27149a113bbee6f2a"
+ },
+ {
+  "path": "reports/LEDGER-RULES.md",
+  "sha256": "2c69c64d5192c87ee6b9b9db650a98dbfea240aaefe7c07fe2da3fa046eaebab"
+ },
+ {
+  "path": "reports/LEDGER.md",
+  "sha256": "1de716ec2a5d8b4d5c815d18de686c5319e1169cc1966c997cf562f127c9aac4"
  },
  {
   "path": "setup/paths.sh",
