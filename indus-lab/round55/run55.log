@@ -1,0 +1,25 @@
+Indus texts 1936 tokens 8726
+M1 control PE: median percentile 1.000 -> PASS
+M1 control U4+U3: median percentile 1.000 -> PASS
+M1 Indus: F 0.2626 null 0.3499 (0.0645) percentile 0.084 -> no class behaviour detected
+M2 pipeline check (round 58 RV_S1 reproduced): PASS
+M2 stripped Indus: texts 1935 tokens 7283 repeat 0.0264
+RV_S1: mean 0.0561 sd 0.0058 min 0.0404 k<=I 0 z 5.1 -> EXCLUDED | homophony k 3
+RV_S2: mean 0.0421 sd 0.0043 min 0.0293 k<=I 0 z 3.7 -> NOT EXCLUDED (replicates 0/10) | homophony k 2
+RAM_S1: mean 0.0536 sd 0.0052 min 0.0393 k<=I 0 z 5.3 -> EXCLUDED | homophony k 3
+RAM_S2: mean 0.0481 sd 0.0047 min 0.0359 k<=I 0 z 4.6 -> NOT EXCLUDED (replicates 0/10) | homophony k 2
+SKW_S1: mean 0.0410 sd 0.0044 min 0.0292 k<=I 0 z 3.3 -> NOT EXCLUDED (replicates 0/10) | homophony k 2
+SKW_S2: mean 0.0416 sd 0.0048 min 0.0246 k<=I 1 z 3.1 -> NOT EXCLUDED (replicates 0/10) | homophony k 2
+SKN_S1: mean 0.0490 sd 0.0050 min 0.0329 k<=I 0 z 4.5 -> NOT EXCLUDED (replicates 0/10) | homophony k 2
+SKN_S2: mean 0.0507 sd 0.0052 min 0.0366 k<=I 0 z 4.7 -> NOT EXCLUDED (replicates 1/10) | homophony k 3
+PUR_S1: mean 0.0634 sd 0.0059 min 0.0473 k<=I 0 z 6.3 -> EXCLUDED | homophony k 3
+PUR_S2: mean 0.0384 sd 0.0044 min 0.0269 k<=I 0 z 2.7 -> NOT EXCLUDED (replicates 0/10) | homophony k 2
+TMW_S1: mean 0.0508 sd 0.0048 min 0.0385 k<=I 0 z 5.1 -> EXCLUDED | homophony k 3
+TMW_S2: mean 0.0545 sd 0.0052 min 0.0364 k<=I 0 z 5.4 -> EXCLUDED | homophony k 3
+TMN_S1: mean 0.0501 sd 0.0052 min 0.0330 k<=I 0 z 4.5 -> NOT EXCLUDED (replicates 0/10) | homophony k 3
+TMN_S2: mean 0.0195 sd 0.0031 min 0.0118 k<=I 297 z -2.2 -> NOT EXCLUDED | homophony k 2
+M2 SUMMARY {'excluded': 5, 'not_excluded': 9}
+D1 {"indus_by_count": {"1": 248, "2": 700, "3": 281, "4": 73, "5": 44, "6": 30, "7": 49, "8": 6}, "indus_rho": -0.8571428571428571, "PE": {"by_count": {"1": 1561, "2": 773, "3": 357, "4": 274, "5": 270, "6": 162, "7": 77, "8": 87, "9": 45}, "rho": -0.9833333333333333}, "U4+U3": {"by_count": {"1": 4259, "2": 1929, "3": 1047, "4": 694, "5": 898, "6": 386, "7": 264, "8": 253, "9": 179}, "rho": -0.9833333333333333}}
+D2 repeated-sign texts {'non-stroke only': 47, 'stroke only': 20, 'both': 1}
+D3 position shares {"S": {"initial": 0.16493416493416493, "medial": 0.7692307692307693, "final": 0.06583506583506583}, "all": {"initial": 0.2218656887462755, "medial": 0.556268622507449, "final": 0.2218656887462755}}
+time 623s

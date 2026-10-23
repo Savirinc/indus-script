@@ -1,6 +1,6 @@
 # indus-script — a pre-registered test bench for Indus script decipherment claims
 
-**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 58 rounds (55–56 reserved)**
+**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 58 rounds (56 reserved)**
 
 > **Status, 19 October 2026: no Indus sign has an established sound or meaning in this project, and none is claimed. Every published key that can be tested on the corpus reads no better than a random re-assignment of its own values. The structural results that survive controls are listed below. The methods, data pins and failed tests are all here.**
 
@@ -52,7 +52,7 @@ The working rules, in force since round 29 and written into [`CLAUDE.md`](CLAUDE
 | A syllabic core can be detected by free combination (signs that combine with anything are syllabograms) | 54 | **METHOD-FAIL.** On Akkadian letters, where syllabograms are known, the statistic does not find them (AUC 0.46 and 0.65), and the Shijing's one-sign-per-word characters combine more freely than Akkadian syllabograms. Freedom measures slot position, not sign function. |
 | Texts can be cut into words by lexicon induction (Dirichlet-process unigram model) | 53b | **METHOD-FAIL by 0.001** on two of four gold corpora. Descriptively the Indus corpus segments like the one-sign-per-word Shijing or below it, and the induced lexicon is just the known frequent sequences; but the Shijing is not separated from Akkadian letters on segment length, so no verdict is possible. |
 | Bhaty 2024: seals name Bronze Age places (Moka = Magan/Makran, Hattusa, Umma, Susa, Daman…) under Yajnadevam's key with one vowel changed | 57 | **NULL.** Every place known to Mesopotamia, plus all her names, matches her readings no more often than shuffles of her own key (percentile 0.41), and less often per name than scrambled consonant strings or Finnish towns. Linear B place names pass the same test (z 4.2). |
-| Any Sanskrit or Tamil key that reads one sign as one syllable, with no two signs sharing a sound (most popular decipherments) | 58 | **Mostly excluded (10 of 14 conditions).** Real Sanskrit and Old Tamil at seal lengths repeat a syllable in 6–9% of texts; the seals repeat a sign in 3.5%. A key of this kind cannot change that rate, so it cannot be right. Open: three conditions just short of the safety margin, and Old Tamil names in spoken syllables (3.2%), which match the seals. Keys where several signs share a sound are not covered. |
+| Any Sanskrit or Tamil key that reads one sign as one syllable, with no two signs sharing a sound (most popular decipherments) | 58, 55 | **Excluded for running text, open for names.** Real Sanskrit verses and Old Tamil poem lines and words, written syllable by syllable, repeat a syllable more often than the seals repeat a sign (6–9% against 3.5%), so a key of this kind cannot turn the seals into them. That holds whether or not the stroke signs are numbers. Lists of names are excluded only if the strokes count as ordinary signs; Old Tamil names in spoken syllables are never excluded. Keys where several signs share a sound are not covered. |
 
 Full detail per round: [`docs/STATUS.md`](docs/STATUS.md). Each round's folder has the protocol, code, results and report.
 
