@@ -5,11 +5,11 @@
  },
  {
   "path": "CITATION.cff",
-  "sha256": "bcf58b4e6a240855c7e17571fd6a6608e976da0b8ca7474f29a6b18dd03808b5"
+  "sha256": "b1cf20f86a6dcb541623aca18907f02d9b72e1f66b022047c1479896327181b7"
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "7a5a070d146e78eabb9b30f9d7351ef3f4d0323d459eb239be2d2dac58159ef2"
+  "sha256": "c0e9bd607d8e11b946a678383da988f93bda88331c9893cf48b09a2d5e9d1d54"
  },
  {
   "path": "LICENSE",
@@ -17,7 +17,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "ecd995b2fcf82de881dc645676914d71f68d04f154db0eb3ea2083b276f5c060"
+  "sha256": "3d3f8102186764f161501c4dd9511e32f030b0b6be72cfa180274ab622afef40"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -69,7 +69,7 @@
  },
  {
   "path": "docs/STATUS.md",
-  "sha256": "a215d0acbbe50b84cc8beda4ed78e6a2ec91f608745e2f8999775596baf05ceb"
+  "sha256": "a081e9ab835d5975eeab97bac5850615508c8557663d20094334e0325ba28f99"
  },
  {
   "path": "docs/TEST-YOUR-KEY.md",
@@ -2764,6 +2764,10 @@
   "sha256": "b8e407ea4f5603363b1bdf369e6c20b9ddd50fd72cc4443038470ac239a7a99e"
  },
  {
+  "path": "indus-lab/round59/REPORT.md",
+  "sha256": "2f0a9c5ba232e2be6abd15b662ebe9e9aa27e5067aa6e3498ef6ae2567e11a31"
+ },
+ {
   "path": "indus-lab/round59/build59.py",
   "sha256": "b2872f8ca7c61f16d4c1328f58e7342508fe3be381009c6136cc3fbc22034d34"
  },
@@ -2788,6 +2792,14 @@
   "sha256": "25ffb9178de6675695114e9dee8a875badec8d9da6221b09af8204d28032f0c1"
  },
  {
+  "path": "indus-lab/round59/results.json",
+  "sha256": "5c464ffb9e2d4582ff753bd49a516b21d3c3ce0a0cc4313182c9b878b498a422"
+ },
+ {
+  "path": "indus-lab/round59/run59.log",
+  "sha256": "e3dc603a261462a65fc726d36cf93993dc57493031d44977e784c5470a8c97ee"
+ },
+ {
   "path": "indus-lab/round59/run59.py",
   "sha256": "199aacae3099f505dca69e76f27907ea6984fcd390ba36b937a9c40bd93c6995"
  },
@@ -2805,7 +2817,7 @@
  },
  {
   "path": "reports/LEDGER.md",
-  "sha256": "12637be22e235b9e8c7a2cab6252ac49c41ca81ff3fc6798c43d1bfaef957571"
+  "sha256": "56e2501c87f12956ae48e35b786fd6a3a16e7e3986da8049a72030640d54aa9b"
  },
  {
   "path": "setup/paths.sh",

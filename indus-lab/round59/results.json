@@ -1,0 +1,463 @@
+{
+ "protocol": "PROTOCOL.md",
+ "n_shuffles": 1000,
+ "corpus": {
+  "texts": 1934,
+  "tokens": 8720,
+  "signs": 581
+ },
+ "positive_control": {
+  "skeletons": 10,
+  "T": 22,
+  "stats": {
+   "T": 22,
+   "null_mean": 14.24,
+   "null_sd": 3.68,
+   "z": 2.11,
+   "pct": 0.968,
+   "p_upper": 0.03296703296703297
+  },
+  "rate": 2.2,
+  "scrambled_95": 2.0,
+  "matched": {
+   "krs": 4,
+   "pmk": 1,
+   "krt": 7,
+   "prk": 1,
+   "pkn": 2,
+   "kvn": 2,
+   "prv": 4,
+   "kmn": 1
+  },
+  "passed": false
+ },
+ "lexicons": {
+  "Sanskrit": {
+   "skeletons": 3431,
+   "T": 1992,
+   "stats": {
+    "T": 1992,
+    "null_mean": 1648.73,
+    "null_sd": 226.29,
+    "z": 1.52,
+    "pct": 0.938,
+    "p_upper": 0.06293706293706294
+   },
+   "rate": 0.5805887496356748,
+   "scrambled_mean": 1.1159137277761586,
+   "scrambled_95": 1.2305450306033225,
+   "ordinary_mean": 0.6135853514471352,
+   "ordinary_95": 0.6393975191966923,
+   "verdict": "VOID (control failed)",
+   "top": [
+    {
+     "skeleton": "nmn",
+     "texts": 106,
+     "words": [
+      "unmaṇi (a gem lying on the surface)"
+     ]
+    },
+    {
+     "skeleton": "smn",
+     "texts": 90,
+     "words": [
+      "sumana (wheat)",
+      "sāmanī (a rope or cord for tying cattle)"
+     ]
+    },
+    {
+     "skeleton": "msn",
+     "texts": 87,
+     "words": [
+      "maśuna (a dog)"
+     ]
+    },
+    {
+     "skeleton": "mnc",
+     "texts": 65,
+     "words": [
+      "manya (the middle of an elephant's goad)"
+     ]
+    },
+    {
+     "skeleton": "tmn",
+     "texts": 65,
+     "words": [
+      "tamomaṇi (a kind of gem)",
+      "uttamamaṇi (a kind of gem)"
+     ]
+    },
+    {
+     "skeleton": "vrn",
+     "texts": 62,
+     "words": [
+      "velāna (astringent and salt and pungent)",
+      "velāna (astringent and salt and pungent taste)",
+      "virāṇ (an elephant)"
+     ]
+    },
+    {
+     "skeleton": "ncn",
+     "texts": 53,
+     "words": [
+      "nauyāna (going in a ship)",
+      "nauyāyin (going in a boat)"
+     ]
+    },
+    {
+     "skeleton": "trn",
+     "texts": 43,
+     "words": [
+      "taraṇi (a boat)",
+      "tilanī (a kind of rice)",
+      "tilānna (rice with sesamum-seeds)"
+     ]
+    },
+    {
+     "skeleton": "rvt",
+     "texts": 40,
+     "words": [
+      "airāvatī (the female of Indra's elephant)",
+      "revaṭa (a muscle or a conch-shell which coils fr)"
+     ]
+    },
+    {
+     "skeleton": "srn",
+     "texts": 38,
+     "words": [
+      "soraṇa (astringent and sweet and sour and salt)",
+      "sṛṇi (an elephant-goad)",
+      "śroṇā (rice-gruel)"
+     ]
+    },
+    {
+     "skeleton": "vsn",
+     "texts": 36,
+     "words": [
+      "vasana (cloth)",
+      "vasna (a garment)",
+      "viṣāṇin (an elephant)"
+     ]
+    },
+    {
+     "skeleton": "mncn",
+     "texts": 32,
+     "words": [
+      "manojña (the wood of Pinus Longifolia)"
+     ]
+    },
+    {
+     "skeleton": "rvn",
+     "texts": 30,
+     "words": [
+      "airāvaṇa (name of Indra's elephant)",
+      "lavaṇa (salt (esp. seasalt))",
+      "lāvaṇa (name of the salt sea which surrounds Jam)"
+     ]
+    },
+    {
+     "skeleton": "smt",
+     "texts": 28,
+     "words": [
+      "samitā (wheat-flour)",
+      "samīdā (fine wheat-flour)",
+      "sāmita (made from or mixed with wheat-flour)"
+     ]
+    },
+    {
+     "skeleton": "mrn",
+     "texts": 26,
+     "words": [
+      "amlaloṇī (wood sorrel (Oxalis Corniculata))"
+     ]
+    },
+    {
+     "skeleton": "vcr",
+     "texts": 24,
+     "words": [
+      "vijala (sauce etc. mixed with rice-water or grue)",
+      "vyālī (a vicious female elephant)"
+     ]
+    },
+    {
+     "skeleton": "vmt",
+     "texts": 22,
+     "words": [
+      "avimat (possessing sheep)"
+     ]
+    },
+    {
+     "skeleton": "mnt",
+     "texts": 20,
+     "words": [
+      "amaṇḍa (the castor oil tree)",
+      "mainda (name of a monkey-demon killed by Kṛṣṇa)",
+      "mandaṭa (the coral tree)"
+     ]
+    },
+    {
+     "skeleton": "srv",
+     "texts": 20,
+     "words": [
+      "saśulva (with copper)",
+      "sāriva (a kind of grain (reckoned among the śāli)",
+      "āsrava (the foam on boiling rice)"
+     ]
+    },
+    {
+     "skeleton": "smnc",
+     "texts": 19,
+     "words": [
+      "samanya (fit for an assembly or for a festival (a)",
+      "sāṃnāyya (any substance mixed with clarified butte)"
+     ]
+    },
+    {
+     "skeleton": "msr",
+     "texts": 19,
+     "words": [
+      "musāra (a kind of precious stone)"
+     ]
+    },
+    {
+     "skeleton": "str",
+     "texts": 16,
+     "words": [
+      "auṣṭra (skin of a buffalo)",
+      "aṣṭrā (a prick or goad for driving cattle (rega)",
+      "sadri (an elephant)"
+     ]
+    },
+    {
+     "skeleton": "nms",
+     "texts": 15,
+     "words": [
+      "naimiṣa (the inhabitants of the Naimisha wood)"
+     ]
+    },
+    {
+     "skeleton": "ntr",
+     "texts": 15,
+     "words": [
+      "aṇutaila (name of a medical oil)",
+      "aṇḍadala (egg-shell)"
+     ]
+    },
+    {
+     "skeleton": "rsn",
+     "texts": 15,
+     "words": [
+      "roṣāṇa (a touchstone for gold)"
+     ]
+    }
+   ]
+  },
+  "Proto-Dravidian": {
+   "skeletons": 184,
+   "T": 563,
+   "stats": {
+    "T": 563,
+    "null_mean": 533.2,
+    "null_sd": 83.5,
+    "z": 0.36,
+    "pct": 0.654,
+    "p_upper": 0.34665334665334663
+   },
+   "rate": 3.0597826086956523,
+   "scrambled_mean": 7.762228260869565,
+   "scrambled_95": 9.494565217391305,
+   "ordinary_mean": 3.861141304347826,
+   "ordinary_95": 4.918478260869565,
+   "verdict": "VOID (control failed)",
+   "top": [
+    {
+     "skeleton": "vsm",
+     "texts": 70,
+     "words": [
+      "vēẓ-am (elephant)"
+     ]
+    },
+    {
+     "skeleton": "tmn",
+     "texts": 65,
+     "words": [
+      "timman- (a monkey)"
+     ]
+    },
+    {
+     "skeleton": "srn",
+     "texts": 38,
+     "words": [
+      "saṛan- (ox, bull)",
+      "śer_n- (ear of corn; head of paddy; pod, rice-po)"
+     ]
+    },
+    {
+     "skeleton": "rvc",
+     "texts": 28,
+     "words": [
+      "er-Vc- (dark-brown colour; blood; a sort of ounc)"
+     ]
+    },
+    {
+     "skeleton": "mrn",
+     "texts": 26,
+     "words": [
+      "màran- (tree; wild dog)"
+     ]
+    },
+    {
+     "skeleton": "mnt",
+     "texts": 20,
+     "words": [
+      "mand-i (a k. of monkey)",
+      "manḍ- (?) (broken grain; cooked rice; ricewater)",
+      "manḍī (cooked rice; ricewater)"
+     ]
+    },
+    {
+     "skeleton": "srv",
+     "texts": 20,
+     "words": [
+      "salav-ai (washing of cloth; washing, bleaching, a )"
+     ]
+    },
+    {
+     "skeleton": "ncr",
+     "texts": 15,
+     "words": [
+      "nijur (fire; to blaze; ignition, a flare; flame)"
+     ]
+    },
+    {
+     "skeleton": "mtm",
+     "texts": 14,
+     "words": [
+      "āmdam- (castor-oil plant)"
+     ]
+    },
+    {
+     "skeleton": "nvr",
+     "texts": 13,
+     "words": [
+      "navar-ai (a kind of rice; Oryza)"
+     ]
+    },
+    {
+     "skeleton": "snt",
+     "texts": 13,
+     "words": [
+      "Send- (cloth)",
+      "aẓ[u]nd- (to be pressed or immersed (as cloth))"
+     ]
+    },
+    {
+     "skeleton": "svr",
+     "texts": 11,
+     "words": [
+      "Savar- (to rub in, apply; oil, any oily or unctu)",
+      "sovar- (salt)",
+      "śovar (salt)"
+     ]
+    },
+    {
+     "skeleton": "vtr",
+     "texts": 11,
+     "words": [
+      "vaḍl (unhusked rice, paddy)"
+     ]
+    },
+    {
+     "skeleton": "mpn",
+     "texts": 10,
+     "words": [
+      "ambaṇ- (a weight or measure)"
+     ]
+    },
+    {
+     "skeleton": "stv",
+     "texts": 8,
+     "words": [
+      "saṭuv- (ladle; a sort of spoon with a shallow bo)"
+     ]
+    },
+    {
+     "skeleton": "mnk",
+     "texts": 8,
+     "words": [
+      "manq- (youth; buffalo; son)"
+     ]
+    },
+    {
+     "skeleton": "prn",
+     "texts": 7,
+     "words": [
+      "aparanǯi (refined gold)",
+      "aparanǯi (refined gold; fine gold)"
+     ]
+    },
+    {
+     "skeleton": "nct",
+     "texts": 7,
+     "words": [
+      "ńāj(t)- (dog)"
+     ]
+    },
+    {
+     "skeleton": "tmr",
+     "texts": 7,
+     "words": [
+      "tum-r- (ebony)"
+     ]
+    },
+    {
+     "skeleton": "mcr",
+     "texts": 7,
+     "words": [
+      "majil (peacock)",
+      "majil- (peacock)"
+     ]
+    },
+    {
+     "skeleton": "tnt",
+     "texts": 6,
+     "words": [
+      "Tonḍ- (log, block of wood)",
+      "dinḍ- (round stone, bale of cloth; pillow, cush)",
+      "tonḍ- (beak, bill, nose; elephant's proboscis; )"
+     ]
+    },
+    {
+     "skeleton": "vnc",
+     "texts": 6,
+     "words": [
+      "*weṇ-ṇey (‘butter’ (< *weḷ + ney ‘white oil’))",
+      "*wān-ay (a large earthen pot to store grain)",
+      "veṇ-ṇej (butter)"
+     ]
+    },
+    {
+     "skeleton": "smp",
+     "texts": 6,
+     "words": [
+      "samb- (a k. of paddy; a fine sort of rice)"
+     ]
+    },
+    {
+     "skeleton": "tsv",
+     "texts": 6,
+     "words": [
+      "*toẓ-V (cattle stall)"
+     ]
+    },
+    {
+     "skeleton": "tvr",
+     "texts": 6,
+     "words": [
+      "*tuw-Vr (coral)"
+     ]
+    }
+   ]
+  }
+ }
+}

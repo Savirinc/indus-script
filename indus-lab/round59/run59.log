@@ -1,0 +1,6 @@
+corpus {'texts': 1934, 'tokens': 8720, 'signs': 581}
+PC Linear B commodities: FAIL {'skeletons': 10, 'T': 22, 'stats': {'T': 22, 'null_mean': 14.24, 'null_sd': 3.68, 'z': 2.11, 'pct': 0.968, 'p_upper': 0.03296703296703297}, 'rate': 2.2, 'scrambled_95': 2.0, 'matched': {'krs': 4, 'pmk': 1, 'krt': 7, 'prk': 1, 'pkn': 2, 'kvn': 2, 'prv': 4, 'kmn': 1}, 'passed': False}
+Sanskrit: skeletons 3431 T 1992 null 1648.73 (226.29) z 1.52 pct 0.938 rate 0.581 scrambled95 1.231 ordinary95 0.639 -> VOID (control failed)
+  top: [('nmn', 106), ('smn', 90), ('msn', 87), ('mnc', 65), ('tmn', 65), ('vrn', 62), ('ncn', 53), ('trn', 43), ('rvt', 40), ('srn', 38)]
+Proto-Dravidian: skeletons 184 T 563 null 533.2 (83.5) z 0.36 pct 0.654 rate 3.060 scrambled95 9.495 ordinary95 4.918 -> VOID (control failed)
+  top: [('vsm', 70), ('tmn', 65), ('srn', 38), ('rvc', 28), ('mrn', 26), ('mnt', 20), ('srv', 20), ('ncr', 15), ('mtm', 14), ('nvr', 13)]

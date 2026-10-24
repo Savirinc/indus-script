@@ -89,6 +89,7 @@ Pre-registered tests only, grouped into independent evidence clusters (same data
 | K12 Combinatorial freedom | 54 | METHOD-FAIL | – | VOID | Rule 6. |
 | K13 Sanskrit/Tamil syllable repetition | 58 | PARTIAL: 10 of 14 conditions excluded | no (measurement, declared in advance) | none | Excluding bijective Sanskrit/Tamil syllabic keys leaves L, R and N where they were: such keys are a small subclass of L and R. Adds X7 and C17 only. |
 | K14 Stroke signs | 55 | M1 no class behaviour (controls passed); M2 5 of 14 conditions excluded under the numeral reading | no (measurement, declared in advance) | none | Numerals are expected under N, R and L alike. Rewrites X7 scope; adds C18. |
+| K7 (cont.) Traded-goods words under the Brahmi key | 59 (same key and instrument as 47, 57) | VOID: Linear B trade-word control z 2.11, pct 0.968 | yes (SUPPORT would have given ×3) | none | Rule 6. Descriptively, trade words in Sanskrit and Proto-Dravidian matched less often than scrambled strings and ordinary words; the same 65 texts read "gem" in Sanskrit and "monkey" in Proto-Dravidian. |
 
 Family-axis rounds (39–40, 51) are logged in section f, not here.
 
