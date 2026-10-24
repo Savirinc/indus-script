@@ -2760,6 +2760,34 @@
   "sha256": "4d4c0872ae1f0df0dc0c571da5803ce9a7142ffc81ea3a2ac1eea2845b09a4e6"
  },
  {
+  "path": "indus-lab/round59/PROTOCOL.md",
+  "sha256": "b8e407ea4f5603363b1bdf369e6c20b9ddd50fd72cc4443038470ac239a7a99e"
+ },
+ {
+  "path": "indus-lab/round59/build59.py",
+  "sha256": "b2872f8ca7c61f16d4c1328f58e7342508fe3be381009c6136cc3fbc22034d34"
+ },
+ {
+  "path": "indus-lab/round59/lb_commodity_rows.tsv",
+  "sha256": "f0d5608e95b818490435b353318db7386d18c2931884fcbcc683b2bc54077816"
+ },
+ {
+  "path": "indus-lab/round59/lex_pdr_commodity.tsv",
+  "sha256": "6145d9e29244783a8141b252079c1fa2d2074d629f3599aa8eb0355a24e3037a"
+ },
+ {
+  "path": "indus-lab/round59/lex_skt_commodity.tsv",
+  "sha256": "cbacf99134cd80f790e2ed68e64e0aec3b42766f2f332fbbe3f44294fc313150"
+ },
+ {
+  "path": "indus-lab/round59/pool_pdr_other.tsv",
+  "sha256": "30fe866436730bff60ef2d96c49597b6367d1dc318632642b49a0706d62f7c19"
+ },
+ {
+  "path": "indus-lab/round59/pool_skt_other.tsv",
+  "sha256": "25ffb9178de6675695114e9dee8a875badec8d9da6221b09af8204d28032f0c1"
+ },
+ {
   "path": "indus-lab/run.py",
   "sha256": "56c063e31125f2387111e48963e0c32e55bc5d2bb4ad28fc698b42754a767efa"
  },
