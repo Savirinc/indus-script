@@ -67,3 +67,11 @@ Rebus tournament (36), substrate fingerprint (37), sound-only matching (38), Gul
 1b. **Meluhhan loanwords (round 51): CLOSED on the published record.** Possehl 1996a obtained (archive.org `indian-ocean-in-antiquity`): no loanword list, only Sumerian terms qualified "of Meluhha"; Glassner's šamru added; strict set also null. Harness `round51/run51.py` + `candidates.tsv`.
 2. **Methods write-up: DRAFT 0.2 complete** at `docs/methods/METHODS-DRAFT.md` (rounds 27–54: key tests 47/49, anchors 41–45, shape 48, loanwords 51, structural series 52–54, unicity argument, checklist, AI declaration, references). Next edits only on Arham's review notes. Text licence CC BY 4.0. Do not publish or circulate without Arham's OK; Zenodo DOI first when he says go.
 3. **Pending key.** Bonta 2023 2nd ed. (Academia.edu, gated; no open copy found): transcribe to key format with page refs, commit, run `round49/run49.py` unchanged.
+
+## Open threads at 24 Oct 2026 (handoff)
+- **Round 61** (shape of atlas sign-letter pairs vs 24 scripts): PROTOCOL.md locked and pushed (23d579b, sha e6cb2575…). `run61.py` is not written yet. **Waiting for Arham's go.** Arham was invited to add his own success bar before the run.
+- **Round 62** (offered, not started): Afghan and South Asian place names, old and new forms, in a list fixed before reading, with the Linear B control.
+- **Round 57 addendum** (`round57/addendum-afghan/NOTE.md`): Kandahar 0 matches; 25.8% of two-sign readings are Afghan places under the atlas key vs 26.4% under wrong keys.
+- **Round 60 follow-up** (offered): a machine-fitted Sanskrit key on held-out halves, to separate fitting from a real order signal.
+- Readings atlas PDF (local, unlicensed font): `Indus Script Decipher/readings-atlas/Indus-Readings-Atlas-Brahmi.pdf`.
+- Arham asked whether Claude was deceiving him. He was answered with verifiable checks: prereg hashes, controls, and round 60 being reported in his favour. Keep everything checkable.

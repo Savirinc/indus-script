@@ -9,7 +9,7 @@
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "b4441c862dc9b2dd939ad577ce9a0e0b209bbe3ffc7e7302fbe55e62f15071b5"
+  "sha256": "3732ab473c8e0c9146363d7c1301acace742a3f1dc6855c12005d53e6c0ed4b0"
  },
  {
   "path": "LICENSE",
@@ -2662,6 +2662,26 @@
  {
   "path": "indus-lab/round57/REPORT.md",
   "sha256": "8b5e5cecd059b291fdf8869cf4c95682cd58736bca7755d8b8f86cbdb0196c32"
+ },
+ {
+  "path": "indus-lab/round57/addendum-afghan/NOTE.md",
+  "sha256": "dd53540c933b104aa3a337583d495c04cb574e4d0af1e40171b47bb72a96a431"
+ },
+ {
+  "path": "indus-lab/round57/addendum-afghan/geo_check.log",
+  "sha256": "1c9967046edda9bba5e5bf41603779a358e489253024b71415327fad01bebf65"
+ },
+ {
+  "path": "indus-lab/round57/addendum-afghan/geo_check.py",
+  "sha256": "6590a981db5b7928071a1e54316af99f6ce4ebda097941ab4c51ef49ea792cec"
+ },
+ {
+  "path": "indus-lab/round57/addendum-afghan/names_check.log",
+  "sha256": "7ab77ad11b875ae0c1485953e7ec171f95df9032af289f67f51dd830f7364785"
+ },
+ {
+  "path": "indus-lab/round57/addendum-afghan/names_check.py",
+  "sha256": "f3138879a7c2a2ac49ecc3c9323c0e3f8c522cea82f1c091246d251aae9912e7"
  },
  {
   "path": "indus-lab/round57/bhaty_places.tsv",

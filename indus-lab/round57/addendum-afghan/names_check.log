@@ -1,0 +1,10 @@
+Kandahar -> kntkr
+Qandahar -> kntkr
+Gandhara -> kntkr
+Jaya -> c
+Jayah -> ck
+texts 1934
+c real 390 shuffle mean 487.2 share of wrong keys with as many 0.672
+ck real 5 shuffle mean 10.1 share of wrong keys with as many 0.794
+kntkr real 0 shuffle mean 0.0 share of wrong keys with as many 1.0
+[]
