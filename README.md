@@ -1,6 +1,6 @@
 # indus-script — a pre-registered test bench for Indus script decipherment claims
 
-**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 59 rounds (56 reserved)**
+**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 60 rounds (56 reserved)**
 
 > **Status, 19 October 2026: no Indus sign has an established sound or meaning in this project, and none is claimed. Every published key that can be tested on the corpus reads no better than a random re-assignment of its own values. The structural results that survive controls are listed below. The methods, data pins and failed tests are all here.**
 

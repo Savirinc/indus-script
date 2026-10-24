@@ -1,0 +1,25 @@
+inscriptions: 1689 distinct, fully assigned, length >= 3; mean length 5.04
+positive control (Ramayana): T 0.866 perm-mean 0.817 rev 0.801 G 0.0490 z 16.68 pct 1.00; substitution G max 0.0091 mean 0.0015 -> PASS
+negative control (order-free): G -0.0030 z -1.13 pct 0.10 -> PASS
+atlas key: T 0.8897 perm-mean 0.8691 rev 0.8491 G 0.0207 Grev 0.0407 z 7.84 pct 1.00
+  scrambled 46901: T 0.8862 G -0.0054 Grev -0.0190 z -1.90 pct 0.00
+  scrambled 46902: T 0.8768 G -0.0115 Grev -0.0055 z -3.36 pct 0.00
+  scrambled 46903: T 0.8463 G -0.0235 Grev -0.0289 z -6.97 pct 0.00
+  scrambled 46904: T 0.8930 G 0.0053 Grev 0.0276 z 1.68 pct 0.90
+  scrambled 46905: T 0.8699 G -0.0162 Grev -0.0127 z -6.10 pct 0.00
+  scrambled 46906: T 0.8805 G 0.0189 Grev 0.0202 z 5.08 pct 1.00
+  scrambled 46907: T 0.8405 G -0.0168 Grev -0.0292 z -4.91 pct 0.00
+  scrambled 46908: T 0.8584 G -0.0046 Grev -0.0006 z -0.96 pct 0.15
+  scrambled 46909: T 0.8946 G 0.0076 Grev 0.0190 z 3.08 pct 1.00
+  scrambled 46910: T 0.8555 G -0.0030 Grev -0.0055 z -1.26 pct 0.10
+  scrambled 46911: T 0.8937 G 0.0008 Grev 0.0077 z 0.26 pct 0.55
+  scrambled 46912: T 0.8889 G 0.0146 Grev 0.0204 z 4.65 pct 1.00
+  scrambled 46913: T 0.8639 G -0.0203 Grev -0.0279 z -6.44 pct 0.00
+  scrambled 46914: T 0.8825 G 0.0131 Grev 0.0054 z 4.86 pct 1.00
+  scrambled 46915: T 0.9000 G 0.0161 Grev 0.0413 z 5.17 pct 1.00
+  scrambled 46916: T 0.8626 G -0.0062 Grev -0.0127 z -1.30 pct 0.10
+  scrambled 46917: T 0.8400 G -0.0252 Grev -0.0461 z -7.51 pct 0.00
+  scrambled 46918: T 0.8881 G 0.0001 Grev 0.0063 z 0.04 pct 0.50
+  scrambled 46919: T 0.8813 G -0.0005 Grev 0.0192 z -0.13 pct 0.35
+  scrambled 46920: T 0.9081 G 0.0081 Grev 0.0012 z 1.85 pct 0.95
+VERDICT: ORDER SIGNAL 

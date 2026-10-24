@@ -5,11 +5,11 @@
  },
  {
   "path": "CITATION.cff",
-  "sha256": "b1cf20f86a6dcb541623aca18907f02d9b72e1f66b022047c1479896327181b7"
+  "sha256": "5ebfa687ae8701d29679e4687ebfb47408375292215e126fd458a2e41eb0a9b4"
  },
  {
   "path": "CLAUDE.md",
-  "sha256": "c0e9bd607d8e11b946a678383da988f93bda88331c9893cf48b09a2d5e9d1d54"
+  "sha256": "b4441c862dc9b2dd939ad577ce9a0e0b209bbe3ffc7e7302fbe55e62f15071b5"
  },
  {
   "path": "LICENSE",
@@ -17,7 +17,7 @@
  },
  {
   "path": "README.md",
-  "sha256": "3d3f8102186764f161501c4dd9511e32f030b0b6be72cfa180274ab622afef40"
+  "sha256": "715c0feb116483005d57b70dd60e454d2f55140950aa6e9b2320c00ea7e567fb"
  },
  {
   "path": "THIRD_PARTY_NOTICES.md",
@@ -69,7 +69,7 @@
  },
  {
   "path": "docs/STATUS.md",
-  "sha256": "a081e9ab835d5975eeab97bac5850615508c8557663d20094334e0325ba28f99"
+  "sha256": "660dd3c9af8fc7f4f5ac1c26f188d0a9c4c15f2640eb70b5768a028e650fd892"
  },
  {
   "path": "docs/TEST-YOUR-KEY.md",
@@ -2824,6 +2824,34 @@
   "sha256": "4588f85e059706efa3916b043ba73bfff073b75c157c1bc76e138bdb8102bcb6"
  },
  {
+  "path": "indus-lab/round60/REPORT.md",
+  "sha256": "876c31d534a75012dd8b453ba45f587c58041b80204989d632418321c838524a"
+ },
+ {
+  "path": "indus-lab/round60/order_ledger.csv",
+  "sha256": "5ae7cfeb89baf12df9b6ff0e3d2ee3c521bf42a1852afd0a53bf678d9c2fe72d"
+ },
+ {
+  "path": "indus-lab/round60/posthoc60.json",
+  "sha256": "b6fe59bb84b3aad820b7b59403bd92b82b3bde119279cac41e994a6b8ef1cb27"
+ },
+ {
+  "path": "indus-lab/round60/posthoc60.log",
+  "sha256": "481a5d9b29fbedabcc1d2339f12237ec1e364bd986ea4102d384c43bb8d42fd0"
+ },
+ {
+  "path": "indus-lab/round60/posthoc60.py",
+  "sha256": "341ad8d832559d42de15c6eb37ce353568100be94f9728e95067d2eab05f96c9"
+ },
+ {
+  "path": "indus-lab/round60/results.json",
+  "sha256": "ad04a5e8e4829bc2f049e1ff7d9b0795a529982e35041efe5ef054c4710e9dd6"
+ },
+ {
+  "path": "indus-lab/round60/run60.log",
+  "sha256": "58c2703375ccd89a4033a7a5bd3aaca8d830e0b09d7aa3fc26ff24a8befdc97a"
+ },
+ {
   "path": "indus-lab/round60/run60.py",
   "sha256": "7ea524af15f54ff544c6ea2432e0efbe96b850cde126c3e85913c589bb7fbabc"
  },
@@ -2841,7 +2869,7 @@
  },
  {
   "path": "reports/LEDGER.md",
-  "sha256": "aa2b330aa8b221ff3ba533b925c49ba329a3865ed6360ebedf2653eb0feefd93"
+  "sha256": "0a5e95af6049e194ad2609a8870d37bcca753a97f37b9550621d04430662ddb3"
  },
  {
   "path": "setup/paths.sh",
