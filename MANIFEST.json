@@ -2856,6 +2856,10 @@
   "sha256": "7ea524af15f54ff544c6ea2432e0efbe96b850cde126c3e85913c589bb7fbabc"
  },
  {
+  "path": "indus-lab/round61/PROTOCOL.md",
+  "sha256": "e6cb25754e559bbf1333ea648c752c97c65882ca6fa83e471eb972ef97308308"
+ },
+ {
   "path": "indus-lab/run.py",
   "sha256": "56c063e31125f2387111e48963e0c32e55bc5d2bb4ad28fc698b42754a767efa"
  },
