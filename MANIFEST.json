@@ -2820,6 +2820,14 @@
   "sha256": "199aacae3099f505dca69e76f27907ea6984fcd390ba36b937a9c40bd93c6995"
  },
  {
+  "path": "indus-lab/round60/PROTOCOL.md",
+  "sha256": "4588f85e059706efa3916b043ba73bfff073b75c157c1bc76e138bdb8102bcb6"
+ },
+ {
+  "path": "indus-lab/round60/run60.py",
+  "sha256": "7ea524af15f54ff544c6ea2432e0efbe96b850cde126c3e85913c589bb7fbabc"
+ },
+ {
   "path": "indus-lab/run.py",
   "sha256": "56c063e31125f2387111e48963e0c32e55bc5d2bb4ad28fc698b42754a767efa"
  },
