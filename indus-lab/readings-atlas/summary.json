@@ -1,0 +1,11 @@
+{
+ "records": 4543,
+ "fully_assigned": 3497,
+ "coverage_real": 0.6902799895095802,
+ "coverage_shuffled_mean": 0.6755507944369741,
+ "coverage_shuffled_sd": 0.02125719615593624,
+ "coverage_shuffled_min": 0.6294535756623306,
+ "coverage_shuffled_max": 0.7160412409462508,
+ "shuffles_at_or_above_real": 4,
+ "dictionary_entries": 134131
+}

@@ -336,6 +336,22 @@
   "sha256": "a1bcc150e91ede5e1c3ce813073d8ac7bfe370d2709be320132a651ba9c7a54c"
  },
  {
+  "path": "indus-lab/readings-atlas/README.md",
+  "sha256": "08cba91158149f440979c05174ce80a74594f05f3a9b62f421bd586e4dccff57"
+ },
+ {
+  "path": "indus-lab/readings-atlas/build_atlas.py",
+  "sha256": "821b956b21d6ae793d0449e672fff7425641535ceddfc8d669a7324fd436b838"
+ },
+ {
+  "path": "indus-lab/readings-atlas/ledger.csv",
+  "sha256": "295660fad83f74cd35936ecc13fc881172b3fe6f19c8e2e35390c371701356fb"
+ },
+ {
+  "path": "indus-lab/readings-atlas/summary.json",
+  "sha256": "914e04c2e5d294009c9ac9bd1071d465a393bde91046bee4e633ff3c06283647"
+ },
+ {
   "path": "indus-lab/requirements.txt",
   "sha256": "8fb6b6cc09e57a551874df2736d01f9d5e4380c1568421465fb55cc6be26454a"
  },
@@ -2817,7 +2833,7 @@
  },
  {
   "path": "reports/LEDGER.md",
-  "sha256": "56e2501c87f12956ae48e35b786fd6a3a16e7e3986da8049a72030640d54aa9b"
+  "sha256": "aa2b330aa8b221ff3ba533b925c49ba329a3865ed6360ebedf2653eb0feefd93"
  },
  {
   "path": "setup/paths.sh",
