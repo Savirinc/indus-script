@@ -1,0 +1,134 @@
+{"lang": "G-same", "seed": 65001, "cipher": "decoy", "lexicon_words": 1432, "I": 1.3752, "LL": -4.6775, "best_objective": -17137.5259, "tokens": 1975, "accuracy": 0.0468}
+{"lang": "G-same", "seed": 65001, "cipher": "real", "lexicon_words": 1432, "I": 1.3752, "LL": -3.8343, "best_objective": -15232.2792, "tokens": 1975, "accuracy": 0.8657}
+{"lang": "G-IDS", "seed": 65001, "cipher": "real", "lexicon_words": 1500, "I": 1.1283, "LL": -4.1999, "best_objective": -16320.0587, "tokens": 1975, "accuracy": 0.2616}
+{"lang": "G-mod", "seed": 65001, "cipher": "decoy", "lexicon_words": 1500, "I": 1.1362, "LL": -4.5429, "best_objective": -16917.8508, "tokens": 1975, "accuracy": 0.0015}
+{"lang": "Finnish", "seed": 65001, "cipher": "decoy", "lexicon_words": 1500, "I": 0.894, "LL": -4.1529, "best_objective": -16656.6435, "tokens": 1975, "accuracy": 0.0176}
+{"lang": "Finnish", "seed": 65001, "cipher": "real", "lexicon_words": 1500, "I": 0.894, "LL": -4.1562, "best_objective": -16341.02, "tokens": 1975, "accuracy": 0.0}
+{"lang": "G-mod", "seed": 65001, "cipher": "real", "lexicon_words": 1500, "I": 1.1362, "LL": -4.2557, "best_objective": -16387.9831, "tokens": 1975, "accuracy": 0.0181}
+{"lang": "G-IDS", "seed": 65001, "cipher": "decoy", "lexicon_words": 1500, "I": 1.1283, "LL": -4.5213, "best_objective": -16972.7552, "tokens": 1975, "accuracy": 0.0191}
+{"lang": "Basque", "seed": 65001, "cipher": "real", "lexicon_words": 1063, "I": 0.768, "LL": -4.1202, "best_objective": -16261.0237, "tokens": 1975, "accuracy": 0.0815}
+{"lang": "Basque", "seed": 65001, "cipher": "decoy", "lexicon_words": 1063, "I": 0.768, "LL": -4.3497, "best_objective": -16782.1604, "tokens": 1975, "accuracy": 0.0161}
+{"lang": "Hungarian", "seed": 65001, "cipher": "real", "lexicon_words": 1112, "I": 1.0305, "LL": -4.5442, "best_objective": -16660.1341, "tokens": 1975, "accuracy": 0.16}
+{"lang": "Hungarian", "seed": 65001, "cipher": "decoy", "lexicon_words": 1112, "I": 1.0305, "LL": -4.832, "best_objective": -17184.2465, "tokens": 1975, "accuracy": 0.0}
+{"lang": "Hawaiian", "seed": 65001, "cipher": "decoy", "lexicon_words": 1279, "I": 0.486, "LL": -3.706, "best_objective": -16448.812, "tokens": 1975, "accuracy": 0.0}
+{"lang": "Hawaiian", "seed": 65001, "cipher": "real", "lexicon_words": 1279, "I": 0.486, "LL": -3.639, "best_objective": -16154.1414, "tokens": 1975, "accuracy": 0.0}
+{"lang": "Maori", "seed": 65001, "cipher": "decoy", "lexicon_words": 1329, "I": 0.6211, "LL": -3.807, "best_objective": -16487.9814, "tokens": 1975, "accuracy": 0.0412}
+{"lang": "Maori", "seed": 65001, "cipher": "real", "lexicon_words": 1329, "I": 0.6211, "LL": -3.6826, "best_objective": -16106.0236, "tokens": 1975, "accuracy": 0.0262}
+{"lang": "Spanish", "seed": 65001, "cipher": "real", "lexicon_words": 1500, "I": 1.108, "LL": -4.3694, "best_objective": -16416.3672, "tokens": 1975, "accuracy": 0.0262}
+{"lang": "Spanish", "seed": 65001, "cipher": "decoy", "lexicon_words": 1500, "I": 1.108, "LL": -4.6515, "best_objective": -16936.3945, "tokens": 1975, "accuracy": 0.0}
+{"lang": "Latin", "seed": 65001, "cipher": "real", "lexicon_words": 1500, "I": 1.0239, "LL": -4.2269, "best_objective": -16260.0847, "tokens": 1975, "accuracy": 0.0282}
+{"lang": "Latin", "seed": 65001, "cipher": "decoy", "lexicon_words": 1500, "I": 1.0239, "LL": -4.6249, "best_objective": -16935.4059, "tokens": 1975, "accuracy": 0.0}
+{"lang": "Sanskrit", "seed": 65001, "cipher": "real", "lexicon_words": 1407, "I": 0.8451, "LL": -3.7256, "best_objective": -16175.2948, "tokens": 1975, "accuracy": 0.0448}
+{"lang": "Persian", "seed": 65001, "cipher": "real", "lexicon_words": 865, "I": 0.5027, "LL": -4.3133, "best_objective": -16364.6613, "tokens": 1975, "accuracy": 0.0669}
+{"lang": "Sanskrit", "seed": 65001, "cipher": "decoy", "lexicon_words": 1407, "I": 0.8451, "LL": -3.7947, "best_objective": -16616.5986, "tokens": 1975, "accuracy": 0.0}
+{"lang": "Persian", "seed": 65001, "cipher": "decoy", "lexicon_words": 865, "I": 0.5027, "LL": -4.592, "best_objective": -16881.8734, "tokens": 1975, "accuracy": 0.0252}
+{"lang": "G-same", "seed": 65002, "cipher": "real", "lexicon_words": 1432, "I": 1.3752, "LL": -3.8446, "best_objective": -15329.4283, "tokens": 1980, "accuracy": 0.8639}
+{"lang": "G-same", "seed": 65002, "cipher": "decoy", "lexicon_words": 1432, "I": 1.3752, "LL": -4.6504, "best_objective": -17199.9839, "tokens": 1980, "accuracy": 0.0938}
+{"lang": "G-IDS", "seed": 65002, "cipher": "real", "lexicon_words": 1500, "I": 1.1283, "LL": -4.1128, "best_objective": -16328.3156, "tokens": 1980, "accuracy": 0.1366}
+{"lang": "Finnish", "seed": 65002, "cipher": "real", "lexicon_words": 1500, "I": 0.894, "LL": -4.0669, "best_objective": -16303.4877, "tokens": 1980, "accuracy": 0.0}
+{"lang": "G-IDS", "seed": 65002, "cipher": "decoy", "lexicon_words": 1500, "I": 1.1283, "LL": -4.4436, "best_objective": -16968.0171, "tokens": 1980, "accuracy": 0.0202}
+{"lang": "G-mod", "seed": 65002, "cipher": "real", "lexicon_words": 1500, "I": 1.1362, "LL": -4.2126, "best_objective": -16372.2478, "tokens": 1980, "accuracy": 0.062}
+{"lang": "G-mod", "seed": 65002, "cipher": "decoy", "lexicon_words": 1500, "I": 1.1362, "LL": -4.5033, "best_objective": -17029.2872, "tokens": 1980, "accuracy": 0.0151}
+{"lang": "Finnish", "seed": 65002, "cipher": "decoy", "lexicon_words": 1500, "I": 0.894, "LL": -4.2091, "best_objective": -16745.8123, "tokens": 1980, "accuracy": 0.0202}
+{"lang": "Basque", "seed": 65002, "cipher": "real", "lexicon_words": 1063, "I": 0.768, "LL": -4.2082, "best_objective": -16351.9585, "tokens": 1980, "accuracy": 0.0176}
+{"lang": "Basque", "seed": 65002, "cipher": "decoy", "lexicon_words": 1063, "I": 0.768, "LL": -4.3931, "best_objective": -16751.3238, "tokens": 1980, "accuracy": 0.0}
+{"lang": "Hungarian", "seed": 65002, "cipher": "real", "lexicon_words": 1112, "I": 1.0305, "LL": -4.6224, "best_objective": -16664.4567, "tokens": 1980, "accuracy": 0.0131}
+{"lang": "Hawaiian", "seed": 65002, "cipher": "decoy", "lexicon_words": 1279, "I": 0.486, "LL": -3.6918, "best_objective": -16500.324, "tokens": 1980, "accuracy": 0.0519}
+{"lang": "Maori", "seed": 65002, "cipher": "real", "lexicon_words": 1329, "I": 0.6211, "LL": -3.7128, "best_objective": -16060.917, "tokens": 1980, "accuracy": 0.0237}
+{"lang": "Hawaiian", "seed": 65002, "cipher": "real", "lexicon_words": 1279, "I": 0.486, "LL": -3.5951, "best_objective": -16126.547, "tokens": 1980, "accuracy": 0.0131}
+{"lang": "Hungarian", "seed": 65002, "cipher": "decoy", "lexicon_words": 1112, "I": 1.0305, "LL": -4.8604, "best_objective": -17194.9493, "tokens": 1980, "accuracy": 0.0333}
+{"lang": "Maori", "seed": 65002, "cipher": "decoy", "lexicon_words": 1329, "I": 0.6211, "LL": -3.8556, "best_objective": -16564.5392, "tokens": 1980, "accuracy": 0.0736}
+{"lang": "Spanish", "seed": 65002, "cipher": "decoy", "lexicon_words": 1500, "I": 1.108, "LL": -4.504, "best_objective": -16942.7912, "tokens": 1980, "accuracy": 0.0237}
+{"lang": "Spanish", "seed": 65002, "cipher": "real", "lexicon_words": 1500, "I": 1.108, "LL": -4.3108, "best_objective": -16404.5019, "tokens": 1980, "accuracy": 0.1341}
+{"lang": "Latin", "seed": 65002, "cipher": "real", "lexicon_words": 1500, "I": 1.0239, "LL": -4.2806, "best_objective": -16272.8929, "tokens": 1980, "accuracy": 0.0418}
+{"lang": "Latin", "seed": 65002, "cipher": "decoy", "lexicon_words": 1500, "I": 1.0239, "LL": -4.5515, "best_objective": -16974.4313, "tokens": 1980, "accuracy": 0.005}
+{"lang": "Persian", "seed": 65002, "cipher": "decoy", "lexicon_words": 865, "I": 0.5027, "LL": -4.5861, "best_objective": -16901.8102, "tokens": 1980, "accuracy": 0.0126}
+{"lang": "Sanskrit", "seed": 65002, "cipher": "real", "lexicon_words": 1407, "I": 0.8451, "LL": -3.6357, "best_objective": -16125.5945, "tokens": 1980, "accuracy": 0.0922}
+{"lang": "Sanskrit", "seed": 65002, "cipher": "decoy", "lexicon_words": 1407, "I": 0.8451, "LL": -3.8005, "best_objective": -16632.8605, "tokens": 1980, "accuracy": 0.0202}
+{"lang": "Persian", "seed": 65002, "cipher": "real", "lexicon_words": 865, "I": 0.5027, "LL": -4.3882, "best_objective": -16419.1073, "tokens": 1980, "accuracy": 0.0857}
+{"lang": "G-same", "seed": 65003, "cipher": "real", "lexicon_words": 1432, "I": 1.3752, "LL": -3.8113, "best_objective": -15450.36, "tokens": 1992, "accuracy": 0.8237}
+{"lang": "G-same", "seed": 65003, "cipher": "decoy", "lexicon_words": 1432, "I": 1.3752, "LL": -4.6316, "best_objective": -17338.8601, "tokens": 1992, "accuracy": 0.017}
+{"lang": "G-IDS", "seed": 65003, "cipher": "real", "lexicon_words": 1500, "I": 1.1283, "LL": -4.0939, "best_objective": -16398.0368, "tokens": 1992, "accuracy": 0.1224}
+{"lang": "G-mod", "seed": 65003, "cipher": "real", "lexicon_words": 1500, "I": 1.1362, "LL": -4.222, "best_objective": -16405.2155, "tokens": 1992, "accuracy": 0.1533}
+{"lang": "G-mod", "seed": 65003, "cipher": "decoy", "lexicon_words": 1500, "I": 1.1362, "LL": -4.4885, "best_objective": -17126.6042, "tokens": 1992, "accuracy": 0.0634}
+{"lang": "G-IDS", "seed": 65003, "cipher": "decoy", "lexicon_words": 1500, "I": 1.1283, "LL": -4.5477, "best_objective": -17112.4655, "tokens": 1992, "accuracy": 0.014}
+{"lang": "Finnish", "seed": 65003, "cipher": "decoy", "lexicon_words": 1500, "I": 0.894, "LL": -4.1789, "best_objective": -16831.1761, "tokens": 1992, "accuracy": 0.003}
+{"lang": "Finnish", "seed": 65003, "cipher": "real", "lexicon_words": 1500, "I": 0.894, "LL": -3.9471, "best_objective": -16444.4156, "tokens": 1992, "accuracy": 0.01}
+{"lang": "Basque", "seed": 65003, "cipher": "real", "lexicon_words": 1063, "I": 0.768, "LL": -4.1452, "best_objective": -16399.4857, "tokens": 1992, "accuracy": 0.0165}
+{"lang": "Basque", "seed": 65003, "cipher": "decoy", "lexicon_words": 1063, "I": 0.768, "LL": -4.3534, "best_objective": -16915.5269, "tokens": 1992, "accuracy": 0.027}
+{"lang": "Hungarian", "seed": 65003, "cipher": "real", "lexicon_words": 1112, "I": 1.0305, "LL": -4.4476, "best_objective": -16704.1059, "tokens": 1992, "accuracy": 0.03}
+{"lang": "Hawaiian", "seed": 65003, "cipher": "decoy", "lexicon_words": 1279, "I": 0.486, "LL": -3.6937, "best_objective": -16574.4675, "tokens": 1992, "accuracy": 0.017}
+{"lang": "Hungarian", "seed": 65003, "cipher": "decoy", "lexicon_words": 1112, "I": 1.0305, "LL": -4.7787, "best_objective": -17344.8007, "tokens": 1992, "accuracy": 0.0175}
+{"lang": "Hawaiian", "seed": 65003, "cipher": "real", "lexicon_words": 1279, "I": 0.486, "LL": -3.6137, "best_objective": -16260.6686, "tokens": 1992, "accuracy": 0.0}
+{"lang": "Maori", "seed": 65003, "cipher": "real", "lexicon_words": 1329, "I": 0.6211, "LL": -3.6674, "best_objective": -16242.2313, "tokens": 1992, "accuracy": 0.014}
+{"lang": "Maori", "seed": 65003, "cipher": "decoy", "lexicon_words": 1329, "I": 0.6211, "LL": -3.7936, "best_objective": -16655.718, "tokens": 1992, "accuracy": 0.1004}
+{"lang": "Spanish", "seed": 65003, "cipher": "real", "lexicon_words": 1500, "I": 1.108, "LL": -4.2713, "best_objective": -16511.2158, "tokens": 1992, "accuracy": 0.0674}
+{"lang": "Spanish", "seed": 65003, "cipher": "decoy", "lexicon_words": 1500, "I": 1.108, "LL": -4.6309, "best_objective": -17078.2689, "tokens": 1992, "accuracy": 0.0564}
+{"lang": "Latin", "seed": 65003, "cipher": "real", "lexicon_words": 1500, "I": 1.0239, "LL": -4.1702, "best_objective": -16311.0044, "tokens": 1992, "accuracy": 0.0}
+{"lang": "Latin", "seed": 65003, "cipher": "decoy", "lexicon_words": 1500, "I": 1.0239, "LL": -4.5128, "best_objective": -17066.6, "tokens": 1992, "accuracy": 0.0225}
+{"lang": "Sanskrit", "seed": 65003, "cipher": "decoy", "lexicon_words": 1407, "I": 0.8451, "LL": -3.7948, "best_objective": -16711.4166, "tokens": 1992, "accuracy": 0.0435}
+{"lang": "Sanskrit", "seed": 65003, "cipher": "real", "lexicon_words": 1407, "I": 0.8451, "LL": -3.5888, "best_objective": -16238.2624, "tokens": 1992, "accuracy": 0.1209}
+{"lang": "Persian", "seed": 65003, "cipher": "real", "lexicon_words": 865, "I": 0.5027, "LL": -4.4032, "best_objective": -16501.1295, "tokens": 1992, "accuracy": 0.0654}
+{"lang": "Persian", "seed": 65003, "cipher": "decoy", "lexicon_words": 865, "I": 0.5027, "LL": -4.4987, "best_objective": -17036.0928, "tokens": 1992, "accuracy": 0.0}
+{"lang": "G-same", "seed": 65004, "cipher": "real", "lexicon_words": 1432, "I": 1.3752, "LL": -3.8367, "best_objective": -15367.4727, "tokens": 1990, "accuracy": 0.8553}
+{"lang": "G-same", "seed": 65004, "cipher": "decoy", "lexicon_words": 1432, "I": 1.3752, "LL": -4.6674, "best_objective": -17302.0426, "tokens": 1990, "accuracy": 0.0396}
+{"lang": "G-IDS", "seed": 65004, "cipher": "real", "lexicon_words": 1500, "I": 1.1283, "LL": -4.1486, "best_objective": -16427.5823, "tokens": 1990, "accuracy": 0.0265}
+{"lang": "G-IDS", "seed": 65004, "cipher": "decoy", "lexicon_words": 1500, "I": 1.1283, "LL": -4.4619, "best_objective": -17095.1213, "tokens": 1990, "accuracy": 0.0541}
+{"lang": "G-mod", "seed": 65004, "cipher": "real", "lexicon_words": 1500, "I": 1.1362, "LL": -4.1371, "best_objective": -16382.0392, "tokens": 1990, "accuracy": 0.1397}
+{"lang": "G-mod", "seed": 65004, "cipher": "decoy", "lexicon_words": 1500, "I": 1.1362, "LL": -4.503, "best_objective": -17098.4755, "tokens": 1990, "accuracy": 0.0}
+{"lang": "Finnish", "seed": 65004, "cipher": "real", "lexicon_words": 1500, "I": 0.894, "LL": -4.017, "best_objective": -16410.5086, "tokens": 1990, "accuracy": 0.0876}
+{"lang": "Finnish", "seed": 65004, "cipher": "decoy", "lexicon_words": 1500, "I": 0.894, "LL": -4.2474, "best_objective": -16827.5009, "tokens": 1990, "accuracy": 0.0546}
+{"lang": "Basque", "seed": 65004, "cipher": "real", "lexicon_words": 1063, "I": 0.768, "LL": -4.187, "best_objective": -16482.7472, "tokens": 1990, "accuracy": 0.004}
+{"lang": "Basque", "seed": 65004, "cipher": "decoy", "lexicon_words": 1063, "I": 0.768, "LL": -4.3977, "best_objective": -16887.9872, "tokens": 1990, "accuracy": 0.0336}
+{"lang": "Hungarian", "seed": 65004, "cipher": "real", "lexicon_words": 1112, "I": 1.0305, "LL": -4.5475, "best_objective": -16760.2411, "tokens": 1990, "accuracy": 0.0125}
+{"lang": "Hawaiian", "seed": 65004, "cipher": "real", "lexicon_words": 1279, "I": 0.486, "LL": -3.6058, "best_objective": -16245.2942, "tokens": 1990, "accuracy": 0.0541}
+{"lang": "Hungarian", "seed": 65004, "cipher": "decoy", "lexicon_words": 1112, "I": 1.0305, "LL": -4.7414, "best_objective": -17268.5066, "tokens": 1990, "accuracy": 0.0}
+{"lang": "Maori", "seed": 65004, "cipher": "real", "lexicon_words": 1329, "I": 0.6211, "LL": -3.6686, "best_objective": -16242.4842, "tokens": 1990, "accuracy": 0.0115}
+{"lang": "Hawaiian", "seed": 65004, "cipher": "decoy", "lexicon_words": 1279, "I": 0.486, "LL": -3.7549, "best_objective": -16534.9543, "tokens": 1990, "accuracy": 0.0606}
+{"lang": "Maori", "seed": 65004, "cipher": "decoy", "lexicon_words": 1329, "I": 0.6211, "LL": -3.8547, "best_objective": -16609.9385, "tokens": 1990, "accuracy": 0.0}
+{"lang": "Spanish", "seed": 65004, "cipher": "decoy", "lexicon_words": 1500, "I": 1.108, "LL": -4.6794, "best_objective": -17055.2661, "tokens": 1990, "accuracy": 0.0746}
+{"lang": "Spanish", "seed": 65004, "cipher": "real", "lexicon_words": 1500, "I": 1.108, "LL": -4.3569, "best_objective": -16492.6903, "tokens": 1990, "accuracy": 0.1287}
+{"lang": "Latin", "seed": 65004, "cipher": "real", "lexicon_words": 1500, "I": 1.0239, "LL": -4.2013, "best_objective": -16403.6424, "tokens": 1990, "accuracy": 0.0371}
+{"lang": "Sanskrit", "seed": 65004, "cipher": "real", "lexicon_words": 1407, "I": 0.8451, "LL": -3.6272, "best_objective": -16249.4878, "tokens": 1990, "accuracy": 0.0916}
+{"lang": "Latin", "seed": 65004, "cipher": "decoy", "lexicon_words": 1500, "I": 1.0239, "LL": -4.4791, "best_objective": -16990.1553, "tokens": 1990, "accuracy": 0.0255}
+{"lang": "Sanskrit", "seed": 65004, "cipher": "decoy", "lexicon_words": 1407, "I": 0.8451, "LL": -3.7598, "best_objective": -16728.2616, "tokens": 1990, "accuracy": 0.0165}
+{"lang": "Persian", "seed": 65004, "cipher": "real", "lexicon_words": 865, "I": 0.5027, "LL": -4.4208, "best_objective": -16591.2917, "tokens": 1990, "accuracy": 0.0776}
+{"lang": "Persian", "seed": 65004, "cipher": "decoy", "lexicon_words": 865, "I": 0.5027, "LL": -4.6168, "best_objective": -16990.2876, "tokens": 1990, "accuracy": 0.0235}
+{"lang": "G-same", "seed": 65005, "cipher": "real", "lexicon_words": 1432, "I": 1.3752, "LL": -3.8319, "best_objective": -15604.7856, "tokens": 2013, "accuracy": 0.8351}
+{"lang": "G-same", "seed": 65005, "cipher": "decoy", "lexicon_words": 1432, "I": 1.3752, "LL": -4.6149, "best_objective": -17477.6368, "tokens": 2013, "accuracy": 0.0554}
+{"lang": "G-IDS", "seed": 65005, "cipher": "real", "lexicon_words": 1500, "I": 1.1283, "LL": -4.0758, "best_objective": -16596.8247, "tokens": 2013, "accuracy": 0.045}
+{"lang": "G-IDS", "seed": 65005, "cipher": "decoy", "lexicon_words": 1500, "I": 1.1283, "LL": -4.442, "best_objective": -17252.9684, "tokens": 2013, "accuracy": 0.0272}
+{"lang": "G-mod", "seed": 65005, "cipher": "real", "lexicon_words": 1500, "I": 1.1362, "LL": -4.2143, "best_objective": -16632.5917, "tokens": 2013, "accuracy": 0.1515}
+{"lang": "Finnish", "seed": 65005, "cipher": "decoy", "lexicon_words": 1500, "I": 0.894, "LL": -4.1406, "best_objective": -17029.7277, "tokens": 2013, "accuracy": 0.0124}
+{"lang": "Finnish", "seed": 65005, "cipher": "real", "lexicon_words": 1500, "I": 0.894, "LL": -4.0475, "best_objective": -16702.2324, "tokens": 2013, "accuracy": 0.0}
+{"lang": "G-mod", "seed": 65005, "cipher": "decoy", "lexicon_words": 1500, "I": 1.1362, "LL": -4.4235, "best_objective": -17332.6805, "tokens": 2013, "accuracy": 0.0}
+{"lang": "Basque", "seed": 65005, "cipher": "real", "lexicon_words": 1063, "I": 0.768, "LL": -4.1912, "best_objective": -16643.7505, "tokens": 2013, "accuracy": 0.0262}
+{"lang": "Basque", "seed": 65005, "cipher": "decoy", "lexicon_words": 1063, "I": 0.768, "LL": -4.3752, "best_objective": -17110.7991, "tokens": 2013, "accuracy": 0.0}
+{"lang": "Hungarian", "seed": 65005, "cipher": "real", "lexicon_words": 1112, "I": 1.0305, "LL": -4.5467, "best_objective": -16926.9716, "tokens": 2013, "accuracy": 0.0955}
+{"lang": "Hungarian", "seed": 65005, "cipher": "decoy", "lexicon_words": 1112, "I": 1.0305, "LL": -4.672, "best_objective": -17444.0629, "tokens": 2013, "accuracy": 0.0342}
+{"lang": "Hawaiian", "seed": 65005, "cipher": "real", "lexicon_words": 1279, "I": 0.486, "LL": -3.5558, "best_objective": -16445.1999, "tokens": 2013, "accuracy": 0.0}
+{"lang": "Maori", "seed": 65005, "cipher": "real", "lexicon_words": 1329, "I": 0.6211, "LL": -3.6369, "best_objective": -16413.1695, "tokens": 2013, "accuracy": 0.0}
+{"lang": "Hawaiian", "seed": 65005, "cipher": "decoy", "lexicon_words": 1279, "I": 0.486, "LL": -3.6808, "best_objective": -16755.3422, "tokens": 2013, "accuracy": 0.0416}
+{"lang": "Maori", "seed": 65005, "cipher": "decoy", "lexicon_words": 1329, "I": 0.6211, "LL": -3.7128, "best_objective": -16761.8991, "tokens": 2013, "accuracy": 0.0416}
+{"lang": "Spanish", "seed": 65005, "cipher": "real", "lexicon_words": 1500, "I": 1.108, "LL": -4.3202, "best_objective": -16675.7117, "tokens": 2013, "accuracy": 0.1663}
+{"lang": "Spanish", "seed": 65005, "cipher": "decoy", "lexicon_words": 1500, "I": 1.108, "LL": -4.4883, "best_objective": -17239.6473, "tokens": 2013, "accuracy": 0.0}
+{"lang": "Latin", "seed": 65005, "cipher": "real", "lexicon_words": 1500, "I": 1.0239, "LL": -4.2151, "best_objective": -16574.5256, "tokens": 2013, "accuracy": 0.0609}
+{"lang": "Latin", "seed": 65005, "cipher": "decoy", "lexicon_words": 1500, "I": 1.0239, "LL": -4.576, "best_objective": -17278.2495, "tokens": 2013, "accuracy": 0.0802}
+{"lang": "Sanskrit", "seed": 65005, "cipher": "real", "lexicon_words": 1407, "I": 0.8451, "LL": -3.5033, "best_objective": -16420.7866, "tokens": 2013, "accuracy": 0.0911}
+{"lang": "Sanskrit", "seed": 65005, "cipher": "decoy", "lexicon_words": 1407, "I": 0.8451, "LL": -3.7663, "best_objective": -16931.3037, "tokens": 2013, "accuracy": 0.0}
+{"lang": "Persian", "seed": 65005, "cipher": "real", "lexicon_words": 865, "I": 0.5027, "LL": -4.2549, "best_objective": -16720.3439, "tokens": 2013, "accuracy": 0.0416}
+{"lang": "Persian", "seed": 65005, "cipher": "decoy", "lexicon_words": 865, "I": 0.5027, "LL": -4.5438, "best_objective": -17233.2883, "tokens": 2013, "accuracy": 0.0896}
+POSITIVE 0.855 True | G-IDS first 1 / 5 | G-same first 4 / 5
+G-same     I 1.375 R med 0.596 [np.float64(0.613), np.float64(0.586), np.float64(0.596), np.float64(0.604), np.float64(0.569)]
+G-IDS      I 1.128 R med 0.293 [np.float64(0.285), np.float64(0.293), np.float64(0.402), np.float64(0.278), np.float64(0.325)]
+G-mod      I 1.136 R med 0.253 [np.float64(0.253), np.float64(0.256), np.float64(0.235), np.float64(0.322), np.float64(0.184)]
+Finnish    I 0.894 R med 0.159 [np.float64(-0.004), np.float64(0.159), np.float64(0.259), np.float64(0.258), np.float64(0.104)]
+Basque     I 0.768 R med 0.271 [np.float64(0.299), np.float64(0.241), np.float64(0.271), np.float64(0.274), np.float64(0.24)]
+Hungarian  I 1.030 R med 0.231 [np.float64(0.279), np.float64(0.231), np.float64(0.321), np.float64(0.188), np.float64(0.122)]
+Hawaiian   I 0.486 R med 0.199 [np.float64(0.138), np.float64(0.199), np.float64(0.165), np.float64(0.307), np.float64(0.257)]
+Maori      I 0.621 R med 0.203 [np.float64(0.2), np.float64(0.23), np.float64(0.203), np.float64(0.3), np.float64(0.122)]
+Spanish    I 1.108 R med 0.255 [np.float64(0.255), np.float64(0.174), np.float64(0.325), np.float64(0.291), np.float64(0.152)]
+Latin      I 1.024 R med 0.335 [np.float64(0.389), np.float64(0.265), np.float64(0.335), np.float64(0.271), np.float64(0.352)]
+Sanskrit   I 0.845 R med 0.195 [np.float64(0.082), np.float64(0.195), np.float64(0.244), np.float64(0.157), np.float64(0.311)]
+Persian    I 0.503 R med 0.394 [np.float64(0.554), np.float64(0.394), np.float64(0.19), np.float64(0.39), np.float64(0.575)]
+VERDICT ONLY WITH THE TEXT'S OWN WORDS

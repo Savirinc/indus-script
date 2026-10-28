@@ -10,8 +10,8 @@ authors:
 repository-code: "https://github.com/Savirinc/indus-script"
 url: "https://github.com/Savirinc/indus-script"
 license: MIT
-version: "0.64.1"
-date-released: "2026-10-24"
+version: "0.65.0"
+date-released: "2026-10-28"
 abstract: >
   Fifty-five pre-registered rounds (numbered to 57) testing proposed readings of the Indus script against
   structure-preserving shuffle nulls, impossible-language controls and a Linear B positive
