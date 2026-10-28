@@ -140,7 +140,7 @@ def main():
                indus=dict(tokens=INDUS_TOKENS, raw_signs=INDUS_RAW, raw_tps=raw, merged_signs=INDUS_MERGED, merged_tps=merged, share_le2=302 / 582),
                positive_control=dict(median=med(pos), passed=pos_ok), negative_control=dict(median=med(neg), passed=neg_ok),
                thresholds=th, robustness=robustness, verdict=verdict, at_threshold=near, runs=out)
-    (P / 'results.json').write_text(json.dumps(res, indent=1))
+    (P / 'results.json').write_text(json.dumps(res, indent=1, default=lambda o: o.item()))  # amendment 1: numpy scalars
     print('POSITIVE', round(med(pos), 3), pos_ok, '| NEGATIVE', round(med(neg), 3), neg_ok)
     for rg in ('R1', 'R2'):
         print(rg, 't*', th[rg]['t_star'], 'N*', th[rg]['N_star'], [(l['target'], round(l['tokens_per_sign'], 1), round(l['median_600k'], 3)) for l in th[rg]['levels']])

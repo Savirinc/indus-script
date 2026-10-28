@@ -104,3 +104,6 @@ If a regime never reaches 0.50, even at target 120, it is reported as **no thres
 - updates to the CLAUDE.md round list, the README tables and CITATION.cff (version 0.63.0).
 
 Expected compute: about 155 runs at 18–75 s each, in 4 parallel processes, about 40 minutes.
+
+## Amendment 1 (28 October 2026, before any result was read)
+The first full run (log kept as `run63_attempt1.log`) completed every fit but crashed on writing `results.json`: numpy booleans are not JSON-serialisable. The only result seen was the traceback. Fix: `json.dumps(..., default=lambda o: o.item())` on that one line; nothing else in the script changed. New `run63.py` sha256 e3170197ca6400b8b0889f803e0e475216eec16f2c7828e38b930ef31420a917 (was 32d480e8…5d3b). All runs are seeded, so the rerun must reproduce the per-run lines of attempt 1 exactly; this is checked and reported.
