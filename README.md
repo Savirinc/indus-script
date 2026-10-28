@@ -1,6 +1,6 @@
 # indus-script — a pre-registered test bench for Indus script decipherment claims
 
-**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 64 rounds (56 reserved; 61 locked, 62 offered)**
+**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 64 rounds (56 reserved, 62 offered)**
 
 > **Status, 19 October 2026: no Indus sign has an established sound or meaning in this project, and none is claimed. Every published key that can be tested on the corpus reads no better than a random re-assignment of its own values. The structural results that survive controls are listed below. The methods, data pins and failed tests are all here.**
 
@@ -43,7 +43,7 @@ The working rules, in force since round 29 and written into [`CLAUDE.md`](CLAUDE
 | Rao 1982, Indo-Aryan key, 56 signs transcribed from his book | 49 | **NULL.** Sanskrit z −0.70; Finnish z 2.06. |
 | Parpola 1994 (27 signs), Kak 1988 (7), Mahadevan 2014 (5) | 49 | **Not testable** on this corpus: too little coverage or too few signs; the Linear B control fails at their coverage. |
 | Dravidian rebus anchors predicting held-out texts (p ≈ 0.06) | 41–45 | **ARTEFACT.** Finnish anchors did better (p = 0.016). |
-| Indus signs "look like" Brahmi letters | 48 | **METHOD-FAIL.** Four shape descriptors cannot recover Phoenician → Aramaic or Greek → Gothic from fonts, so look-alike tables are not evidence for or against. Brahmi ranked 20th of 25 scripts descriptively. |
+| Indus signs "look like" Brahmi letters | 48, 61 | **Not closer than random.** Round 48's nearest-neighbour test was METHOD-FAIL. Round 61's paired test, which detects Phoenician → Greek and → Aramaic from 19–22 letter pairs, finds the atlas's 440 sign–letter pairs no closer than the same signs given the same letters at random (p 0.33). A few letters (m, y, b, p) were picked for shape; the 53 signs read t and 40 read a look less like their letters than chance. Fonts, not epigraphic tracings. |
 | Rebus tournament; substrate fingerprint; sound-only matching | 36–38 | Positive controls failed; uninterpretable. |
 | Gulf seals read as attested Dilmun/Meluhha names | 35 | Non-informative: 27 names, fake names match as often as real. |
 | Indus-sign seals impressed on inscribed cuneiform tablets (a near-bilingual) | 50 | **None exist** in any published catalogue (Gadd 1932, Hallo & Buchanan 1965, Collon 1996, full CDLI). The three Gulf-seal impressions on tablets are textless Dilmun types. |

@@ -1,0 +1,12 @@
+[   0.0s] fonts verified 26
+[   1.9s] pool 1061 dropped 0
+[   2.6s] pairs 440 missing indus glyphs 0
+[   2.6s] PC-A1 Phoenician->Greek {'n': 19, 'S_real': 0.06913041062544593, 'perm_mean': 0.08761240256811448, 'perm_sd': 0.004740138443576045, 'p': 0.0001, 'z': -3.899040537036593, 'dropped_pairs': 0}
+[   2.7s] PC-A2 Phoenician->Aramaic {'n': 22, 'S_real': 0.06546157139793056, 'perm_mean': 0.07729969905900916, 'perm_sd': 0.003953693079919543, 'p': 0.0018, 'z': -2.9941949012692466, 'dropped_pairs': 0}
+[   2.7s] NC-A1 Phoenician->LinearA {'n': 22, 'S_real': 0.07454617453295102, 'perm_mean': 0.07380141691167946, 'perm_sd': 0.0033403164823266806, 'p': 0.5833, 'z': 0.22296019709869033, 'dropped_pairs': 0}
+[   2.8s] NC-A2 Phoenician->OldHungarian {'n': 22, 'S_real': 0.07874797062538608, 'perm_mean': 0.07555440955541685, 'perm_sd': 0.0035958635879123316, 'p': 0.8081, 'z': 0.8881207509385316, 'dropped_pairs': 0}
+[   3.2s] Part A {'n': 440, 'S_real': 0.08242363626922504, 'perm_mean': 0.08287959360269082, 'perm_sd': 0.0010178776039363366, 'p': 0.3326, 'z': -0.4479490772785425} NOT CLOSER THAN RANDOM
+[  10.0s] Part B atlas cost 36.26639995845902 Brahmi rank 19
+[  10.3s] B-control Greek False 1.3134778018834727 0.8598344827395832
+[  10.6s] B-control Aramaic False 1.4401545707544723 1.0412202258105507
+[  10.6s] VERDICT A: NOT CLOSER THAN RANDOM | B: METHOD-FAIL

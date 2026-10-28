@@ -1,0 +1,393 @@
+{
+ "protocol_sha256": "b843e64ee8f947b65378b0889eff195cd9d00660628109b02d7d4b8e4b4922dc",
+ "fonts_verified": [
+  "NotoSansBrahmi-Regular.ttf",
+  "NotoSansCarian-Regular.ttf",
+  "NotoSansCyproMinoan-Regular.ttf",
+  "NotoSansElbasan-Regular.ttf",
+  "NotoSansGlagolitic-Regular.ttf",
+  "NotoSansGothic-Regular.ttf",
+  "NotoSansImperialAramaic-Regular.ttf",
+  "NotoSansKharoshthi-Regular.ttf",
+  "NotoSansLinearA-Regular.ttf",
+  "NotoSansLycian-Regular.ttf",
+  "NotoSansLydian-Regular.ttf",
+  "NotoSansMeroitic-Regular.ttf",
+  "NotoSansNKo-Regular.ttf",
+  "NotoSansOldHungarian-Regular.ttf",
+  "NotoSansOldItalic-Regular.ttf",
+  "NotoSansOldNorthArabian-Regular.ttf",
+  "NotoSansOldPermic-Regular.ttf",
+  "NotoSansOldSouthArabian-Regular.ttf",
+  "NotoSansOldTurkic-Regular.ttf",
+  "NotoSansOsage-Regular.ttf",
+  "NotoSansPhoenician-Regular.ttf",
+  "NotoSansRunic-Regular.ttf",
+  "NotoSansSamaritan-Regular.ttf",
+  "NotoSansTifinagh-Regular.ttf",
+  "NotoSans[wdth,wght].ttf",
+  "indus-font.ttf"
+ ],
+ "n_pairs": 440,
+ "missing_indus_glyphs": [],
+ "pool_size": 1061,
+ "pool_dropped": [],
+ "controls_A": {
+  "PC-A1 Phoenician->Greek": {
+   "n": 19,
+   "S_real": 0.06913041062544593,
+   "perm_mean": 0.08761240256811448,
+   "perm_sd": 0.004740138443576045,
+   "p": 0.0001,
+   "z": -3.899040537036593,
+   "dropped_pairs": 0
+  },
+  "PC-A2 Phoenician->Aramaic": {
+   "n": 22,
+   "S_real": 0.06546157139793056,
+   "perm_mean": 0.07729969905900916,
+   "perm_sd": 0.003953693079919543,
+   "p": 0.0018,
+   "z": -2.9941949012692466,
+   "dropped_pairs": 0
+  },
+  "NC-A1 Phoenician->LinearA": {
+   "n": 22,
+   "S_real": 0.07454617453295102,
+   "perm_mean": 0.07380141691167946,
+   "perm_sd": 0.0033403164823266806,
+   "p": 0.5833,
+   "z": 0.22296019709869033,
+   "dropped_pairs": 0
+  },
+  "NC-A2 Phoenician->OldHungarian": {
+   "n": 22,
+   "S_real": 0.07874797062538608,
+   "perm_mean": 0.07555440955541685,
+   "perm_sd": 0.0035958635879123316,
+   "p": 0.8081,
+   "z": 0.8881207509385316,
+   "dropped_pairs": 0
+  }
+ },
+ "part_A_controls_pass": true,
+ "part_A": {
+  "n": 440,
+  "S_real": 0.08242363626922504,
+  "perm_mean": 0.08287959360269082,
+  "perm_sd": 0.0010178776039363366,
+  "p": 0.3326,
+  "z": -0.4479490772785425
+ },
+ "per_letter": {
+  "a": {
+   "n": 40,
+   "mean_paired": 0.08026343019605878,
+   "p": 0.9989
+  },
+  "b": {
+   "n": 13,
+   "mean_paired": 0.10603066713942881,
+   "p": 0.0007
+  },
+  "c": {
+   "n": 7,
+   "mean_paired": 0.059924766308505906,
+   "p": 0.0882
+  },
+  "d": {
+   "n": 32,
+   "mean_paired": 0.07644367326311162,
+   "p": 0.7601
+  },
+  "g": {
+   "n": 1,
+   "mean_paired": 0.06373844988853976,
+   "p": 0.39
+  },
+  "i": {
+   "n": 4,
+   "mean_paired": 0.22998632607961567,
+   "p": 0.3042
+  },
+  "j": {
+   "n": 7,
+   "mean_paired": 0.060949610534745326,
+   "p": 0.4108
+  },
+  "k": {
+   "n": 19,
+   "mean_paired": 0.07475707732288363,
+   "p": 0.4605
+  },
+  "l": {
+   "n": 23,
+   "mean_paired": 0.11071007114141841,
+   "p": 0.2738
+  },
+  "m": {
+   "n": 49,
+   "mean_paired": 0.05693841715638798,
+   "p": 0.0
+  },
+  "n": {
+   "n": 17,
+   "mean_paired": 0.06555735365457167,
+   "p": 0.0487
+  },
+  "p": {
+   "n": 8,
+   "mean_paired": 0.07576352208178684,
+   "p": 0.0084
+  },
+  "r": {
+   "n": 58,
+   "mean_paired": 0.09334387899224172,
+   "p": 0.9309
+  },
+  "s": {
+   "n": 54,
+   "mean_paired": 0.08894014600498847,
+   "p": 0.7802
+  },
+  "t": {
+   "n": 53,
+   "mean_paired": 0.08517450926880936,
+   "p": 0.9998
+  },
+  "u": {
+   "n": 6,
+   "mean_paired": 0.10688047827563174,
+   "p": 0.9149
+  },
+  "v": {
+   "n": 7,
+   "mean_paired": 0.06665682074641746,
+   "p": 0.7102
+  },
+  "y": {
+   "n": 42,
+   "mean_paired": 0.07346042701184073,
+   "p": 0.0002
+  }
+ },
+ "part_A_verdict": "NOT CLOSER THAN RANDOM",
+ "atlas_cost": 36.26639995845902,
+ "part_B": {
+  "Brahmi": {
+   "letters": 47,
+   "opt_mean": 26.43541351249626,
+   "opt_median": 26.325025078906755,
+   "share_le_atlas": 1.0,
+   "rank": 19
+  },
+  "Kharoshthi": {
+   "letters": 37,
+   "opt_mean": 25.512345037576488,
+   "opt_median": 25.46480674582319,
+   "share_le_atlas": 1.0,
+   "rank": 12
+  },
+  "Phoenician": {
+   "letters": 22,
+   "opt_mean": 24.02977356245947,
+   "opt_median": 24.029773562459475,
+   "share_le_atlas": 1.0,
+   "rank": 5
+  },
+  "ImperialAramaic": {
+   "letters": 22,
+   "opt_mean": 27.9423211116824,
+   "opt_median": 27.942321111682393,
+   "share_le_atlas": 1.0,
+   "rank": 25
+  },
+  "Samaritan": {
+   "letters": 22,
+   "opt_mean": 26.557929424324428,
+   "opt_median": 26.55792942432444,
+   "share_le_atlas": 1.0,
+   "rank": 20
+  },
+  "GreekCaps": {
+   "letters": 24,
+   "opt_mean": 27.102388079293497,
+   "opt_median": 27.087538638489626,
+   "share_le_atlas": 1.0,
+   "rank": 22
+  },
+  "OldItalic": {
+   "letters": 32,
+   "opt_mean": 25.994063927587398,
+   "opt_median": 25.91545612285914,
+   "share_le_atlas": 1.0,
+   "rank": 18
+  },
+  "Lycian": {
+   "letters": 29,
+   "opt_mean": 25.129111986724283,
+   "opt_median": 25.079905597364807,
+   "share_le_atlas": 1.0,
+   "rank": 8
+  },
+  "Carian": {
+   "letters": 49,
+   "opt_mean": 25.606491956306698,
+   "opt_median": 25.54990670947278,
+   "share_le_atlas": 1.0,
+   "rank": 13
+  },
+  "Lydian": {
+   "letters": 26,
+   "opt_mean": 25.728445177750764,
+   "opt_median": 25.701945986621006,
+   "share_le_atlas": 1.0,
+   "rank": 15
+  },
+  "OldSouthArabian": {
+   "letters": 29,
+   "opt_mean": 22.88937214341367,
+   "opt_median": 22.796644504836298,
+   "share_le_atlas": 1.0,
+   "rank": 2
+  },
+  "OldNorthArabian": {
+   "letters": 29,
+   "opt_mean": 25.299491702141587,
+   "opt_median": 25.241471218742348,
+   "share_le_atlas": 1.0,
+   "rank": 9
+  },
+  "Gothic": {
+   "letters": 27,
+   "opt_mean": 27.090956621106525,
+   "opt_median": 27.043049264292332,
+   "share_le_atlas": 1.0,
+   "rank": 21
+  },
+  "Runic": {
+   "letters": 75,
+   "opt_mean": 25.362804805851354,
+   "opt_median": 25.33943678992089,
+   "share_le_atlas": 1.0,
+   "rank": 10
+  },
+  "OldTurkic": {
+   "letters": 73,
+   "opt_mean": 25.978724536815097,
+   "opt_median": 25.895372351362305,
+   "share_le_atlas": 1.0,
+   "rank": 17
+  },
+  "OldHungarian": {
+   "letters": 51,
+   "opt_mean": 23.067387094439518,
+   "opt_median": 23.05491759876451,
+   "share_le_atlas": 1.0,
+   "rank": 3
+  },
+  "Glagolitic": {
+   "letters": 47,
+   "opt_mean": 24.750327385902974,
+   "opt_median": 24.669962381744554,
+   "share_le_atlas": 1.0,
+   "rank": 7
+  },
+  "OldPermic": {
+   "letters": 38,
+   "opt_mean": 27.46063551852966,
+   "opt_median": 27.37211692100817,
+   "share_le_atlas": 1.0,
+   "rank": 23
+  },
+  "Elbasan": {
+   "letters": 40,
+   "opt_mean": 27.58383402965808,
+   "opt_median": 27.51249077491476,
+   "share_le_atlas": 1.0,
+   "rank": 24
+  },
+  "Osage": {
+   "letters": 36,
+   "opt_mean": 25.69461290328969,
+   "opt_median": 25.693958536405056,
+   "share_le_atlas": 1.0,
+   "rank": 14
+  },
+  "Tifinagh": {
+   "letters": 56,
+   "opt_mean": 25.883705810374657,
+   "opt_median": 25.843007904221672,
+   "share_le_atlas": 1.0,
+   "rank": 16
+  },
+  "NKo": {
+   "letters": 33,
+   "opt_mean": 25.36543591598237,
+   "opt_median": 25.288905631326614,
+   "share_le_atlas": 1.0,
+   "rank": 11
+  },
+  "MeroiticCursive": {
+   "letters": 24,
+   "opt_mean": 24.490679547555064,
+   "opt_median": 24.436943715384576,
+   "share_le_atlas": 1.0,
+   "rank": 6
+  },
+  "LinearA": {
+   "letters": 96,
+   "opt_mean": 22.80106360865065,
+   "opt_median": 22.73879640859893,
+   "share_le_atlas": 1.0,
+   "rank": 1
+  },
+  "CyproMinoan": {
+   "letters": 97,
+   "opt_mean": 23.692388236778307,
+   "opt_median": 23.626564376500127,
+   "share_le_atlas": 1.0,
+   "rank": 4
+  }
+ },
+ "B_controls": {
+  "Greek": {
+   "groups": 19,
+   "actual": 1.3134778018834727,
+   "unrelated_median_opt": {
+    "CyproMinoan": 0.9844478285892855,
+    "Elbasan": 1.0355600517653265,
+    "Glagolitic": 1.0243940238147413,
+    "LinearA": 0.8834477897302953,
+    "NKo": 0.861524585391805,
+    "OldHungarian": 0.8598344827395832,
+    "OldPermic": 0.94217034330958,
+    "OldTurkic": 0.8747704312780793,
+    "Osage": 0.8959210077792774,
+    "Runic": 0.8914081489140397,
+    "Tifinagh": 0.9988548079615552
+   },
+   "passed": false
+  },
+  "Aramaic": {
+   "groups": 22,
+   "actual": 1.4401545707544723,
+   "unrelated_median_opt": {
+    "CyproMinoan": 1.1729302491110403,
+    "Elbasan": 1.2728646940880077,
+    "Glagolitic": 1.2503310498232358,
+    "LinearA": 1.0725693229749744,
+    "NKo": 1.0412202258105507,
+    "OldHungarian": 1.0476096622475144,
+    "OldPermic": 1.1477022422570542,
+    "OldTurkic": 1.085282905131852,
+    "Osage": 1.109737683877559,
+    "Runic": 1.0799484096091196,
+    "Tifinagh": 1.2951870449188534
+   },
+   "passed": false
+  }
+ },
+ "part_B_controls_pass": false,
+ "part_B_verdict": "METHOD-FAIL"
+}
