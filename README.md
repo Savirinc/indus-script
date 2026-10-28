@@ -28,6 +28,7 @@ The working rules, in force since round 29 and written into [`CLAUDE.md`](CLAUDE
 | The sign order is real: bigram structure transfers between Harappa and Mohenjo-daro | 27, 29 | Structural; says nothing about sound |
 | Gulf round seals from Ur, Bahrain and Luristan are foreign in sign order (percentile 0.916, p < 5e-5) | 30, 31 | Robust to transcription doubts; cannot separate foreign names from pseudo-script |
 | Statistics alone cannot recover sound values at ~15 tokens per sign; about 40 externally anchored signs would be needed | 32 | Linear B benchmark |
+| Even given the right language, the corpus would need ≤ 528 signs if word boundaries were known and ≤ 414 without them; the best defensible sign merge gives 541 | 63b | Linear B ladder, 5 draws per level; optimistic for Indus |
 | The trigram shuffle test recognises the Linear B key at Indus density (z 11.5) and works for partial keys down to ~60% coverage | 47, 49 | The instrument's calibration |
 | The round 39 sound-and-meaning instrument recovers a known donor (Mitanni Indo-Aryan words in cuneiform) from an 11-word sample | 51 | Calibration for loanword tests |
 | Rigvedic foreign vocabulary leans Proto-Dravidian over Munda, below the attribution bar | 39, 40 | About the substrate, not the script |
