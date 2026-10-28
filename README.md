@@ -1,6 +1,6 @@
 # indus-script — a pre-registered test bench for Indus script decipherment claims
 
-**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 63 rounds (56 reserved; 61 locked, 62 offered)**
+**Arham Partap Jain · Savir Platforms · public since 17 October 2026 · 64 rounds (56 reserved; 61 locked, 62 offered)**
 
 > **Status, 19 October 2026: no Indus sign has an established sound or meaning in this project, and none is claimed. Every published key that can be tested on the corpus reads no better than a random re-assignment of its own values. The structural results that survive controls are listed below. The methods, data pins and failed tests are all here.**
 
@@ -29,6 +29,7 @@ The working rules, in force since round 29 and written into [`CLAUDE.md`](CLAUDE
 | Gulf round seals from Ur, Bahrain and Luristan are foreign in sign order (percentile 0.916, p < 5e-5) | 30, 31 | Robust to transcription doubts; cannot separate foreign names from pseudo-script |
 | Statistics alone cannot recover sound values at ~15 tokens per sign; about 40 externally anchored signs would be needed | 32 | Linear B benchmark |
 | Even given the right language, the corpus would need ≤ 528 signs if word boundaries were known and ≤ 414 without them; the best defensible sign merge gives 541 | 63b | Linear B ladder, 5 draws per level; optimistic for Indus |
+| If the script is logosyllabic (frequent sound signs mixed with word signs), its sound signs are crackable at ~29 uses each given the right language; the Indus top 100 signs are used 73 times each, so corpus size does not block that route | 64 | Linear B made logosyllabic at the Indus word-sign share; kind assumptions stated |
 | The trigram shuffle test recognises the Linear B key at Indus density (z 11.5) and works for partial keys down to ~60% coverage | 47, 49 | The instrument's calibration |
 | The round 39 sound-and-meaning instrument recovers a known donor (Mitanni Indo-Aryan words in cuneiform) from an 11-word sample | 51 | Calibration for loanword tests |
 | Rigvedic foreign vocabulary leans Proto-Dravidian over Munda, below the attribution bar | 39, 40 | About the substrate, not the script |
