@@ -82,3 +82,11 @@ Interpretation fixed now:
 
 ## Outputs
 `run61.py`, `pairs.tsv`, `results.json`, `run61.log`, `REPORT.md`; a STATUS row; a ledger fact (no factor). No glyph images are committed.
+
+## Amendment 1 (28 October 2026, before run61.py existed and before any distance was computed)
+Implementation details the protocol left open, fixed now:
+- **Part B seeds:** script k (0-based, in round 48 `SCRIPTS` order) uses `default_rng(61101 + k)` for its 200 draws of 22 letters. The B-control uses `default_rng(61201 + k)` for the Greek comparison (19 Phoenician groups) and `default_rng(61301 + k)` for the Aramaic comparison (22 groups). k indexes the unrelated script within the round 48 `UNRELATED` set, sorted.
+- **"Median Opt_X" in the B-control** means the median over that script's 200 draws of the optimal assignment cost.
+- **Part A z** = (S_real − mean of the permutation S) / sd. Negative means closer than random.
+- **Per-letter p:** the share of permutations in which the mean distance of the signs that permutation assigns to that letter is ≤ the real mean for that letter.
+- **Glyphs that do not render** (empty or degenerate in the pinned font) are dropped and listed in `results.json`. Pairs that lose a member are dropped. Fonts are verified against round 48 `SHA256SUMS` before any distance is computed.
