@@ -1,0 +1,1469 @@
+P000207	2'. 1(N01) , DILMUN ZAG~a#
+P000247	4. 1(N01) , DILMUN [...]
+P000256	10. 1(N01) , DILMUN# TUN3~a#
+P000288	2'. 1(N01) , DILMUN# TUN3~a#
+P000293	1'. [1(N01)] , DILMUN# TUN3~a
+P000330	6'. [1(N01)] , DILMUN# ZAG~a
+P000516	4'. 1(N01) , 2(N57)#? DILMUN
+P000519	3'. 1(N01) , DILMUN TUN3~a
+P000554	6'. 1(N01) , DILMUN ZAG~a
+P000557	3'. 1(N01) , DILMUN# [...]
+P001447	1. 1(N14) , ERIM~a DILMUN#
+P002085	2. , ZATU717? DILMUN#?
+P002146	2.a. 1(N01) , SI DILMUN# ZATU777 [...]
+P002716	2. 3(N01) , DILMUN X X [...]
+P003575	2.b2. , DILMUN
+P003654	4.a. 2(N01)# , TUG2~a# DILMUN# ERIM~a# SU~a
+P003808	1.b1B2. 1(N57) , DILMUN
+P003808	2.b1B2. 1(N57) , HI E2~a DILMUN NUN~a
+P003811	1. 1(N01) , TUG2~a BARA2~a DILMUN
+P004132	1. 3(N14) , DILMUN KA2~b
+P004934	1. [...] 1(N14) , DILMUN# TUN3~a
+P005045	3. 3(N01) , DILMUN#? [...]
+P005339	1. 2(N45) 3(N14) 5(N01) , DILMUN ERIM~a
+P005587	1. 2(N01) , DILMUN ISZ~a GAL~a
+P005653	2. [...] 1(N01) 1(N08) , DILMUN
+P005666	3. 4(N01) , TUR# DILMUN#
+P005687	7. , TUR# DILMUN
+P005787	2. 1(N22) 3(N01) , DILMUN# [...]
+P005864	5. [...] , DILMUN
+P005925	4. 1(N01) , X DU AMA~b DILMUN DI
+P005926	7. 1(N01@f) , DILMUN
+P005926	1. 1(N01@f) , DILMUN# GAL~a GIR2~a A#
+P005933	2. [...] , [...] TUR# DILMUN
+P005948	2. [...] , [...] X DILMUN#?
+P006040	2. 1(N01) , TUN3~a DILMUN
+P006051	3. 1(N01) , TUN3~a DILMUN
+P006318	1.a. [3(N01)] , KISZ# DILMUN
+P006401	1. 1(N01) , PIRIG~b1 DILMUN?
+P006403	8. 1(N01) , DILMUN#? GU7
+P010078	3'. dilmun# [...]
+P010086	6. szum2 dilmunx(|SAL.HUB2|)
+P010093	17. dilmunx(|SAL.HUB2|) AL
+P010093	18. dilmunx(|SAL.HUB2|) AL balag
+P010093	20. balag dilmun
+P010442	1. lu2 dilmunx(|SAL.HUB2|)#
+P010558	3. dilmun
+P010566	13. {d}dilmun#?-ku3
+P010576	17. dilmun gin2#
+P010649	2. sum dilmun
+P010650	1. gal dilmun
+P010660	19. szum2 dilmun
+P010753	10. dilmun!
+P010824	2. AN-nu-me dilmun
+P010869	5. gal dilmun
+P010869	2. gal dilmun
+P010896	5. dilmun
+P010929	2'. dilmun mu-gar
+P010979	10. dilmun
+P011032	3. dilmun
+P011032	7. dilmun
+P011082	7. dilmun
+P011094	3. gal-dilmun
+P011100	1. gal-dilmun
+P011100	6. dumu gal-dilmun
+P020029	2. [1(asz@c)] zabar3 dili2 ma2 dilmun
+P020044	4. kur dilmun{ki}-ta
+P020051	3. 2(asz@c) absin3 szum2 dilmun
+P020052	5. kur dilmun-sze3
+P020174	3. 1(asz@c) {gada}dilmun-u3-la2
+P020174	4. 1(asz@c) {gada}dilmun-u3-la2
+P020174	5. 1(asz@c) {gada}dilmun-u3-la2
+P020175	3. 1(asz@c) {gada}dilmun-u3-la2
+P020200	1. 2(asz@c) absin3 szum2 gu4 szum2 dilmun szarx(NE)-ra
+P020204	5. kur dilmun{ki}-ta
+P020317	4. nin kur dilmun#{ki}-na-[ke4]
+P020320	1. 5(asz@c) gu-la2 szum2 dilmun 2(disz@t) gar
+P020320	2. 3(u@c) 2(asz@c) gu-la2 szum2 dilmun e2-nig2-gur11
+P020599	15. 3(ban2@c) ama-dilmun#?
+P020600	6'. [n] ama-dilmunx(|SAL.HUB2|)
+P020600	23. 1(barig@c) ama-dilmun
+P100070	16. lu2-ma2-gan engar
+P100288	3. lu2 ma2-gan{ki}-da in-da-gal2
+P100892	14. i3-dub me-luh-ha-ta
+P101040	22. lugal-ma2-gan-x
+P102031	3. i3-dub me-luh-ha
+P102275	17. 6(bur3) 1(esze3) lu2-ma2-gan{ki} aga3-us2-gal-gal
+P102519	3. ki ur-{d}lamma dumu me-luh-ha-ta
+P103631	3. 2(disz) masz2 ma2-gan
+P103631	4. 2(disz) {munus}asz2-gar3 ma2-gan
+P103863	3. sze-bi 1(asz) 1(ban2) lu2-ma2-gan
+P104826	6. 1(disz) masz2 lu2 ma2-gan{ki}
+P104951	3. sze#-bi# 5(ban2) lu2-ma2-gan
+P104951	6. sze-bi 1(barig) 1(ban2) lu2-ma2-gan
+P104952	3. [sze-bi ...] lu2#-ma2-gan
+P104955	3. sze-bi 2(ban2) lu2-ma2-gan{ki}
+P104957	2. sze-bi 4(barig) 3(ban2) lu2-ma2-gan#
+P104959	2. sze-bi 4(barig) 3(ban2) lu2-ma2-gan
+P104960	2. sze-bi 4(barig) 3(ban2) lu2-ma2-gan
+P104961	4. sze-bi 3(barig) lu2-ma2-gan{ki}
+P104963	3. sze-bi 3(barig) 1(ban2) lu2-ma2-gan
+P104964	3. sze-bi 3(barig) lu2-ma2-gan
+P104965	3. sze-bi 4(barig) 2(ban2) lu2-ma2-gan
+P105741	4. lu2-ma2-gan{ki}
+P105741	1. lu2#-ma2-gan{ki}-ke4
+P105789	9. ma2-gin2 ma2-gan<{ki}>
+P106774	2. kiszib3 lu2-ma2-gan
+P107201	3. dah-hu ma2 ma2-gan{ki}-sze3
+P107215	4. 1(barig) lu2-ma2-gan{ki}
+P107404	4. 1(disz) {gesz}guzza {gesz}ab-ba me-luh-ha?
+P107404	11. 3(disz) {gesz}guzza? ma2-gan
+P107768	2. mu mar-tu masz-masz dilmun-ta e-ra-ne
+P108436	2. sze-bi 1(barig) 2(ban2) lu2-ma2-gan
+P108448	4. ur-{d}lamma dumu me-luh-ha
+P108448	3. mu ur-{d}lamma dumu me-luh-ha-sze3
+P108463	2. lu2-ma2-gan{ki}
+P108484	1. i3-dub e2-duru5-me-luh-ha{ki}
+P108518	2. lu2-ma2-gan{ki}
+P108518	8. lu2-ma2-gan{ki}
+P108533	5. ma2 ma2-gan du8-de3
+P108701	22. we-du-um lu2 kin-gi4-a na-du-be-li2 ensi2 ma2-gan{ki}
+P108866	3. lu2-dilmun?-a lu2 gesz
+P108894	4. ur#-[e2]-dar-<a> ma2-gin2 ma2-gan-na
+P109319	1. 1/2(disz) lu2-ma2-gan-na
+P109499	1. 1(disz) masz2 ma2-gan{ki#}
+P109546	2. 1(disz) masz2-gal ma2-gan
+P109678	1. 1(disz) {munus}asz2-gar3 ma2-gan
+P109737	1. 1(disz) ud5 ma2-gan
+P109901	9. ma2 ma2-gan{ki}
+P110238	6'. me-luh-ha-ta
+P110464	10. ki lu2-ma2-gan{ki}-ta
+P110464	10. ki lu2-ma2-gan{ki}-ta
+P110574	2. i3-dub me-luh-ha
+P110646	2. gu2 ma2-gan-sze3
+P110774	18. 3(ban2) 3(disz) me-luh-ha
+P111516	2. ma2-gan{ki}-sze3
+P112244	4. 1(disz) masz2-gal ma2-gan
+P112283	7. 1(disz) me-luh-ha
+P112567	11. 2(disz) {gesz}gu-za ma2-gan {gesz}haszhur
+P113031	9. lu2-ma2-gan
+P113986	3. lu2-ma2-gan-ke4
+P114407	2. sze-bi 2(barig) 1(ban2) lu2-ma2-gan
+P114448	2. 4(barig) 2(ban2) lu2-ma2-gan{ki}
+P114468	5. ma2-gin2 ma2-gan{ki}-me
+P114469	3. lu2-ma2-gan-na lu2 {gesz}tukul-gu-<la>
+P114485	8. 1(u) 2(ban2) ma2 lu2-ma2-gan{ki}
+P114833	2. ma2-gan{ki}-sze3
+P115018	3. 4(barig) 1(ban2) lu2-ma2-gan{ki}
+P115111	8. 1(u) la2 1/2(disz) lu2-ma2-gan{ki}
+P115150	2. lu2-[ma2-gan{ki}]
+P115252	1. lu2-ma2-gan{ki} i3-dab5
+P115261	4. ugula# me-luh-ha
+P115266	3. gu2-ab-ba{ki}-ka e2-duru5 me-luh-ha-ta
+P115276	2. 1(barig) 1(ban2) lu2-ma2-gan{ki}
+P115571	6'. 4(gesz2) 5(u) 9(asz) 1(barig) 1(ban2) gur me-luh-ha
+P115919	7. ugnimx(|SU.KU.SZE3.KI.NIG2.RA|){ki} ma2-gan{ki}-sze3 bala-a
+P115919	18. ugnim{ki} ma2-gan{ki}-sze3 bala-a
+P116133	2. ma2 lu2 ma2-gan{ki}
+P116503	5. kiszib3 lu2-ma2-gan{ki} dumu-na
+P116503	5. kiszib3 lu2-ma2-gan{ki} dumu-na
+P116599	2. ki lu2-{d}ma2-gan{ki}-ta
+P116633	3. i3-dub me-luh-ha-ta
+P116735	5. 1(u) 7(asz) 1(barig) sze he-gal2 u3 me-luh-ha
+P116995	3. i3-dub me-luh-ha-a-ta
+P117327	3. lu2-ma2-gan{ki}
+P117331	3. sze-bi 3(barig) lu2-ma2-gan!(TUM)
+P119520	2. {gesz}ma2 ma2-gan-na
+P119725	8. ip-qu2-sza ma2 ma2-gan-sze3 gen-na
+P120206	3. nig2-siskur2-ra ma2-gan{ki}
+P120707	5. igi lu2-ma2-gan{ki}-sze3
+P120783	4. 1(asz) 4(ban2) lu2-ma2-gan{ki}
+P121074	1. lu2-ma2-gan engar i3-dab5
+P122705	6. 1(disz) {munus}asz2-gar3 ma2-gan
+P123010	3. i3-dub me-luh-ha
+P123053	2. u18-u18-du8 ma2-gan-na
+P123053	3. nig2 siskur2-ra ma2 ma2-gan-na
+P123177	10. dumu me-luh-ha
+P123177	7. dumu [me-luh-ha]
+P123410	9. [1(disz)] kir11 lu2-ma2-gan [...]
+P123639	4. 1(disz) [sila4] ma2-gan
+P123722	6. lu2-ma2-gan{ki}
+P124242	1. 1(disz) masz2 ga ma2-gan
+P124739	7'. x ur-{d}ig-alim dumu me-luh-ha
+P125547	1. 1(disz) masz2 ma2-gan
+P126492	2. 1(disz) ud5 ma2-gan{ki} niga
+P126571	9. 1(disz) masz2 lu2-ma2-gan
+P126657	5. 1(disz) ud5 ma2-gan
+P126667	1'. [...] u2 ma2-gan
+P126687	22. 1(disz) {gesz}gu-za ma2-gan{ki}
+P127506	1'. 2(disz) ud5 ma2-gan
+P128048	3. lu2-ma2-gan mu-zi
+P128048	8. lu2-ma2-gan mu-zi
+P128490	3. dilmun{ki}-ta
+P453367	7. mu mar-tu masz-masz dilmun-ta e-ra-ne-sze3
+P128846	1. 1(disz) masz2 ga ma2-gan
+P128849	2. 1(disz) ud5 ma2-gan
+P129439	5. 1(disz) masz2-gal ma2-gan niga
+P129692	1. 5(disz) ma-na SZIM dilmun
+P130369	15. {gesz}kiri6 me-luh-ha {d}nin-mar{ki}-ka
+P130505	3. 1(disz) {munus}asz2-gar3 ga ma2-gan
+P131055	1. 6(disz) masz2 ma2-gan gesz-du3
+P131055	2. 5(disz) {munus}asz2-gar3 ma2-gan
+P131156	2. 1(barig) 3(ban2) lu2-ma2-gan{ki}
+P131179	1. ma2-gin2 ma2-gan{ki}-me
+P131192	1. ma2-gin2 ma2-gan{ki!}-me
+P131215	5. 2(ban2) zi3 lu2-ma2-gan{ki} lu2 {gesz}tukul-gu-la a-ab-ba-ka gi-gid2 bur2-de3 tusz-a
+P131518	15. dumu lu2-ma2-gan{ki}
+P131537	4. 4(ban2) lu2-dilmun{ki}
+P131721	5. 1(disz) masz2 ma2-gan
+P131754	8. dilmun e-a la2-a
+P131754	20. dilmun e-a la2-a
+P132072	1. 1(disz) masz2 ma2-gan{ki}
+P132368	2. numun gub-ba ma2-gan-na
+P132396	2. lu2-ma2-gan{ki}
+P132708	3. giri3 lu2-ma2-gan-na
+P132852	1. 1(gesz2) sze gur lugal lu2-ma2-gan{ki}
+P132876	2. si-i3-tum i3-dub me-luh-ha
+P133082	2. kiszib3 lu2-ma2-gan{ki}
+P133503	13. ki lu2-ma2-gan{ki}-ta
+P133503	13. 1(disz) udu lu2-ma2-gan{ki}
+P133503	16. 1(disz) udu szuku lu2-ma2-gan{ki}
+P133715	9. lu2-ma2-gan-na
+P134286	14. erin2 ma2-gan{ki}-sze3 bala-a
+P134286	11. e2 {d}nin-mar[{ki}-sze3 erin2 ma2-gan]{ki}-sze3 bala#-a
+P134287	15. [... erin2 ma2-gan]{ki}-[sze3] bala#-[a]
+P134431	4. ki lu2-ma2-gan{ki}-ta
+P134751	6. [x] gu4 ki lu2-ma2-gan-na lu2 en-nu
+P134974	4. 1(disz) masz2 ma2-gan
+P135069	3. mu mar-tu masz-masz dilmun e-ra-ne-sze3
+P135191	9. lu2-ma2-gan
+P135232	9. giri3 lu2-ma2-gan{ki} kuruszda
+P135233	4. 1(disz) udu lu2-ma2-gan{ki}
+P135234	3. sze-bi 1(barig) 3(ban2) lu2-ma2-gan
+P135727	22. dumu me-luh-ha erin2 e2 {d}nansze-ta
+P135802	5. 6(disz) sila3 ma2!?-<gin2> ma2-gan{ki}
+P135969	6. 3(barig) me-luh-ha-ta
+P136190	24. [x] lu2-ma2-gan{ki}
+P136196	11. kiszib3 ur-{d}lamma dumu me-luh-ha
+P136218	6. a-kal-la ma2-gan{ki}-sze3 gen-na
+P388649	5. 6(disz) sila3 ma2-gin2 ma2-gan{ki}
+P136619	2. lugal-ma2-gan{ki}
+P136684	2'. gesz-bi gi ma2-gan{ki} [...]
+P136684	5'. ma2-gan{ki} 2(disz)-a a-la2 sag-e3-ba ga2-ga2-de3
+P136689	2. 6(disz) ma-na uruda me-luh-ha
+P136752	3'. mu10-us2-bi {gesz}ab-ba me-luh-ha 2(disz)-a
+P136815	1. mu gesz-gid2-da gi ma2-gan{ki}-sze3
+P136982	3. 1(disz) {gesz}dur2 {gesz}ab-ba me-luh-ha-bi
+P136994	3. kiszib3 na4 dilmun 1(disz)-a
+P137023	3. 3(disz) {gesz}mu10-us2 gir2-gi-ka dub-ba me-luh-ha [...]
+P137075	3'. 1(ban2) szum2{sar} ma2-gan{ki}
+P137076	8. ab-ba me-luh-ha
+P137081	5. 1(disz) dar{muszen} me-luh-ha tur
+P137085	3. 3(disz) dar me-luh-ha
+P137088	4. 1(disz) dar me-luh-ha
+P137092	1. 1(disz) dar me-luh-ha tur
+P137094	5. 1(disz) dar me-luh-ha
+P137127	4. gesz gid2-da gi ma2-gan{ki}
+P137142	2. mes me-luh-ha e2-ba-an
+P137152	12'. [...] {gesz}ab-ba me-luh-ha
+P137153	3'. 1(disz) {gesz}gu-za ma2-gan{ki}-da
+P137155	3'. 1(disz) {gesz}sag-ku5 su4-ig mes ma2-gan{ki}
+P137183	1. 1(disz) gi ma2-gan{ki} gid2 7(disz) x 4(disz) szu-sze3
+P137183	2. 1(disz) gi ma2-gan{ki} gid2 [...]
+P137183	3. 1(disz) gi ma2-gan{ki#} [...]
+P137207	15. giri3 lu2-ma2-gan{ki} sagi
+P137342	3. 5(asz) 1(barig) i3-gesz du10-ga i3 ma2-gan{ki} gur
+P137566	2. mes me-luh-ha sa2-a-bi-tum-ta
+P137689	4'. a-sza3 e2-duru5-lu2-ma2-gan{ki}
+P137823	35. sza3 za3#?-bar x gesz# [...] me-luh-ha-ta
+P137823	2. [...] me-luh-ha e2-ba-an
+P137823	19. 6(disz) gi ma2-gan{ki#}-a
+P137823	22. me-luh-ha{ki} a-bi-tum-ta x-x
+P137833	3. ma2-a gar-ra dilmun{ki}-sze3
+P137837	11. ma2-a gar-ra ma2-gan{ki}-ka i3-gal2
+P138015	7. nig2-sa10-ma uruda ma2-gan{ki}
+P140868	2. me-luh-ha {d}ma-<an>-isz-di2-su kusz si-ga <<si-ga>>
+P144273	1. lu2-ma2-gan-na
+P144289	4. 2(disz) {munus}asz2-gar3 ma2-gan
+P145537	3. sze-bi 1(disz) lu2-ma2-gan
+P145798	2. 1(disz) {munus}asz2-gar3 ma2-gan{ki}
+P200102	9. lu2-ma2-gan
+P200527	3. mu mar-tu masz-masz dilmun-ta e-ra-ne-sze3
+P449015	2'. 2(N01@f) , DILMUN
+P449038	4. 3(N01@f)#? , dumu# dilmun#
+P200981	5. 5(disz) sila3 ma2-gin2 ma2-gan
+P200982	6. 5(disz)# sila3 ma2-gin2 ma2-gan#{ki#}
+P200984	9. ma2-gin2 ma2-gan{ki}-me
+P200985	9. ma2-gin2 ma2-gan{ki}-me
+P200986	2. ma2-gin2 ma2-gan{ki}-me
+P200987	1. ma2-gin2 ma2-gan[{ki}]
+P200990	5. ma2-gin2 ma2-gan{ki}-me
+P202529	8. 2(u) udu lu2-ma2-gan{ki}
+P202783	9. dumu me-luh-ha
+P202783	9. dumu me-luh-ha
+P203779	21. giri3 lu2-ma2-gan{ki}
+P205527	3. lu2-ma2-gan{ki}
+P205528	3. lu2-ma2-gan{ki}
+P205529	3. lu2-ma2-gan{ki}
+P205531	3. sze-bi 3(u) 4(disz) lu2-ma2-gan{ki}
+P205534	3. sze-bi 3(u) lu2-ma2-gan{ki}
+P205536	3. sze-bi 4(u) 1(disz) lu2-ma2-gan{ki}
+P205537	3. sze-bi 4(u) lu2-ma2-gan
+P205538	3. sze-bi 4(u) 1(disz) lu2-ma2-gan
+P205541	3. sze-bi 4(u) lu2-ma2-gan{ki}
+P205542	3. sze-bi 4(u) 1(disz) lu2-ma2-gan[{ki?}]
+P205543	3. lu2-ma2-gan{ki}
+P205544	3. lu2-ma2-gan{ki}
+P205545	3. sze-bi 1(gesz2) 1(disz) lu2-ma2-gan
+P205547	3. lu2#-ma2-gan{ki}
+P205549	3. sze-bi 1(u) lu2-ma2-gan#
+P205551	3. sze-bi 1(u) lu2-ma2-gan{ki}
+P205552	2. sze-bi 1(disz) lu2-ma2-gan
+P205554	3. sze-bi 3(u) 3(disz) lu2-ma2-gan
+P205555	3. sze-bi 3(u) 5(disz) lu2-ma2-gan
+P205556	3. lu2-ma2-gan{ki}
+P205558	2. sze-bi 1(gesz2) lu2-ma2-gan
+P205585	3. lu2-ma2-gan{ki}
+P205855	3. sze-bi 1(asz) <gur> lu2-ma2-gan
+P206016	3. sze-bi 3(u) lu2-ma2-gan
+P206071	3. sze-bi 3(u) lu2-ma2-gan
+P206072	2. sze-bi 4(u) 1(disz) lu2-ma2-gan
+P206073	3. sze-bi 1(gesz2) 1(disz) lu2-ma2-gan
+P206218	9. ma2-gin2 ma2-gan{ki}-me
+P206244	10. 4(u) 3(disz) lu2-ma2-gan#
+P206549	1. giri3 lu2-ma2-gan{ki}
+P207485	8. 3(ban2) 4(disz) sila3 gin2 ur-{d}lamma dumu me-luh-ha
+P207518	3. 3(disz) sila3 ur-e2-dar-a ma2-gin2 ma2-gan-na
+P207725	4. ma2-gin2 ma2-gan-na
+P207900	3. lu2-ma2-gan
+P208473	2. giri3 lu2-ma2-gan-na
+P211581	1. 1(disz) lu2-ma2-gan
+P211581	1. lu2-ma2-gan-ke4
+P211581	6. lu2-ma2-gan-ke4 ni2-mu-ta en-nu-ga2 ga-ba-an-kux(KWU147) bi2-in-du11
+P212842	3. lu2-tukul ma2 me-luh-ha-ka
+P212961	14. dilmun min-bi
+P212982	6. lu2 me-luh-ha-ke4
+P213104	4. ur-ab-ba ra-gaba me-luh-ha
+P213831	1. [...] ki ma2-dilmun
+P213835	7'. ma2-gan[{ki}]
+P215516	6. 1(ban2@c) kasz 5(ban2@c) ra-gaba ma2-gan#[{ki}]
+P215960	3. 1(asz@c) za-hum zabar ma2-gan
+P216090	9. 2(ban2@c) ama-dilmunx(|SAL.HUB2|)
+P216090	18. [...] nin#-kur-sze3-dilmunx(|SAL.HUB2|)#?-mah#
+P216090	6. 1(barig) 2(ban2) nin-dilmun-mah
+P216090	9'. [...] nin#-dilmun-mah
+P216090	18'. 1(barig@c) nin-dilmun-[mah]
+P216274	8. 4(asz@c) ma2 dilmunx(|ASZ.DILMUN|)
+P216282	14. ma2#-dilmun# du8-ni ru-a
+P216286	3. ma2-dilmunx(|ASZ.DILMUN|) du8-ni ru-a
+P216294	3. ma2-lah6 dilmun
+P216559	1. ma2-gan{ki}
+P216559	6. ma2-gan{[ki]}
+P216638	2. _lugal_ ki-ib-ra-tim ar-ba-im _bur nam!-ra-ak_ ma2-gan{ki}
+P216639	2. _lugal_ ki-ib-ra-tim ar-ba-im _bur nam!-ra-ak_ ma2-gan{ki}
+P216640	2. _lugal_ ki-ib-ra-tim ar-ba-im _bur nam!-ra-ak_ ma2-gan{ki}
+P216641	4. ma2-gan{ki}
+P217071	10. kusz gu4 ma2 dilmun
+P217113	2. 1(u@c) nanga2 ma-na ma2-gan
+P217359	8. ma2 dilmun-e i3-gu7
+P217388	2. dilmun min-bi
+P217502	10. [...] 5(asz@c) sze-ba 4(asz@c) gurusz ma2 me-luh-ha
+P217616	3. 3(ban2@c) me-luh-ha-me
+P217645	11. dilmun# enkux(ZAG)
+P217674	2. me-luh-ha
+P217715	5. 1(asz@c) masz2 ga me-luh-ha
+P217793	7. [...] lu2-ma2-gan
+P217907	1. ma2-gan{ki}-sze3
+P218092	6. 1(disz) masz2 ma2-gan
+P218242	3. i3-dub e2-duru5 me-luh-ha-ta
+P218246	5. 1(barig) lu2-ma2-gan{ki}
+P218257	3. ma2-gin2 ma2-gan-na-me
+P218302	7. dilmun enkux(ZAG)
+P218312	3. gal dilmun
+P220701	4. 1(asz@c) zabar3 dili2 ma2 dilmun
+P220719	1. 1(asz@c) zabar3 dili2 ma2 dilmun
+P220719	6. 1(asz@c) zabar3 dili2 ma2 dilmun
+P220720	1. 1(asz@c) zabar3 dili2 ma2 dilmun-da
+P220722	1. 1(asz@c) zabar3 dili2 ma2 dilmun
+P220722	4. 1(asz@c) zabar3 dili2 ma2 dilmun
+P220723	2. 1(asz@c) {gada}dilmun-u3!-la2
+P220723	2. 1(asz@c) {gada}dilmun-u3-la2
+P220727	4. 1(asz@c) gada dilmun-u3-la2
+P220728	2. 1(asz@c) gada dilmun-u3-la2
+P221033	3. 3(asz@c) gu-la2 szum2 dilmun
+P221035	8. 4(ban2@c) szum2 dilmun e2-nig2-gur11
+P221035	1. 1(disz@t) sila3 tu-szum2 dilmun
+P221043	2. 1(u@c) 3(asz@c) gu-la2 szum2 dilmun
+P221045	1. 3(ban2@c) 3(disz@t) sila3 szum2 dilmun
+P221046	2. 1(u@c) 5(asz@c) gu-la2 szum2 dilmun
+P221046	1. 5(asz@c) gu-la2 szum2 dilmun 2(disz@t) gar
+P221046	2. 3(u@c) 2(asz@c) gu-la2 szum2 dilmun
+P221053	4. 2(asz@c) absin3 szum2 dilmun
+P221055	3. 1(u@c) gu-la2 szum2 dilmun suh5-ha
+P221055	1. 4(asz@c) gu-la2 szum2 dilmun us2-bi
+P221058	4. 2(ban2@c) szum2 dilmun
+P221168	3. kur dilmun{ki}-sze3
+P221367	2. 3(asz@c) sila3 szim dilmun
+P221420	4. zabar3 ma2 dilmun
+P221423	3. kur dilmun{ki}-ta
+P221520	1. 1(asz@c) {zabar3}dili2 ma2 dilmun
+P221534	4. 1(u@c) 8(asz@c) 2(barig@c) dilmun-mu
+P221752	6. kur dilmun{ki}-sze3
+P221752	1. kur dilmun{ki}-ta
+P221815	4. 1(barig@c) szum2 dilmun e2-nig2-gur11
+P221815	6. 1(barig@c) 3(disz@t) sila3 szum2 dilmun 2(disz@t) gar
+P221815	8. 1(disz@t) sila3 tu-szum2 dilmun 1(disz@t) gar
+P221816	7. 3(ban2@c) 3(disz@t) sila3 szum2 dilmun
+P221818	2. 2(ban2@c) szum2 dilmun
+P222073	3. 6(asz@c) uruda zabar3 ma2 dilmun
+P222359	4. ma2 dilmun
+P222362	5. [ma2] dilmun#
+P222363	3. ma2 dilmun
+P222373	1. ma2 dilmun
+P222375	16. ma2 dilmun
+P222376	16. ma2 dilmun
+P222385	1'. ma2 dilmun
+P222389	1'. ma2 dilmun
+P225801	1. [x _gin2] dilmun ku3-babbar_
+P225903	12'. dilmun# enkux(ZAG)
+P225932	17'. |NI.TUK|#
+P225937	3. dilmun#
+P226318	9. ur# gun3#-a me-luh-ha{ki}
+P226394	4. ma2 ma2-gan szu-na mu-ni-gi4
+P226580	16. [ma2 ma2-gan{ki}]
+P226623	4. ma2 ma2-gan szu-na mu-ni-gi4
+P226838	4. ma2 ma2-gan szu-na mu-ni-gi4
+P226840	4. ma2 ma2-gan szu-na mu-ni-gi4
+P226961	4. ma2 ma2-gan szu-na mu-ni-gi4
+P227100	4. ma2 ma2-gan szu-na mu#-ni-gi4
+P227419	7'. _e2 dilmun_-sza
+P227509	12. _ma2_ me-luh-ha{ki}
+P227509	13. _ma2_ ma2-gan{ki}
+P227509	14. _ma2 tilmun{ki}_
+P227509	14. _ma2_ me-luh-ha
+P227509	15. _ma2_ ma2-gan{ki}
+P227509	16. _ma2_ dilmun{ki}
+P227509	0'. [_ma2_ me-luh-ha]
+P227509	1'. _ma2#_ [ma2-gan2{ki}]
+P227509	2'. _ma2#_  [dilmun{ki}]
+P227529	10'. u3 ma2-gan{ki} ma-da [ma-da-bi] kur x [...]
+P227596	1. 3(u@c) absin3 szum2 dilmun
+P227657	16. zu2-lum dilmun-na
+P227685	4'. gesz nimbar-dilmun-na
+P227698	9. [...] ab#-ba-me-luh-ha
+P227723	4'. [...] %syl en-ku3-dilmun-na
+P227731	15'. gesz nimbar-dilmun-na
+P227751	3. {na4#}gug me-luh-ha
+P227783	4. gesz nimbar-dilmun-na
+P227784	5'. gesz mes-me-luh-ha
+P227784	2'. gesz nimbar-dilmun#-[...]
+P227787	7. e2-tilmun-na
+P227892	20'. szah2 ma2-gan
+P227897	11'. gesz# nimbar-dilmun#-na#
+P227911	2'. gesz# gu-za-ma2-gan#-[...]
+P227996	6'. gesz nimbar-dilmun#-[...]
+P228049	3'. gesz# mes-me-luh-ha
+P228226	6. gesz# ma2-dilmun-na
+P228297	2'. gesz nimbar-dilmun#-[...]
+P228382	4. [...]-ba#-me-luh-ha
+P228382	2. gesz mes-ma2-gan#-na#
+P228419	7. gesz ab-ba-me-luh-ha
+P228426	7'. gesz ma2-dilmun{ki}
+P228497	2'. [...] mes-me-luh-ha
+P228531	5'. gesz nimbar-dilmun#-[...]
+P228532	13. gesz ab-ba-me-luh-ha
+P228624	5. gesz mes-ma2-gan-[...]
+P228695	5'. gesz mes-ma2-gan-na
+P228695	6'. gesz mes-me-luh-ha
+P228742	7. uruda me-luh-ha
+P228774	10'. szah2 ma2-gan-na
+P229115	2. szah2# ma2-gan
+P229161	9. [...] ma2-dilmun-[...]
+P229165	13'. gesz nimbar-dilmun-na
+P229175	10. gesz nimbar-dilmun-na
+P229180	11'. gesz ma2-dilmun-na
+P229187	3. gesz mes-ma2-gan-na
+P229187	4. gesz mes-me-luh-ha
+P229187	17. gesz ab-ba-me-luh-ha
+P229187	6. gesz# mes-ma2-gan-na
+P229216	4'. gesz mes-ma2-gan#-[...]
+P229216	6'. gesz nimbar-dilmun
+P317137	2. [...] udu# 1(u) 2(disz) masz2 lu2-ma2-gan
+P229233	1. gesz nimbar-dilmun-na
+P229234	2'. [...]-ba#-me-luh-ha
+P229241	2. gesz ab-ba-me-luh-ha
+P229258	4. gesz nimbar-dilmun-na
+P229262	5. [...] ab#-ba-me-luh-ha
+P229262	15. gesz mes-ma2-gan#-na#
+P229262	16. gesz mes-me-luh-ha
+P229277	23. {gesz}MIN<(gu-za)> ma2-gan
+P229304	7'. zu2-lum dilmun#
+P229306	24. dar me-luh-ha{muszen}
+P229350	5'. zu2-lum dilmun
+P229769	17. [...]-ba-me-luh-ha
+P229782	7. gesz mes-ma2-gan-na
+P229782	8. gesz mes-me-luh-ha
+P229782	6. gesz nimbar-dilmun
+P229810	16. gesz ab-ba-me-luh-ha
+P229810	18. gesz nimbar-dilmun
+P229811	6. gesz mes-ma2-gan-na
+P229811	7. gesz mes-me-luh-ha
+P230006	13'. gesz gu-za-{gesz}mes <[gesz] gu-za> ma2-gan-na
+P230170	7. gesz nimbar-dilmun
+P230184	5. gesz# nimbar-dilmun-na
+P230187	3'. [...] nimbar#-dilmun-[...]
+P230201	2'. [...] ab-ba-me-luh-ha
+P230207	2'. [...]-dilmun#-na
+P230300	2'. gesz nimbar-dilmun#-na
+P230311	3'. [...] mes-ma2-gan-na
+P230311	4'. [...] mes-me-luh-ha
+P230458	7'. gesz mes#-ma2-gan-na
+P230458	8'. gesz mes-me-luh-ha
+P230458	2'. [...]-dilmun
+P230811	1'. gesz mes-me-luh-ha
+P230858	2'. gesz ab-ba-me-luh-ha
+P230898	4. [...] nimbar-dilmun-na
+P231266	10. dar me-luh-ha{muszen}
+P232274	6. kur ma2-gan{ki}-ta
+P232275	26. kur me-luh-ha
+P232275	39. kur me-luh-ha-ta
+P232275	10. kur ma2-gan{ki}-ta
+P232276	14. kur ma2-gan{ki}-ta
+P232277	7. ma2-gan{ki}
+P232277	8. me-luh-ha{ki}
+P232277	10. kur dilmun{ki}
+P232277	15. hur-sag ma2-gan{ki}-ta
+P232278	17. kur ma2-gan{ki}-ta
+P232280	1. kur ma2-gan{ki}-ta
+P232281	5. kur ma2-gan{ki}-ta
+P232283	2. [kur ma2-gan]{ki}-ta
+P232300	19. ma2-gan me-luh-ha kur-bi-ta im-ma-ta-e11-de3
+P232300	8. ma2-gan me-luh-ha kur-bi-ta gu2 gesz mu-na-ab-gal2
+P232300	22. gug gi-rin-e me-luh-ha-ta
+P232301	13. uruda# nagga lagab za-gin3-na ku3 NE gug gi-rin me-luh-ha-da
+P235705	2. e2-duru5 me-luh-ha{ki}-ta
+P236658	4. {gesz}giri3-gub {gesz}ab-ba me-luh-ha
+P236673	2. ma2 dilmun{ki} gu-la ba-an-gar
+P240631	3'. 2(asz@c) 1/2(asz@c) gin2 dilmun _ku3:babbar_
+P240631	5'. 6(asz@c) gin2 dilmun _ku3:babbar_
+P240631	1'. 2(asz@c) gin2 dilmun _ku3-sig17_
+P240631	9'. [n] gin2 dilmun _ku3#:[babbar]_
+P240631	9'. 7(asz@c) gin2 dilmun _ku3:babbar_
+P240631	16'. |SZU2+SZA|-6 2:-NI gin2 dilmun _[ku3:babbar]_
+P240631	18'. [6(asz@c)?] GIN2#-[DILMUN _ku3-sig17]_
+P240631	10'. 1(u@c) 2(asz@c) gin2 dilmun _ku3:babbar_
+P240631	12'. 4(asz@c) gin2 dilmun _ku3-sig17_
+P240631	20'. 1(u@c) 2(asz@c) 3:-NI gin2 dilmun _ku3-sig17_
+P240631	5'. 9(asz@c) gin2 dilmun _ku3:babbar!_
+P240631	7'. 3! gin2 dilmun _ku3-sig17_
+P240631	13'. 1(asz@c) gin2 dilmun _ku3:babbar_
+P240631	14'. 3(asz@c) GIN2#-DILMUN _ku3:babbar_
+P240631	16'. 1(asz@c) gin2 dilmun _ku3-sig17_
+P240631	23'. 1(u@c) 7(asz@c) gin2 dilmun _ku3-sig17_
+P240631	1'. 6(asz@c) gin2 dilmun _ku3-sig17_
+P240631	7'. 1(u@c) 2(asz@c) gin2 dilmun _an-na_
+P240631	14'. 5(u@c) gin2 dilmun _ku3-sig17_
+P240631	5'. 1(u@c) gin2 dilmun _ku3:babbar_
+P240631	12'. 1(u@c) gin2 dilmun _ku3:babbar_
+P240631	13'. 1(asz@c) gu2-li-lum 6(asz@c) gin2 dilmun _ku3:babbar_
+P240631	15'. 2(asz@c) gin2 dilmun _ku3-sig17_
+P240631	20'. 4(asz@c) gin2 dilmun _ku3:babbar_
+P240631	23'. 6(asz@c) gin2 dilmun _ku3:babbar_
+P240631	5'. 7(asz@c) 1/2(asz@c) gin2 dilmun _ku3:babbar_
+P240631	7'. 2(asz@c) 1/2(asz@c) gin2 dilmun _ku3-sig17_
+P240631	5. |SZU2+SZA|-6 2:-NI gin2 dilmun _ku3:babbar_
+P240631	7. 6(asz@c) 2:-NI gin2 dilmun _ku3-sig17_
+P240631	9. 6(asz@c) 2:-NI gin2 dilmun _ku3:babbar_
+P240631	17. _9(asz@c) gin2 dilmun _an-na_ 1(asz@c@90) ma-na ku5 a-gar5#!_
+P240631	5. 1(u@c) 5(asz@c) gin2 dilmun _ku3:babbar_
+P240631	7. 1(u@c) 8(asz@c) gin2 dilmun _ku3:babbar_
+P240631	9. 6(asz@c) gin2 dilmun _ku3-sig17_
+P240631	18. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P240631	20. 7(asz@c) gin2 dilmun _ku3-sig17_
+P240631	1. 1(u@c) 5(asz@c) gin2 dilmun _ku3:babbar_
+P240631	12. _7(asz@c) ma-na |SZU2+SZA|-7 gin2 dilmun ku3:babbar_
+P240631	21. 4! gin2 dilmun _ku3:babbar_
+P240631	23. 1(asz@c) gin2 dilmun _ku3-sig17_
+P240631	1. 1(asz@c) 1/2(asz@c) gin2 dilmun _ku3:babbar_
+P240631	3. 9(asz@c) gin2 dilmun _ku3:babbar_
+P240631	5. 3(asz@c) gin2 dilmun _ku3-sig17_
+P240631	24. 10! gin2 dilmun _ku3:babbar_
+P240631	2. 9(asz@c) gin2 dilmun _ku3:babbar_
+P240631	4. 3(asz@c) gin2 dilmun _ku3-sig17_
+P240631	20. 5(u@c) gin2 dilmun _ku3:babbar_
+P240631	22. _1(asz@c) ma-na szanapi{pi} 5 gin2 dilmun ku3-sig17_
+P240631	4. |SZU2+SZA|-5 gin2 dilmun _ku3:babbar_
+P240631	11. 1(u@c) 4(asz@c) gin2 dilmun _ku3:babbar_
+P240631	13. 9(asz@c) gin2 dilmun _ku3:babbar_
+P240631	15. 3(asz@c) gin2 dilmun _ku3-sig17_
+P240631	20. 1(u@c) gin2 dilmun _ku3:babbar_
+P240631	2. 4(asz@c) 1/2(asz@c) gin2 dilmun _ku3-sig17_
+P240631	13. _1(asz@c) ma-na_ |SZU2+SZA|-5 gin2 dilmun _an-na_
+P240631	19. TAR-7! gin2 dilmun _an-na_
+P240631	7'. _1(u@c) _la2_ 1(disz@t) ma-na 5(u@c) 3(asz@c) gin2 dilmun ku3:babbar_
+P240631	13'. _1(asz@c) ma-na szanapi{pi} 4 gin2 dilmun ku3:babbar_
+P240631	15'. 1(u@c)# 7(asz@c)# gin2 dilmun _ku3:babbar_
+P240631	19'. 1(u@c) 1(asz@c) gin2 dilmun _ku3:babbar_
+P240631	13'. 1(asz@c) gu2-li-lum szanapi{pi} 2(disz) gin2 dilmun _ku3:babbar_
+P240631	15'. 1(u@c) 4(asz@c) gin2 dilmun _ku3-sig17_
+P240631	17'. 7(asz@c) 1/2(asz@c) gin2 dilmun _ku3:babbar_
+P240631	19'. 2(asz@c) 1/2(asz@c) gin2 dilmun _ku3-sig17_
+P240631	7'. 1(asz@c) 1/2(asz@c) gin2 dilmun _ku3:babbar_
+P240631	9'. 1/2(asz@c) gin2 dilmun _ku3-sig17_
+P240631	2'. 1(u@c) 5(asz@c) gin2 dilmun _ku3:babbar_
+P240631	4'. 5! gin2 dilmun _ku3-sig17_
+P240631	6'. [n] mi-at [x] _1(u@c) 2(asz@c) rs1 ma-na rs1 [n] gin2 dilmun ku3:babbar_
+P240685	1. _2(asz@c) ma-na 1(u@c) 5(asz@c@90) GIN2-DILMUN ku3:babbar_
+P240844	4. 5(asz@c) _ma-na_ TAR-5(disz) GIN2-DILMUN _ku3:babbar_
+P240844	7. |SZU2+SZA| GIN2-DILMUN _zabar_
+P240844	7. |SZU2+SZA| GIN2-DILMUN _ku3:babbar_
+P240844	6. SZA-PI GIN2-DILMUN _ku3:babbar_
+P240844	4. 2(asz@c) 1/2(asz@c) GIN2-DILMUN _si4-si4_
+P240844	6. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P240844	5. 2(asz@c) GIN2-DILMUN _ku3:babbar_
+P240844	2. 4(asz@c) GIN2-DILMUN _ku3:babbar_
+P240844	2. 1(u@c) 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P240844	1. AN-SZE3-GU2 3(u@c) 4(asz@c) _ma-na_ TAR-6 GIN2-DILMUN _ku3:babbar_
+P240852	1. 1(asz@c) _ma-na_ SZA-PI-5 gin2 dilmun _ku3-sig17_
+P240852	2. 1(asz@c) _ma-na_ |SZU2+SZA| _la2_ 1(disz@t) gin2 dilmun _ku3-sig17_
+P240860	2. DILMUN-_ku5_
+P240860	10. DILMUN-_ku5_
+P240861	9. 1(u@c) gin2 dilmun _ku3:babbar_
+P240940	6. 1(u@c) 7(asz@c) gin2 dilmun _zax(LAK384)-si4-si4_
+P240940	4. SZA-PI gin2 dilmun _ku3:babbar_
+P240940	1. 3(asz@c) _ma-na_ SZA-PI gin2 dilmun _ku3:babbar_ 4(asz@c@90) _kaskal_
+P240940	4. 1(asz@c) _ma-na ku3:babbar_ 1(asz@c@90) _tun3 gal_ 1(asz@c) _tun3_ 1(asz@c@90) _dub-nagar_ 1(asz@c) _ma-na_ 5(u@c) gin2 dilmun _zabar_
+P240940	6. SZA-PI gin2 dilmun _ku3:babbar_
+P240940	4. |SZU2+SZA| gin2 dilmun [BAR6]:KU3
+P240940	9. 1(u@c) gin2 dilmun _ku3:babbar_
+P240940	2. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P240940	7. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P240940	2. 1(u@c) gin2 dilmun _ku3:babbar_
+P240940	4. 1(u@c) gin2 dilmun _ku3:babbar_
+P240940	6. 1(u@c) 2(asz@c) gin2 dilmun _ku3:babbar_
+P240940	5. 1(u@c) gin2 dilmun _ku3:babbar_
+P240940	10. 1(u@c) gin2 dilmun _ku3:babbar_
+P240940	5. SZA-PI gin2 dilmun _ku3:babbar_
+P240940	9. 9(asz@c) gin2 dilmun _ku3:babbar_
+P240940	8. 6(asz@c) gin2 dilmun _ku3:babbar_
+P240940	12. 5(asz@c) gin2 dilmun _ku3:babbar_
+P240940	4. 3(asz@c) gin2 dilmun _ku3:babbar_
+P240940	8. 5(asz@c) gin2 dilmun _ku3:babbar_
+P240940	2. 3(asz@c) gin2 dilmun _ku3:babbar_
+P240940	8. 3(asz@c) gin2 dilmun _ku3:babbar_
+P240940	2. 3(asz@c) gin2 dilmun _ku3:babbar_
+P240940	6. 6(asz@c) gin2 dilmun _ku3:babbar_
+P240940	9. 1(u@c) gin2 dilmun _ku3:babbar_
+P240940	5. 4(asz@c) gin2 dilmun _ku3:babbar_
+P240940	10. 8(asz@c) gin2 dilmun _ku3:babbar_
+P240940	4. 5(asz@c) gin2 dilmun _ku3:babbar_
+P240940	6. 4(asz@c)# gin2 dilmun _ku3:babbar_
+P240941	13. _1(asz@c) ma-na 1(u@c) 9(asz@c@90) gin2 dilmun ku3-sig17_ 1(asz@c) _dib_
+P240941	7. 5(u@c) gin2 dilmun _ku3-sig17_ 1(asz@c) _dib_
+P240941	2. 5(u@c) gin2 dilmun _ku3-sig17_ 1(asz@c) _dib_
+P240968	10. dilmun gin2
+P241006	2. 1(asz@c) _ib2-la2_ 1(asz@c@90) _gir2 kun ku3:babbar masz-masz ku3-sig17_ |LAGABxLA2|-su3 SZA-PI gin2 dilmun
+P241017	1. 5(asz@c) gin2 dilmun _ku3-sig17_ 1(asz@c@90) bu-DI
+P241017	13. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P241037	8. TAR-3 3-NI gin2 dilmun _ku3:babbar_
+P241037	2. 6(asz@c) 2(asz@c@90)#-NI gin2 dilmun _ku3-sig17_
+P241037	7. 1(u@c) gin2 dilmun _ku3:babbar_
+P241037	2. 1(u@c) gin2 dilmun _ku3:babbar_
+P241037	9. 4(asz@c) gin2 dilmun _ku3:babbar_
+P241037	2. TAR-6 gin2 dilmun _ku3:babbar_
+P241037	5. 1(u@c) 4(asz@c) gin2 dilmun _ku3:babbar_
+P241037	9. 3(asz@c) gin2 dilmun _ku3:babbar_
+P241037	5. 7(asz@c) gin2 dilmun _ku3:babbar_
+P241037	1. 4(asz@c) gin2 dilmun _ku3:babbar_
+P241037	5. 1(u@c) gin2 dilmun _ku3:babbar_
+P241037	3. 1(asz@c) _ma-na_ |SZU2+SZA|-6 gin2 dilmun _ku3:babbar_
+P241037	6. 1(u@c) 2(asz@c) gin2 dilmun _ku3:babbar_
+P241037	5. 8(asz@c) gin2 dilmun _ku3:babbar_
+P241037	8. 1(u@c) 2(asz@c) gin2 dilmun _ku3:babbar_
+P241037	2. 2(asz@c) gin2 dilmun _ku3:babbar_
+P241037	4. 1(u@c) gin2 dilmun _ku3:babbar_
+P241037	7. 1(asz@c)# _ma-na_ |SZU2+SZA|-5 gin2 dilmun _ku3:babbar_
+P241037	1. AN-SZE3-GU2 1(u@c) 1(asz@c) _ma-na_ 1(u@c) 6(asz@c)#? [x gin2 dilmun _ku3:babbar]_
+P241038	10. 4(asz@c) gin2 dilmun _ku3:babbar_
+P241038	1. 1(asz@c) _zara6{tug2}_ 2(asz@c@90) bu-DI |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P241099	2. 5(u@c) 6(asz@c) gin2 dilmun _ku3-sig17_
+P241101	1. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P241101	2. 1(asz@c) 1/2(asz@c) GIN2-DILMUN _ku3-sig17_
+P241127	3. SZA-PI-5 gin2 dilmun _ku3-sig17_
+P241127	2. 1(asz@c) _ma-na_ 1(u@c) 2(asz@c@90) gin2 dilmun _ku3-sig17_
+P241127	4. TAR-5 gin2 dilmun _ku3-sig17_
+P241127	1. SZA-PI gin2 dilmun _ku3-sig17_
+P241127	3. 1(asz@c) gin2 dilmun _ku3-sig17_
+P241127	6. 6(asz@c) gin2 dilmun _ku3-sig17_
+P241127	3. 4(asz@c) gin2 dilmun _ku3-sig17_
+P241127	5. |SZU2+SZA|-5 gin2 dilmun _ku3-sig17_
+P241127	4. |SZU2+SZA| gin2 dilmun _ku3-sig17_
+P241129	2. 1(asz@c) zi-bar# TUR# _ku3-[sig17]_ 1(u@c) 2(asz@c@90) [gin2 dilmun]
+P241129	1. 1(u@c) 3(asz@c) _ma-na ku3:babbar_ 1(u@c) gin2 dilmun _nig2_-<KASKAL> in _szu mu-tag4_ 1(u) 2(disz@t)
+P241144	3. TAR 5(asz@c) 1/2(asz@c) gin2 dilmun _a-gar5-gar5_
+P241144	1. 4(asz@c) 1/2(asz@c) gin2 dilmun _an-na_
+P241194	2. 5(u@c) gin2 dilmun _ku3-sig17_
+P241219	4. 4(u@c) GIN2-DILMUN _ku3-sig17_
+P241219	4. 4(u@c) GIN2-DILMUN _ku3-sig17_
+P241219	6. 1(u@c) GIN2-DILMUN _ku3-sig17_
+P241219	2. 2(u@c) 5(asz@c) GIN2-DILMUN _ku3-sig17_
+P241219	5. 1(asz@c) GIN2-DILMUN _ku3-sig17_
+P241219	2. 2(u@c) GIN2-DILMUN _ku3:babbar_
+P241219	5. 4(u@c) GIN2-DILMUN
+P241219	1. 2(u@c) 3(asz@c) GIN2-DILMUN _ku3-sig17_
+P241219	6. 2(u@c) GIN2-DILMUN _ku3-sig17_
+P241219	4. 2(u@c) 5(asz@c) GIN2-DILMUN _ku3-sig17_
+P241219	5. _dib_ 2(u@c) 5(asz@c) GIN2-DILMUN
+P241219	1. 3(asz@c) GIN2-DILMUN _ku3-sig17_ 2(u@c) GIN2-DILMUN _ku3:babbar_
+P241219	1. _ku3:babbar_ AN-SZE3-GU2 3(asz@c) _ma-na_ 4(u@c) 2(asz@c) _ku3-sig17_ GIN2-DILMUN 6(asz@c) _ma-na_ 2(u@c) 1(asz@c) _ku3:babbar_
+P241230	1. _7(asz@c) ma-na 1(u@c) gin2 dilmun ku3:babbar_
+P241230	7. _2(u@c) 2(asz@c) ma-na szanapi{pi} gin2 dilmun _ku3:babbar_
+P241230	8. _1(asz@c) ma-na 5(u@c) 5(asz@c) gin2 dilmun ku3-sig17_
+P241230	1. [_n ma-na] 5(u@c)#? gin2 dilmun ku3-sig17_
+P241230	2. _6(asz@c) ma-na 1(u@c) gin2 dilmun ku3:babbar_
+P241230	1. 3(asz@c) <GIN2> 3(disz)-NI gin2 dilmun _ku3-sig17_
+P241230	4. _szanapi{pi} 5(disz) gin2 dilmun ku3:babbar_
+P241230	1. TAR-5(disz) gin2 dilmun _ku3-sig17_
+P241230	1. 1(u@c) 1(asz@c) gin2 dilmun _ku3-sig17_
+P241230	3. |SZU2+SZA| gin2 dilmun _ku3-sig17_
+P241230	1. an-sze3-gu2 _1(asz@c) mi-at 5(u@c) 6(asz@c) ma-na szanapi{pi} 5(disz) gin2 dilmun ku3:babbar_
+P241230	2. _2(u@c) 1(asz@c) ma-na TAR-3(disz) gin2 dilmun ku3-sig17_
+P241303	2. _nig2-sa10_ 2(asz@c) gu2-li-lum _a-gar5-gar5_ TAR-5(asz@c) gin2 dilmun sa-ha-wa
+P241303	1. [n] gin2 dilmun _ku3:babbar_
+P241303	1. [n] gin2 dilmun _ku3:babbar_
+P241326	3. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P241326	1. 4(asz@c) gin2 dilmun _ku3:babbar_
+P241432	3. |SZU2+SZA| GIN2#-DILMUN _ku3-sig17_
+P241441	6. 1(u@c) 2(asz@c) <gin2 dilmun> KU3-_gi_
+P241445	1'. SZA#-PI# gin2 dilmun# _ku3:babbar_
+P241445	3'. 4(asz@c) _ma-na_ 5(u@c) 3(asz@c) gin2 dilmun _ku3:babbar_
+P241445	5. 5(asz@c) gin2 dilmun _ku3:babbar_
+P241445	4. 1(u@c) 5(asz@c) gin2 dilmun _ku3:babbar_
+P241445	6. [x] 5(asz@c)#? gin2 dilmun _ku3:babbar#_
+P241486	3'. 7(asz@c) _ma-na_ |SZU2+SZA| gin2 dilmun _a-gar5-gar5_
+P241486	4'. SZA-PI-1 gin2 dilmun _an-na_
+P241486	5'. 1(asz@c)+[n] gin2 dilmun
+P241486	2'. 5(asz@c) gin2 dilmun _ku3:babbar_
+P241486	1'. [... n] gin2 dilmun _a-gar5-gar5_
+P241486	2'. 4(asz@c) 3-NI gin2 dilmun _an-na_
+P241486	5'. 8(asz@c) gin2 dilmun _a-gar5-gar5_
+P241486	5'. 6(asz@c) _ma-na_ |SZU2+SZA| gin2 dilmun _zabar_
+P241486	2'. 3(asz@c) _ma-na_ SZA-PI-8 gin2 dilmun _urudu_
+P241486	1'. 6(asz@c) GIN2#-DILMUN _an-na_
+P241486	1. 1(u@c) _ma-na_ |SZU2+SZA|-2 gin2 dilmun _an-na#_
+P241486	4. 5(u@c) 2(asz@c)#? [x] GIN2-[DILMUN ...]
+P241486	2. 1(asz@c) gin2 dilmun _an-na_
+P241486	5. 8(asz@c)#? 2-NI [gin2 dilmun ...]
+P241486	2. 3(asz@c) mi-at 3(u@c) 4(asz@c) _ma-na_ 5(u@c) _la2_ 2(disz@t) gin2 dilmun _zabar#_
+P241553	5. 5(u@c) 4(asz@c) gin2 dilmun _gugx(|ZA.GUL|) za:gin3_
+P241553	1. 1(u@c) GIN2#-DILMUN _zax(LAK384)-si4_
+P241553	5. 1(u@c) 2(asz@c) _ma-[na]_ SZA-PI-6 gin2 dilmun _ku3:babbar_
+P241553	4. 1(u@c) _ma-na#_ 1(u@c) 5(asz@c) gin2 dilmun# [ku3:babbar]
+P241553	6. 3(asz@c) _ma-na_ 8(asz@c@90) gin2 dilmun NA4#-GUL za:gin3# asz2-ti
+P241553	9. 5(asz@c) _ma-na_ 10# GIN2#-[DILMUN] _[ku3]:babbar#_
+P241553	3. [x] 2(asz@c)#? _ma-na_ [x] 2(asz@c)#? GIN2#-DILMUN _ku3:babbar_
+P241553	6. 2(asz@c) _ma-[na]_ 1 0(asz@c) [n gin2 dilmun] ku3:babbar
+P241553	3. 2(asz@c) _ma-na_ |SZU2+SZA| [n] gin2 dilmun _ku3:babbar#_
+P241553	1. 6(asz@c) gin2 dilmun _ku3:babbar_
+P241553	4. 1(u@c) 6(asz@c) gin2 dilmun _ku3:babbar_
+P241553	6. 5(asz@c) gin2 dilmun _ku3:babbar_
+P241553	1. AN-SZE3-GU2 1(asz@c) mi-at 1(asz@c) _ma-na_ 1(u@c) 1(asz@c) gin2 dilmun _ku3:babbar_
+P241578	4. 1(u@c) 4(asz@c) GIN2-DILMUN _ku3:babbar_
+P241578	3. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P241578	2. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P241578	7. 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P241578	4. 6(asz@c) GIN2-DILMUN _ku3:babbar_
+P241578	1. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P241578	3. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P241578	1. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P241578	3. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P241578	7. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P241578	5. 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P241582	2. 3(asz@c) _ma-na_ 1(u@c) 4(asz@c) gin2 dilmun _ku3-sig17_
+P241582	2. SZA-PI gin2 dilmun _ku3:babbar_
+P241582	5. 1(asz@c) _ma-na_ |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P241582	5. 1(asz@c) _ma-na_ SZA-PI-6(disz) gin2 dilmun _ku3:babbar_
+P241582	7. 3(asz@c) _ma-na_ 1(u@c) gin2 dilmun _ku3:babbar_
+P241582	1. 5(u@c) gin2 dilmun _ku3:babbar_
+P241582	2. AN-SZE3-GU2 4(u@c) _la2_ 3(disz@t) 1(u@c) gin2 dilmun _ku3:babbar_
+P241582	7. SZA-PI gin2 dilmun _ku3-sig17_ 1(asz@c) _dib_
+P241582	11. 1(asz@c) _ma-na_ |SZU2+SZA| gin2 dilmun _ku3-sig17_
+P241582	1. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P241585	1. [n] 2(asz@c) _ma#-[na]_ TAR _la2_ 2(disz@t) gin2 dilmun _ku3:babbar_
+P241585	3. 7(asz@c) _ma-na_ 1(u@c) 6(asz@c@90) gin2 dilmun _ku3:babbar_
+P241585	5. 4(asz@c) _ma-na_ SZA-PI gin2 dilmun _ku3:babbar_
+P241585	2. 1(asz@c) _ma-na_ 2(asz@c@90) gin2 dilmun _ku3:babbar_
+P241585	4. 5(asz@c) _ma-na_ 1(u@c) 8(asz@c@90) gin2 dilmun _ku3:babbar_
+P241585	1. 5(asz@c) _ma-na_ 1(u@c) 2(asz@c@90) gin2 dilmun _ku3:babbar_
+P241585	4. 6(asz@c) _ma-na_ TAR-4 gin2 dilmun _ku3:babbar_
+P241585	2. 2(asz@c) gin2 dilmun _ku3:babbar_
+P241585	5. 5(asz@c) _ma-na_ 1(u@c) 8(asz@c@90) gin2 dilmun _ku3:babbar_
+P241602	2. 3(asz@c) _ma-na_ SZA-PI-4 GIN2-DILMUN
+P241602	2. 7(asz@c) _ma-na_ 5(u@c) GIN2-DILMUN _ku3:babbar_
+P241602	1. 2(asz@c) _ma-na_ |SZU2+SZA| GIN2-DILMUN _ku3-sig17_
+P241664	2. 4(u@c) _an-na_-DILMUN-MAH# SZUM
+P241664	1. _masz-masz_ 2(u@c) _an-na_-DILMUN _tur-tur_
+P241706	1. 3(asz@c) _ma-na_ SZA-PI 6(asz@c) 1/2(asz@c) GIN2-DILMUN _ku3-sig17_
+P241706	2. 1(u@c) 3(asz@c) 1/2(asz@c) GIN2-DILMUN _ku3-sig17_ al6
+P241707	1. 1/2(asz@c) GIN2-DILMUN _ku3-sig17_
+P241707	1. 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P241738	1. SZA-PI-7 gin2 dilmun _ku3:babbar_
+P241738	6. 7(asz@c) gin2 dilmun _ku3:babbar_
+P241738	6. 9(asz@c) gin2 dilmun _ku3:babbar_
+P241738	2. 5(asz@c) gin2 dilmun _ku3:babbar_
+P241738	8. 1(u@c) gin2 dilmun _ku3:babbar_
+P241738	1. 4(asz@c) gin2 dilmun _ku3:babbar_
+P241738	4. 7(asz@c) gin2 dilmun _ku3:babbar_
+P241738	7. 1(u@c) 8(asz@c) gin2 dilmun _ku3:babbar_
+P241738	3. 2(asz@c) gin2 dilmun _ku3:babbar_
+P241738	7. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P241738	1. [7(asz@c)] GIN2#-DILMUN# _ku3:babbar#_
+P241738	5. 1(asz@c) _ma-na_ |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P241738	3. 5(asz@c) gin2 dilmun _ku3:babbar_
+P241738	7. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P241738	5. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P241738	1. 1(u@c) 3(asz@c) gin2 dilmun _ku3:babbar_
+P241738	1. AN-SZE3-GU2 5(asz@c) _ma-na_ 4(asz@c) gin2 dilmun _ku3:babbar_
+P241785	1. szanapi{pi} 5 GIN2-DILMUN gu4-si-me _ku3-sig17_
+P241785	3. 6(asz@c) GIN2-DILMUN _ku3-sig17_
+P241785	2. 4(asz@c) GIN2-DILMUN _ku3-sig17_
+P241792	1. |SZU2+SZA| GIN2-DILMUN _ku3-sig17_
+P241792	1. |SZU2+SZA| GIN2-DILMUN _ku3-sig17_
+P241799	2. 1(u@c) 5(asz@c) gin2 dilmun _ku3-sig17_ 2(asz@c) _gesztux(|gesz.PI|)-lax(BAR)_
+P241799	7. [n] gin2 dilmun _ku3-sig17_
+P241799	2. 1(u@c) gin2 dilmun _ku3-sig17_
+P241799	8. _1(asz@c) ma-na 1(u@c) 5(asz@c@90) gin2 dilmun ku3-sig17_
+P241965	9. 6(asz@c) _ma-na_ 1(u@c) 5(asz@c@90) GIN2-DILMUN _ku3:babbar_
+P241965	11. 5(asz@c) _ma-na_ SZA-PI GIN2-DILMUN _ku3:babbar_
+P241965	9. |SZU2+SZA|-2 GIN2-DILMUN _ku3:babbar_
+P241965	4. 6(asz@c) _ma#-[na]_ 1(u@c) 5(asz@c@90) GIN2#-DILMUN _ku3:babbar_
+P241965	5. 4(asz@c) _ma-na_ SZA-PI GIN2-DILMUN _ku3:babbar_
+P241965	3. 1(u@c) 7(asz@c) GIN2-DILMUN _ku3:babbar_
+P241965	8. |SZU2+SZA| GIN2-DILMUN _ku3:babbar_
+P241965	2. 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P241965	10. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P241965	5. |SZU2+SZA| GIN2-DILMUN _ku3:babbar_
+P241965	10. SZA-PI-5 GIN2-DILMUN _ku3:babbar_
+P241965	6. 1(u@c) GIN2-DILMUN _ku3-sig17_
+P241965	6. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P241965	3. 1(u@c) 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P241965	2. 1(u@c) 8(asz@c) _ma-na_ 5(u@c) 2(asz@c) GIN2-DILMUN _ku3-sig17_
+P242000	5. DILMUN-_ku5_
+P242000	8. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P242000	11. 2(asz@c) _ma-na_ 1(u@c) 4(asz@c@90) gin2 dilmun _ku3:babbar_
+P242000	9. 1(asz@c) _ma-na_ 1(u@c) 2(asz@c@90) gin2 dilmun _ku3:babbar_
+P242000	6. 5(u@c) 1(asz@c) gin2 dilmun _ku3:babbar_
+P242000	1. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P242000	6. 1(u@c) 1(asz@c) _ma-na_ |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P242000	3. 5(u@c) 1(asz@c) _ma-na_ 5(asz@c) gin2 dilmun _ku3:babbar#_
+P242000	5. [1(u@c) _ma-na]_ 1(u@c) 3(asz@c) [GIN2]-DILMUN# _ku3-sig17_
+P242000	3. 4(asz@c) _ma-na_ SZA#-[PI gin2 dilmun] _[ku3]:babbar#_
+P242000	10. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P242000	1. 1(u@c) gin2 dilmun _ku3:babbar_
+P242000	5. |SZU2+SZA| gin2 dilmun# [ku3]:babbar
+P242000	8. 1(u@c) [n] _ma-na#_ SZA-PI-5 gin2 dilmun _ku3:babbar nig2-sa10 szu bala ak ku3-sig17 nig2-ba dingir-dingir-dingir_
+P242000	4. 5(asz@c) gin2 dilmun _ku3:babbar_
+P242000	1. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P242000	4. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P242000	3. 1(u@c) gin2 dilmun _ku3:babbar_
+P242000	4. [AN-SZE3]-GU2 [n _ma]-na#_ [n GIN2]-DILMUN# _ku3:babbar_
+P242000	2. AN-SZE3-GU2 1(asz@c) mi-at 4(u@c) 7(asz@c) _ma_ 5(u@c) gin2 dilmun _ku3:babbar_
+P242183	7'. 1(asz@c) _tug2 dar_ 1(asz@c) _ti_{tug2} _u2-hab2_ 1(asz@c) gin2 dilmun _ku3-sig17_
+P242183	12'. 1(asz@c) gin2 dilmun _ku3-sig17_ 1(asz@c) _ku3-sal_
+P242202	1'. [n] GIN2-DILMUN _ku3:babbar_
+P242202	4'. 1/2(asz@c) GIN2-DILMUN _ku3:babbar_
+P242202	2'. 1(asz@c)#? [x GIN2-DILMUN] _ku3:babbar_
+P242205	1'. 9(asz@c) _ma-na_ SZA-PI-2(disz) gin2 dilmun _ku3:babbar_
+P242205	2'. 2(u@c) _ma-na_ 1(u@c) 2(asz@c) gin2 dilmun _ku3:babbar_
+P242211	1'. _lu2_ szu-ma-lik 1(asz@c) _zara6{tug2}_ 2(asz@c) bu-DI |GA2xLA2| |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P242226	1'. 3(asz@c) _ma-na_ 1(u@c) GIN2-DILMUN _ku3:babbar_
+P242226	3'. 4(asz@c) GIN2-DILMUN _ku3-sig17_
+P242226	2'. 1(asz@c) _ma-na_ 8(asz@c) 1/2(asz@c) GIN2-DILMUN _ku3:babbar_
+P242226	4'. 1(u@c) 3(asz@c) 2-NI GIN2-DILMUN _ku3-sig17_
+P242227	5'. _1(asz@c) ma-na 1(u@c) 5(asz@c) gin2 dilmun ku3:babbar_
+P242227	8'. _3(asz@c) ma-na_ 5(u@c) gin2 dilmun [...]
+P242227	1'. [n] 4(asz@c)#? _[ma-na]_ |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P242227	3'. _1(asz@c)#? ma-na szanapi{pi} gin2 dilmun# _ku3#-sig17_
+P242227	4'. 2(u@c) _gir2 mar-tu ti ku3-sig17_ 3(asz@c) gin2 dilmun x x
+P242227	2'. _1(u@c) 3(asz@c) ma-na |SZU2+SZA| gin2 dilmun ku3:babbar_
+P242227	1'. [n] gin2 dilmun _ku3:babbar_
+P242227	3'. 7(asz@c) gin2 dilmun _ku3:babbar_
+P242227	6'. 4(asz@c) gin2 dilmun _ku3:babbar_
+P242266	2'. 5(u@c) GIN2-DILMUN _ku3-sig17_
+P242266	5'. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P242266	1'. 1(asz@c) _ma-na_ |SZU2+SZA| GIN2-DILMUN _ku3:babbar_
+P242266	6'. 1(u@c) 5(asz@c) [GIN2-DILMUN] _ku3#:babbar_ [...]
+P242276	1'. [...] GIN2#-DILMUN _ku3:babbar_
+P242276	2'. 1(asz@c) _ma-na_ 1(u@c) 2(asz@c) GIN2-DILMUN _ku3:babbar_
+P242276	4'. 1(u@c) 3(asz@c) GIN2-DILMUN _ku3:babbar_
+P242280	1'. |SZU2+SZA| GIN2-DILMUN _an-na_
+P242280	1'. 1(u@c) GIN2#-[DILMUN] _an-na_
+P242280	6'. 8(asz@c) GIN2-DILMUN _an-na_
+P242283	1'. 1(u@c) 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P242283	1'. 6(asz@c) GIN2-DILMUN _ku3-sig17_
+P242283	2'. 3(asz@c) GIN2-DILMUN _ku3-sig17_
+P242283	2'. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P242312	3'. |SZU2+SZA| GIN2-DILMUN _ku3-sig17_
+P242312	3'. [n] 3(asz@c) [GIN2-DILMUN n] ku3-sig17#
+P242312	7'. 1(asz@c) _ma-na_ 1(u@c) 1(asz@c) gin2 dilmun _ku3-sig17_
+P242312	2. |SZU2+SZA|-9(asz@c) gin2 dilmun _ku3-sig17_
+P242312	1'. [...] x [GIN2]-DILMUN# _[ku3]-sig17#_
+P242312	5'. 5(u@c) GIN2-DILMUN _ku3-sig17_
+P242312	1'. 5(u@c) GIN2-DILMUN _ku3-sig17_
+P242312	1'. 4(asz@c) GIN2#-DILMUN _ku3-sig17_
+P242312	5'. 1(u@c) 2(asz@c) GIN2-DILMUN _ku3-sig17_
+P242312	6'. 4(asz@c) GIN2-DILMUN _ku3-sig17_
+P242312	1. AN-SZE3-GU2 1(u@c) _ma#-na_ 1(u@c) 2(asz@c)#? [x GIN2-DILMUN ...]
+P242312	4'. 1(asz@c) GIN2-DILMUN _ku3-sig17_
+P242312	7'. 8(asz@c) GIN2-DILMUN _ku3-sig17_
+P242333	4'. 3(asz@c) GIN2-DILMUN# [...]
+P242333	3'. 1(u@c) 3(asz@c) GIN2-DILMUN _ku3:babbar_
+P242333	1'. [n] GIN2-DILMUN _ku3:babbar_
+P242333	4'. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P242360	1'. [n] 3(u@c)# 2(asz@c)# _ma-na_ |SZU2+SZA| 1(asz@c) 1/2(asz@c) GIN2-DILMUN _ku3-sig17_
+P242362	1. _1(asz@c) ma-na 1(asz@c@90) gin2 dilmun ku3-sig17_
+P242366	1'. 1(u@c) gin2 dilmun _ku3:babbar_
+P242366	4'. 1(asz@c) _ma-na_ |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P242378	1'. [n] gin2 dilmun# [ku3]-sig17#
+P242378	6'. 1(asz@c) gin2 dilmun _ku3:babbar_
+P242378	3'. ku5 2(asz@c) gin2 dilmun _ku3-sig17_
+P242378	5'. |SZU2+SZA| gin2 dilmun _ku3-sig17_
+P242378	2'. 3(asz@c) gin2 dilmun _ku3-sig17_
+P242378	3'. 8(asz@c) gin2 dilmun _ku3:babbar_
+P242378	5'. 2(asz@c) gin2 dilmun _ku3-sig17_
+P242378	7'. 1(u@c) 6(asz@c) gin2 dilmun _ku3:babbar_
+P242378	9'. 4(asz@c) gin2 dilmun _ku3-sig17_
+P242378	4'. 1(u@c) 2(asz@c) gin2 dilmun _ku3-sig17_
+P242378	2'. 6(asz@c) gin2 dilmun _ku3:babbar_
+P242378	7'. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P242389	4. 1(asz@c) _dib_ |GA2xLA2| |SZU2+SZA|-5(asz@c) gin2 dilmun _ku3-sig17_
+P242389	8. 1(asz@c) _dib_ |GA2xLA2| |SZU2+SZA|-5(asz@c) gin2 dilmun _ku3-sig17_
+P242398	3'. |SZU2+SZA|-5 GIN2-DILMUN _ku3-sig17_
+P242398	1'. [...] x x |GA2xLA2| 2(u@c) 4(asz@c) GIN2-DILMUN _ku3-sig17_
+P242411	6'. 1(asz@c) _zara6{tug2}_ 2(asz@c) bu-DI |GA2xLA2| gin2 dilmun TAR _ku3:babbar_
+P242452	6'. DILMUN-_kur6_
+P242467	4. 1(u@c) 2(asz@c) GIN2-DILMUN _ku3:babbar_
+P242470	1. 3(asz@c) GIN2-DILMUN _ku3-sig17_
+P242499	2. |SZU2+SZA| GIN2-DILMUN _ku3:babbar_
+P242499	2. 4(asz@c) GIN2-DILMUN _ku3:babbar_
+P242514	1'. [...] gin2 dilmun _ku3:babbar_
+P242519	1'. |SZU2+SZA|# GIN2-DILMUN _ku3-sig17_ 1(asz@c) _dib_
+P242519	1'. |SZU2+SZA|# GIN2-DILMUN _ku3-sig17_ 2(asz@c) bu-DI
+P242531	4'. 1(u@c) 3(asz@c) GIN2-DILMUN _ku3:babbar_
+P242531	7'. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P242531	1'. [n GIN2]-DILMUN# _ku3:[babbar]_
+P242534	1. |GA2xLA2| 1(asz@c) _ma-na_ 4(asz@c) gin2 dilmun _ku3-sig17_
+P242534	5. 1(asz@c) _ma-na_ 1(u@c) 5(asz@c@90) GIN2-[DILMUN ...]
+P242534	2'. 7(asz@c) _ma-na_ SZA-PI GIN2#-[DILMUN] _[ku3]:babbar#_
+P242534	3'. 1(u@c) gin2 dilmun _ku3-sig17_
+P242534	1'. [...] 1(u@c)#? [x] GIN2#-DILMUN# _ku3:babbar_
+P242534	1'. [...] SZA-PI#-4 gin2 dilmun _ku3-sig17_
+P242538	2'. 6(asz@c) 2-NI GIN2-DILMUN# _ku3-sig17_
+P242543	1'. [... n] GIN2#-DILMUN _ku3:[babbar]_
+P242543	4'. 1(asz@c) GIN2-DILMUN _ku3:babbar_
+P242543	3'. TAR _ku3:babbar_ 3(asz@c) GIN2-DILMUN _ku3:babbar_
+P242553	1'. [n?] 2(u@c) GIN2-DILMUN _ku3:babbar_
+P242553	10'. 6(asz@c) GIN2-DILMUN _ku3:babbar_
+P242585	2'. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P242589	1'. [...] GIN2#-DILMUN# [n] bu-DI
+P241494	2'. 4(asz@c) GIN2-DILMUN _ku3-sig17_
+P241494	5'. 8(asz@c)# GIN2-DILMUN [...]
+P242598	2'. 1(asz@c) gin2 dilmun _ku3-sig17_ 2(asz@c) _gesztux(|GISZ.PI|)-la2_
+P242616	4. 8(asz@c) GIN2-DILMUN _ku3:babbar_
+P242616	8. 3(asz@c) GIN2-DILMUN _ku3:babbar_
+P242616	1. |SZU2+SZA| GIN2-DILMUN _ku3-[sig17_ ...]
+P242620	5'. 1(asz@c) _dib_ |GA2xLA2| SZA-PI gin2 dilmun _ku3-sig17_
+P242627	3'. 10? GIN2-DILMUN _ku3-sig17_
+P242627	1'. [...] 8(asz@c) GIN2#-DILMUN _ku3:babbar_
+P242627	4'. |SZU2+SZA|-3 GIN2-DILMUN _ku3:babbar_
+P242627	2'. 6(asz@c) GIN2-DILMUN _ku3:babbar_
+P242629	1'. 1(u@c) 5(asz@c) GIN2-DILMUN _ku3-sig17_
+P242632	4'. 1(u@c) 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P242636	1'. 1(u@c) 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P242665	4. 1(asz@c) _dib szanapi{pi} gin2 dilmun _ku3-sig17_
+P242686	2'. DILMUN-_ku5_
+P242710	3'. 5(asz@c) 1/2(asz@c) GIN2-DILMUN _babbar# ku3#-sig17#_
+P242710	1'. 4(asz@c) _ma-na_ |SZU2+SZA| GIN2-DILMUN# [...]
+P242720	2'. 1(u@c) 3(asz@c) GIN2-DILMUN _a-gar5-gar5_
+P242720	3'. 1/2(asz@c) GIN2-DILMUN _an-na_
+P242729	5'. 4(asz@c) gin2 dilmun _ku3:babbar#_
+P242732	1'. [N GIN2]-DILMUN _ku3-sig17_
+P242732	4'. |SZU2+SZA| GIN2-DILMUN _ku3-sig17_
+P242732	2'. 1(asz@c) 1/2(asz@c) GIN2-DILMUN _ku3-sig17_
+P242740	1. 1(asz@c) GIN2-DILMUN _ku3:babbar_
+P242775	1'. [...] |GA2xLA2| [x(-x)] 6(asz@c) _ma-[na]_ |SZU2+SZA| GIN2-DILMUN _zabar_ [...]
+P242777	1'. [1(asz@c)] DIB |GA2xLA2| SZA-PI GIN2-DILMUN _ku3-sig17_
+P242782	3'. 1(asz@c) _dib_ SZA-PI gin2 dilmun _ku3-sig17_ [...]
+P242783	4'. 1(asz@c) _dib_ SZA-PI gin2 dilmun _ku3-sig17_
+P242783	2. 1(asz@c) _ib2-la2_ 1(asz@c@90) si-ti-dum 1(asz@c) _gir2 kun_ SZA-PI gin2 dilmun [KU3]-GI
+P242806	4'. |SZU2+SZA| GIN2-DILMUN _ku3-sig17_ 1(asz@c) _dib_
+P242818	6'. SZA-PI GIN2-DILMUN _ku3-sig17_ [...]
+P242818	2'. 1(u@c) 2(asz@c) 1/2(asz@c) GIN2-DILMUN _ku3-[sig17]_
+P242820	3'. 1(u@c) 5(asz@c) gin2 dilmun _ku3-sig17_
+P242823	4'. 1(asz@c) 1/2(asz@c) gin2 dilmun _[ku3]-sig17_ [n] KU3-_sal_
+P242826	4'. szanapi{pi} 5 gin2 dilmun _an-na_
+P242826	4'. |SZU2+SZA| gin2 dilmun _an-na_
+P242826	9'. TAR-8 gin2 dilmun _an-na#_
+P242826	1'. _3(asz@c) ma-na_ |SZU2+SZA| gin2 dilmun _an-na_
+P242836	3'. 5(asz@c) GIN2-DILMUN _ku3-sig17_ 1(asz@c) _dib_
+P242861	2'. 1(asz@c) _ib2-la2_ 1(asz@c) _gir2 kun_ SZA-PI gin2 dilmun _ku3:babbar_
+P242877	1. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P242877	6. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P242928	5'. 1(asz@c) tug2-NI-NI 2(asz@c) gu2-li-lum 6(asz@c) gin2 dilmun 2-NI _ku3-sig17_
+P242951	5. 8(asz@c) gin2 dilmun _ku3-sig17_
+P242951	6. 1(asz@c) _dib_ 1(asz@c@90) _ma-na_ SZA-PI gin2 dilmun _ku3-sig17_
+P242951	3'. DILMUN-_ku5_
+P242951	7'. DILMUN-_ku5_
+P242960	1'. [x] 5(u@c)#? 3(asz@c)# GIN2-DILMUN _ku3-sig17 sa6_
+P242960	2'. 1(u@c) 7(asz@c) _ma-na_ SZA-PI GIN2-DILMUN [...]
+P242968	1. [n] GIN2-DILMUN
+P242968	3. 2(asz@c) _ma-na_ 5(u@c) 3(asz@c@90) GIN2-DILMUN _ku3:babbar_
+P242997	4'. DILMUN-_ku5_
+P243003	2'. 1(asz@c) _dib_ SZA-PI GIN2-DILMUN _ku3-sig17_
+P243006	2'. 7(asz@c) gin2 dilmun _ku3:babbar_
+P243011	3'. |SZU2+SZA| gin2 dilmun _ku3:babbar_ 1(u@c) _gesztux(|GISZ.PI|)-la2_
+P243075	4'. 5(u@c) 8(asz@c) gin2 dilmun _ku3:babbar_
+P243086	4'. DILMUN-_ku5_
+P243086	3'. DILMUN-_ku5_
+P243092	1'. 1(asz@c) _dib_ |SZU2+SZA| GIN2-DILMUN _ku3-sig17_
+P243103	2'. DILMUN-_ku5_
+P243112	1'. _dilmun#-ku5_
+P243647	12. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P243647	6. 1(u@c) 2(asz@c) GIN2-DILMUN _ku3:babbar_
+P245311	1. [|GA2xLA2|] x gin#-[DILMUN]
+P245311	3. |GA2xLA2| [x] gin2-[DILMUN]
+P246947	1'. 6(asz@c)# _ma-na_ 5(u@c) gin2 dilmun _ku3-sig17_
+P246950	5. 1(u@c) 5(asz@c) gin2 dilmun _ku3-sig17_
+P246958	3'. 5(u@c) gin2 dilmun _ku3-sig17_
+P246958	1'. 1(asz@c) _ma-[na] szanapi{pi} gin2 dilmun _ku3:babbar_
+P246958	11'. 1(u@c) 2(asz@c) gin2 dilmun _ku3:babbar_
+P246958	5'. szanapi{pi} gin2 dilmun _ku3-sig17_
+P246958	10'. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P246958	13'. 1(u@c) gin2 dilmun _ku3:babbar_
+P246958	18'. 7(asz@c) gin2 dilmun _ku3:babbar_
+P246958	6'. 1(u@c) gin2 dilmun _ku3-sig17_
+P246958	2'. |SZU2+SZA| gin2 dilmun _ku3:babbar_
+P246958	5'. 1(u@c) gin2 dilmun _ku3:babbar_
+P246958	16'. szanapi{pi} gin2 dilmun _ku3:babbar_
+P247815	7. [dar] me-luh-ha{muszen} = %a s,u-la-mu
+P247857	18. uruda DUN3@g dilmun{ki} = %a [...]-su-ga?  = %a szu#-pa-al-iu2
+P247878	15'. [... ina] _{gesz}u3-szub {gesz}esi {gesz}mes-ma2-gan-na_
+P256690	16. u4 ma2 ma2-gan ba-su-a-[x]
+P257212	14. u4 {gisz}ma2 ma2-gan-na ba#-[x x]-ba
+P262937	2'. [x] gin2# dilmun#[{ki}] [...]
+P266239	13-15. geszimmar dilmun ku3-gin7 {d}nin-e2-gal-ke4 mu10 zi du10-ga-me-en3
+P269938	7. e2#-tilmun#-na#
+P272531	2. dilmun(|NI.TUK|){zabar}
+P272531	3. dilmun(|NI.TUK|)-ti{zabar}
+P272531	2. dilmun(|NI.TUK|){zabar}
+P272531	3. dilmun(|NI.TUK|)-ti{zabar}
+P272904	7. e2-tilmun-na
+P278661	4. uruda?-gin2-dilmun-[...]
+P283844	9. kab-bi {gesz}ab-ba me-luh-ha-kam
+P290473	5. lu2-ma2-gan
+P290566	2. szum2-ha-din e2-duru5 lu2 ma2-gan-ka-ta
+P290855	4. ugula lu2-ma2-gan-na
+P291388	7. e2-tilmun-na
+P291992	3. 2(u) 2(disz) gurusz ugula lu2-ma2-gan
+P303504	4. 1(disz) masz2 ga ma2-gan
+P304570	7. e2-tilmun-na
+P315280	3. lugal-dilmun
+P315437	5'. TAR-5 gin2 dilmun [...]
+P315437	3'. 1(asz@c) gin2 dilmun _ku3:babbar_
+P315437	4'. 1(u@c) gin2 dilmun _ku3:babbar_
+P315437	1'. [...] 3(asz@c) gin2 dilmun _ku3:babbar_
+P315437	5'. 3(asz@c) gin2 dilmun _ku3:babbar_
+P315437	1'. [... GIN2]-DILMUN# _ku3-sig17_
+P315437	4'. |SZU2+SZA| _la2_ 1(disz@t)/2 gin2 dilmun _ku3:babbar_
+P315437	5'. 9(asz@c) gin2 dilmun _ku3-sig17_
+P315437	4'. 6(asz@c) gin2 dilmun _ku3:babbar_
+P315437	3'. 3(asz@c) gin2 dilmun _ku3:babbar_
+P315437	6'. 2(asz@c) gin2 dilmun _ku3:babbar_
+P315459	7'. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P315459	4'. 2(asz@c) _ma-na_ |SZU2+SZA| GIN2-DILMUN _ku3:babbar_
+P315459	8'. 3(asz@c) _ma-na_ SZA-PI-5 GIN2-DILMUN [x x]
+P315459	2'. 1(asz@c) GIN2-DILMUN _ku3:babbar_
+P315459	4'. 1(u@c) 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P315459	1'. 9(asz@c) GIN2-DILMUN _ku3:babbar_
+P315459	6'. SZA-PI GIN2-DILMUN _ku3:babbar_
+P315459	2'. 8(asz@c) GIN2-DILMUN _ku3:babbar_
+P315459	6'. 5(u@c) 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P315459	8'. 1(u@c) 1(asz@c) GIN2-DILMUN _ku3-sig17_
+P315459	3'. 6(asz@c) GIN2-DILMUN _ku3-sig17_
+P315459	7'. 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P315459	9'. 1(asz@c) GIN2-DILMUN _ku3-sig17_
+P315459	3'. 6(asz@c) 2-NI GIN2-DILMUN _ku3-sig17_
+P315459	6'. 2(asz@c) 1/2(asz@c) GIN2-DILMUN _ku3:babbar_
+P315459	8'. 1/2(asz@c) GIN2-DILMUN _ku3-sig17_
+P315459	5'. 3(asz@c) _ma-na_ |SZU2+SZA| GIN2-DILMUN _ku3:babbar_
+P315460	1'. [...] |SZU2+SZA| GIN2-DILMUN _ku3:babbar_
+P315460	4. 1(u@c) 5(asz@c) GIN2#-[DILMUN _ku3:babbar]_
+P315460	1. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P315460	4. 1(u@c) 5(asz@c) GIN2-DILMUN _ku3:babbar_
+P315460	2. 7(asz@c) 1/2(asz@c) GIN2-DILMUN _ku3:babbar_
+P315460	6. 6(asz@c) GIN2-DILMUN _ku3:babbar_
+P315460	4. 3(asz@c) GIN2-DILMUN _ku3:babbar_
+P315460	7. 4(asz@c) GIN2-DILMUN [...]
+P315460	1. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P315460	5. 6(asz@c) _ma-na_ |SZU2+SZA|-8(asz@c) GIN2-DILMUN _ku3:babbar_
+P315460	3. SZA-PI 3(asz@c) 1/2(asz@c) GIN2-DILMUN _ku3:babbar_
+P315460	6. 9(asz@c) GIN2-DILMUN _ku3:babbar_
+P315460	6. 2(asz@c) GIN2-DILMUN _ku3:babbar_
+P315460	2. 1(u@c) GIN2-DILMUN _ku3:babbar_
+P315460	8. 2(asz@c) GIN2-DILMUN _ku3:babbar_
+P315460	1. 1(asz@c) 1/2(asz@c) GIN2-DILMUN _ku3:babbar_
+P315460	5. 1(u@c) _ma-na_ |SZU2+SZA| GIN2-DILMUN _ku3:babbar_
+P315460	1. 4(asz@c) GIN2-DILMUN _ku3-sig17_
+P315460	3. |SZU2+SZA| GIN2-DILMUN _ku3:babbar#_
+P315657	6. lu2 ma2-gan{ki}
+P315659	1. 2(disz) udu lu2-ma2-gan
+P317410	2. ki lu2-ma2-gan{ki}-ta
+P317481	2. ki lu2-ma2-gan{ki}-ta
+P318542	2. a-ru-a ur-{d}lamma dumu me-luh-ha
+P320461	29. lu2-ma2-gan{ki}
+P320461	10. lu2-ma2-gan{ki}
+P320461	17. lu2-ma2-gan{ki}
+P320486	2. {d}utu-illat sukkal u4 me-luh-ha!?{ki}-sze3 i3-gen-na
+P320487	5. ma2-gin2 ma2 ma2-gan-na#-me
+P320619	3. 1(disz) masz2 ga ma2-gan
+P320683	2. 1(disz) ud5 ma2-gan
+P322687	5. dam-<gar3> dilmun#
+P323054	3. 1(asz@c) geme2-dilmun
+P323644	5. ninda ma2# 5(asz@c)# me-luh-ha-kam
+P323768	4. dumu ma2-GAN2
+P325229	1.a. 1(N39~a) , U4 ZATU710 DILMUN
+P329097	5. 1(asz@c) udu me-luh-ha
+P332823	9'. masz2 szakanka dilmun-gin7
+P332823	14'. ganba dilmun-gin7
+P332829	8'. {na4}gug me-luh-ha
+P332830	34. {na4}gug me-luh-ha
+P332929	2. [{na4}gug] me-luh-ha
+P339022	7. [... udu] masz2 szu-gid2 lu2-ma2-gan{ki}
+P339022	12. 1(disz) masz2 niga nig2 sza3-te lu2-ma2-gan{ki}
+P339022	17. 4(disz) udu niga lu2-ma2-gan{ki}
+P340176	3. dumu lu2-ma2-gan ugula-gesz2-da us2-sa
+P340503	3. 3(barig) 3(ban2) lu2-ma2-gan{ki}
+P340534	4. diri i3-dub me-luh-ha
+P341944	4. NI.TUKU-gal
+P343004	32. urim2{ki}-ma e2-dilmun-na <ma-a-kam>
+P345597	6'. uri2{ki}-ma e2-dilmun#-na# mu-un-szub
+P345607	16. u4 ma2 ma2-gan [x x]-a-[x]
+P346135	6'. u4 ma2 ma2-gan{ki} [...]
+P346685	7'. GIN2#? dilmun#?-na sa10-sze3 si!?-ga#
+P348413	22. {na4}gug me-luh-ha
+P349874	4'. [...]-x#-la? [...] ma2-gan-na
+P356047	9. ma2-gin2 ma2-GAN2-me
+P356048	3. sze-bi 4(barig) 2(ban2) lu2-ma2-gan<{ki}>
+P356050	5. 1(barig) 1(ban2) lu2-ma2-gan{ki}
+P356478	2. gin2#-dilmun{ki}-na-sa10-sze3 il2#-[...]
+P357096	5a. dilmun{ki} kur-ra x [...] [en3?]-sze3# KA mu-na-ab-be2
+P374181	5. 2(barig) 2(ban2) lu2-ma2-gan{ki}
+P374782	2. 4(barig) 2(ban2) lu2-ma2-gan{ki}
+P374962	1. e2-duru5 me-luh-ha-ta
+P378016	2. dumu a-tu lu2 ma2-gan
+P378169	4. e2-duru5 me-luh-ha-ta
+P378198	5. 1(u) 4(disz) udu lu2-ma2-gan{ki}
+P378952	3. kiszib3 lu2-ma2-gan{ki}
+P380502	15. 1(disz) {gesz}gu-za ma2-gan-na
+P380598	2. lu2-ma2-gan{ki}
+P382354	2. ma2 me-luh-ha-sze3
+P387487	1. 1(N01) , DILMUN
+P387531	1. 1(N01) , DILMUN KU6~a
+P387723	1.b2. , DILMUN
+P388265	7. {gesz}mes ma2-gan-na
+P388265	8. {gesz}mes a-ab-ba me-luh-ha
+P388265	6. [{gesz}]ab#-ba me-luh-ha
+P390443	1. 2(u@c) su la2 dilmun? gur-ra
+P392594	6'. _{gesz}gigir-mesz ansze-kur-ra-mesz_ sza _lugal_ {kur}me-luh-ha
+P393794	13'. [...] _lugal lugal-mesz_ ni-tuk{ki} {kur}ma2-gan {kur}me-luh-ha _lugal_ kib-rat _limmu2_-tim
+P393966	39'. [x x] _{lu2#}en {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha
+P394681	28. [...] _lugal-mesz_ ni-tuk{ki} {kur}ma2-gan-na
+P394796	7'. u2-sza2-as,-bi-ta pa-nu-u-a a-na {kur}[ma-gan u3 {kur}me-luh-ha u2-sza2-asz2-kin]
+P394796	15'. ul-tu2 {kur}mu-s,ur _karasz_ ad-ke-e-ma a-na {kur}me-luh-ha usz-te-sze-ra har-ra-nu
+P412444	9. u4 {gisz}ma2 ma2-gan-na ba-su-a-ba
+P412444	10. {gisz}ma2-gur8 ma2-gan-na! ba-su-a-ba
+P421787	45. _{lu2}en {gesz}gigir-mesz dumu-mesz lugal-mesz_ {kur}mu-s,u-ra-a-a a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha bal-t,u-su-un i-na _muru2_ tam-ha-ri ik-szu-du _szu-min_-a-a
+P421788	43. a-na an-zil-li e-pu-szu ip-lah _sza3_-szu2-un _lugal-mesz_ {kur}mu-s,u-ri _{lu2}erin2-mesz {gesz}pan {gesz}gigir-mesz ansze-kur-ra-mesz_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik-te-ru-nim-ma il-li-ku re-s,u-szu2-un
+P421788	45. _{lu2}en {gesz}gigir-mesz_ u3 _dumu-mesz lugal_ {kur}mu-s,u-ra-a-a a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha bal-t,u-su-un i-na _muru2_ tam-ha-ri ik-szu-da _szu-min_-a-a
+P421789	43. a-na an-zil-li e-pu-szu ip-lah3 lib3-ba-szu2-un _lugal_ {kur}mu-s,u-ri _{lu2}erin2-mesz {gesz}pan {gesz}gigir-mesz ansze-kur-ra-mesz_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik-te-ru-nim-ma il-li-ku re-s,u-szu2-un
+P421789	45. _{lu2}en {gesz}gigir-mesz dumu-mesz lugal-mesz_ {kur}mu-s,u-ra-a-a a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ me-luh-ha bal-t,u-su-un i-na _muru2_ tam-ha-ri ik-szu-da _szu-min_-a-a
+P421790	43. a-na an-zil-li e-pu-szu ip-lah3 _sza3_-szu2-un _lugal-mesz_ {kur}mu-s,u-ri _{lu2}erin2-mesz {gesz}pan {gesz}gigir-mesz ansze-kur-ra-mesz_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik-te-ru-nim-ma il-li-ku re-s,u-su-un
+P421790	45. _{lu2}en {gesz}gigir-mesz_ u3 _dumu-mesz lugal-mesz_ {kur}mu-s,u-ra-a-a a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha bal-t,u-su-un i-na _muru2_ tam-ha-ri ik-szu-da _szu-min_-a-a
+P422273	12. _ansze-kur-ra-mesz_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi
+P422273	19. a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha
+P422299	6'. [...] sza# _lugal_ {kur}me-luh-ha
+P422299	13'. a-di {lu2}[x] _{gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha
+P422612	34'. [x x] {kur}me-luh-ha bal-t,u-su-un
+P424917	4'. [...] sza _lugal_ {kur}me-luh-ha e-mu-qi2# [...]
+P429584	1. 1(N45) 5(N14) , U4 LAGAB~b TE DILMUN? A EN~a DU X X
+P429779	34. {gesz}geszimmar dilmun ku3-gin7 {d}nin-e2-gal-ke4 mu10 zi du11-ga-me-en3
+P430082	75. _ansze-kur-ra-mesz_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 [la ni-bi]
+P431035	4. ma2 dilmun
+P431038	10. [ma2] dilmun
+P431039	8'. ma2 dilmun
+P431051	31. ma2 dilmun
+P431054	31. ma2 dilmun
+P431056	16. ma2 dilmun
+P431057	16. ma2 dilmun
+P431060	1'. ma2 dilmun
+P304570	7. e2-tilmun-na
+P431881	240. ma2-gan me-luh-ha kur-bi-ta im-ma-ta-e11-de3
+P431881	394. ma2-gan me-luh-ha kur-bi-ta gu2 gesz mu-na-ab-gal2
+P431881	443. gug gi-rin-e me-luh-ha-ta
+P431882	328. uruda nagga lagab za-gin3-na ku3 NE gug gi-rin me-luh-ha-da
+P431883	21. kur ma2-gan{ki}-ta
+P431884	157. kur me-luh-ha
+P431884	170. kur me-luh-ha-ta
+P431884	217. kur ma2-gan{ki}-ta
+P431885	43. kur ma2-gan{ki}-ta
+P431886	57. ma2-gan{ki}
+P431886	58. me-luh-ha{ki}
+P431886	60. kur dilmun{ki}
+P431886	65. hur-sag ma2-gan{ki}-ta
+P431887	165. kur ma2-gan{ki}-ta
+P431889	36. kur ma2-gan{ki}-ta
+P431890	14. kur ma2-gan{ki}-ta
+P431892	4. kur ma2-gan{ki}-ta
+P432127	14. ma2 ma2-gan szu-na mu-ni-gi4
+P432128	4. ma2 ma2-gan-na
+P432130	16. ma2 ma2-gan{ki}
+P514511	110'. _e2 dilmun_-sza
+P432309	9. ur gun3-a me-luh-ha{ki}
+P448418	32. e2-tilmun-na
+P423961	5. [_disz_] i-na _egir#_ na-as,-ra-ap-tim me-eh-ri-it ni-ri-im zi-hu na-di _{gesz}ma2_ dilmun{ki} i-t,e-bu
+P450283	43. a-na an-zil-li e-pu-szu ip-lah3 lib3-ba-szu2-un _lugal_ {kur}mu-s,u-ri _{lu2}erin2-mesz {gesz}pan {gesz}gigir-mesz ansze-kur-ra-mesz_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik-te-ru-nim-ma il-li-ku re-s,u-szu2-un
+P450283	45. _{lu2}en {gesz}gigir-mesz dumu-mesz lugal-mesz_ {kur}mu-s,u-ra-a-a a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ me-luh-ha bal-t,u-su-un i-na _muru2_ tam-ha-ri ik-szu-da _szu-min_-a-a
+P450300	14'. [_...]-ra#-mesz_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik#-[...]
+P450300	16'. [...] me-luh-ha bal-t,u-su-un i-na _muru2#_ [...]
+P450362	34. a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha#
+P450365	4'. [sza _lugal_ {kur}me-luh-ha] e-mu-qi2 la ni-bi
+P453663	5. 1(disz) tug2 guz-za du {d}isz-ma2-gan2?
+P453712	5. u4 ma2 ma2-gan igi du8-de3 im-e-re-sza-a
+P453783	1. nig2-gur11 {d}isz-ma2-gan2
+P453801	5. i3-ba lu2 me-luh-ha{ki}-me
+P454137	4. 1(asz) 1(ban2) gur lu2 me-luh-ha-me
+P285106	18. _{u2}{gesz}mes-ma2-gan-na ; a-dar ; kur_ mim-ma-sza2 _tag4_
+P461397	381. szah2 ma2-gan
+P461937	9. _ma2_ me-luh-ha{ki}
+P461937	10. _ma2_ ma2-gan{ki}
+P461937	11. _ma2 tilmun{ki}_
+P461937	11. _ma2_ me-luh-ha
+P461937	12. _ma2_ ma2-gan{ki}
+P461937	13. _ma2_ dilmun{ki}
+P461938	11'. [_ma2_ me-luh-ha]
+P461938	12'. _ma2_ [ma2-gan2{ki}]
+P461938	13'. _ma2_  [dilmun{ki}]
+P461954	7. u3 me-luh-ha{ki}
+P461979	78. ma2-gan{ki}
+P461980	2. _lugal_ ki-ib-ra-tim ar-ba-im _bur nam!-ra-ak_ ma2-gan{ki}
+P461990	10'. u3 ma2-gan{ki} ma-da [ma-da-bi] kur x [...]
+P461993	21'. ma2-gan{ki}
+P461993	26'. ma2-gan{ki}
+P462812	43. a-na an-zil-li e-pu-szu ip-lah3 lib3-ba-szu2-un _lugal_ {kur}mu-s,u-ri _{lu2}erin2-mesz {gesz}pan {gesz}gigir-mesz ansze-kur-ra-mesz_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik-te-ru-nim-ma il-li-ku re-s,u-szu2-un
+P462812	45. _{lu2}en {gesz}gigir-mesz dumu-mesz lugal-mesz_ {kur}mu-s,u-ra-a-a a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ me-luh-ha bal-t,u-su-un i-na _muru2_ tam-ha-ri ik-szu-da _szu-min_-a-a
+P462823	162'. a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha
+P462824	220. sza _lugal_ {kur}me-luh-ha bal-t,u-su-un
+P462825	198. _ansze-kur-ra-mesz_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi
+P462825	205. a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha
+P462829	4'. sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi
+P462831	152. _ansze-kur-ra-mesz_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi
+P464118	85. DILMUN ZAG~a
+P464241	3. lugal-dilmun
+P465398	10'. u3 ma2-gan{ki} ma-da [ma-da-bi] kur x [...]
+P468903	13.b. uri2{ki}-ma e2-dilmun-na mu-un-szub kur-ra ba-e-a-e11
+P227510	5'. _ma2_ ma2-gan{ki}
+P227510	6'. _ma2_ dilmun{ki}
+P469679	48. me-luh-ha{ki} lu2 kur ge6-ga-ke4
+P469688	65. dilmun{ki}-gin7 kur ki nu-zu-na {gesz}ma2-bi ba-da-ab-su
+P464911	1. 1(disz) masz2 ma2-gan niga
+P449048	4'. dumu# dilmun
+P285108	13. szur-szum-mi _zu2-lum-ma dilmun{ki} 1(disz) gin2# i3-udu_
+P251861	12'. kur ma2-gan-na an#-ta za! hi-in-ta-a-a
+P251861	1. kur me-luh-ha-ta# i-si im-ku4-ku4
+P251861	2. _i-na sza-du me-luh-ha i-szi-a#-am# u2-sze-ri-dam#_
+P251861	3. kur dilmun{ki}-na iri{ki} mar-du-ta# GU PIRIG SU# za3 im-[mi]-dib#?
+P251861	4. _i-na# sza-du-u2 tilmun-[(x)]{ki#} ma-at a-mu-ri-im [(x)] ma-ar-gi-a-am u2-sze#-[ri]-dam#-ma_
+P478856	25. uri2{ki}-ma e2-dilmun-na ma-a-kam
+P212694	8. 3(disz) ama-dilmunx(|SAL.HUB2|)
+P478898	35. {gesz}geszimmar nam-mu2 kur dilmun{ki} na-nam
+P478898	39. {gesz}geszimmar nam-mu2 kur dilmun{ki} na-nam
+P478898	40d. kur dilmun{ki} na-nam
+P304081	14. lu2-ma2-gan{ki}
+P212558	5. dumu ama-dilmunx(|SAL.HUB2|)
+P242144	2'. |SZU2+SZA| GIN2-DILMUN
+P242144	5'. 1(u@c) GIN2-DILMUN
+P242144	1'. [...] GIN2#-DILMUN _ku3:babbar_
+P242144	3'. 4(asz@c) GIN2-DILMUN _ku3-sig17_
+P242144	5'. 5(u@c) GIN2-DILMUN _ku3:babbar_
+P242144	1'. [...N+]3 [GIN2]-DILMUN _ku3:babbar_
+P242144	6'. 1(u@c) 2(asz@c) GIN2-DILMUN _ku3-[sig17_ ...]
+P242144	2'. 3(asz@c) _ma-na_ |SZU2+SZA| GIN2-DILMUN _ku3:babbar_
+P248746	2. 1(disz) masz2 ma2-gan
+P473757	10. ma-da ha-ma-zi{ki}-ta en-na a-ab-ba ma2-gan-na{ki}-sze3
+P212542	3. ma2 dilmun-sze3
+P481014	9. dilmun# enkux(ZAG)
+P481040	83. dilmun enkux(ZAG)
+P010264	7. dilmun#-tur
+P467759	3'. dumu# me-luh-ha
+P248606	3. dumu lu2-ma2-gan-na#
+P248827	4. 5(disz) lu2 lu2-ma2-gan-ka
+P249043	4. 1(disz) {gesz}gu-za-nita {gesz}ab-ba me-luh-ha uruda gar-ra
+P249043	17. 1(disz) {gesz}gu-za ma2-gan munus {gesz}mes
+P281653	8'. 1(disz) {gesz}gu-za ma2-gan munus {gesz}mes
+P324928	1'. 1(bur3@c) 2(iku@c) x la dilmun
+P330686	3. ma2-gin2 ma2-gan-na-me
+P471688	27. DILMUN TUN3~a
+P479872	265. dilmun{ki}-e gada zu2-lum a2-an-sur-bi szu ha-ma-da-ab-pesz-e
+P479857	4. a-ab-ba kur dilmun{ki}-na-ta
+P478963	39. zu2-lum dilmun-na ku7-ku7 zu2-lum sag kin-kin-e
+P478969	265. {uruda?}gin2 dilmun{ki}-na sa10-sze3 TE-ga
+P480190	113. u4 {gesz}ma2 ma2-gan{ki} ba-su-a-ba
+P469674	12. kur dilmun{ki} [...] x in-nu
+P469530	472. kur ma2-gan{ki}-ta he2-mu-e-ga2-ga2-ne
+P469664	11. kur-bala kur dilmun-na ki {d}utu e3-sze3 mu-un-ti-esz
+P469514	1. iri{ki} ku3-ku3-ga-am3 e-ne ba-am3-me-en-ze2-en kur dilmun{ki} ku3-ga-am3
+P469514	2. ki-en-gi ku3-ga e-ne ba-am3-me-en-ze2-en kur dilmun{ki} ku3-ga-am3
+P469514	3. kur dilmun{ki} ku3-ga-am3 kur dilmun sikil-am3
+P469514	4. kur dilmun{ki} sikil-am3 kur dilmun{ki} dadag-ga-am3
+P469514	5. dili-ni-ne dilmun{ki}-a u3-bi2-in-nu2
+P469514	8. dili-ni-ne dilmun{ki}-a u3-bi2-in-nu2
+P469514	11. dilmun{ki}-a uga{muszen} gu3-gu3 nu-mu-ni-be2
+P469514	31. dilmun iri mu-e-szum2 iri mu-e-szum2 nam-gu10 szum2-ma-zu
+P469514	46. dilmun{ki} a he2-gal2-la hu-mu-ra-na8-na8
+P469514	49. dilmun{ki} e2-gun2 kar-ra kalam-ma-ka he2-a
+P469514	49c. kur me-luh-ha{ki} {na4}gug nig2 al di kal-la
+P469514	49h. kur ma2-gan{ki} uruda nig2 kal-ga usu-x
+P469514	49r. dilmun{ki} ki-tusz-bi ki-tusz du10-ga-am3
+P469514	57. dilmun{ki} a he2-gal2-la im-ta-na8-na8
+P469514	61. dilmun{ki} e2-gun2 kar-ra kalam-ma-ka na-nam
+P469514	274. {d}nin-siki-la2 en ma2-gan-na he2-a
+P469514	280. {d}en-sa6-ag en dilmun-na he2-a
+P469516	124. kur me-luh-ha{ki} ma2-gan{ki} dilmun{ki}-bi
+P469516	126. {gesz}ma2 dilmun{ki}-na gesz he2-en-du3
+P469516	127. {gesz}ma2 ma2-gan{ki}-na an-za3 he2-en-la2
+P469516	128. {gesz}ma2-gi4-lum me-luh-ha{ki}-a-ke4
+P469516	219. kur me-luh-ha{ki} nam-mi-ib2-dib
+P469516	238. kur dilmun{ki}-na mu-un-sikil mu-un-dadag
+P469519	120. zu2-lum dilmun-na gur-da dab5-ba an zu2-lum za-gin3-na
+P448729	34. iri-gu10 kur dilmun{ki} nu-me-a {gesz}geszimmar ba-mu2
+P448729	35. nibru{ki} kur dilmun{ki} nu-me-a {gesz}geszimmar ba-mu2
+P326408	3. 1(asz@c) udu nu-banda3 ma2 me-luh-ha
+P274787	8. amar#-dilmun-[na?]{ki}
+P274787	12. amar#-dilmun-na#?{ki}
+P285194	8. _zu2#-lum-ma dilmun{ki} naga si i3-udu ellag udu-nita2 {szim}gur2-gur2_ {gesz}x [...] _illu_ li x [...]
+P285152	30. [x x] _gazi#{sar}_ {u2}ur2-nu-u _zu2-lum-ma dilmun{ki} 1(u) 5(disz) u2-mesz#?_ [...]
+P285153	4. [...] x x-ma _dilmun{ki}_
+P285135	4. [x] _{gesz}pesz3_ hasz-hal-lat _{gesz}ma-nu {gesz}mes ma2-gan-na_
+P285124	18'. _i3-udu {szim}gig zu2-lum-ma dilmun{ki} sze10 eme-dir_
+P281806	12. _DISZ lu2 _zi_-ib _sag-ki tuku_ u3 _su_-szu2 _gu7_-szu2 _pa!(GESZ) {gesz!(PA)}mes-ma2-gan-na had2-ra2 gaz#? [sim zi3 gu2-gal]_
+P285113	26. _[zu2-lum]-ma dilmun{ki} 6(disz) u2#-mesz szesz_ ina _kasz_ tara#-[bak ...]
+P218310	1'. dilmun# [...]
+P499147	41. dilmun
+P499148	27. gin2 dilmun
+P453272	3a. dilmun
+P499149	87. szum2 dilmun
+P241395	18. balag dilmun
+P244736	18. balag dilmun
+P499151	207. balag dilmun
+P499153	51. gal dilmun
+P242433	24. al!(DILMUN)-pad
+P242433	37. gesz DILMUN
+P242433	4. |GIN2:DILMUN|
+P278950	5'. _{gesz}geszimmar# dilmun{ki}_ = [til-mu-nu-u]
+P278950	6'. _{gesz}geszimmar# dilmun#{ki#}_ = [as-nu-u]
+P278950	8'. _{gesz}geszimmar me-luh-ha_ = [me-luh-hu-u]
+P369126	16. _zu2-lum-ma dilmun{ki} mun pap_ 1(disz) szu-szi 3(disz) _u2-hi-a_ mar-ha-s,u
+P369126	36. _zu2-lum-ma dilmun{ki} naga si_ tur-ar2 _i3-udu ellag2 udu-nita2#_
+P285265	9. _pa_ [{gesz}x ...] GA#? _pa {gesz}mes-ma2-gan-nu_
+P499408	3. 3(disz) sila3 ur-e2-dar-a ma2-gin2 ma2-gan-na
+P390701	3. {gesz}[giri3-gub] {gesz}ab-ba me-luh-ha ku3#-[babbar gar]-ra? lugal
+P365742	17. _[DISZ na sag]-du#_–su _u4-da tab_-ma u _su_-szu2 _gu7_–szu2 _sag-du_-su nu-pu-uh _pa {gesz}mes-ma2-gan-na
+P500263	5. 1(asz) me-luh-ha-ta
+P500278	13. diri 2(gesz2) 5(u) 1(barig) 3(ban2) lu2-ma2-gan{ki}
+P211422	3. lu2-ma2-gan{ki} lu2 {gesz}tukul-gu-la
+P285364	4. _pa {gesz}mes#-ma2-gan#?-na pa_ {gesz}s,a-du-ri#?
+P137518	3'. ma2-gan{ki} gu-la-kam
+P497180	3. _1(u@c) dilmun gin2 ku3-babbar_
+P500658	2. 2(disz) {gesz}gu-za ma2-gan
+P261018	13. gi-isz-ra sza _gesz-mes-ma2-gan-na
+P252707	2. ma2# dilmun? a-la2
+P253274	4. maszkim ma2 dilmun
+P252822	10. 4(iku@c) 1/2(iku@c) lugal-sag-dilmun
+P504412	3'. 1(N01) , DILMUN TUN3~a
+P504371	2. {gesz#}[geszimmar dilmun]-na gub-ba
+P285438	22. [{na4}a]-lal#-lu sa-a-bu _an-zah gug#_ me-luh-ha
+P285446	31. {na4#}asz-har _{na4}gug_ me-luh-ha
+P285444	29. _{na4}gug_ me-luh-ha
+P285447	17. _gug_ me-luh-ha hu-luh-ha _szim-bi-zi-da_
+P510527	11. _1(disz) 5/6(disz) gin2 ku3-babbar_ sza _igi-6(disz)-gal2 ku3-babbar zu2-lum dilmun-na_
+P511999	7. me-luh-ha# [x?]
+P386009	5. _nu-{gesz}kiri6_ sza _{gesz}geszimmar dilmun-na_
+P414940	13. [...] _{gesz#}ma2 dilmun-na{ki}_
+P365744	65'. szur-szum-mi _kasz-sag zu2-lum-ma dilmun{ki} 1(disz) gin2 i3-udu {szim}gig_ ina _i3-nun sud2_ te-qi2
+P365744	1. _DISZ na sag-ki gub3_–szu2 _gu7_–szu2–ma# _igi 2(gesz2) 3(u)_-szu2 nap-hat u _ir2 bal_-qi2 _zu2-lum-ma dilmun{ki}
+P346242	4. gig2-ga me-luh-ha{ki} dimx(LUGAL@s) zi3 mil lu2-tu15# [...]
+P346259	20'. u3 ma2-gan#-[...]
+P346131	11. szah2 ma2-gan-la2 gu2 i7-da-sze3 nig2-silag-ga2 kar-kar-TE?-re
+P346476	5'. uri2{ki} e2-dilmun-na{ki#} [...]
+P346477	5'. e2-dilmun{ki} [...]
+P346086	1. iri{ki} ku3-ku3-ga e-ne ba-me-en-ze2-en kur dilmun{ki} ku3-ga-am3
+P346086	2. ki-en-gi ku3-ga e-ne ba-me-en-ze2-en kur dilmun{ki} ku3-ga-am3
+P346086	3. kur dilmun{ki} ku3-ga kur dilmun{ki} szen-na
+P346086	4. kur dilmun{ki} ki sikil-la kur dilmun{ki} ku3-ga
+P346086	5. dili-gu10-ne dilmun{ki} u3-bi2-nu2
+P346086	8. dili-gu10-ne dilmun{ki} u3-bi2-nu2
+P346086	11. dilmun{ki} uga{muszen} KA-KA nu-mu-ni!?-be2
+P346086	3. kur me-luh-ha{ki} {na4}gug nig2 al di kal-la#?-[...]
+P346086	8. kur ma2-GAN2{ki} uruda nig2-kal-ga a2-kal# [...]
+P346086	17. dilmun{ki} ki-tusz-bi ki-tusz du10-ga# [...]
+P397518	7'. _ka# a-ab-ba {na4}gug_ me-luh-ha _tesz2-bi_ ina _kusz du3-du3_ ina _gu2_-szu2 _gar_-ma [x x]
+P283686	4. kaskal dilmun{ki}-sze3
+P467061	24. _{gesz}gigir-mesz ansze-kur-ra-mesz_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik-te-ru-ni i-na ta-mir-ti {iri}al-ta-qu-u2 it-ti-szu2-un am-da-hi-is,-ma asz2-ta-kan _bad5-bad5_-szu2-un _{lu2}en {gesz}gigir-mesz_
+P467061	25. u3 _dumu-mesz lugal_ {kur}mu-s,u-ra-a-a a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha bal-t,u-su-un i-na qa-ti as,-bat a-na {iri}am-qar-ru-na aq-rib-ma _gir3-nita2-mesz_ sza hi-it,-t,u
+P467164	19. x x {kur}eme-luh-ha
+P467155	26'. a-na an-zil-li e-pu-szu ip-lah3 lib3-ba-szu2-un _lugal-mesz_ {kur}mu-s,u-ri _{lu2}erin2-mesz {gesz}pan {gesz}gigir-mesz ansze-kur-ra-mesz_ sza2 _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik-te-ru-nim-ma il-li-ku re-s,u-su-un
+P467155	28'. _{lu2}en {gesz}gigir-mesz_ u3 _dumu-mesz lugal-mesz_ {kur}mu-s,u-ra-a-a a-di _{lu2}en {gesz}gigir-mesz_ sza2 _lugal_ {kur}me-luh-ha bal-t,u-us-su-un i-na _murub4_ tam-ha-ri ik-szu-da _szu-min_-a-a
+P467157	13'. sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik-te-ru-nim-ma il-li-ku re-s,u-su-un
+P467157	16'. _{lu2}en {gesz}gigir-mesz_ u3 _dumu-mesz lugal-mesz_ {kur}mu-s,u-ra-a-a a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha
+P467180	147'. sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik-te-ru-nim-ma
+P394559	7. [a-na an-zil-li e-pu-szu ip-lah3 lib3-ba-szu2-un _lugal-mesz_ {kur}mu-s,u-ri _{lu2}]erim#-mesz# {gesz}pan {gesz}gigir-mesz ansze-kur-ra#-mesz#_ sza2 _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik-te#-ru-nim-ma il-li-ku re-s,u-su-un
+P394559	9. _[{lu2}en {gesz}gigir-mesz_ u3 _dumu-mesz lugal-mesz_ {kur}mu-s,u-ra-a-a a-di _{lu2}en {gesz}]gigir-mesz_ sza2 _lugal_ {kur}me-luh-ha bal-t,u-us-su-un i-na _murub4_ tam-ha#-ri ik-szu-da _szu-min_-a-a
+P423227	13'. sza _lugal_ {kur}me-luh-ha e-mu-qi2# [la ni-bi ik-te-ru-nim-ma il-li-ku re-s,u-su-un]
+P423227	16'. _{lu2}en {gesz#}gigir-mesz_ u3 _dumu-mesz lugal-mesz_ {kur}mu-s,u#-[ra-a-a a-di _{lu2}en {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha]
+P466655	24. _{gesz#}gigir#-mesz# ansze#-kur#-ra#-mesz#_ sza _lugal_ {kur}me-luh-ha e-mu-qi2 la ni-bi ik-te-ru-ni i-na ta#-mir-ti {iri}al-ta-qu-u2 it-ti-szu2-un am-da-hi-is,-ma asz2-ta-kan _bad5-bad5_-szu2-un _{lu2}[en] {gesz}gigir-mesz_
+P466655	25. u3# _dumu#-mesz# lugal#_ {kur#}mu#-s,u#-ra-a-a a-di _{lu2#}en# {gesz}gigir-mesz_ sza _lugal_ {kur}me-luh-ha bal#-t,u#-su#-un# i#-na# qa#-ti# as,#-bat# a#-na# {iri#}am#-qar#-ru#-na# [aq-rib-ma] _szagina#-mesz#_ sza# hi#-it,#-t,u#
+P393874	9. [x? x?] {kur}eme-luh-ha
+P462884	8'. u2-sza2-as,-bi-ta pa-nu-u-a a-na {kur}ma2-gan-na? u3 {kur}me-luh-ha
+P462884	16'. ul-tu2 {kur}mu-s,ur _karasz_ ad-ke-e-ma a-na {kur}me-luh-ha usz-te-sze-ra har-ra-nu
+P394563	26. ina _{gesz}mes-ma2-gan-na {gesz}ka_ [...]
+P514712	49. a-na {kur}ma2-kan u {kur}me-luh-ha lu-u al-lik
+P393994	49. ina mah-[...] {kur#}ma2-kan u# {kur#}me-luh-ha lu-u al-lik
+P514713	38. i-na mah-re-e ger-ri-ia a-na {kur}ma2-kan u3 {kur}me-luh-ha
+P514529	2'. a#-na {kur}ma2-kan u {kur}me-luh-ha usz-te-esz-sze#-ra#
+P514715	112'. a-na {kur}ma2-kan u {kur}me-luh-ha lu-u al-lik
+P426349	47. a-na {kur}ma2-kan u {kur}me-luh-ha# [...]
+P514718	35. a-na {kur}ma2-kan-na u {kur}me-luh-ha usz-te-esz-sze-ra har-ra-nu
+P514720	52. ina mah-re-e ger-ri-ia a-na {kur}ma2-kan u {kur}me-luh-ha lu al-lik
+P421807	52. ina mah-re-e ger-ri-ia a-na {kur}ma2-kan u {kur}me-luh-ha lu al-lik
+P392229	9'. a-na {kur}ma2-kan-na u {kur}me-luh-ha# lu-u al-lik
+P392246	14'. a-na {kur}ma2-kan u {kur}me-luh-ha usz-te-esz-sze-ra har-ra-nu
+P392269	16'. a-na {kur}ma2-kan-na u {kur}me-luh-ha usz-te-esz-ra har#-[x x]
+P422277	41. a-na {kur}ma2-kan# u {kur}me-luh-ha usz-te-esz-sze-ra
+P422635	26'. a-na {kur}ma2-kan-na u {kur}me-luh-ha
+P422979	35'. [x]-na# {kur}ma2-kan u {kur}me-luh-ha
+P392300	30'. a-na {kur}ma2-kan-na u3 me-luh-ha
+P422296	18'. [...] {kur}me-luh-ha usz-te-sze-ra har-ra-nu
+P423051	35. a-na {kur}ma2-kan-na u {kur}me-luh-ha usz-te-esz-sze-ra har-ra-nu
+P392242	38'. a-na {kur}ma2-kan-na u3 {kur}me-luh-ha
+P519549	3. dumu lu2-ma2-gan{ki}
+P316210	3. 1(barig) 3(ban2) lu2-ma2-gan{ki}
+P319468	2. 1(barig) 3(ban2) lu2-ma2-gan{ki}
+P205948	4. 1(disz) udu lu2-ma2-gan{ki}
+P406345	4. lu2-ma2-gan{ki}
+P316965	3. lu2-ma2-gan{ki}
+P317526	3. sze-bi 1(asz) 2(ban2) lu2-ma2-gan
+P317145	4. lu2-ma2-gan{ki}
+P316129	2. lu2-ma2-gan{ki}
+P202065	3. 2(barig) 5(ban2) lu2-ma2-gan{ki}
+P317495	1. lu2-ma2-gan{ki}
+P317131	4. lu2-ma2-gan{ki}
+P115758	8. [...] {gesz}gu-za ma2-gan#?
+P388831	6. ma2-GIN2 ma2-gan{ki}-me
+P205852	4. lu2-ma2-gan
+P205822	3. lu2-ma2-gan dumu#? lu2#-dingir-ra#
+P206053	2. i3-dub sza3 me-luh-ha
+P496909	7. _[n] sila3_ {d}ma2-gan#
+P471917	1. _[n] {gesz#}gu-za ansze_ la-gu _ma2-gan2{an}-na_
+P407459	2. kiszib3 lu2-bala-sa6-ga dumu lu2-ma2-gan-na
+P407150	13. 5(disz) gu4 niga lu2-ma2-gan-na ab2 2(disz)-ta
+P407150	19. 1(u) masz2 lu2-ma2-gan-na
